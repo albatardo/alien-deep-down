@@ -22,6 +22,17 @@ Termes de jeu alignés sur la traduction française du système `alienrpg` (fich
 | Strength, Agility, Wits, Empathy | FORCE, AGILITÉ, ESPRIT, EMPATHIE |
 | Heavy Machinery, Stamina, Close Combat, Mobility, Ranged Combat, Piloting | MACHINES LOURDES, ENDURANCE, COMBAT RAPPROCHÉ, MOBILITÉ, COMBAT À DISTANCE, PILOTAGE |
 | Command, Manipulation, Medical Aid, Observation, Survival, Comtech | COMMANDEMENT, MANIPULATION, SOINS MÉDICAUX, OBSERVATION, SURVIE, COMTECH |
+| Health / Signature Item / Backstory | Santé / objet fétiche / historique |
+
+Talents (absents de `lang/fr.json`, traductions provisoires à aligner sur l'édition française si besoin) :
+
+| Anglais | Français |
+|---|---|
+| Analysis | Analyse |
+| Pull Rank | Faire jouer son grade |
+| The Long Haul | Longue haleine |
+| Field Surgeon | Chirurgien de terrain |
+| Cunning | Ruse |
 
 ## Univers et scénario
 
@@ -54,6 +65,7 @@ Les distances impériales sont converties : 4 miles → 6 kilomètres.
 
 - « Dubois » → Dubov ; « Marill » → Marin Kirill (guide du MJ).
 - « Volkov » et « Volkoff » coexistent dans l'original : conservés tels quels en attendant de choisir.
+- La station s'appelle « Novotny » presque partout, mais « Matvey » dans les historiques de Kim Pham et Diego Alvarez (et la scène « Base Matvey ») : conservé tel quel en attendant de choisir.
 
 ## Noms à ne pas traduire
 

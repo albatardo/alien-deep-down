@@ -1,14 +1,14 @@
-2026/09/18-20:50:27.419 75ec Recovering log #95
-2026/09/18-20:50:27.432 75ec Delete type=0 #95
-2026/09/18-20:50:27.432 75ec Delete type=3 #94
-2026/09/18-20:50:27.453 79e4 Level-0 table #99: started
-2026/09/18-20:50:27.464 79e4 Level-0 table #99: 136636 bytes OK
-2026/09/18-20:50:27.467 79e4 Delete type=0 #97
-2026/09/18-20:50:27.467 79e4 Manual compaction at level-0 from '!folders!3WEbekbKztXvhiAj' @ 72057594037927935 : 1 .. '!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm' @ 0 : 0; will stop at '!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm' @ 1199 : 1
-2026/09/18-20:50:27.467 79e4 Compacting 1@0 + 1@1 files
-2026/09/18-20:50:27.477 79e4 Generated table #100@0: 144 keys, 136636 bytes
-2026/09/18-20:50:27.477 79e4 Compacted 1@0 + 1@1 files => 136636 bytes
-2026/09/18-20:50:27.481 79e4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/18-20:50:27.481 79e4 Delete type=2 #93
-2026/09/18-20:50:27.481 79e4 Delete type=2 #99
-2026/09/18-20:50:27.482 79e4 Manual compaction at level-0 from '!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm' @ 1199 : 1 .. '!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm' @ 0 : 0; will stop at (end)
+2026/09/18-21:15:29.774 72b8 Recovering log #102
+2026/09/18-21:15:29.788 72b8 Delete type=0 #102
+2026/09/18-21:15:29.788 72b8 Delete type=3 #101
+2026/09/18-21:15:29.809 86d4 Level-0 table #106: started
+2026/09/18-21:15:29.820 86d4 Level-0 table #106: 137129 bytes OK
+2026/09/18-21:15:29.826 86d4 Delete type=0 #104
+2026/09/18-21:15:29.826 86d4 Manual compaction at level-0 from '!folders!3WEbekbKztXvhiAj' @ 72057594037927935 : 1 .. '!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm' @ 0 : 0; will stop at '!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm' @ 1343 : 1
+2026/09/18-21:15:29.826 86d4 Compacting 1@0 + 1@1 files
+2026/09/18-21:15:29.834 86d4 Generated table #107@0: 144 keys, 137129 bytes
+2026/09/18-21:15:29.834 86d4 Compacted 1@0 + 1@1 files => 137129 bytes
+2026/09/18-21:15:29.836 86d4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/18-21:15:29.836 86d4 Delete type=2 #100
+2026/09/18-21:15:29.837 86d4 Delete type=2 #106
+2026/09/18-21:15:29.837 86d4 Manual compaction at level-0 from '!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm' @ 1343 : 1 .. '!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm' @ 0 : 0; will stop at (end)

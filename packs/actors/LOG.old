@@ -1,14 +1,14 @@
-2026/09/18-20:50:27.003 234c Recovering log #91
-2026/09/18-20:50:27.019 234c Delete type=0 #91
-2026/09/18-20:50:27.019 234c Delete type=3 #90
-2026/09/18-20:50:27.064 79e4 Level-0 table #95: started
-2026/09/18-20:50:27.074 79e4 Level-0 table #95: 138372 bytes OK
-2026/09/18-20:50:27.080 79e4 Delete type=0 #93
-2026/09/18-20:50:27.081 79e4 Manual compaction at level-0 from '!actors!0M4AT26z6RGff6Hh' @ 72057594037927935 : 1 .. '!folders!lKHkORIYD4qJPBFc' @ 0 : 0; will stop at '!folders!lKHkORIYD4qJPBFc' @ 338 : 1
-2026/09/18-20:50:27.081 79e4 Compacting 1@0 + 1@1 files
-2026/09/18-20:50:27.092 79e4 Generated table #96@0: 87 keys, 138372 bytes
-2026/09/18-20:50:27.092 79e4 Compacted 1@0 + 1@1 files => 138372 bytes
-2026/09/18-20:50:27.097 79e4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/18-20:50:27.098 79e4 Delete type=2 #89
-2026/09/18-20:50:27.098 79e4 Delete type=2 #95
-2026/09/18-20:50:27.098 79e4 Manual compaction at level-0 from '!folders!lKHkORIYD4qJPBFc' @ 338 : 1 .. '!folders!lKHkORIYD4qJPBFc' @ 0 : 0; will stop at (end)
+2026/09/18-21:15:29.353 5cb8 Recovering log #98
+2026/09/18-21:15:29.370 5cb8 Delete type=0 #98
+2026/09/18-21:15:29.371 5cb8 Delete type=3 #97
+2026/09/18-21:15:29.405 86d4 Level-0 table #102: started
+2026/09/18-21:15:29.429 86d4 Level-0 table #102: 138376 bytes OK
+2026/09/18-21:15:29.435 86d4 Delete type=0 #100
+2026/09/18-21:15:29.435 86d4 Manual compaction at level-0 from '!actors!0M4AT26z6RGff6Hh' @ 72057594037927935 : 1 .. '!folders!lKHkORIYD4qJPBFc' @ 0 : 0; will stop at '!folders!lKHkORIYD4qJPBFc' @ 425 : 1
+2026/09/18-21:15:29.435 86d4 Compacting 1@0 + 1@1 files
+2026/09/18-21:15:29.442 86d4 Generated table #103@0: 87 keys, 138376 bytes
+2026/09/18-21:15:29.442 86d4 Compacted 1@0 + 1@1 files => 138376 bytes
+2026/09/18-21:15:29.446 86d4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/18-21:15:29.448 86d4 Delete type=2 #96
+2026/09/18-21:15:29.448 86d4 Delete type=2 #102
+2026/09/18-21:15:29.448 86d4 Manual compaction at level-0 from '!folders!lKHkORIYD4qJPBFc' @ 425 : 1 .. '!folders!lKHkORIYD4qJPBFc' @ 0 : 0; will stop at (end)

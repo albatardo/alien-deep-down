@@ -1,14 +1,14 @@
-2026/09/18-20:50:27.140 2c20 Recovering log #91
-2026/09/18-20:50:27.150 2c20 Delete type=0 #91
-2026/09/18-20:50:27.151 2c20 Delete type=3 #90
-2026/09/18-20:50:27.209 79e4 Level-0 table #95: started
-2026/09/18-20:50:27.224 79e4 Level-0 table #95: 317719 bytes OK
-2026/09/18-20:50:27.226 79e4 Delete type=0 #93
-2026/09/18-20:50:27.226 79e4 Manual compaction at level-0 from '!adventures!WEQQymQXVT3niwFZ' @ 72057594037927935 : 1 .. '!adventures!WEQQymQXVT3niwFZ' @ 0 : 0; will stop at '!adventures!WEQQymQXVT3niwFZ' @ 11 : 1
-2026/09/18-20:50:27.226 79e4 Compacting 1@0 + 1@1 files
-2026/09/18-20:50:27.242 79e4 Generated table #96@0: 1 keys, 317719 bytes
-2026/09/18-20:50:27.242 79e4 Compacted 1@0 + 1@1 files => 317719 bytes
-2026/09/18-20:50:27.246 79e4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/18-20:50:27.246 79e4 Delete type=2 #89
-2026/09/18-20:50:27.246 79e4 Delete type=2 #95
-2026/09/18-20:50:27.247 79e4 Manual compaction at level-0 from '!adventures!WEQQymQXVT3niwFZ' @ 11 : 1 .. '!adventures!WEQQymQXVT3niwFZ' @ 0 : 0; will stop at (end)
+2026/09/18-21:15:29.491 2104 Recovering log #98
+2026/09/18-21:15:29.510 2104 Delete type=0 #98
+2026/09/18-21:15:29.511 2104 Delete type=3 #97
+2026/09/18-21:15:29.582 86d4 Level-0 table #102: started
+2026/09/18-21:15:29.597 86d4 Level-0 table #102: 318346 bytes OK
+2026/09/18-21:15:29.600 86d4 Delete type=0 #100
+2026/09/18-21:15:29.600 86d4 Manual compaction at level-0 from '!adventures!WEQQymQXVT3niwFZ' @ 72057594037927935 : 1 .. '!adventures!WEQQymQXVT3niwFZ' @ 0 : 0; will stop at '!adventures!WEQQymQXVT3niwFZ' @ 12 : 1
+2026/09/18-21:15:29.600 86d4 Compacting 1@0 + 1@1 files
+2026/09/18-21:15:29.617 86d4 Generated table #103@0: 1 keys, 318346 bytes
+2026/09/18-21:15:29.617 86d4 Compacted 1@0 + 1@1 files => 318346 bytes
+2026/09/18-21:15:29.621 86d4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/18-21:15:29.621 86d4 Delete type=2 #96
+2026/09/18-21:15:29.621 86d4 Delete type=2 #102
+2026/09/18-21:15:29.621 86d4 Manual compaction at level-0 from '!adventures!WEQQymQXVT3niwFZ' @ 12 : 1 .. '!adventures!WEQQymQXVT3niwFZ' @ 0 : 0; will stop at (end)
