@@ -1,14 +1,14 @@
-2026/09/18-23:32:26.131 41b8 Recovering log #134
-2026/09/18-23:32:26.150 41b8 Delete type=0 #134
-2026/09/18-23:32:26.150 41b8 Delete type=3 #133
-2026/09/18-23:32:26.161 5040 Level-0 table #138: started
-2026/09/18-23:32:26.168 5040 Level-0 table #138: 15492 bytes OK
-2026/09/18-23:32:26.170 5040 Delete type=0 #136
-2026/09/18-23:32:26.170 5040 Manual compaction at level-0 from '!folders!A0N3Ct1TQq9BuGk6' @ 72057594037927935 : 1 .. '!tables.results!wXgfh3p23uW05pb6.ulwSTrcOU4OS1KlN' @ 0 : 0; will stop at '!tables.results!wXgfh3p23uW05pb6.ulwSTrcOU4OS1KlN' @ 623 : 1
-2026/09/18-23:32:26.170 5040 Compacting 1@0 + 1@1 files
-2026/09/18-23:32:26.174 5040 Generated table #139@0: 61 keys, 15492 bytes
-2026/09/18-23:32:26.174 5040 Compacted 1@0 + 1@1 files => 15492 bytes
-2026/09/18-23:32:26.177 5040 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/18-23:32:26.177 5040 Delete type=2 #132
-2026/09/18-23:32:26.177 5040 Delete type=2 #138
-2026/09/18-23:32:26.177 5040 Manual compaction at level-0 from '!tables.results!wXgfh3p23uW05pb6.ulwSTrcOU4OS1KlN' @ 623 : 1 .. '!tables.results!wXgfh3p23uW05pb6.ulwSTrcOU4OS1KlN' @ 0 : 0; will stop at (end)
+2026/09/18-23:44:38.439 7814 Recovering log #148
+2026/09/18-23:44:38.452 7814 Delete type=0 #148
+2026/09/18-23:44:38.452 7814 Delete type=3 #147
+2026/09/18-23:44:38.464 78a4 Level-0 table #152: started
+2026/09/18-23:44:38.471 78a4 Level-0 table #152: 15510 bytes OK
+2026/09/18-23:44:38.476 78a4 Delete type=0 #150
+2026/09/18-23:44:38.476 78a4 Manual compaction at level-0 from '!folders!A0N3Ct1TQq9BuGk6' @ 72057594037927935 : 1 .. '!tables.results!wXgfh3p23uW05pb6.ulwSTrcOU4OS1KlN' @ 0 : 0; will stop at '!tables.results!wXgfh3p23uW05pb6.ulwSTrcOU4OS1KlN' @ 745 : 1
+2026/09/18-23:44:38.476 78a4 Compacting 1@0 + 1@1 files
+2026/09/18-23:44:38.480 78a4 Generated table #153@0: 61 keys, 15510 bytes
+2026/09/18-23:44:38.480 78a4 Compacted 1@0 + 1@1 files => 15510 bytes
+2026/09/18-23:44:38.486 78a4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/18-23:44:38.486 78a4 Delete type=2 #146
+2026/09/18-23:44:38.486 78a4 Delete type=2 #152
+2026/09/18-23:44:38.486 78a4 Manual compaction at level-0 from '!tables.results!wXgfh3p23uW05pb6.ulwSTrcOU4OS1KlN' @ 745 : 1 .. '!tables.results!wXgfh3p23uW05pb6.ulwSTrcOU4OS1KlN' @ 0 : 0; will stop at (end)

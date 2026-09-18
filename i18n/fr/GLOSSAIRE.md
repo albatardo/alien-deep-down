@@ -24,7 +24,7 @@ Termes de jeu alignés sur la traduction française du système `alienrpg` (fich
 | Command, Manipulation, Medical Aid, Observation, Survival, Comtech | COMMANDEMENT, MANIPULATION, SOINS MÉDICAUX, OBSERVATION, SURVIE, COMTECH |
 | Health / Signature Item / Backstory | Santé / objet fétiche / historique |
 
-Talents (absents de `lang/fr.json`, traductions provisoires à aligner sur l'édition française si besoin) :
+Talents (absents de `lang/fr.json`, traductions validées) :
 
 | Anglais | Français |
 |---|---|
@@ -34,6 +34,8 @@ Talents (absents de `lang/fr.json`, traductions provisoires à aligner sur l'éd
 | Field Surgeon | Chirurgien de terrain |
 | Cunning | Ruse |
 | Calm Breather | Souffle maîtrisé |
+| Counselor | Conseiller |
+| Pack Mule | Bête de somme |
 | Influence, Compassion | inchangés |
 | Buddy / Rival | copain / rival |
 
@@ -70,8 +72,8 @@ Les distances impériales sont converties : 4 miles → 6 kilomètres.
 - « Karill » → Kirill (Anya, Frenkel) ; « Frenkell » → Frenkel (foreuse) ; « Xiang » → Qiang (objectif de Liu).
 - Personnages - MJ : le brouillon portugais en tête de la fiche de Li Qiang (doublon de la version anglaise) est supprimé.
 - Lieux : le balisage parasite copié depuis ChatGPT (page « Surveillance de l'ascenseur ») est supprimé.
-- « Volkov » et « Volkoff » coexistent dans l'original : conservés tels quels en attendant de choisir.
-- La station s'appelle « Novotny » presque partout, mais « Matvey » dans les historiques de Kim Pham et Diego Alvarez (et la scène « Base Matvey ») : conservé tel quel en attendant de choisir.
+- « Volkov » et « Volkoff » coexistent dans l'original : harmonisé en « Volkoff » partout.
+- La station s'appelle « Novotny » presque partout, mais « Matvey » dans quelques fiches (Kim Pham, Diego Alvarez, Li Qiang, Baïkal), le dessin « Surface-Matvey » et le dossier de scènes « Base Matvey » : harmonisé en « Novotny » (dossier traduit via `i18n/fr/folders.json`). L'identifiant technique `teleportId: "Surface-Matvey"` (multilevel-tokens) est conservé.
 
 ## Noms à ne pas traduire
 

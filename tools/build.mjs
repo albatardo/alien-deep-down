@@ -21,6 +21,11 @@ for (const item of readDir(path.join(root, "src", "items"))) {
   if (patch) collectPairs(item, patch, itemDict);
 }
 
+// Folder names by _id (the alienrpg system looks some folders up by name: never list those here).
+const folderFile = path.join(root, "i18n", "fr", "folders.json");
+const folderFr = fs.existsSync(folderFile) ? readJson(folderFile) : {};
+const translateFolder = (f) => { if (folderFr[f._id]) f.name = folderFr[f._id]; };
+
 const counts = Object.fromEntries(Object.keys(FIELDS).map((p) => [p, new Set()]));
 function translateDoc(pack, doc) {
   if (pack === "actors") {
@@ -67,8 +72,10 @@ for (const { name } of packs) {
   for (const f of fs.readdirSync(path.join(root, "src", name))) {
     const doc = readJson(path.join(root, "src", name, f));
     if (name === "journals" && doc.pages) total += translateJournal(doc);
-    if (FIELDS[name] && !doc._key?.startsWith("!folders")) translateDoc(name, doc);
+    if (doc._key?.startsWith("!folders")) translateFolder(doc);
+    else if (FIELDS[name]) translateDoc(name, doc);
     if (name === "adventure") {
+      for (const f of doc.folders ?? []) translateFolder(f);
       for (const j of doc.journal ?? []) translateJournal(j);
       for (const [pack, key] of Object.entries(ADVENTURE_KEY)) for (const d of doc[key] ?? []) translateDoc(pack, d);
     }
