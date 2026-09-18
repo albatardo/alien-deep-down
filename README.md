@@ -1,3 +1,53 @@
+# Deep Down — version française
+
+Traduction française du module **Deep Down** pour le système **Alien RPG** de Foundry VTT.
+
+- Aventure : Erich « Jack Sands » ([jacksands/alien-deep-down](https://github.com/jacksands/alien-deep-down)), d'après le scénario cinématique *Dead Sea* d'Alex Aguila.
+- Traduction française : Quentin Eluard.
+
+La présentation d'origine (en anglais) suit cette section.
+
+## Installation
+
+Dans Foundry, **Modules additionnels → Installer un module**, puis collez ce manifeste :
+
+```text
+https://raw.githubusercontent.com/albatardo/alien-deep-down/refs/heads/main/module.json
+```
+
+Le module garde l'identifiant `alien-deep-down` : il **remplace** la version anglaise si elle est installée. Le reste (monde Alien RPG, modules requis, import de l'aventure) est identique à la version d'origine, décrit plus bas.
+
+## Ce qui est traduit
+
+Tout le contenu des compendiums, dans le compendium lui-même et dans l'aventure importable : journaux, acteurs et objets intégrés à leurs fiches, objets, tables aléatoires, scènes (noms, textes sur les cartes, pions), playlists, présentation de l'aventure.
+
+Restent volontairement en anglais :
+
+- les noms que le système ou le module cherchent par leur nom exact : les journaux « Deep Down Welcome » et « Alien Map Markers », la macro « Ligth source (token) », les tables d'attaque et de blessures critiques des créatures, la « Panic Table » (ses résultats reprennent les textes officiels français du système) ;
+- le journal « Copyright », les noms des macros et les titres des musiques ;
+- l'interface de Foundry et du système, qui dépend de la langue choisie dans Foundry.
+
+Les choix de vocabulaire et les coquilles corrigées de l'original sont recensés dans [i18n/fr/GLOSSAIRE.md](i18n/fr/GLOSSAIRE.md).
+
+## Contribuer à la traduction
+
+Les compendiums (`packs/`, au format LevelDB) sont générés : on ne les modifie jamais à la main. Les sources anglaises sont dans `src/` (JSON) et les traductions dans `i18n/fr/`.
+
+Prérequis : Node.js 20.11 ou plus, puis `npm install`.
+
+| Commande | Rôle |
+|---|---|
+| `npm run unpack` | Extrait `packs/` vers `src/` (à relancer après une mise à jour du module d'origine). |
+| `npm run export:journal -- "<nom du journal>" <dossier>` | Crée `i18n/fr/journal/<dossier>/` : un fichier HTML par page et un `meta.json` (noms). |
+| `npm run export:docs -- <pack>` | Crée un JSON par document dans `i18n/fr/<pack>/` (`actors`, `items`, `rolltables`, `maps`, `playlists` ou `adventure`), avec seulement les champs à traduire. |
+| `npm run build` | Applique `i18n/fr/` aux sources et recompile `packs/`. |
+
+Les exports n'écrasent jamais un fichier existant : on traduit directement dans le squelette généré, en remplaçant le texte anglais par le français. Les traductions sont appliquées par `_id`, au compendium comme à l'aventure. Les objets intégrés aux fiches d'acteurs reprennent automatiquement la traduction de l'objet du compendium qui a le même texte anglais. Les noms de dossiers se traduisent dans `i18n/fr/folders.json`.
+
+**Avant `npm run build`, fermez le monde dans Foundry** (ou désactivez le module) : Foundry verrouille les compendiums ouverts.
+
+---
+
 # **Welcome to Deep Down**
 
  ![DEEP_DOWN_ART](https://github.com/user-attachments/assets/fcc97561-8c70-496f-9594-c7f8048317ec)
