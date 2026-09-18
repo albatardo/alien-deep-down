@@ -33,6 +33,9 @@ Talents (absents de `lang/fr.json`, traductions provisoires à aligner sur l'éd
 | The Long Haul | Longue haleine |
 | Field Surgeon | Chirurgien de terrain |
 | Cunning | Ruse |
+| Calm Breather | Souffle maîtrisé |
+| Influence, Compassion | inchangés |
+| Buddy / Rival | copain / rival |
 
 ## Univers et scénario
 
@@ -64,6 +67,9 @@ Les distances impériales sont converties : 4 miles → 6 kilomètres.
 ## Coquilles corrigées de l'original
 
 - « Dubois » → Dubov ; « Marill » → Marin Kirill (guide du MJ).
+- « Karill » → Kirill (Anya, Frenkel) ; « Frenkell » → Frenkel (foreuse) ; « Xiang » → Qiang (objectif de Liu).
+- Personnages - MJ : le brouillon portugais en tête de la fiche de Li Qiang (doublon de la version anglaise) est supprimé.
+- Lieux : le balisage parasite copié depuis ChatGPT (page « Surveillance de l'ascenseur ») est supprimé.
 - « Volkov » et « Volkoff » coexistent dans l'original : conservés tels quels en attendant de choisir.
 - La station s'appelle « Novotny » presque partout, mais « Matvey » dans les historiques de Kim Pham et Diego Alvarez (et la scène « Base Matvey ») : conservé tel quel en attendant de choisir.
 

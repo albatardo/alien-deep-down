@@ -1,14 +1,14 @@
-2026/09/18-21:15:29.934 2104 Recovering log #100
-2026/09/18-21:15:29.945 2104 Delete type=0 #100
-2026/09/18-21:15:29.946 2104 Delete type=3 #99
-2026/09/18-21:15:30.018 86d4 Level-0 table #104: started
-2026/09/18-21:15:30.027 86d4 Level-0 table #104: 213044 bytes OK
-2026/09/18-21:15:30.036 86d4 Delete type=0 #102
-2026/09/18-21:15:30.036 86d4 Manual compaction at level-0 from '!folders!5ZMaePKArciCgBFY' @ 72057594037927935 : 1 .. '!scenes.walls!xCmd26QQQ8KnSWhv.tRjBNTwPd6yrVzMZ' @ 0 : 0; will stop at '!scenes.walls!xCmd26QQQ8KnSWhv.tRjBNTwPd6yrVzMZ' @ 5884 : 1
-2026/09/18-21:15:30.036 86d4 Compacting 1@0 + 1@1 files
-2026/09/18-21:15:30.045 86d4 Generated table #105@0: 943 keys, 213044 bytes
-2026/09/18-21:15:30.045 86d4 Compacted 1@0 + 1@1 files => 213044 bytes
-2026/09/18-21:15:30.049 86d4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/18-21:15:30.049 86d4 Delete type=2 #98
-2026/09/18-21:15:30.050 86d4 Delete type=2 #104
-2026/09/18-21:15:30.050 86d4 Manual compaction at level-0 from '!scenes.walls!xCmd26QQQ8KnSWhv.tRjBNTwPd6yrVzMZ' @ 5884 : 1 .. '!scenes.walls!xCmd26QQQ8KnSWhv.tRjBNTwPd6yrVzMZ' @ 0 : 0; will stop at (end)
+2026/09/18-22:06:28.682 8a5c Recovering log #107
+2026/09/18-22:06:28.693 8a5c Delete type=0 #107
+2026/09/18-22:06:28.693 8a5c Delete type=3 #106
+2026/09/18-22:06:28.786 691c Level-0 table #111: started
+2026/09/18-22:06:28.801 691c Level-0 table #111: 213072 bytes OK
+2026/09/18-22:06:28.803 691c Delete type=0 #109
+2026/09/18-22:06:28.803 691c Manual compaction at level-0 from '!folders!5ZMaePKArciCgBFY' @ 72057594037927935 : 1 .. '!scenes.walls!xCmd26QQQ8KnSWhv.tRjBNTwPd6yrVzMZ' @ 0 : 0; will stop at '!scenes.walls!xCmd26QQQ8KnSWhv.tRjBNTwPd6yrVzMZ' @ 6827 : 1
+2026/09/18-22:06:28.803 691c Compacting 1@0 + 1@1 files
+2026/09/18-22:06:28.815 691c Generated table #112@0: 943 keys, 213072 bytes
+2026/09/18-22:06:28.816 691c Compacted 1@0 + 1@1 files => 213072 bytes
+2026/09/18-22:06:28.819 691c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/18-22:06:28.819 691c Delete type=2 #105
+2026/09/18-22:06:28.819 691c Delete type=2 #111
+2026/09/18-22:06:28.819 691c Manual compaction at level-0 from '!scenes.walls!xCmd26QQQ8KnSWhv.tRjBNTwPd6yrVzMZ' @ 6827 : 1 .. '!scenes.walls!xCmd26QQQ8KnSWhv.tRjBNTwPd6yrVzMZ' @ 0 : 0; will stop at (end)

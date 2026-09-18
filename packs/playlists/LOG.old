@@ -1,14 +1,14 @@
-2026/09/18-21:15:30.069 5cb8 Recovering log #98
-2026/09/18-21:15:30.085 5cb8 Delete type=0 #98
-2026/09/18-21:15:30.086 5cb8 Delete type=3 #97
-2026/09/18-21:15:30.097 86d4 Level-0 table #102: started
-2026/09/18-21:15:30.102 86d4 Level-0 table #102: 6006 bytes OK
-2026/09/18-21:15:30.107 86d4 Delete type=0 #100
-2026/09/18-21:15:30.107 86d4 Manual compaction at level-0 from '!folders!QiMBa2WlJRIaBuj1' @ 72057594037927935 : 1 .. '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 0 : 0; will stop at '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 188 : 1
-2026/09/18-21:15:30.107 86d4 Compacting 1@0 + 1@1 files
-2026/09/18-21:15:30.112 86d4 Generated table #103@0: 37 keys, 6006 bytes
-2026/09/18-21:15:30.112 86d4 Compacted 1@0 + 1@1 files => 6006 bytes
-2026/09/18-21:15:30.117 86d4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/18-21:15:30.117 86d4 Delete type=2 #96
-2026/09/18-21:15:30.117 86d4 Delete type=2 #102
-2026/09/18-21:15:30.118 86d4 Manual compaction at level-0 from '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 188 : 1 .. '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 0 : 0; will stop at (end)
+2026/09/18-22:06:28.841 7c58 Recovering log #105
+2026/09/18-22:06:28.856 7c58 Delete type=0 #105
+2026/09/18-22:06:28.857 7c58 Delete type=3 #104
+2026/09/18-22:06:28.868 691c Level-0 table #109: started
+2026/09/18-22:06:28.873 691c Level-0 table #109: 6004 bytes OK
+2026/09/18-22:06:28.876 691c Delete type=0 #107
+2026/09/18-22:06:28.877 691c Manual compaction at level-0 from '!folders!QiMBa2WlJRIaBuj1' @ 72057594037927935 : 1 .. '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 0 : 0; will stop at '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 225 : 1
+2026/09/18-22:06:28.877 691c Compacting 1@0 + 1@1 files
+2026/09/18-22:06:28.882 691c Generated table #110@0: 37 keys, 6004 bytes
+2026/09/18-22:06:28.882 691c Compacted 1@0 + 1@1 files => 6004 bytes
+2026/09/18-22:06:28.886 691c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/18-22:06:28.886 691c Delete type=2 #103
+2026/09/18-22:06:28.886 691c Delete type=2 #109
+2026/09/18-22:06:28.886 691c Manual compaction at level-0 from '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 225 : 1 .. '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 0 : 0; will stop at (end)
