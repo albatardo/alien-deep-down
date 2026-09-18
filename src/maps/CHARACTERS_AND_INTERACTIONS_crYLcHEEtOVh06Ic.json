@@ -1,0 +1,5647 @@
+{
+  "name": "CHARACTERS AND INTERACTIONS",
+  "active": false,
+  "navigation": true,
+  "navOrder": 500000,
+  "navName": "",
+  "thumb": "modules/alien-deep-down/assets/scenes/crYLcHEEtOVh06Ic-thumb.webp",
+  "width": 5280,
+  "height": 2968,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "grid": {
+    "size": 100,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 1.5,
+    "units": "m",
+    "style": "solidLines",
+    "thickness": 1
+  },
+  "tokenVision": false,
+  "drawings": [
+    {
+      "_id": "EBHP5OH15Hf8emM5",
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 238,
+        "height": 56,
+        "radius": null,
+        "points": []
+      },
+      "x": 3573,
+      "y": 1051,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "Cpt. Olga Kramarenko investigator",
+      "fontFamily": "Signika",
+      "fontSize": 40,
+      "textColor": "#fbff00",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.EBHP5OH15Hf8emM5"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 361,
+        "height": 132,
+        "radius": null,
+        "points": []
+      },
+      "x": 3472.416036454959,
+      "y": 2605.8523586652327,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "CIXIN LIU STATION ENGINEER  (UNOFFICIAL TEAM LEADER)",
+      "fontFamily": "Signika",
+      "fontSize": 40,
+      "textColor": "#fbff00",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "MFk4oyZzf6D0mfLt",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.MFk4oyZzf6D0mfLt"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 238,
+        "height": 56,
+        "radius": null,
+        "points": []
+      },
+      "x": 2757,
+      "y": 1812,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "IVAN DUBOV MACHINE OPERATOR",
+      "fontFamily": "Signika",
+      "fontSize": 40,
+      "textColor": "#fbff00",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "j2wHVtBe9RTtuSBV",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.j2wHVtBe9RTtuSBV"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 350,
+        "height": 126,
+        "radius": null,
+        "points": []
+      },
+      "x": 4502,
+      "y": 1798,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "KIM PHAM - DIVING EXPERT / MEDICAL",
+      "fontFamily": "Signika",
+      "fontSize": 40,
+      "textColor": "#fbff00",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "jvcihbNa5FffIMy6",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.jvcihbNa5FffIMy6"
+    },
+    {
+      "_id": "ZpO8iP42RPofWU0e",
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 1096,
+        "height": 85,
+        "radius": null,
+        "points": [
+          0,
+          33.02373581011352,
+          1092.2723626234178,
+          39.57494511051232,
+          1040.2476780185757,
+          84.62332301341598,
+          1095.9752321981427,
+          33.02373581011352,
+          1038.1836945304435,
+          0,
+          1036.1197110423122,
+          0
+        ]
+      },
+      "x": 3143,
+      "y": 1803,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#1eff00",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.ZpO8iP42RPofWU0e"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 1096,
+        "height": 85,
+        "radius": null,
+        "points": [
+          0,
+          33.02373581011352,
+          1092.2723626234178,
+          39.57494511051232,
+          1040.2476780185757,
+          84.62332301341598,
+          1095.9752321981427,
+          33.02373581011352,
+          1038.1836945304435,
+          0,
+          1036.1197110423122,
+          0
+        ]
+      },
+      "x": 3114.3446852425177,
+      "y": 1750.2579979360169,
+      "rotation": 180,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#1eff00",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "_id": "jLnW89pU8FteUQkF",
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.jLnW89pU8FteUQkF"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 988,
+        "height": 56,
+        "radius": null,
+        "points": [
+          0,
+          22.004378631279515,
+          984.3230333782152,
+          26.36958100473683,
+          937.4399508128106,
+          56.38622024265381,
+          987.659948177783,
+          22.004378631279515,
+          935.5799509104041,
+          0,
+          933.7199510079986,
+          0
+        ]
+      },
+      "x": 2961.980117448244,
+      "y": 1800.1568713297424,
+      "rotation": 105,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#ff0000",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "_id": "rarYiUGlYiywaERm",
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.rarYiUGlYiywaERm"
+    },
+    {
+      "_id": "v2W8bELwULGg7fDl",
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 482,
+        "height": 561,
+        "radius": null,
+        "points": [
+          0,
+          0,
+          480.6810155382964,
+          552.0865287160873,
+          480.6810155382964,
+          485.90580918545174,
+          482.42261342068105,
+          560.7945181280124,
+          419.72508965481666,
+          543.3785393041612
+        ]
+      },
+      "x": 3109,
+      "y": 1882,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#ff0000",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.v2W8bELwULGg7fDl"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 482,
+        "height": 561,
+        "radius": null,
+        "points": [
+          0,
+          0,
+          480.6810155382964,
+          552.0865287160873,
+          480.6810155382964,
+          485.90580918545174,
+          482.42261342068105,
+          560.7945181280124,
+          419.72508965481666,
+          543.3785393041612
+        ]
+      },
+      "x": 3083.9721254355404,
+      "y": 1887.4564459930316,
+      "rotation": 180,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#ff0000",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "_id": "mbTTNGGp7PFBuapq",
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.mbTTNGGp7PFBuapq"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 350,
+        "height": 61,
+        "radius": null,
+        "points": []
+      },
+      "x": 4308,
+      "y": 1417,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "DIEGO ALVAREZ - AGENT OF THE STATE COMPANY UPP",
+      "fontFamily": "Signika",
+      "fontSize": 40,
+      "textColor": "#fbff00",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "gsnaIZaUoeSwzv44",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.gsnaIZaUoeSwzv44"
+    },
+    {
+      "_id": "T3GVM1I2uqK1poUz",
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 360,
+        "height": 958,
+        "radius": null,
+        "points": [
+          359.82339955849875,
+          0,
+          0,
+          949.2273730684326,
+          0,
+          885.2097130242826,
+          0,
+          958.0573951434878,
+          46.357615894039554,
+          935.9823399558497
+        ]
+      },
+      "x": 3694,
+      "y": 1485,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#00ff1e",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.T3GVM1I2uqK1poUz"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 360,
+        "height": 958,
+        "radius": null,
+        "points": [
+          359.82339955849875,
+          0,
+          0,
+          949.2273730684326,
+          0,
+          885.2097130242826,
+          0,
+          958.0573951434878,
+          46.357615894039554,
+          935.9823399558497
+        ]
+      },
+      "x": 3729.3598233995585,
+      "y": 1496.6887417218545,
+      "rotation": 180,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#00ff1e",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "_id": "Hfq0MaBhW8JatNE3",
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.Hfq0MaBhW8JatNE3"
+    },
+    {
+      "_id": "EJjWYkgz5P1lyvXS",
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 974,
+        "height": 366,
+        "radius": null,
+        "points": [
+          0,
+          0,
+          971.3024282560709,
+          348.7858719646799,
+          942.6048565121419,
+          267.1081677704194,
+          973.5099337748343,
+          353.20088300220755,
+          896.2472406181014,
+          366.4459161147902
+        ]
+      },
+      "x": 3209,
+      "y": 1461,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#66ff00",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.EJjWYkgz5P1lyvXS"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 350,
+        "height": 61,
+        "radius": null,
+        "points": []
+      },
+      "x": 2800,
+      "y": 2400,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "LI QIANG - SUPERVISOR",
+      "fontFamily": "Signika",
+      "fontSize": 40,
+      "textColor": "#fbff00",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "NX1GxmKTEcdrVAZF",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.NX1GxmKTEcdrVAZF"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 350,
+        "height": 61,
+        "radius": null,
+        "points": []
+      },
+      "x": 2701,
+      "y": 1408,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "MARIA DEL CAMPOS - HYDROPONICS",
+      "fontFamily": "Signika",
+      "fontSize": 40,
+      "textColor": "#fbff00",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "BCVg0DKTqRIe9wMC",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.BCVg0DKTqRIe9wMC"
+    },
+    {
+      "_id": "5KlYYubYAAPEbjJ8",
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 105,
+        "height": 819,
+        "radius": null,
+        "points": [
+          0,
+          0,
+          64.21149436508131,
+          811.3997924314829,
+          17.512225735931224,
+          753.0257066450451,
+          66.15729722462902,
+          819.1830038696746,
+          105.0733544155878,
+          758.8631152236887
+        ]
+      },
+      "x": 3166,
+      "y": 1519,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#ff0000",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.5KlYYubYAAPEbjJ8"
+    },
+    {
+      "_id": "NwMXqVj9GfPqh5dR",
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "p",
+        "width": 732,
+        "height": 916,
+        "radius": null,
+        "points": [
+          731.5175097276265,
+          0,
+          1.9455252918287442,
+          916.3424124513622,
+          9.727626459143721,
+          838.5214007782101,
+          0,
+          916.3424124513622,
+          77.82101167315159,
+          894.9416342412455,
+          71.98443579766536,
+          894.9416342412455,
+          13.618677042801664,
+          910.505836575876
+        ]
+      },
+      "x": 3279,
+      "y": 1458,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ff0000",
+      "fillAlpha": 0.5,
+      "strokeWidth": 10,
+      "strokeColor": "#ff0000",
+      "strokeAlpha": 0.8,
+      "texture": null,
+      "text": "",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      },
+      "interface": false,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.NwMXqVj9GfPqh5dR"
+    },
+    {
+      "_id": "xLj8AXI9TnbkZPUH",
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 156,
+        "height": 62,
+        "radius": null,
+        "points": []
+      },
+      "x": 3079.7823834196893,
+      "y": 1487.8756476683936,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "substituto",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ff0000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.xLj8AXI9TnbkZPUH"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 156,
+        "height": 62,
+        "radius": null,
+        "points": []
+      },
+      "x": 3151.36186770428,
+      "y": 2459.143968871595,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "substituto",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ff0000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "srofGG1NtToPvrO8",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.srofGG1NtToPvrO8"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 156,
+        "height": 62,
+        "radius": null,
+        "points": []
+      },
+      "x": 4097.260273972603,
+      "y": 2315.981735159817,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "substituto",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ff0000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "5I2WTlo4MIxQ3uKj",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.5I2WTlo4MIxQ3uKj"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 350,
+        "height": 126,
+        "radius": null,
+        "points": []
+      },
+      "x": 4310,
+      "y": 2208,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "Anya Zomorova - Babuska - knows everything from the ground up",
+      "fontFamily": "Signika",
+      "fontSize": 40,
+      "textColor": "#fbff00",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": true,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "VdwOfUtXozHYLvH5",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.VdwOfUtXozHYLvH5"
+    },
+    {
+      "author": "LMOJKfi8GnehqjGy",
+      "shape": {
+        "type": "r",
+        "width": 350,
+        "height": 126,
+        "radius": null,
+        "points": []
+      },
+      "x": 2942,
+      "y": 1090,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 10,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "Frenkel - Contech Communications Diver",
+      "fontFamily": "Signika",
+      "fontSize": 40,
+      "textColor": "#fbff00",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        },
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "_id": "ad28qW3Pe90l7iYw",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.ad28qW3Pe90l7iYw"
+    },
+    {
+      "_id": "tlJaFGxA4FzzlpK7",
+      "author": "h1BfzYYX7qtp2kbH",
+      "shape": {
+        "type": "r",
+        "width": 293,
+        "height": 106,
+        "radius": null,
+        "points": []
+      },
+      "x": 3345.9223880283066,
+      "y": 1600.367596062331,
+      "elevation": 0,
+      "sort": 1,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 8,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "RIVALS",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#d75e43",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {},
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.tlJaFGxA4FzzlpK7"
+    },
+    {
+      "author": "h1BfzYYX7qtp2kbH",
+      "shape": {
+        "type": "r",
+        "width": 293,
+        "height": 106,
+        "radius": null,
+        "points": []
+      },
+      "x": 3350.5033978724787,
+      "y": 1682.007837407855,
+      "elevation": 0,
+      "sort": 1,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 8,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "BUDDY",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#79c03e",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {},
+      "_id": "1pBtIaHMokrLQI3L",
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.1pBtIaHMokrLQI3L"
+    },
+    {
+      "_id": "iHRUD9b73oXMQP1H",
+      "author": "h1BfzYYX7qtp2kbH",
+      "shape": {
+        "type": "p",
+        "width": 116,
+        "height": 221,
+        "radius": null,
+        "points": [
+          108.53853148939015,
+          13.200632208169282,
+          80.67053016103318,
+          0,
+          36.66842280046967,
+          1.4667369120188596,
+          8.800421472112248,
+          26.401264416338563,
+          0,
+          54.269265744695076,
+          14.667369120187686,
+          98.27137310525904,
+          39.601896624506935,
+          126.13937443361601,
+          70.40337177690162,
+          146.67369120187914,
+          104.13832075333357,
+          176.00842944225496,
+          111.47200531342787,
+          189.2090616504238,
+          115.872216049484,
+          208.27664150666806,
+          115.872216049484,
+          220.01053680281848,
+          115.872216049484,
+          221.47727371483734
+        ]
+      },
+      "x": 3936.5512775556363,
+      "y": 2177.4030107619474,
+      "elevation": 0,
+      "sort": 2,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#28cc77",
+      "fillAlpha": 0.5,
+      "strokeWidth": 8,
+      "strokeColor": "#28cc77",
+      "strokeAlpha": 1,
+      "texture": null,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {},
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.iHRUD9b73oXMQP1H"
+    },
+    {
+      "_id": "tlDqvt0Ia8DLJkCv",
+      "author": "h1BfzYYX7qtp2kbH",
+      "shape": {
+        "type": "p",
+        "width": 92,
+        "height": 205,
+        "radius": null,
+        "points": [
+          2.933473824037719,
+          14.667369120188141,
+          26.401264416338563,
+          0,
+          66.00316104084595,
+          0,
+          83.60400398507136,
+          7.333684560094298,
+          90.93768854516475,
+          32.26821206441355,
+          92.4044254571836,
+          74.8035825129582,
+          80.67053016103364,
+          98.27137310525904,
+          58.669476480751655,
+          118.80568987352217,
+          22.001053680281984,
+          145.20695428986028,
+          5.866947648075438,
+          159.87432341004842,
+          0,
+          181.87537709032995,
+          1.4667369120188596,
+          202.40969385859307,
+          1.4667369120188596,
+          205.3431676826308
+        ]
+      },
+      "x": 4040.68959830897,
+      "y": 2175.9362738499285,
+      "elevation": 0,
+      "sort": 3,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#28cc77",
+      "fillAlpha": 0.5,
+      "strokeWidth": 8,
+      "strokeColor": "#28cc77",
+      "strokeAlpha": 1,
+      "texture": null,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {},
+      "levels": [],
+      "_key": "!scenes.drawings!crYLcHEEtOVh06Ic.tlDqvt0Ia8DLJkCv"
+    }
+  ],
+  "tokens": [
+    {
+      "name": "Joe NS42 “BORIS”",
+      "displayName": 20,
+      "actorLink": true,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_5_PRT.jpg"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_TK.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": true,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "actorId": "12vb86KU6IWdlPGj",
+      "x": 4328,
+      "y": 2543,
+      "hidden": false,
+      "_id": "BidIbBlRR8SpuvPY",
+      "delta": {
+        "_id": "K8SG2aoSpRka72XZ",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.BidIbBlRR8SpuvPY.K8SG2aoSpRka72XZ"
+      },
+      "elevation": 0,
+      "sort": 0,
+      "locked": false,
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.BidIbBlRR8SpuvPY"
+    },
+    {
+      "name": "DOKTOR NS42",
+      "displayName": 20,
+      "actorLink": true,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_5_PRT.jpg"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_TK.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": true,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "actorId": "DqpDXO29aEDLcA6C",
+      "x": 4480,
+      "y": 2533,
+      "hidden": false,
+      "_id": "VIwHh62mYJklG6Lb",
+      "delta": {
+        "_id": "JgcFozxdJ6mMv3xV",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.VIwHh62mYJklG6Lb.JgcFozxdJ6mMv3xV"
+      },
+      "elevation": 0,
+      "sort": 0,
+      "locked": false,
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.VIwHh62mYJklG6Lb"
+    },
+    {
+      "name": "DMITRI NS42",
+      "displayName": 20,
+      "actorLink": true,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_0_PRT.jpg"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_0_TK.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": true,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "actorId": "Pv8jNWHyxSi59K0A",
+      "x": 4166,
+      "y": 2547,
+      "hidden": false,
+      "_id": "2aVYKQQlC973RtNw",
+      "delta": {
+        "_id": "B59gsxQhmZkNwro9",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.2aVYKQQlC973RtNw.B59gsxQhmZkNwro9"
+      },
+      "elevation": 0,
+      "sort": 0,
+      "locked": false,
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.2aVYKQQlC973RtNw"
+    },
+    {
+      "name": "CIXIN LIU",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/CIXIN_LIU/CIXIN_LIU_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {
+        "basicSight": {
+          "range": 0,
+          "enabled": true
+        }
+      },
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "XXpcnLOEf5YfefeR",
+      "hidden": false,
+      "sort": 2,
+      "_id": "XmBHoNHmFCHip5ZU",
+      "delta": {
+        "_id": "4k3WydePqCxV20i4",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.XmBHoNHmFCHip5ZU.4k3WydePqCxV20i4"
+      },
+      "x": 3574,
+      "y": 2448,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.XmBHoNHmFCHip5ZU"
+    },
+    {
+      "name": "DIEGO ALVAREZ",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/DIEGO_ALVAREZ/DIEGO_ALVAREZ_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {
+        "basicSight": {
+          "range": 3,
+          "enabled": true
+        }
+      },
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "zCxoWMWN2RJmm4Se",
+      "hidden": false,
+      "sort": 3,
+      "_id": "U26HfcxP3s7qQBDH",
+      "delta": {
+        "_id": "UO2uwrx7BNEhBzmv",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.U26HfcxP3s7qQBDH.UO2uwrx7BNEhBzmv"
+      },
+      "x": 4031,
+      "y": 1355,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.U26HfcxP3s7qQBDH"
+    },
+    {
+      "name": "IVAN DUBOV",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/IVAN_DUBOV/IVAN_DUBOV_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {
+        "basicSight": {
+          "range": 3,
+          "enabled": true
+        }
+      },
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "ut9PtkqqsPebXLY6",
+      "hidden": false,
+      "sort": 4,
+      "_id": "Qo1DG0KtXYCUvfh0",
+      "delta": {
+        "_id": "xpWKA8ZJAKJ0nrqn",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.Qo1DG0KtXYCUvfh0.xpWKA8ZJAKJ0nrqn"
+      },
+      "x": 2989,
+      "y": 1754,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.Qo1DG0KtXYCUvfh0"
+    },
+    {
+      "name": "Cpt.Olga Kramarenko",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/OLGA_KRAMARENKO_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0,
+        "color": null
+      },
+      "detectionModes": {},
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "vvcVQwixTuM0iHYP",
+      "hidden": false,
+      "sort": 5,
+      "_id": "aGOd1OLsRG0IBziu",
+      "delta": {
+        "_id": "EqzgNHyJZvupHx8S",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.aGOd1OLsRG0IBziu.EqzgNHyJZvupHx8S"
+      },
+      "x": 3556,
+      "y": 1195,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.aGOd1OLsRG0IBziu"
+    },
+    {
+      "name": "KIM PHAM",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/KIM_PHAM/KIM_PHAM_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {
+        "basicSight": {
+          "range": 3,
+          "enabled": true
+        }
+      },
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "MJA1B3sWtBsVwUpk",
+      "hidden": false,
+      "sort": 6,
+      "_id": "d5Nx9G2MPgQ9Lu0V",
+      "delta": {
+        "_id": "zZrWUEenXsRa9N0C",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.d5Nx9G2MPgQ9Lu0V.zZrWUEenXsRa9N0C"
+      },
+      "x": 4249,
+      "y": 1807,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.d5Nx9G2MPgQ9Lu0V"
+    },
+    {
+      "name": "babushka - Anya Zomorova",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/Anya_Zomorova/Anya_Zomorova_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {
+        "basicSight": {
+          "range": 3,
+          "enabled": true
+        }
+      },
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        },
+        "tokenmagic": {}
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "dNrzutS0qPv3NU60",
+      "hidden": false,
+      "sort": 7,
+      "_id": "IuJPDHzWeCrZiNLZ",
+      "delta": {
+        "_id": "ZXC7YBkixHoKb0l5",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.IuJPDHzWeCrZiNLZ.ZXC7YBkixHoKb0l5"
+      },
+      "x": 3995,
+      "y": 2213,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.IuJPDHzWeCrZiNLZ"
+    },
+    {
+      "name": "Guilhermo Petrosky Frenkel",
+      "displayName": 20,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/Guilhermo_Petrosky_Frenkel/Guilhermo_Petrosky_Frenkel_TK.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {
+        "basicSight": {
+          "range": 3,
+          "enabled": true
+        }
+      },
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/Guilhermo%20Petrosky%20Frenkel/Guilhermo%20Petrosky%20Frenkel_PRT.png"
+        },
+        "tagger": {}
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "1CfQzIzU7FMp52Re",
+      "hidden": false,
+      "sort": 8,
+      "_id": "wkb5w9jnTrBwRoLg",
+      "delta": {
+        "_id": "edl8A2VtrcjlseCF",
+        "system": {
+          "header": {
+            "stress": {
+              "value": 0
+            }
+          }
+        },
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.wkb5w9jnTrBwRoLg.edl8A2VtrcjlseCF"
+      },
+      "x": 3285,
+      "y": 1184,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.wkb5w9jnTrBwRoLg"
+    },
+    {
+      "name": "LI QIANG",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/LI_QIANG/LI_QIANG_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {
+        "basicSight": {
+          "range": 3,
+          "enabled": true
+        }
+      },
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "4GcdxJq9BPDZ1BAN",
+      "hidden": false,
+      "sort": 9,
+      "_id": "bzdZ0OqO9fHF92AW",
+      "delta": {
+        "_id": "Kg2JKDhDXwgqgCnx",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.bzdZ0OqO9fHF92AW.Kg2JKDhDXwgqgCnx"
+      },
+      "x": 3152,
+      "y": 2376,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.bzdZ0OqO9fHF92AW"
+    },
+    {
+      "name": "MARIA DEL CAMPOS",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/MARIA_DEL_CAMPOS/MARIA_DEL_CAMPOS_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "GjObv8jhwRpwB7jZ",
+      "hidden": false,
+      "sort": 10,
+      "_id": "zHqpnDg1cZmSasvL",
+      "delta": {
+        "_id": "PZIbobxcrNf74o1V",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.zHqpnDg1cZmSasvL.PZIbobxcrNf74o1V"
+      },
+      "x": 3110,
+      "y": 1382,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.zHqpnDg1cZmSasvL"
+    },
+    {
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "name": "Hydrobuster",
+      "displayName": 40,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "actorLink": false,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "alpha": 1,
+      "light": {
+        "alpha": 1,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/hydrobuster/hidrobuster_tk.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "KDrVRH19yyEqwJeg",
+      "hidden": false,
+      "sort": 11,
+      "_id": "U06zaEXKVOMt7dfL",
+      "delta": {
+        "_id": "kKzEud6qR5rP46kc",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.U06zaEXKVOMt7dfL.kKzEud6qR5rP46kc"
+      },
+      "x": 5062,
+      "y": 1514,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.U06zaEXKVOMt7dfL"
+    },
+    {
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/Hydrohugger/Hidrohugger.png"
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        }
+      },
+      "name": "Hydrohugger",
+      "displayName": 40,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "actorLink": false,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "alpha": 1,
+      "light": {
+        "alpha": 1,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/Hydrohugger/Hidrohugger_tk.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "f0Ff6ADM6zoRleB6",
+      "hidden": false,
+      "sort": 12,
+      "_id": "Of7m7P2rKsCqXQyp",
+      "delta": {
+        "_id": "VqBtw6dHJrEQCPki",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.Of7m7P2rKsCqXQyp.VqBtw6dHJrEQCPki"
+      },
+      "x": 5211,
+      "y": 1516,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.Of7m7P2rKsCqXQyp"
+    },
+    {
+      "name": "Hydromorph",
+      "displayName": 40,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_tk/Hydromorph__tk_2.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": false,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0,
+        "color": null
+      },
+      "detectionModes": {},
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph%20(1).png"
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "63glw0NzKs1w0lFO",
+      "hidden": false,
+      "sort": 13,
+      "_id": "glbF0Z6mH1exHNaw",
+      "delta": {
+        "_id": "LDHFUUJy3fEPAQWr",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.glbF0Z6mH1exHNaw.LDHFUUJy3fEPAQWr"
+      },
+      "x": 5380,
+      "y": 1509,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.glbF0Z6mH1exHNaw"
+    },
+    {
+      "flags": {
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": "",
+          "bloodsplat-colour": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "name": "Drone",
+      "displayName": 40,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "actorLink": false,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "alpha": 1,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/Xenomorph_Drone/drone_tk.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 0.9,
+          "texture": null
+        }
+      },
+      "actorId": "wGSz87UZuF90q6Et",
+      "hidden": false,
+      "sort": 14,
+      "_id": "stLS4FdP401PkmRL",
+      "delta": {
+        "_id": "V8iEt0jIgZVqCJHT",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.stLS4FdP401PkmRL.V8iEt0jIgZVqCJHT"
+      },
+      "x": 5062,
+      "y": 1702,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.stLS4FdP401PkmRL"
+    },
+    {
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        }
+      },
+      "name": "Ovomorph",
+      "displayName": 40,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "actorLink": false,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "alpha": 1,
+      "light": {
+        "alpha": 1,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/Ovomorph/Ovomorph.webp",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "ARAplYJ1K7gRXtSr",
+      "hidden": false,
+      "sort": 15,
+      "_id": "1Ti0VjzaiUvSGgdd",
+      "delta": {
+        "_id": "Ttm2u3y0w2AjkzIu",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.1Ti0VjzaiUvSGgdd.Ttm2u3y0w2AjkzIu"
+      },
+      "x": 5210,
+      "y": 1688,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.1Ti0VjzaiUvSGgdd"
+    },
+    {
+      "name": "Empty Dive Suit",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {
+        "basicSight": {
+          "range": 3,
+          "enabled": true
+        }
+      },
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_tk.png"
+        },
+        "tagger": {}
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "hRkVIU1ene9lFTDI",
+      "hidden": false,
+      "sort": 16,
+      "_id": "fiVOGyvAmW2Am6JV",
+      "delta": {
+        "_id": "khHXbFqclKvzYSCQ",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.fiVOGyvAmW2Am6JV.khHXbFqclKvzYSCQ"
+      },
+      "x": 5393,
+      "y": 1701,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.fiVOGyvAmW2Am6JV"
+    },
+    {
+      "name": "Long Salmon",
+      "displayName": 40,
+      "actorLink": false,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/Long_Salmon/Long_Salmon_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 5,
+        "coloration": 7,
+        "dim": 5,
+        "attenuation": 0.5,
+        "luminosity": 0.75,
+        "saturation": 0.75,
+        "contrast": 0.65,
+        "shadows": 0,
+        "animation": {
+          "type": "fairy",
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": "#ffffff",
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": false,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0,
+        "color": null
+      },
+      "detectionModes": {},
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/Long%20Salmon/Long_Salmon_prt.jpg"
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "0M4AT26z6RGff6Hh",
+      "hidden": false,
+      "sort": 17,
+      "_id": "yB9zd3xsjM6Ctx3e",
+      "delta": {
+        "_id": "BN8o9vAqktbZ8yir",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.yB9zd3xsjM6Ctx3e.BN8o9vAqktbZ8yir"
+      },
+      "x": 5085,
+      "y": 2090,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.yB9zd3xsjM6Ctx3e"
+    },
+    {
+      "name": "Joe NS42 Gate Keeper",
+      "displayName": 20,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_5_PRT.jpg"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_TK.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": true,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "VROFvapKbb3SDcb3",
+      "hidden": false,
+      "sort": 18,
+      "_id": "cU98DuJa5eopjCgH",
+      "delta": {
+        "_id": "lqco2j3ppcoWznwl",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.cU98DuJa5eopjCgH.lqco2j3ppcoWznwl"
+      },
+      "x": 5299,
+      "y": 2082,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.cU98DuJa5eopjCgH"
+    },
+    {
+      "name": "Joe NS42 “DOKTOR” (MEDIC)",
+      "displayName": 20,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "None"
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_5_PRT.jpg"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_TK.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": true,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "DqpDXO29aEDLcA6C",
+      "hidden": false,
+      "sort": 20,
+      "_id": "yLSHnzpAC8U4HjbF",
+      "delta": {
+        "_id": "cvmuG60kvwH3Rf9y",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.yLSHnzpAC8U4HjbF.cvmuG60kvwH3Rf9y"
+      },
+      "x": 5637,
+      "y": 2088,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.yLSHnzpAC8U4HjbF"
+    },
+    {
+      "name": "Joe NS42 “DOKTOR” (MEDIC)",
+      "displayName": 20,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "None"
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_5_PRT.jpg"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_TK.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": true,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "DqpDXO29aEDLcA6C",
+      "hidden": false,
+      "sort": 21,
+      "_id": "f4NDarCpodx6li15",
+      "delta": {
+        "_id": "WIG311vT5gidxld0",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.f4NDarCpodx6li15.WIG311vT5gidxld0"
+      },
+      "x": 5796,
+      "y": 2080,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.f4NDarCpodx6li15"
+    },
+    {
+      "name": "Boris",
+      "displayName": 20,
+      "actorLink": true,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": null
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_0_PRT.jpg"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_TK.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": true,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "12vb86KU6IWdlPGj",
+      "hidden": false,
+      "sort": 22,
+      "_id": "GNcRkJsYN4CNk8fg",
+      "delta": {
+        "_id": "FrIUaaNtud9YcR5h",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.GNcRkJsYN4CNk8fg.FrIUaaNtud9YcR5h"
+      },
+      "x": 5473,
+      "y": 2088,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.GNcRkJsYN4CNk8fg"
+    },
+    {
+      "name": "Dmitri",
+      "displayName": 20,
+      "actorLink": true,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_0_PRT.jpg"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        }
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_0_TK.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": true,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "Pv8jNWHyxSi59K0A",
+      "hidden": false,
+      "sort": 23,
+      "_id": "bTVjCgKr0eiJbqbR",
+      "delta": {
+        "_id": "vVrAfqyK6AAlBm4f",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.bTVjCgKr0eiJbqbR.vVrAfqyK6AAlBm4f"
+      },
+      "x": 5782,
+      "y": 2224,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.bTVjCgKr0eiJbqbR"
+    },
+    {
+      "name": "invisible Bioluminos",
+      "displayName": 40,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 0.35,
+      "light": {
+        "alpha": 1,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 7,
+        "dim": 10,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 10,
+          "intensity": 7,
+          "reverse": false,
+          "type": "ghost"
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": "#225d56",
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "disposition": -1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "REPOSITORIO/IMAGENS/transparente.png"
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "tokenmagic": {
+          "filters": [
+            {
+              "tmFilters": {
+                "tmFilterId": "cmjqeQlw6YxV9Qz6",
+                "tmFilterInternalId": "EZ6au9Yf0axJdlnC",
+                "tmFilterType": "shadow",
+                "tmFilterOwner": "LMOJKfi8GnehqjGy",
+                "tmParams": {
+                  "filterType": "shadow",
+                  "blur": 2,
+                  "quality": 5,
+                  "distance": 0,
+                  "alpha": 1,
+                  "padding": 100,
+                  "color": 16777215,
+                  "animated": {
+                    "blur": {
+                      "active": true,
+                      "loopDuration": 1000,
+                      "animType": "syncCosOscillation",
+                      "val1": 2,
+                      "val2": 4
+                    }
+                  },
+                  "rank": 10042,
+                  "filterId": "cmjqeQlw6YxV9Qz6",
+                  "enabled": true,
+                  "placeableId": "rlI2UYg1XDk9de1v",
+                  "filterInternalId": "EZ6au9Yf0axJdlnC",
+                  "filterOwner": "LMOJKfi8GnehqjGy",
+                  "placeableType": "Token",
+                  "updateId": "zOS3I18fnhWn2WPr"
+                }
+              }
+            },
+            {
+              "tmFilters": {
+                "tmFilterId": "mmYBHGAF69MUjyUW",
+                "tmFilterInternalId": "eL2TRb4YGJrZKsHw",
+                "tmFilterType": "electric",
+                "tmFilterOwner": "LMOJKfi8GnehqjGy",
+                "tmParams": {
+                  "filterType": "electric",
+                  "color": 16777215,
+                  "time": 0,
+                  "blend": 2,
+                  "intensity": 1,
+                  "animated": {
+                    "time": {
+                      "active": true,
+                      "speed": 0.002,
+                      "animType": "move"
+                    }
+                  },
+                  "rank": 10043,
+                  "filterId": "mmYBHGAF69MUjyUW",
+                  "enabled": true,
+                  "placeableId": "rlI2UYg1XDk9de1v",
+                  "filterInternalId": "eL2TRb4YGJrZKsHw",
+                  "filterOwner": "LMOJKfi8GnehqjGy",
+                  "placeableType": "Token",
+                  "updateId": "ZaFpnDMO0dJWRtQc"
+                }
+              }
+            },
+            {
+              "tmFilters": {
+                "tmFilterId": "RJY7sG3k7h24waRS",
+                "tmFilterInternalId": "pTPhpwgUdCUV2fXA",
+                "tmFilterType": "shadow",
+                "tmFilterOwner": "LMOJKfi8GnehqjGy",
+                "tmParams": {
+                  "filterType": "shadow",
+                  "blur": 2,
+                  "quality": 5,
+                  "distance": 0,
+                  "alpha": 1,
+                  "padding": 100,
+                  "color": 16777215,
+                  "animated": {
+                    "blur": {
+                      "active": true,
+                      "loopDuration": 1000,
+                      "animType": "syncCosOscillation",
+                      "val1": 2,
+                      "val2": 4
+                    }
+                  },
+                  "rank": 10044,
+                  "filterId": "RJY7sG3k7h24waRS",
+                  "enabled": true,
+                  "placeableId": "1nfRyMWUoevIo6ii",
+                  "filterInternalId": "pTPhpwgUdCUV2fXA",
+                  "filterOwner": "LMOJKfi8GnehqjGy",
+                  "placeableType": "Token",
+                  "updateId": "dKCmqjuz1cRFT9l7"
+                }
+              }
+            },
+            {
+              "tmFilters": {
+                "tmFilterId": "TR2BkY1KvXM5QL21",
+                "tmFilterInternalId": "rogsPdYU3JM79mdZ",
+                "tmFilterType": "electric",
+                "tmFilterOwner": "LMOJKfi8GnehqjGy",
+                "tmParams": {
+                  "filterType": "electric",
+                  "color": 16777215,
+                  "time": 0,
+                  "blend": 2,
+                  "intensity": 1,
+                  "animated": {
+                    "time": {
+                      "active": true,
+                      "speed": 0.002,
+                      "animType": "move"
+                    }
+                  },
+                  "rank": 10045,
+                  "filterId": "TR2BkY1KvXM5QL21",
+                  "enabled": true,
+                  "placeableId": "1nfRyMWUoevIo6ii",
+                  "filterInternalId": "rogsPdYU3JM79mdZ",
+                  "filterOwner": "LMOJKfi8GnehqjGy",
+                  "placeableType": "Token",
+                  "updateId": "g6rin0ByBrTOFNEZ"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/transparent_png_tokem.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "MTasA46MGR6la4jz",
+      "hidden": false,
+      "sort": 24,
+      "_id": "zhFXaKv0s6rursMV",
+      "delta": {
+        "_id": "k0TjahUgRocV7JhR",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.zhFXaKv0s6rursMV.k0TjahUgRocV7JhR"
+      },
+      "x": 5608,
+      "y": 2222,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.zhFXaKv0s6rursMV"
+    },
+    {
+      "name": "Baikal Submarino",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/Baikal_Submarino/Baikal_Submarino_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 4,
+      "height": 4,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "None"
+      },
+      "bar2": {
+        "attribute": "None"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-little-details": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": "",
+          "bloodsplat-colour": "",
+          "displayBarsCombat": null
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        }
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "0xj7A54iP8XB8Vvz",
+      "hidden": false,
+      "sort": 25,
+      "_id": "U5fjjZvxzA5n1RWQ",
+      "delta": {
+        "_id": "xzna9krqHOlN8af4",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!crYLcHEEtOVh06Ic.U5fjjZvxzA5n1RWQ.xzna9krqHOlN8af4"
+      },
+      "x": 5534,
+      "y": 2577,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 4,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!crYLcHEEtOVh06Ic.U5fjjZvxzA5n1RWQ"
+    }
+  ],
+  "lights": [],
+  "notes": [
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": "Rh575rXzrmYaPP9N",
+      "text": "Cpt. Olga Kramarenko.",
+      "x": 3754,
+      "y": 1197,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#e0fb0e",
+        "src": "icons/svg/skull.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#e0fb0e",
+      "textAnchor": 1,
+      "_id": "4e8d5OsNDIV4gBw7",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.4e8d5OsNDIV4gBw7"
+    },
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": "H4J1h9FaxGcSBTTO",
+      "text": "",
+      "x": 3752,
+      "y": 2495,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#e0fb0e",
+        "src": "icons/svg/skull.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#e0fb0e",
+      "textAnchor": 1,
+      "_id": "rlWVnqQpXya2lwEG",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.rlWVnqQpXya2lwEG"
+    },
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": "o3xcRYshgIPeRDiI",
+      "text": "",
+      "x": 3055,
+      "y": 1932,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#e0fb0e",
+        "src": "icons/svg/skull.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#e0fb0e",
+      "textAnchor": 1,
+      "_id": "FOXcR455xAu4Y4VP",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.FOXcR455xAu4Y4VP"
+    },
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": "iuvXYcHXS1hT9qIQ",
+      "text": "",
+      "x": 4406,
+      "y": 1839,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#e0fb0e",
+        "src": "icons/svg/skull.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#e0fb0e",
+      "textAnchor": 1,
+      "_id": "bUzmF1rS8zNznje2",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.bUzmF1rS8zNznje2"
+    },
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": "OEP8Btu6HckIfKUA",
+      "text": "",
+      "x": 4212,
+      "y": 1434,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#e0fb0e",
+        "src": "icons/svg/skull.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#e0fb0e",
+      "textAnchor": 1,
+      "_id": "rcRj1yNpXGWpa3EJ",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.rcRj1yNpXGWpa3EJ"
+    },
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": "hcQXgjfQxtAVyq6W",
+      "text": "",
+      "x": 3078,
+      "y": 1466,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#e0fb0e",
+        "src": "icons/svg/skull.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#e0fb0e",
+      "textAnchor": 1,
+      "_id": "VdKiqnXAuoGUidiv",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.VdKiqnXAuoGUidiv"
+    },
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": "yI7QAqFNxW6mkTbm",
+      "text": "",
+      "x": 3114,
+      "y": 2432,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#e0fb0e",
+        "src": "icons/svg/skull.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#e0fb0e",
+      "textAnchor": 1,
+      "_id": "XjZ4qXX4mrQBJ3xD",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.XjZ4qXX4mrQBJ3xD"
+    },
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": "iuvXYcHXS1hT9qIQ",
+      "text": "",
+      "x": 4244,
+      "y": 2245,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#e0fb0e",
+        "src": "icons/svg/skull.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#e0fb0e",
+      "textAnchor": 1,
+      "_id": "gamH6h9eEMJyCKkS",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.gamH6h9eEMJyCKkS"
+    },
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": "LbBndEoZpZwlxKRm",
+      "text": "",
+      "x": 3345,
+      "y": 1125,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#e0fb0e",
+        "src": "icons/svg/skull.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#e0fb0e",
+      "textAnchor": 1,
+      "_id": "fRncSI834VGpxkMe",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.fRncSI834VGpxkMe"
+    },
+    {
+      "entryId": "2A70WlvyYoIRKyer",
+      "pageId": null,
+      "text": "Deep Down",
+      "x": 2391,
+      "y": 1332,
+      "elevation": 0,
+      "sort": 0,
+      "global": false,
+      "iconSize": 200,
+      "texture": {
+        "tint": "#ffea00",
+        "src": "modules/alien-deep-down/assets/icons/deep_down.jpg",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "alphaThreshold": 0
+      },
+      "fontFamily": "Signika",
+      "fontSize": 50,
+      "textColor": "#ffea00",
+      "textAnchor": 1,
+      "flags": {
+        "tagger": {},
+        "arms-reach": {
+          "range": 0
+        },
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "_id": "R5oK3TGyedRuPYj0",
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.R5oK3TGyedRuPYj0"
+    },
+    {
+      "entryId": "mK1MWYYf3GCsSJeX",
+      "pageId": null,
+      "text": "",
+      "x": 2394,
+      "y": 1691,
+      "elevation": 0,
+      "sort": 0,
+      "global": true,
+      "iconSize": 200,
+      "texture": {
+        "tint": "#ffffff",
+        "src": "modules/alien-deep-down/assets/icons/skull-blood.jpg",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "alphaThreshold": 0
+      },
+      "fontFamily": "Signika",
+      "fontSize": 50,
+      "textColor": "#ffea00",
+      "textAnchor": 1,
+      "_id": "07l5sFH8OZKKtaJB",
+      "flags": {},
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!crYLcHEEtOVh06Ic.07l5sFH8OZKKtaJB"
+    }
+  ],
+  "sounds": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "folder": "maum4iuWH3xSgCEC",
+  "sort": 300000,
+  "flags": {
+    "weatherblock": {
+      "invertMask": false
+    },
+    "background-volume": {
+      "volume": 1
+    },
+    "LockView": {
+      "lockPan": false,
+      "lockPanInit": false,
+      "lockZoom": false,
+      "lockZoomInit": false,
+      "autoScale": "0",
+      "forceInit": false,
+      "boundingBox": false,
+      "boundingBoxInit": false,
+      "excludeSidebar": false,
+      "blackenSidebar": false,
+      "hideUI": false,
+      "collapseSidebar": false,
+      "editViewbox": false,
+      "hideUIelements": {
+        "logo": true,
+        "navigation": true,
+        "controls": true,
+        "players": true,
+        "hotbar": true,
+        "sidebar": false
+      },
+      "rotation": "0",
+      "sidebar": "noChange"
+    },
+    "token-attacher": {},
+    "cf": {},
+    "core": {},
+    "smalltime": {
+      "darkness-link": true,
+      "player-vis": "2"
+    },
+    "scene-packer": {
+      "hash": "0ec172961857bb919da5b3ce83c25bacadab0544"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "journalEntryPage": null,
+  "_stats": {
+    "compendiumSource": "Compendium.All_Maps.All_Maps.Dbfc9JsEqO7e2WGu",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734824033464,
+    "modifiedTime": 1734824033464,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "crYLcHEEtOVh06Ic",
+  "environment": {
+    "globalLight": {
+      "luminosity": 0,
+      "enabled": true,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0
+    },
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "fog": {
+    "reset": 1637331892532,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    },
+    "mode": 0
+  },
+  "regions": [],
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "CHARACTERS AND INTERACTIONS",
+      "background": {
+        "color": "#000000",
+        "src": "modules/alien-deep-down/assets/Maps/work.webp",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "top": 6,
+        "bottom": 0
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!crYLcHEEtOVh06Ic.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
+  },
+  "_key": "!scenes!crYLcHEEtOVh06Ic",
+  "templates": []
+}

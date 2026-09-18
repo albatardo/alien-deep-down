@@ -1,0 +1,87 @@
+{
+  "name": ".357 Rivet Bang Stick",
+  "type": "weapon",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "effects": [],
+  "folder": "2UeLQByS9kcZtALz",
+  "sort": 375000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "0a6aed814ec6b524a1d26b499c4ce5d1ec83958b"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "2",
+        "label": "Text"
+      },
+      "active": false
+    },
+    "attributes": {
+      "bonus": {
+        "value": 0,
+        "label": "Number"
+      },
+      "damage": {
+        "value": 2,
+        "label": "Number"
+      },
+      "weight": {
+        "value": 1,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "$300.00",
+        "label": "Number"
+      },
+      "range": {
+        "value": "1",
+        "label": "Text"
+      },
+      "class": {
+        "value": "safety tool",
+        "label": "Text"
+      },
+      "rounds": {
+        "value": 0,
+        "label": "Number"
+      },
+      "power": {
+        "value": 0,
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<p data-pm-slice=\"1 1 [&quot;bullet_list&quot;,{&quot;_preserve&quot;:{}},&quot;list_item&quot;,{&quot;_preserve&quot;:{}}]\"><strong>.357 Rivet Bang Stick</strong> DMG 2, close combat (a long stick similar to those used to protect divers from aggressive marine life like sharks, etc. It fires a large rivet propelled by a blank projectile cartridge on contact and must be manually reloaded after each shot. It is used to rivet hard to reach locations).</p>",
+        "label": "Text"
+      },
+      "quantity": {
+        "value": 1
+      }
+    },
+    "notes": {
+      "notes": "<p>A classic high calibre revolver, equally popular amongst both Frontier Marshals and lowlifes.</p>"
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "YEoPmwinvi5w1FW6": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.sqBRI4Yva4EmCROX",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "wMChpM6aDei08fgs",
+  "_key": "!items!wMChpM6aDei08fgs"
+}

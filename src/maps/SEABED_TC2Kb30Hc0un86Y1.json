@@ -1,0 +1,247 @@
+{
+  "name": "SEABED",
+  "_id": "TC2Kb30Hc0un86Y1",
+  "active": false,
+  "navigation": true,
+  "navOrder": 400000,
+  "navName": "",
+  "width": 1984,
+  "height": 1984,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "grid": {
+    "type": 0,
+    "size": 50,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "m",
+    "style": "solidLines",
+    "thickness": 1
+  },
+  "tokenVision": true,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "entryId": "WmgzHFNduuw3OlM2",
+      "pageId": "ifdSo760ubjm3tyz",
+      "text": "",
+      "x": 1705,
+      "y": 1345,
+      "global": false,
+      "iconSize": 50,
+      "texture": {
+        "tint": "#ff0000",
+        "src": "modules/alien-deep-down/assets/icons/Symbol%20E.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#bfe30d",
+      "textAnchor": 1,
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "elevation": 0,
+      "sort": 0,
+      "_id": "irdtstbycTMFuki8",
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!TC2Kb30Hc0un86Y1.irdtstbycTMFuki8"
+    }
+  ],
+  "sounds": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": "4iShfSC9LGoOsxci",
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "folder": "5ZMaePKArciCgBFY",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "background-volume": {
+      "volume": 1
+    },
+    "LockView": {
+      "lockPan": false,
+      "lockPanInit": false,
+      "lockZoom": false,
+      "lockZoomInit": false,
+      "boundingBox": false,
+      "boundingBoxInit": false,
+      "autoScale": "0",
+      "rotation": "0",
+      "sidebar": "noChange",
+      "blackenSidebar": false,
+      "excludeSidebar": false,
+      "hideUI": false,
+      "forceInit": false,
+      "hideUIelements": {
+        "controls": true,
+        "hotbar": true,
+        "logo": true,
+        "navigation": true,
+        "players": true,
+        "sidebar": false
+      },
+      "editViewbox": false
+    },
+    "fxmaster": {
+      "filters": {
+        "core_underwater": {
+          "type": "underwater",
+          "options": {
+            "speed": 1.8,
+            "scale": 1
+          }
+        }
+      },
+      "effects": {
+        "core_clouds": {
+          "type": "clouds",
+          "options": {
+            "scale": 3.1,
+            "direction": 90,
+            "speed": 1,
+            "lifetime": 3.4,
+            "density": 0.139,
+            "alpha": 1,
+            "tint": {
+              "apply": true,
+              "value": "#445f47"
+            }
+          }
+        }
+      }
+    },
+    "scene-packer": {
+      "hash": "4c76dd140cba6f8b0dd0923308423c2cc3b3b35d"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734824033464,
+    "modifiedTime": 1734824033464,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "thumb": "modules/alien-deep-down/assets/scenes/TC2Kb30Hc0un86Y1-thumb.webp",
+  "weather": "",
+  "environment": {
+    "globalLight": {
+      "luminosity": 0,
+      "enabled": true,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0
+    },
+    "darknessLevel": 0.5,
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "fog": {
+    "reset": 1706232761880,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    },
+    "mode": 1
+  },
+  "regions": [],
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "SEABED",
+      "background": {
+        "color": "#000000",
+        "src": "modules/alien-deep-down/assets/Maps/seabed/SEABED.png",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "top": 20,
+        "bottom": 0
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!TC2Kb30Hc0un86Y1.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
+  },
+  "_key": "!scenes!TC2Kb30Hc0un86Y1",
+  "templates": []
+}

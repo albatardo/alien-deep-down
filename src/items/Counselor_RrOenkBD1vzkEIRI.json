@@ -1,0 +1,55 @@
+{
+  "_id": "RrOenkBD1vzkEIRI",
+  "name": "Counselor",
+  "type": "talent",
+  "img": "systems/alienrpg/images/icons/sprint.webp",
+  "effects": [],
+  "folder": "yMPsLfRkiduRKrSh",
+  "sort": 350000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "0e56c8fadf558a7154307c962246a71220d7498f"
+    }
+  },
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "career": {
+        "value": "1",
+        "label": "career"
+      },
+      "comment": {
+        "value": "<p>Copyrighted. Please add information here as I am prohibited from doing so.</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "023AT5ERR8Ij00Wy": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-talents-general.tXCd2jLRabDNMkd3",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!items!RrOenkBD1vzkEIRI"
+}

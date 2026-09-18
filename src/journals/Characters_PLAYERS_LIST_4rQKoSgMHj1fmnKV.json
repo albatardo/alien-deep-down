@@ -1,0 +1,271 @@
+{
+  "folder": "3WEbekbKztXvhiAj",
+  "name": "Characters PLAYERS LIST",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "CIXIN LIU STATION ENGINEER  (UNOFFICIAL TEAM LEADER)",
+      "type": "text",
+      "_id": "H4J1h9FaxGcSBTTO",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>CIXIN LIU - Chief Engineer</strong></p><img src=\"modules/alien-deep-down/assets/tokens/CIXIN_LIU/CIXIN_LIU.png\" height=\"300\"><p></p><ul><li><strong>Full Name</strong>: Cixin Liu</li><li><strong>Role</strong>: Station Engineer</li><li><strong>Age</strong>: 52</li><li><strong>Personality</strong>: Independent</li></ul><p>Cixin Liu has worked at Novotny Station for over 25 years. He firmly believes that only through hard work and dedication can the people of the UPP advance their cause across the galaxy.</p><p>Proud of ensuring the station’s equipment operates correctly, Liu has faced increasing frustration as his repeated requests for basic tools are ignored. Despite these challenges, he has devoted his life to Novotny and dreams of restoring it to its former glory. However, this current shift under the sea has tested even his unyielding resolve.</p><p>He despises the station's hierarchical corruption and sees this investigation—and Olga’s arrival—as a chance to finally bring change.</p><p></p><hr><p><strong>Attributes</strong></p><ul><li>Strength: 3</li><li>Wits: 5</li><li>Empathy: 4</li><li>Agility: 2</li></ul><p><strong>Health</strong>: 3</p><p></p><hr><p><strong>Skills</strong></p><ul><li>Heavy Machinery: 5</li><li>Observation: 3</li><li>Comtech: 5</li><li>Command: 1</li></ul><p><strong>Talent</strong>: Analysis</p><p></p><hr><p></p><p><strong>Signature Item</strong>: Sci-Fi Story Novel<br><strong>Equipment</strong>: Seegson Electronics Kit (+1 to Comtech)</p><p></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!4rQKoSgMHj1fmnKV.H4J1h9FaxGcSBTTO"
+    },
+    {
+      "sort": 200000,
+      "name": "Cpt. Olga Kramarenko.",
+      "type": "text",
+      "_id": "Rh575rXzrmYaPP9N",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Cpt. Olga Kramarenko</strong></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/OLGA_KRAMARENKO_prt.png\" height=\"300\"><p><strong>Occupation:</strong> MSS Agent<br><strong>Age:</strong> 36<br><strong>Personality:</strong> Direct</p><p></p><hr><p></p><p></p><h3><strong>ATTRIBUTES</strong></h3><p><strong>STRENGTH:</strong> 5<br><strong>WITS:</strong> 3<br><strong>EMPATHY:</strong> 3<br><strong>AGILITY:</strong> 3</p><p><strong>HEALTH:</strong> 5</p><hr><p></p><p></p><h3><strong>SKILLS</strong></h3><ul><li><strong>Close Combat:</strong> 3</li><li><strong>Ranged Combat:</strong> 3</li><li><strong>Command:</strong> 4</li><li><strong>Observation:</strong> 2</li></ul><hr><p></p><p></p><h3><strong>TALENTS</strong></h3><ul><li><strong>Pull Rank</strong></li></ul><p></p><p><strong>Signature Item:</strong> Bravery Medal</p><hr><p></p><p></p><h3><strong>EQUIPMENT</strong></h3><ul><li><strong>UPP 9mm Service Pistol</strong> (2 loads)</li><li><strong>Large Serrated Underwater Combat Knife</strong> (DMG 2)</li><li><strong>P-DAT</strong></li></ul><hr><p></p><p></p><h3><strong>Backstory</strong></h3><p>Cpt. Olga Kramarenko once commanded an elite unit of underwater demolition commandos. Her unshakable loyalty to the UPP was severely tested about a year ago when her entire team was abandoned in enemy-infested waters. She emerged as the sole survivor.</p><p>Awarded a bravery medal for her actions, Olga found herself emboldened enough to question her superiors about the decisions that led to this military catastrophe. Their response was swift: she was \"promoted\" and reassigned to the <strong>Ministry of Space Security</strong>, ostensibly as a reward for her valor, but in reality, it was a means of sidelining her.</p><p>Her next assignment took her to the aquatic world of <strong>Voda</strong>, tasked with investigating a series of disappearances. Cautious but dutiful, Olga prepared for the mission, knowing full well she couldn't trust the motives of her superiors.</p><p></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!4rQKoSgMHj1fmnKV.Rh575rXzrmYaPP9N"
+    },
+    {
+      "sort": 300000,
+      "name": "IVAN DUBOV - OPERADOR DE MÁQUINA",
+      "type": "text",
+      "_id": "o3xcRYshgIPeRDiI",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Ivan Dubov</strong></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/IVAN_DUBOV/IVAN_DUBOV.png\" height=\"300\"><p><strong>Occupation:</strong> Machine Operator<br><strong>Age:</strong> 25<br><strong>Personality:</strong> Rebellious</p><hr><p></p><h3><strong>ATTRIBUTES</strong></h3><p><strong>STRENGTH:</strong> 5<br><strong>WITS:</strong> 2<br><strong>EMPATHY:</strong> 2<br><strong>AGILITY:</strong> 5</p><p><strong>HEALTH:</strong> 5</p><hr><p></p><h3><strong>SKILLS</strong></h3><ul><li><strong>Heavy Machinery:</strong> 4</li><li><strong>Close Combat:</strong> 3</li><li><strong>Manipulation:</strong> 1</li><li><strong>Ranged Combat:</strong> 2</li></ul><hr><p></p><h3><strong>TALENTS</strong></h3><ul><li><strong>The Long Haul</strong></li></ul><p></p><p><strong>Signature Item:</strong> Cigarette Case</p><hr><p></p><h3><strong>EQUIPMENT</strong></h3><ul><li><strong>Razor-Sharp Switchblade</strong> (DMG 2)</li></ul><hr><p></p><h3><strong>Backstory</strong></h3><p>Ivan Dubov is an underwater welder specializing in deep-sea operations. Once a free spirit, his penchant for illegal gambling repeatedly brought him into conflict with the state. He was eventually sentenced to forced labor.</p><p>After spending several years in a labor prison, Ivan was given a choice: continue his grueling sentence or sign a decades-long contract to work on the underwater station. He reluctantly chose the latter.</p><p>A recent arrival at the station, Ivan has proven to be a thorn in the side of seasoned workers like <strong>Liu</strong>, whom he constantly antagonizes. His rebellious attitude and disciplinary issues have led to him being barred from joining the other workers on most tasks, relegating him to menial jobs like cleaning latrines in the habitation area.</p><p>Though outwardly defiant, Ivan dreams of escaping what he sees as a life of slavery and charting his own course. He only trusts a few people, and most of the station’s staff are not on that list.</p><p></p><h3></h3>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!4rQKoSgMHj1fmnKV.o3xcRYshgIPeRDiI"
+    },
+    {
+      "sort": 400000,
+      "name": "KIM PHAM - ESPECIALISTA EM MERGULHO / MÉDICO",
+      "type": "text",
+      "_id": "iuvXYcHXS1hT9qIQ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Kim Pham</strong></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/KIM_PHAM/KIM_PHAM.png\" height=\"300\"><p><strong>Occupation:</strong> Diving Specialist / Medic<br><strong>Age:</strong> 28<br><strong>Personality:</strong> Curious</p><hr><h3><strong><br><br>ATTRIBUTES</strong></h3><p><strong>STRENGTH:</strong> 3<br><strong>WITS:</strong> 4<br><strong>EMPATHY:</strong> 5<br><strong>AGILITY:</strong> 2</p><p><strong>HEALTH:</strong> 3</p><hr><h3><strong><br><br>SKILLS</strong></h3><ul><li><strong>Observation:</strong> 3</li><li><strong>Comtech:</strong> 3</li><li><strong>Medical Aid:</strong> 4</li></ul><hr><h3><strong><br><br>TALENTS</strong></h3><ul><li><strong>Field Surgeon</strong></li></ul><p></p><p><strong>Signature Item:</strong> Old Family Photo</p><hr><h3><strong><br><br>EQUIPMENT</strong></h3><ul><li><strong>Personal Med Kit</strong></li><li><strong>AMVIL'S HEART! (Naproleve -UPP) (2 doses)</strong></li></ul><hr><h3><strong><br><br>Backstory</strong></h3><p>Dr. Kim Pham grew up in a farming cooperative far from the ocean, dreaming of exploring alien worlds and charting new frontiers. A trailblazer in her family, she became the first to receive formal education, choosing a career in medicine.</p><p>Driven by her passion for discovery, she seized the opportunity to work on an underwater station on a distant alien planet, acing every underwater skills test with perfect scores.</p><p>However, shortly after her arrival at <strong>Matvey Station</strong>, Pham learned that her family had perished in a devastating—yet preventable—farming accident. This tragedy shattered her trust in the UPP’s promises to care for its citizens, leaving her disillusioned and burdened with regret over her decision to join.</p><p>Despite her internal conflict, Pham remains a skilled and compassionate medic, committed to helping those in her care.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!4rQKoSgMHj1fmnKV.iuvXYcHXS1hT9qIQ"
+    },
+    {
+      "sort": 500000,
+      "name": "DIEGO ALVAREZ - UPP State Agent",
+      "type": "text",
+      "_id": "OEP8Btu6HckIfKUA",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Diego Alvarez</strong></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/DIEGO_ALVAREZ/DIEGO_ALVAREZ.png\" height=\"300\"><p><strong>Occupation:</strong> UPP State Agent<br><strong>Age:</strong> 31<br><strong>Personality:</strong> Optimistic</p><hr><p></p><p></p><h3><strong>ATTRIBUTES</strong></h3><p><strong>STRENGTH:</strong> 3<br><strong>WITS:</strong> 5<br><strong>EMPATHY:</strong> 3<br><strong>AGILITY:</strong> 3</p><p><strong>HEALTH:</strong> 3</p><hr><p></p><p></p><h3><strong>SKILLS</strong></h3><ul><li><strong>Close Combat:</strong> 2</li><li><strong>Observation:</strong> 2</li><li><strong>Survival:</strong> 1</li><li><strong>Comtech:</strong> 4</li><li><strong>Ranged Combat:</strong> 1</li></ul><hr><p></p><p></p><h3><strong>TALENTS</strong></h3><ul><li><strong>Cunning</strong></li></ul><p></p><p><strong>Signature Item:</strong> UPP Shoulder Patch</p><hr><p></p><p></p><h3><strong>EQUIPMENT</strong></h3><ul><li><strong>Custom Underwater Power Tool</strong> (DMG 2)</li></ul><hr><p></p><p></p><h3><strong>Backstory</strong></h3><p>Born on an aquatic world plagued by scarcity and hardship, Diego Alvarez grew up in a community where survival was a daily struggle. Recognized for his aptitude in science, he earned a spot in a UPP state cooperative, specializing in underwater mining and serving as a company representative.</p><p>Despite his corporate role, Diego is not the stereotypical company agent. His actions are guided by compassion and humanism rather than ambition or ruthlessness. His optimistic outlook and genuine desire to help others set him apart from his peers.</p><p>Recently assigned to <strong>Matvey Station</strong> as part of an interplanetary exchange program, Diego enjoyed a carefree evening of drinking and card games with <strong>Dubov</strong> and <strong>Frenkel</strong>. Unfortunately, he overslept, missing the scheduled elevator departure to the surface. He awakens to find the station in lockdown and chaos unfolding around him.</p><p></p><p></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!4rQKoSgMHj1fmnKV.OEP8Btu6HckIfKUA"
+    },
+    {
+      "sort": 0,
+      "name": "PLAYERS LIST",
+      "type": "text",
+      "_id": "yJLj8LZPja7gIedL",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This list is designed for the players, keeping any hidden agendas and secret information out of sight, allowing them to choose their characters freely.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!4rQKoSgMHj1fmnKV.yJLj8LZPja7gIedL"
+    }
+  ],
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3,
+    "WpgL5mgqYVSQ6ZA5": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4e1743559082de86224dce7a62efaea42ee5e962"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "JournalEntry.mK1MWYYf3GCsSJeX",
+    "duplicateSource": "JournalEntry.mK1MWYYf3GCsSJeX",
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734871636534,
+    "modifiedTime": 1734871636534,
+    "lastModifiedBy": "WpgL5mgqYVSQ6ZA5",
+    "exportSource": null
+  },
+  "_id": "4rQKoSgMHj1fmnKV",
+  "categories": [],
+  "_key": "!journal!4rQKoSgMHj1fmnKV"
+}

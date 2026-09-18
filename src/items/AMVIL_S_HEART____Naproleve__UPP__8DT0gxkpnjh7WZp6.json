@@ -1,0 +1,170 @@
+{
+  "name": "AMVIL'S HEART!  (Naproleve -UPP)",
+  "type": "item",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "effects": [],
+  "folder": "q3HVQjtmZpk4C4NT",
+  "sort": 200000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "390a18f69788880f4db39017cfdf674382087546"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "6",
+        "label": "Text"
+      },
+      "active": false,
+      "completed": false
+    },
+    "attributes": {
+      "weight": {
+        "value": 0,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "US$20.00",
+        "label": "Number"
+      },
+      "comment": {
+        "value": "Reduces Stress Level to zero. \n(Reduce stress to 0 on character sheet when activated)\n\nAn injectable instant pain reliever for all strains, stresses, and irritations. Recommended for use during any self-inflicted caesarean performed to extract an unconventional fetus from the womb. Immediately reduces the patient's Stress Level to zero. Warning: an overdose of Naproleve can have an intoxicating effect. Each dose beyond the first in the same Shift gives a -1 modification to all Agility based skill rolls until the end of the Shift.",
+        "label": "Text"
+      },
+      "food": {
+        "value": 0,
+        "label": "Number"
+      },
+      "water": {
+        "value": 0,
+        "label": "Number"
+      },
+      "power": {
+        "value": 0,
+        "label": "Stress"
+      },
+      "airsupply": {
+        "value": 0,
+        "label": "Number"
+      },
+      "quantity": {
+        "value": 1
+      },
+      "notes": {
+        "notes": ""
+      }
+    },
+    "modifiers": {
+      "attributes": {
+        "health": {
+          "value": 0,
+          "label": "Health"
+        },
+        "stress": {
+          "value": 0,
+          "label": "Stress"
+        },
+        "str": {
+          "value": 0,
+          "label": "Strength"
+        },
+        "wit": {
+          "value": 0,
+          "label": "Wits"
+        },
+        "agl": {
+          "value": 0,
+          "label": "Agility"
+        },
+        "emp": {
+          "value": 0,
+          "label": "Empathy"
+        }
+      },
+      "skills": {
+        "heavyMach": {
+          "value": 0,
+          "label": "Heavy Machinery",
+          "ability": "str"
+        },
+        "closeCbt": {
+          "value": 0,
+          "label": "Close Combat",
+          "ability": "str"
+        },
+        "stamina": {
+          "value": 0,
+          "label": "Stamina",
+          "ability": "str"
+        },
+        "rangedCbt": {
+          "value": 0,
+          "label": "Ranged Combat",
+          "ability": "agl"
+        },
+        "mobility": {
+          "value": 0,
+          "label": "Mobility",
+          "ability": "agl"
+        },
+        "piloting": {
+          "value": 0,
+          "label": "Piloting",
+          "ability": "agl"
+        },
+        "command": {
+          "value": 0,
+          "label": "Command",
+          "ability": "emp"
+        },
+        "manipulation": {
+          "value": 0,
+          "label": "Manipulation",
+          "ability": "emp"
+        },
+        "medicalAid": {
+          "value": 0,
+          "label": "Medical Aid",
+          "ability": "emp"
+        },
+        "observation": {
+          "value": 0,
+          "label": "Observation",
+          "ability": "wit"
+        },
+        "survival": {
+          "value": 0,
+          "label": "Survival",
+          "ability": "wit"
+        },
+        "comtech": {
+          "value": 0,
+          "label": "Comtech",
+          "ability": "wit"
+        }
+      }
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "YEoPmwinvi5w1FW6": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Item.CfhL79vv2m50HzaU",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "8DT0gxkpnjh7WZp6",
+  "_key": "!items!8DT0gxkpnjh7WZp6"
+}

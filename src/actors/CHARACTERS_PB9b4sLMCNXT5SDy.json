@@ -1,0 +1,26 @@
+{
+  "name": "CHARACTERS",
+  "sorting": "m",
+  "folder": "293xp0dxuPEQLZdC",
+  "type": "Actor",
+  "_id": "PB9b4sLMCNXT5SDy",
+  "sort": 0,
+  "color": "#1c7e01",
+  "flags": {
+    "scene-packer": {
+      "hash": "35e1387d9c0002526c6ceec98ccd06ee1001aa64"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471467,
+    "modifiedTime": 1734804471467,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "description": "",
+  "_key": "!folders!PB9b4sLMCNXT5SDy"
+}

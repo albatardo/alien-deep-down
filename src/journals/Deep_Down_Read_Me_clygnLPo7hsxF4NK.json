@@ -1,0 +1,539 @@
+{
+  "folder": "3WEbekbKztXvhiAj",
+  "name": "Deep Down Read Me",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Token Variant Art module",
+      "type": "text",
+      "_id": "rqPLOlmFuv7ZWIVo",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>If you install Token Variant Art, it will allow you to quickly change the token's image, some actors have been pre-configured to have more images.</p><p></p><p>Characters in particular will have:</p><p>normal, facehugged and in a diving suit<br><br></p><img src=\"modules/alien-deep-down/assets/other/READ-ME/variant_arts.png\" height=\"300\"><p><br><br>https://foundryvtt.com/packages/token-variants/</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.rqPLOlmFuv7ZWIVo"
+    },
+    {
+      "sort": 200000,
+      "name": "Bioluminescence FX",
+      "type": "text",
+      "_id": "rZqCQAIGcD7B6OCS",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The bioluminescence effect will exist on some tokens by default and can be applied using the provided macro.</p><p></p><p>An easy way to use it is to toggle the Bioluminos \"invisible\" token on and off, it is represented by a transparent token image, so it is invisible, but the effect will be visible.</p><p></p><img src=\"modules/alien-deep-down/assets/other/READ-ME/BIOLUMINOUS.png\" height=\"300\"><p><br><br><br>@UUID[Macro.nqxNjeCDJ2cnqyX9]{Bioluminescence Ligth}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.rZqCQAIGcD7B6OCS"
+    },
+    {
+      "sort": 300000,
+      "name": "Deactivate the elevator automation",
+      "type": "text",
+      "_id": "cKuGucmQ3JjbCzlO",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Deactivate the elevator automation</strong> after the arrival of the characters to prevent it from going up automatically.<br><br>YOU CAN REACTIVATE AS NEEDED!<br></p><img src=\"modules/alien-deep-down/assets/other/READ-ME/elevator.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.cKuGucmQ3JjbCzlO"
+    },
+    {
+      "sort": 400000,
+      "name": "CAGE!",
+      "type": "text",
+      "_id": "6BG65RkN22I8yhvW",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A collection of monsters for your convenience!</p><p></p><p> Keep them inside the square; there are walls to prevent players from seeing the lights. </p><p></p><p>Remember to make them invisible if you don't want the light to be seen!</p><p></p><p><br>Bioluminescence Ligth macro</p><p><br></p><p>@UUID[Macro.nqxNjeCDJ2cnqyX9]{Bioluminescence Ligth}</p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.6BG65RkN22I8yhvW"
+    },
+    {
+      "sort": 500000,
+      "name": "Simple Seabed",
+      "type": "text",
+      "_id": "ifdSo760ubjm3tyz",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A simple map of the seabed designed for exploratory walks and combat scenarios, ideal for when characters venture away from the station to explore areas like the crashed ship.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.ifdSo760ubjm3tyz"
+    },
+    {
+      "sort": 600000,
+      "name": "Inside the crashed ship",
+      "type": "text",
+      "_id": "Ql2CKojnAdLAMqZn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Inside the crashed ship</p><p></p><p>There is an invisible tile on the map. <br><br>It will reveal itself automatically if you have the Monk's Active Tile Trigger module enabled; otherwise, you'll need to reveal it manually. <br><br>Additionally, some invisible walls block the path unless the ship is entered from the side.<br><br></p><img src=\"modules/alien-deep-down/assets/other/READ-ME/crashed-ship.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.Ql2CKojnAdLAMqZn"
+    },
+    {
+      "sort": 700000,
+      "name": "Volkov",
+      "type": "text",
+      "_id": "Ubbp9iOBvRHYr4Kx",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Change to VISIBLE when you want Volkov image to appear, or DOUBLE CLICK it if MONK ACTIVE TILES MODULE is active.</p><p>@UUID[JournalEntry.2A70WlvyYoIRKyer.JournalEntryPage.0ohtJ7z5s7BvNcaK#in-the-surface-umbilical]{In the SURFACE UMBILICAL}</p><p></p><p></p><img src=\"modules/alien-deep-down/assets/other/READ-ME/volkov.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.Ubbp9iOBvRHYr4Kx"
+    },
+    {
+      "sort": 800000,
+      "name": "FULL MAP",
+      "type": "text",
+      "_id": "gEItpoW4H3M99GTb",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This map serves only as support and information, it is huge, has no walls, light, etc…<br><br><br></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.gEItpoW4H3M99GTb"
+    },
+    {
+      "sort": 900000,
+      "name": "Quick Character Reference",
+      "type": "text",
+      "_id": "HOlzgciXFdDsWHjl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<img src=\"modules/alien-deep-down/assets/tokens/CIXIN_LIU/CIXIN_LIU.png\" height=\"300\"><p></p><p class=\"MsoNormal\"><strong>FULL NAME:</strong> CIXIN LIU</p><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> STATION ENGINEER</p><p class=\"MsoNormal\"><strong>AGE:</strong> 52</p><p></p><p><span style=\"mso-ansi-language:EN-US\"> </span></p><hr><p class=\"MsoNormal\"><span style=\"mso-ansi-language:EN-US\"> </span></p><p class=\"MsoNormal\"><span style=\"mso-ansi-language:EN-US\"> </span></p><img src=\"modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/OLGA_KRAMARENKO_prt.png\" height=\"300\"><p><strong>FULL NAME:</strong> Cpt. Olga Kramarenko</p><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> MSS Agent</p><p class=\"MsoNormal\"><strong>AGE:</strong> 36<span style=\"font-family:'Aptos',sans-serif\"><br style=\"mso-special-character:line-break;page-break-before:always\"></span></p><hr><p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%;mso-ascii-font-family:Aptos;mso-fareast-font-family:'Times New Roman';mso-hansi-font-family:Aptos;mso-bidi-font-family:'Times New Roman';mso-fareast-language:PT-BR\"> </span></p><img src=\"modules/alien-deep-down/assets/tokens/IVAN_DUBOV/IVAN_DUBOV.png\" height=\"300\"><p></p><p><strong>FULL NAME:</strong> IVAN DUBOV</p><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> MACHINE OPERATOR</p><p class=\"MsoNormal\"><strong>AGE:</strong> 25</p><hr><p><span style=\"font-family:'Aptos',sans-serif\"><br style=\"mso-special-character:line-break;page-break-before:always\"></span></p><img src=\"modules/alien-deep-down/assets/tokens/KIM_PHAM/KIM_PHAM.png\" height=\"300\"><p class=\"MsoNormal\"><span style=\"font-family:'Times New Roman',serif\"> </span></p><p><strong>FULL NAME:</strong> KIM PHAM</p><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> DIVING SPECIALIST / DOCTOR</p><p class=\"MsoNormal\"><strong>AGE:</strong> 28</p><p></p><hr><p><span style=\"font-family:'Aptos',sans-serif\"><br style=\"mso-special-character:line-break;page-break-before:always\"></span></p><img src=\"modules/alien-deep-down/assets/tokens/DIEGO_ALVAREZ/DIEGO_ALVAREZ.png\" height=\"300\"><p class=\"MsoNormal\"><span style=\"font-family:'Times New Roman',serif\"> </span></p><p><strong>FULL NAME:</strong> DIEGO ALVAREZ</p><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> STATE COMPANY UPP AGENT</p><p class=\"MsoNormal\"><strong>AGE:</strong> 31</p><p></p><hr><hr><p><strong>SUBSTITUTES</strong><span style=\"font-family:'Aptos',sans-serif\"><br style=\"mso-special-character:line-break;page-break-before:always\"></span></p><img src=\"modules/alien-deep-down/assets/tokens/MARIA_DEL_CAMPOS/MARIA_DEL_CAMPOS.png\" height=\"300\"><p></p><p class=\"MsoNormal\"><span style=\"font-family:'Times New Roman',serif\"> </span></p><p style=\"text-align:center\"></p><p><strong>FULL NAME:</strong> MARIA DEL CAMPOS</p><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> HYDROPONICS</p><p class=\"MsoNormal\"><strong>AGE:</strong> 21</p><p></p><hr><p></p><img src=\"modules/alien-deep-down/assets/tokens/LI_QIANG/LI_QIANG.png\" height=\"300\"><p class=\"MsoNormal\"><span style=\"font-family:'Times New Roman',serif\"> </span></p><p style=\"text-align:center\"></p><p><span style=\"font-family:'Aptos',sans-serif\"><br></span><strong>FULL NAME:</strong> LI QIANG</p><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> SUPERVISOR</p><p class=\"MsoNormal\"><strong>AGE:</strong> 47</p><p></p><hr><p><span style=\"font-family:'Aptos',sans-serif\"><br style=\"mso-special-character:line-break;page-break-before:always\"></span></p><img src=\"modules/alien-deep-down/assets/tokens/Anya_Zomorova/Anya_Zomorova_prt.png\" height=\"300\"><p class=\"MsoNormal\"><span style=\"font-family:'Times New Roman',serif\"> </span></p><p style=\"text-align:center\"><span style=\"font-family:'Aptos',sans-serif\"><strong>SUBSTITUTO</strong></span></p><p><br>NOME COMPLETO: Babushka Anya Zomorova</p><p><strong>FULL NAME:</strong> Babushka Anya Zomorova</p><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> Wherever she wants, former diver</p><p class=\"MsoNormal\"><strong>AGE:</strong> 71</p><p></p><p></p><hr><p></p><img src=\"modules/alien-deep-down/assets/tokens/Guilhermo_Petrosky_Frenkel/Guilhermo_Petrosky_Frenkel_PRT.png\" height=\"300\"><p style=\"text-align:center\"><span style=\"font-family:'Aptos',sans-serif\"><strong><br></strong></span></p><p></p><p><strong>FULL NAME:</strong> Guilhermo Petrosky Frenkel</p><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> Contech Diver</p><p class=\"MsoNormal\"><strong>AGE:</strong> 30</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.HOlzgciXFdDsWHjl"
+    },
+    {
+      "sort": 1000000,
+      "name": "HYDROMORPH IMAGES",
+      "type": "text",
+      "_id": "1dQrolItYCsywJAU",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><p></p><p></p><p></p><p></p><p></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_(1).png\" height=\"300\"><img src=\"modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_(4).png\" height=\"300\"><img src=\"modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_(2).jpg\" height=\"300\"><img src=\"modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_(3).jpg\" height=\"300\"><img src=\"modules/alien-deep-down/assets/tokens/Hydrohugger/Hidrohugger.png\" height=\"300\"><img src=\"modules/alien-deep-down/assets/tokens/hydrobuster/hidrobuster.jpg\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.1dQrolItYCsywJAU"
+    },
+    {
+      "sort": 1100000,
+      "name": "Rise or Die Animation",
+      "type": "text",
+      "_id": "PgD5IrzECbIfP78F",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><p>A cool animation is provided for the rise and die sequence, but it REQUIRES MONK ACTIVE TILES MODULE    AND   TAGGER  MODULE!!!!<br><br>just double click on the tile</p><p></p><p></p><p></p><img src=\"modules/alien-deep-down/assets/other/READ-ME/rise.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.PgD5IrzECbIfP78F"
+    },
+    {
+      "sort": 0,
+      "name": "Animated login",
+      "type": "text",
+      "_id": "rYRQdFe7eAGZaTZq",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><p>If you're looking for a nice animated login for your game, copy paste the address (bellow) as the background image in your World settings window!<br></p><p>If you didn’t know, animated WEBP files work like GIFs and are fully supported in that configuration. 🎮</p><p><br>The SPLASH was created Using scenes from the Movie \"Underwater\" public Trailer, 20th Century FOX - Go see IT if you like!</p><p></p><p><strong>modules/alien-deep-down/assets/other/deep_down_SPLASH.webp<br><br></strong></p><img src=\"modules/alien-deep-down/assets/other/READ-ME/nice-login.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.rYRQdFe7eAGZaTZq"
+    },
+    {
+      "sort": 1300000,
+      "name": "Modules",
+      "type": "text",
+      "_id": "uak3QZVOT8D02qR4",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>WHY ALL THESE MODULES?!<br></strong></p><h2><strong>REQUIRED:</strong></h2><ul><li><p><strong>FX MASTER</strong><br>The only one that can create these beautiful effects on the scene, especially underwater. The native weather in Foundry just can't achieve this!</p></li><li><p><strong>MONK ACTIVE TILES TRIGGER</strong><br>Helps a lot with automations! You can live without it, but trust me, it’s a sad life.</p></li><li><p><strong>TAGGER</strong><br>Needed for the MONK module to work properly.<br><br></p></li></ul><h2><strong>SUGGESTED:</strong></h2><p></p><ul><li><p><strong>Easy Regions</strong><br>Enhances the text when teleporting tokens, making it much smoother.</p></li><li><p><strong>Journal Scaler</strong><br>If you have vision impairments, this will help a lot.</p></li><li><p><strong>MONK SCENE NAVIGATION</strong><br>Helps with scene organization, keeping things neat.</p></li><li><p><strong>TOKEN MAGIC FX</strong><br>Why FX? Well... it’s pretty!</p></li><li><p><strong>Share Media</strong><br>The best way to show media to your players!</p></li><li><p><strong>Token Variant Arts</strong><br>It takes time to configure, but helps with tokens that have multiple images, which is great for immersion.</p></li></ul><p></p><p></p><p><strong>A last-minute suggestion:</strong></p><p><br>Use <strong>Lock View</strong> to fix some scenes if you have the time. All intros and the rise and fall should be pre-configured, but I think the GM should also activate it in the module settings. Since I can't automate this, I leave it as a suggestion.<br><br><strong>Library: Scene Packer</strong><br>If you make all this and the module breaks, or journal links break, this solves that kind of problem and brings some automation. Take a look at its README!<br><br>I'm trying to remove this requirement since it is braking the music configuration for scenes.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!clygnLPo7hsxF4NK.uak3QZVOT8D02qR4"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3,
+    "WpgL5mgqYVSQ6ZA5": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "sourceId": "JournalEntry.WmgzHFNduuw3OlM2",
+      "hash": "02625ef6ad87783b308df3784305cd8a3b9fd3b6"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alien-deep-down.journals.JournalEntry.DvNvUibSjzm7al3p",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734871636534,
+    "modifiedTime": 1734871636534,
+    "lastModifiedBy": "WpgL5mgqYVSQ6ZA5",
+    "exportSource": null
+  },
+  "_id": "clygnLPo7hsxF4NK",
+  "sort": 0,
+  "categories": [],
+  "_key": "!journal!clygnLPo7hsxF4NK"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Slow float",
+  "type": "script",
+  "author": "h1BfzYYX7qtp2kbH",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "scope": "global",
+  "command": "let params =\n    [{\n        filterType: \"transform\",\n        filterId: \"dodgeStance\",\n        padding: 50,\n        animated:\n        {\n            translationX:\n            {\n                animType: \"sinOscillation\",\n                val1: -0.012,\n                val2: +0.012,\n                loopDuration: 30000,\n            },\n            translationY:\n            {\n                animType: \"cosOscillation\",\n                val1: -0.012,\n                val2: +0.012,\n                loopDuration: 30000,\n            }\n        }\n    }];\n\nTokenMagic.addUpdateFiltersOnSelected(params);",
+  "folder": "CMFSLqecf96SGXJV",
+  "sort": 12500,
+  "flags": {
+    "furnace": {
+      "runAsGM": false
+    },
+    "core": {},
+    "combat-utility-belt": {
+      "macroTrigger": ""
+    },
+    "scene-packer": {
+      "hash": "bf5de936ecda1db519a142f1740ce6af5b68344f"
+    }
+  },
+  "_id": "2SajYYIiT0yUQQrd",
+  "ownership": {
+    "default": 0,
+    "cA75vJNHudoCmzcq": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Macro.2ADKeo6dS1Ncp99Z",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734807396777,
+    "modifiedTime": 1734807396777,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!macros!2SajYYIiT0yUQQrd"
+}

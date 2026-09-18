@@ -1,0 +1,26 @@
+{
+  "name": "Hidromorph",
+  "sorting": "a",
+  "folder": "293xp0dxuPEQLZdC",
+  "type": "Actor",
+  "_id": "OCngAom6ABJigekb",
+  "sort": 150000,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "3038fcf8991d6f8fba72b16be60c7d2bfc35573d"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471467,
+    "modifiedTime": 1734804471467,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "description": "",
+  "_key": "!folders!OCngAom6ABJigekb"
+}

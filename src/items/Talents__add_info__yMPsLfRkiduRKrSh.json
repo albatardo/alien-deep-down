@@ -1,0 +1,26 @@
+{
+  "name": "Talents (add info)",
+  "sorting": "a",
+  "folder": "OEXljdGM7qqYtAqK",
+  "type": "Item",
+  "_id": "yMPsLfRkiduRKrSh",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "d18a9716ddf25bbbea1667750d58ec012a2a11f9"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460491,
+    "modifiedTime": 1734804460491,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!yMPsLfRkiduRKrSh"
+}

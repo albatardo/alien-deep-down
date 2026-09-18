@@ -1,0 +1,87 @@
+{
+  "name": "Underwater Powered Saw",
+  "type": "weapon",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "effects": [],
+  "folder": "2UeLQByS9kcZtALz",
+  "sort": 400000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "1dee143a3a7234c467cc7f4455fa6abef092cd9a"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "2",
+        "label": "Text"
+      },
+      "active": false
+    },
+    "attributes": {
+      "bonus": {
+        "value": 0,
+        "label": "Number"
+      },
+      "damage": {
+        "value": 2,
+        "label": "Number"
+      },
+      "weight": {
+        "value": 0.5,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "$250.00",
+        "label": "Number"
+      },
+      "range": {
+        "value": "1",
+        "label": "Text"
+      },
+      "class": {
+        "value": "Close Combat",
+        "label": "Text"
+      },
+      "rounds": {
+        "value": 0,
+        "label": "Number"
+      },
+      "power": {
+        "value": 2,
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<p><br><br>A versatile, power-operated saw and cutters. It consumes power to function, enabling specific rolls but providing no bonuses.</p>",
+        "label": "Text"
+      },
+      "quantity": {
+        "value": 1
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "YEoPmwinvi5w1FW6": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.mBvwfDCm5butGbru",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "eK8h1ZzteepnMcsz",
+  "_key": "!items!eK8h1ZzteepnMcsz"
+}

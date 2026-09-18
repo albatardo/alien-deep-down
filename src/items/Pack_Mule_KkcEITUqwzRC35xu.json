@@ -1,0 +1,55 @@
+{
+  "_id": "KkcEITUqwzRC35xu",
+  "name": "Pack Mule",
+  "type": "talent",
+  "img": "systems/alienrpg/images/icons/sprint.webp",
+  "effects": [],
+  "folder": "yMPsLfRkiduRKrSh",
+  "sort": 300000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "dee313b0270614d83bc6123b8f105e1c53f16f36"
+    }
+  },
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "career": {
+        "value": "1",
+        "label": "career"
+      },
+      "comment": {
+        "value": "<p>Copyrighted. Please add information here as I am prohibited from doing so.</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "023AT5ERR8Ij00Wy": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "PiPXYCkUi20oCQ9V": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-talents-general.TTcX3RxfHjXKlV7d",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!items!KkcEITUqwzRC35xu"
+}

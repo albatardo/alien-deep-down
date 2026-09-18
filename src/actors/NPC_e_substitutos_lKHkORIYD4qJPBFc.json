@@ -1,0 +1,26 @@
+{
+  "name": "NPC e substitutos",
+  "sorting": "a",
+  "folder": "293xp0dxuPEQLZdC",
+  "type": "Actor",
+  "_id": "lKHkORIYD4qJPBFc",
+  "sort": 50000,
+  "color": "#bd661f",
+  "flags": {
+    "scene-packer": {
+      "hash": "681e12c5a3d4b234a2751c2d575a9aaafee0daa4"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471467,
+    "modifiedTime": 1734804471467,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "description": "",
+  "_key": "!folders!lKHkORIYD4qJPBFc"
+}

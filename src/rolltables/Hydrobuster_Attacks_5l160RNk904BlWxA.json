@@ -1,0 +1,142 @@
+{
+  "name": "Hydrobuster Attacks",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "results": [
+    {
+      "_id": "DI0ToFQYzfEpYhnW",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Escape: </b>  <br>Hydrobuster flees using bioluminescence, into the nearest hiding place, in water if possible.",
+      "name": "",
+      "_key": "!tables.results!5l160RNk904BlWxA.DI0ToFQYzfEpYhnW"
+    },
+    {
+      "_id": "Ki3ksWdttCGBqR0X",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Terrorizing Hiss: </b>  <br> The Hydrobuster  jumps towards a target, flashing its bioluminescence skin. The target must make an immediate Panic Roll.",
+      "name": "",
+      "_key": "!tables.results!5l160RNk904BlWxA.Ki3ksWdttCGBqR0X"
+    },
+    {
+      "_id": "00lBfemGMCb7znwU",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Leg Slash: </b>  <br> With a coiling movement the Hydrobuster slashes its target's leg, with a razor-sharp fin. [[6db]] Base Dice, Damage 2. If the attack causes damage, inflicts critical injury #53 (even if the victim is not Broken), triggering an immediate Panic Roll.",
+      "name": "",
+      "_key": "!tables.results!5l160RNk904BlWxA.00lBfemGMCb7znwU"
+    },
+    {
+      "_id": "5TkaMT4E3WajPB3s",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Call for aid: </b>  <br>The Hydrobuster  squeals a high-pitched shriek that will call for any hydromorph in the vicinity, it will come to aid in the protection of the infant in [[1db]] rounds. If none is nearby, it will echo in the water and more will come later.",
+      "name": "",
+      "_key": "!tables.results!5l160RNk904BlWxA.5TkaMT4E3WajPB3s"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": false,
+  "displayRoll": false,
+  "folder": "LrpFZIuICZfNAr2v",
+  "sort": 200000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "73e9b15dd79eb871110121bd135773af1e0f2d71"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "lS61ysx9qdaPA2WY": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "description": "",
+  "_stats": {
+    "compendiumSource": "RollTable.JNsHgv2lzUvB6UcX",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804381756,
+    "modifiedTime": 1734804381756,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "5l160RNk904BlWxA",
+  "_key": "!tables!5l160RNk904BlWxA"
+}

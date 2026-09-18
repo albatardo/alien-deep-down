@@ -1,0 +1,194 @@
+{
+  "name": "Hydromorph Attacks",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "results": [
+    {
+      "_id": "ulwSTrcOU4OS1KlN",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Bio-luminescence Display:</b> <br> The Hydromorph flashes bright lights and colors, erupting in a dazzling display used to mesmerise and stun their prey. The target gains +1 STRESS and must make a WITS roll or be stunned and lose their next Slow Action.",
+      "name": "",
+      "_key": "!tables.results!wXgfh3p23uW05pb6.ulwSTrcOU4OS1KlN"
+    },
+    {
+      "_id": "tEqWkEEHbK7E0eHR",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Testing Its Prey: </b> <br> The Tail reach out and to drag the player away into the blackness (2 zones away, the creature will move 1 now and one in it's next move and then release the victim). Attack with [[8db]] Base Dice, Dam 1. If the attack hits the PC will be taken, is disorientated and they drop any hand-held items, and they must make an Immediate Panic Roll, their air hose (if applicable) is disconnected if it is stressed (like moving under obstacles, passing narrow spaces, etc).",
+      "name": "",
+      "_key": "!tables.results!wXgfh3p23uW05pb6.tEqWkEEHbK7E0eHR"
+    },
+    {
+      "_id": "8sqjdmFVj2PY5swb",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Drain Energy : </b> <br>The Hydromorph wraps itself around its prey and tries to siphon the victim’s energy. Attack with [[7db]] Base Dice, Dam 1. For each point of damage, the victim loses 1 point of Power from an item in their possession that has a Power Supply. If there is no power the victim suffers the damage normally.",
+      "name": "",
+      "_key": "!tables.results!wXgfh3p23uW05pb6.8sqjdmFVj2PY5swb"
+    },
+    {
+      "_id": "PjnUu6kmu6DDmNkU",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Tearing Tentacles: </b> <br> The Hydromorph have multiple tiny barbs and hooks in it's body that it uses to grab and tear their prey. These lacerate whatever the victim is wearing. They attack with [[8db]] Base Dice, Dam 1. Each point of damage automatically damages the victim’s armor, if they are wearing any. Any remaining damage that does not hit armor damages the victim as normal. Make an Immediate Panic Roll.",
+      "name": "",
+      "_key": "!tables.results!wXgfh3p23uW05pb6.PjnUu6kmu6DDmNkU"
+    },
+    {
+      "_id": "FnosZygCZZtno5FW",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Tentacle Lash: </b> <br> The beast’s tail whips at its poor target. Attack with [[9db]] Base Dice, Dam 2.",
+      "name": "",
+      "_key": "!tables.results!wXgfh3p23uW05pb6.FnosZygCZZtno5FW"
+    },
+    {
+      "_id": "J9GMqRdv9mF3uuf5",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Headbite: </b> <br> The Hydromorph attempts to feed, with a [[10db]] Dice Attack, Dam 1. If any damage is suffered the victim suffers an immediate Critical Injury.",
+      "name": "",
+      "_key": "!tables.results!wXgfh3p23uW05pb6.J9GMqRdv9mF3uuf5"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": false,
+  "displayRoll": false,
+  "folder": "LrpFZIuICZfNAr2v",
+  "sort": 900000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "eeaee9d58599c3779398efe09f1ad940ac254736"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "zhX1qJxLmSnJj9r1": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "description": "",
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-tables-attack.SLCOYdKLRGTE3Hlp",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804381756,
+    "modifiedTime": 1734804381756,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "wXgfh3p23uW05pb6",
+  "_key": "!tables!wXgfh3p23uW05pb6"
+}

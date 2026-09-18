@@ -1,0 +1,116 @@
+{
+  "_id": "qtzEFCCbqHRLl8Uh",
+  "name": "Sub Table Hydrohugger Attacks",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "WBItoCQpT5fPN4PJ",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Hydrohugger catches its victim, causing them to fall prone. Panic Roll required.",
+      "name": "",
+      "_key": "!tables.results!qtzEFCCbqHRLl8Uh.WBItoCQpT5fPN4PJ"
+    },
+    {
+      "_id": "fEr9ue5xhbySDXe3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Hydrohugger catches its victim, tangling their arms. Held items unusable. Panic Roll required.",
+      "name": "",
+      "_key": "!tables.results!qtzEFCCbqHRLl8Uh.fEr9ue5xhbySDXe3"
+    },
+    {
+      "_id": "D2s2E1QN6SzOTFh3",
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Hydrohugger catches its victim, choking them. Suffer drowning effects. Panic Roll required.",
+      "name": "",
+      "_key": "!tables.results!qtzEFCCbqHRLl8Uh.D2s2E1QN6SzOTFh3"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "LrpFZIuICZfNAr2v",
+  "sort": 600000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "f350bc01905760195ed7446cb9af573755c25958"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "zhX1qJxLmSnJj9r1": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-tables-attack.YqYbuQLiLG1WErlW",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804381756,
+    "modifiedTime": 1734804381756,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!tables!qtzEFCCbqHRLl8Uh"
+}

@@ -1,0 +1,389 @@
+{
+  "folder": "293xp0dxuPEQLZdC",
+  "name": "Empty Dive Suit",
+  "type": "character",
+  "_id": "hRkVIU1ene9lFTDI",
+  "img": "modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_prt.jpg",
+  "system": {
+    "header": {
+      "health": {
+        "value": 0,
+        "label": "Health",
+        "mod": 0,
+        "max": 0,
+        "calculatedMax": 0
+      },
+      "stress": {
+        "value": 0,
+        "label": "Stress",
+        "mod": 0,
+        "max": 10
+      },
+      "npc": false
+    },
+    "attributes": {
+      "str": {
+        "value": 0,
+        "label": "Strength",
+        "mod": 0
+      },
+      "wit": {
+        "value": 0,
+        "label": "Wits",
+        "mod": 0
+      },
+      "agl": {
+        "value": 0,
+        "label": "Agility",
+        "mod": 0
+      },
+      "emp": {
+        "value": 0,
+        "label": "Empathy",
+        "mod": 0
+      }
+    },
+    "skills": {
+      "heavyMach": {
+        "value": 0,
+        "label": "Heavy Machinery",
+        "ability": "str",
+        "description": "Heavy Machinery",
+        "mod": 0
+      },
+      "closeCbt": {
+        "value": 0,
+        "label": "Close Combat",
+        "ability": "str",
+        "description": "Close Combat",
+        "mod": 0
+      },
+      "stamina": {
+        "value": 0,
+        "label": "Stamina",
+        "ability": "str",
+        "description": "Stamina",
+        "mod": 0
+      },
+      "rangedCbt": {
+        "value": 0,
+        "label": "Ranged Combat",
+        "ability": "agl",
+        "description": "Ranged Combat",
+        "mod": 0
+      },
+      "mobility": {
+        "value": 0,
+        "label": "Mobility",
+        "ability": "agl",
+        "description": "Mobility",
+        "mod": 0
+      },
+      "piloting": {
+        "value": 0,
+        "label": "Piloting",
+        "ability": "agl",
+        "description": "Piloting",
+        "mod": 0
+      },
+      "command": {
+        "value": 0,
+        "label": "Command",
+        "ability": "emp",
+        "description": "Command",
+        "mod": 0
+      },
+      "manipulation": {
+        "value": 0,
+        "label": "Manipulation",
+        "ability": "emp",
+        "description": "Manipulation",
+        "mod": 0
+      },
+      "medicalAid": {
+        "value": 0,
+        "label": "Medical Aid",
+        "ability": "emp",
+        "description": "Medical Aid",
+        "mod": 0
+      },
+      "observation": {
+        "value": 0,
+        "label": "Observation",
+        "ability": "wit",
+        "description": "Observation",
+        "mod": 0
+      },
+      "survival": {
+        "value": 0,
+        "label": "Survival",
+        "ability": "wit",
+        "description": "Survival",
+        "mod": 0
+      },
+      "comtech": {
+        "value": 0,
+        "label": "Comtech",
+        "ability": "wit",
+        "description": "Comtech",
+        "mod": 0
+      }
+    },
+    "general": {
+      "career": {
+        "value": "1",
+        "label": "career"
+      },
+      "appearance": {
+        "value": "",
+        "label": "appearance"
+      },
+      "sigItem": {
+        "value": "",
+        "label": "sigItem"
+      },
+      "agenda": {
+        "value": "",
+        "label": "agenda"
+      },
+      "relOne": {
+        "value": "",
+        "label": "relOne"
+      },
+      "relTwo": {
+        "value": "",
+        "label": "relTwo"
+      },
+      "xp": {
+        "value": 0,
+        "max": 20,
+        "calculatedMax": 20
+      },
+      "sp": {
+        "value": 0,
+        "max": 3
+      },
+      "radiation": {
+        "value": 0,
+        "max": 10,
+        "permanent": 0,
+        "calculatedMax": 10
+      },
+      "starving": {
+        "value": 0,
+        "max": 1
+      },
+      "dehydrated": {
+        "value": 0,
+        "max": 1
+      },
+      "exhausted": {
+        "value": 0,
+        "max": 1
+      },
+      "freezing": {
+        "value": 0,
+        "max": 1
+      },
+      "hypoxia": {
+        "value": 0,
+        "max": 1
+      },
+      "heatstroke": {
+        "value": 0,
+        "max": 1
+      },
+      "gravitydyspraxia": {
+        "value": 0,
+        "max": 1
+      },
+      "critInj": {
+        "value": 0
+      },
+      "armor": {
+        "value": 0,
+        "max": 10
+      },
+      "panic": {
+        "value": 0,
+        "max": 1,
+        "lastRoll": 0
+      },
+      "cash": {
+        "value": "0",
+        "label": "Number"
+      }
+    },
+    "consumables": {
+      "air": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "power": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "food": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "water": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      }
+    },
+    "notes": "",
+    "adhocitems": ""
+  },
+  "prototypeToken": {
+    "name": "Empty Dive Suit",
+    "displayName": 20,
+    "actorLink": true,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_tk.png",
+      "scaleX": 1,
+      "scaleY": 1,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "header.stress"
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "sight": {
+      "enabled": true,
+      "range": 12,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": {
+      "basicSight": {
+        "range": 3,
+        "enabled": true
+      }
+    },
+    "flags": {
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_tk.png"
+      },
+      "tagger": {}
+    },
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "04e5935a94baff6bdd8f7072718294021e3beeb5"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": {
+      "worldId": "alien_DEEP_DOWN",
+      "uuid": null,
+      "coreVersion": "11.315",
+      "systemId": "alienrpg",
+      "systemVersion": "3.1.7"
+    }
+  },
+  "_key": "!actors!hRkVIU1ene9lFTDI"
+}

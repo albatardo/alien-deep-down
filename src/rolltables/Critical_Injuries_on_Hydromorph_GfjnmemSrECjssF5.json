@@ -1,0 +1,167 @@
+{
+  "_id": "GfjnmemSrECjssF5",
+  "name": "Critical Injuries on Hydromorph",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "description": "<h2 style=\"text-align:center;color:lightblue\">Critical Injuries on Hydromorph</h2>",
+  "results": [
+    {
+      "_id": "Nr3Yw05S0hJQalSI",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>To Swin Again:</b> The Hydromorph is gravely wounded and appears dead, but it's only a deception. If attacked again or on its next turn, it regains one point of Health and rises. It will swim away in water or flee to hide and recover if not pursued.",
+      "name": "",
+      "_key": "!tables.results!GfjnmemSrECjssF5.Nr3Yw05S0hJQalSI"
+    },
+    {
+      "_id": "UuYYp1ytlSaDVA73",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Wounded:</b> The Hydromorph staggers, bleeding profusely. It suffers Speed -1 (down to a minimum of 1, losing the lowest initiative), but regains one point of Health. Roll a d6 at the start of each round. On a 1-3, it shakes, showering acid on all targets in close range if not in water. If in water, it will call for aid, summoning one new Hydromorph, which will arrive at the end of the next round.",
+      "name": "",
+      "_key": "!tables.results!GfjnmemSrECjssF5.UuYYp1ytlSaDVA73"
+    },
+    {
+      "_id": "aJA6UKLD2aceDZDD",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Tactical Thinking:</b> The Hydromorph is badly wounded. It immediately performs both a fast and a slow action, outside of the normal turn order. If outnumbered, it tries to escape; if it has the advantage, it will attack again. In any case it regains 1 point of health.",
+      "name": "",
+      "_key": "!tables.results!GfjnmemSrECjssF5.aJA6UKLD2aceDZDD"
+    },
+    {
+      "_id": "2AudgIbkQqPsB0So",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Last Embrace:</b> The Hydromorph is mortally wounded and contorts wildly. On its next initiative, it will attempt to kill the nearest victim by wrapping itself around the target like a snake and squeezing, causing [[6db]] damage plus an acid splash as the creature tears itself apart (no extra dice – short range targets also affected). After this, the beast dies. If it is wounded again before this occurs, it dies instantly.",
+      "name": "",
+      "_key": "!tables.results!GfjnmemSrECjssF5.2AudgIbkQqPsB0So"
+    },
+    {
+      "_id": "XIuHHmPMUQuFXPjA",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Torn To Shreds:</b> Instant death. The Hydromorph is torn apart or crushed amidst shrieks of rage. Severely mutilated, it can only be Analyzed with Observation -1.",
+      "name": "",
+      "_key": "!tables.results!GfjnmemSrECjssF5.XIuHHmPMUQuFXPjA"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "A0N3Ct1TQq9BuGk6",
+  "sort": 300000,
+  "flags": {
+    "scene-packer": {
+      "hash": "0c49d4aa037e14d2b8e91b69c759d4843be45ba0"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "Qw71KIC0H6lPti49": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.crawling-up-scene-packer.rolltables.RollTable.C741Gqau8f1b0bwz",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804381756,
+    "modifiedTime": 1734804381756,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!tables!GfjnmemSrECjssF5"
+}

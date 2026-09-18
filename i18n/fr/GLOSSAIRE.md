@@ -1,0 +1,60 @@
+# Glossaire de traduction — Deep Down (FR)
+
+Termes de jeu alignés sur la traduction française du système `alienrpg` (fichier `lang/fr.json`).
+
+## Règles
+
+| Anglais | Français |
+|---|---|
+| GM / Game Master | MJ / meneur de jeu |
+| PC / NPC | PJ / PNJ |
+| Stress, Stress Level | stress, niveau de stress (« +1 de stress ») |
+| Panic Roll | test de Panique |
+| Broken | Brisé |
+| Critical Injury | blessure critique |
+| Death save | test contre la mort |
+| Slow / Fast Action | action lente / action rapide |
+| Base Dice / Dam | dés de base / Dég. |
+| Armor (rating) | protection |
+| Power / Power Supply | Énergie / source d'énergie |
+| Agenda | objectif personnel |
+| Engaged / Short range / close combat | au contact / courte portée / combat rapproché |
+| Strength, Agility, Wits, Empathy | FORCE, AGILITÉ, ESPRIT, EMPATHIE |
+| Heavy Machinery, Stamina, Close Combat, Mobility, Ranged Combat, Piloting | MACHINES LOURDES, ENDURANCE, COMBAT RAPPROCHÉ, MOBILITÉ, COMBAT À DISTANCE, PILOTAGE |
+| Command, Manipulation, Medical Aid, Observation, Survival, Comtech | COMMANDEMENT, MANIPULATION, SOINS MÉDICAUX, OBSERVATION, SURVIE, COMTECH |
+
+## Univers et scénario
+
+| Anglais | Français |
+|---|---|
+| UPP, Weyland-Yutani, Seegson, Working Joe, United Americas | inchangés (sauf « les Amériques Unies ») |
+| Ministry of Space Security (MSS) | ministère de la Sécurité spatiale (MSS) |
+| Outer Rim | Bordure extérieure |
+| Xenomorph / Xenoform / xenos | Xénomorphe / xénoforme / xénos |
+| Hydromorph | Hydromorphe |
+| Hydrohugger, Hydrobuster, facehugger, drone | inchangés |
+| Long Salmon | saumon long |
+| Vodyanoy | Vodianoï |
+| babushka | babouchka |
+| Rise or Die / Ascension or Death (acte final) | Remonter ou mourir (garder l'anglais seulement dans les noms techniques de macro/animation) |
+| Surface Umbilical | ombilical de surface |
+| sea walk | sortie en mer |
+| drill | foreuse |
+| air hose / emergency air tank | tuyau d'air / bouteille de secours |
+| dive suit | combinaison de plongée |
+| Baikal | Baïkal |
+| mainframe | ordinateur central |
+| DEKOMPRESS, SCADA, 1/VAN, PSV-Schatzi | inchangés |
+
+## Mesures
+
+Les distances impériales sont converties : 4 miles → 6 kilomètres.
+
+## Coquilles corrigées de l'original
+
+- « Dubois » → Dubov ; « Marill » → Marin Kirill (guide du MJ).
+- « Volkov » et « Volkoff » coexistent dans l'original : conservés tels quels en attendant de choisir.
+
+## Noms à ne pas traduire
+
+`scripts/init.js` cherche par leur nom exact : les journaux « Deep Down Welcome » et « Alien Map Markers », la macro « Ligth source (token) ». Les traduire impose de mettre à jour `init.js`.

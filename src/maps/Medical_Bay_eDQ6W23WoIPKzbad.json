@@ -1,0 +1,1411 @@
+{
+  "folder": "xPv6medPio6j9Slq",
+  "name": "Medical Bay",
+  "_id": "eDQ6W23WoIPKzbad",
+  "active": false,
+  "navigation": true,
+  "navOrder": 900000,
+  "navName": "",
+  "width": 1138,
+  "height": 996,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "grid": {
+    "type": 0,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 2,
+    "units": "m",
+    "style": "solidLines",
+    "thickness": 1
+  },
+  "tokenVision": true,
+  "drawings": [],
+  "tokens": [
+    {
+      "name": "DOKTOR NS42",
+      "displayName": 30,
+      "actorLink": true,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 0,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {
+        "monks-enhanced-journal": {
+          "chatbubble": ""
+        },
+        "monks-little-details": {
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_5_PRT.jpg"
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "tagger": {}
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_TK.png",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": true,
+        "range": 12,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {},
+      "actorId": "DqpDXO29aEDLcA6C",
+      "x": 1150,
+      "y": 1034,
+      "hidden": false,
+      "_id": "0sCoYc1L9HUVG0sd",
+      "delta": {
+        "_id": "YH8FyGFfiSXHStSm",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!eDQ6W23WoIPKzbad.0sCoYc1L9HUVG0sd.YH8FyGFfiSXHStSm"
+      },
+      "elevation": 0,
+      "sort": 0,
+      "locked": false,
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!eDQ6W23WoIPKzbad.0sCoYc1L9HUVG0sd"
+    },
+    {
+      "name": "babushka - Anya Zomorova",
+      "displayName": 20,
+      "actorLink": true,
+      "texture": {
+        "src": "modules/alien-deep-down/assets/tokens/Anya_Zomorova/Anya_Zomorova_tk.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 20,
+      "bar1": {
+        "attribute": "header.health"
+      },
+      "bar2": {
+        "attribute": "header.stress"
+      },
+      "light": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "sight": {
+        "enabled": true,
+        "range": 12,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": {
+        "basicSight": {
+          "range": 3,
+          "enabled": true
+        }
+      },
+      "flags": {
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "token-variants": {
+          "randomImgDefault": "",
+          "disableHUDButton": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.8,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "image-hover": {
+          "hideArt": false,
+          "specificArt": "path/image.png"
+        },
+        "tokenmagic": {}
+      },
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "actorId": "dNrzutS0qPv3NU60",
+      "hidden": false,
+      "sort": 1,
+      "_id": "wBAue7YDPzmLBdIs",
+      "delta": {
+        "_id": "GEUTgu3gTT6YmVI2",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!eDQ6W23WoIPKzbad.wBAue7YDPzmLBdIs.GEUTgu3gTT6YmVI2"
+      },
+      "x": 1086,
+      "y": 1002,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "depth": 1,
+      "level": "defaultLevel0000",
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!eDQ6W23WoIPKzbad.wBAue7YDPzmLBdIs"
+    }
+  ],
+  "lights": [
+    {
+      "x": 520,
+      "y": 462,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 1,
+        "coloration": 8,
+        "dim": 7,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": "#61a29c",
+        "negative": false,
+        "priority": 0
+      },
+      "hidden": false,
+      "flags": {
+        "df-active-lights": {
+          "anims": null
+        }
+      },
+      "_id": "IoiwLdF9BQ6G1WM6",
+      "elevation": 0,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.lights!eDQ6W23WoIPKzbad.IoiwLdF9BQ6G1WM6"
+    },
+    {
+      "x": 810,
+      "y": 1070,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 1,
+        "coloration": 8,
+        "dim": 7,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": "#61a29c",
+        "negative": false,
+        "priority": 0
+      },
+      "hidden": false,
+      "flags": {
+        "df-active-lights": {
+          "anims": null
+        }
+      },
+      "_id": "Z9v6o7L8EFyO4LCV",
+      "elevation": 0,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.lights!eDQ6W23WoIPKzbad.Z9v6o7L8EFyO4LCV"
+    },
+    {
+      "x": 1061,
+      "y": 686,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 1,
+        "coloration": 8,
+        "dim": 7,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": "#61a29c",
+        "negative": false,
+        "priority": 0
+      },
+      "hidden": false,
+      "flags": {
+        "df-active-lights": {
+          "anims": null
+        }
+      },
+      "elevation": 0,
+      "_id": "tLumdBc4I9KsneuS",
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.lights!eDQ6W23WoIPKzbad.tLumdBc4I9KsneuS"
+    },
+    {
+      "x": 1111,
+      "y": 1103,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 1,
+        "coloration": 8,
+        "dim": 7,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": "#61a29c",
+        "negative": false,
+        "priority": 0
+      },
+      "hidden": false,
+      "flags": {
+        "df-active-lights": {
+          "anims": null
+        }
+      },
+      "elevation": 0,
+      "_id": "pqbYUaw8tbuNhFNC",
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.lights!eDQ6W23WoIPKzbad.pqbYUaw8tbuNhFNC"
+    }
+  ],
+  "notes": [
+    {
+      "entryId": "FWNFHgivDPkLkLux",
+      "pageId": "I1rY7dTPnY0YDDTd",
+      "text": "",
+      "x": 800,
+      "y": 700,
+      "global": false,
+      "iconSize": 50,
+      "texture": {
+        "tint": "#bfe30d",
+        "src": "modules/alien-deep-down/assets/icons/facehugger_W.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#bfe30d",
+      "textAnchor": 1,
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "_id": "UwRUVGsIsHC5p6uH",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!eDQ6W23WoIPKzbad.UwRUVGsIsHC5p6uH"
+    },
+    {
+      "entryId": "BobAQhnQWrKLl96n",
+      "pageId": "cl62DOy1L4xcaqAG",
+      "text": "",
+      "x": 962,
+      "y": 846,
+      "elevation": 0,
+      "sort": 0,
+      "global": false,
+      "iconSize": 32,
+      "texture": {
+        "tint": "#ffffff",
+        "src": "modules/alien-deep-down/assets/Alien-Map-Markers/INTERCOM.png",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        },
+        "tagger": {},
+        "arms-reach": {
+          "range": 0
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 20,
+      "textColor": "#fff700",
+      "textAnchor": 1,
+      "_id": "xiceP8XItkUKRwGl",
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!eDQ6W23WoIPKzbad.xiceP8XItkUKRwGl"
+    },
+    {
+      "entryId": "BobAQhnQWrKLl96n",
+      "pageId": "vfPNXvGSncIpB9x4",
+      "text": "",
+      "x": 1157,
+      "y": 585,
+      "elevation": 0,
+      "sort": 0,
+      "global": false,
+      "iconSize": 32,
+      "texture": {
+        "tint": "#ffffff",
+        "src": "modules/alien-deep-down/assets/Alien-Map-Markers/ACESS-TERMINAL.png",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        },
+        "tagger": {},
+        "arms-reach": {
+          "range": 0
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 20,
+      "textColor": "#fff700",
+      "textAnchor": 1,
+      "_id": "RCWVsRUDVYnJpkwN",
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!eDQ6W23WoIPKzbad.RCWVsRUDVYnJpkwN"
+    },
+    {
+      "entryId": "BobAQhnQWrKLl96n",
+      "pageId": "aY1ETJxDdWoKLU4N",
+      "text": "",
+      "x": 946,
+      "y": 653,
+      "elevation": 0,
+      "sort": 0,
+      "global": false,
+      "iconSize": 32,
+      "texture": {
+        "tint": "#ffffff",
+        "src": "modules/alien-deep-down/assets/Alien-Map-Markers/MEDLAB.png",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "alphaThreshold": 0
+      },
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        },
+        "tagger": {},
+        "arms-reach": {
+          "range": 0
+        }
+      },
+      "fontFamily": "Signika",
+      "fontSize": 20,
+      "textColor": "#fff700",
+      "textAnchor": 1,
+      "_id": "8QHLufbwlz4Bukpf",
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!eDQ6W23WoIPKzbad.8QHLufbwlz4Bukpf"
+    }
+  ],
+  "sounds": [],
+  "tiles": [],
+  "walls": [
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        1237,
+        412,
+        1262,
+        912
+      ],
+      "dir": 0,
+      "ds": 1,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "entity": {},
+          "open": false,
+          "close": false,
+          "lock": false,
+          "checklock": false,
+          "secret": false
+        }
+      },
+      "doorSound": "sound1",
+      "_id": "UjrVplD08CRBb3S7",
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.UjrVplD08CRBb3S7"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1161,
+        900,
+        1458,
+        901
+      ],
+      "_id": "jPy2esyxMX4rz7JK",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.jPy2esyxMX4rz7JK"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        802,
+        900,
+        313,
+        901
+      ],
+      "_id": "e8lpODwJnOxukcx8",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.e8lpODwJnOxukcx8"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1262,
+        1275,
+        1265,
+        894
+      ],
+      "_id": "0PrqA0VcH1rYi30u",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.0PrqA0VcH1rYi30u"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1262,
+        1275,
+        648,
+        1276
+      ],
+      "_id": "Fd1CnT0bDtO4nDun",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.Fd1CnT0bDtO4nDun"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        648,
+        1276,
+        642,
+        898
+      ],
+      "_id": "LLpXWabjWCodI9Sk",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.LLpXWabjWCodI9Sk"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        313,
+        901,
+        319,
+        402
+      ],
+      "_id": "SwP9L3r1I3Cvg5Mq",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.SwP9L3r1I3Cvg5Mq"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        319,
+        402,
+        687,
+        400
+      ],
+      "_id": "FR9ufFwUfKpT2kkK",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.FR9ufFwUfKpT2kkK"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        687,
+        300,
+        687,
+        550
+      ],
+      "_id": "kUS5LQSu3alt3gP6",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.kUS5LQSu3alt3gP6"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        687,
+        300,
+        890,
+        297
+      ],
+      "_id": "lOzzm3kJntEFetF3",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.lOzzm3kJntEFetF3"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        890,
+        297,
+        887,
+        562
+      ],
+      "_id": "HBMMYf3aiQ5PYthI",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.HBMMYf3aiQ5PYthI"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        887,
+        412,
+        1475,
+        412
+      ],
+      "_id": "gqRI9zfh47RwE2ZR",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.gqRI9zfh47RwE2ZR"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        962,
+        899,
+        802,
+        900
+      ],
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "entity": {},
+          "open": false,
+          "close": false,
+          "lock": false,
+          "checklock": false,
+          "secret": false
+        }
+      },
+      "doorSound": "slidingMetal",
+      "_id": "mYDJQ8IBM97EsJol",
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.mYDJQ8IBM97EsJol"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        1175,
+        900,
+        962,
+        899
+      ],
+      "dir": 0,
+      "ds": 1,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "entity": {},
+          "open": false,
+          "close": false,
+          "lock": false,
+          "checklock": false,
+          "secret": false
+        }
+      },
+      "doorSound": "slidingMetal",
+      "_id": "gNqItetooJooUlSe",
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.gNqItetooJooUlSe"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        687,
+        550,
+        687,
+        775
+      ],
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "entity": {},
+          "open": false,
+          "close": false,
+          "lock": false,
+          "checklock": false,
+          "secret": false
+        }
+      },
+      "doorSound": "slidingMetal",
+      "_id": "w0K70NwEK5bXS2HB",
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.w0K70NwEK5bXS2HB"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "door": 1,
+      "c": [
+        887,
+        550,
+        687,
+        550
+      ],
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "entity": {},
+          "open": false,
+          "close": false,
+          "lock": false,
+          "checklock": false,
+          "secret": false
+        }
+      },
+      "doorSound": "slidingMetal",
+      "_id": "6JVXLY0mkm1O2wTM",
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.6JVXLY0mkm1O2wTM"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        962,
+        1287,
+        962,
+        899
+      ],
+      "_id": "XWcgns1Wl0TWcPC3",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.XWcgns1Wl0TWcPC3"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        687,
+        912,
+        687,
+        775
+      ],
+      "_id": "bDClMKMtBcSwaAvL",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.bDClMKMtBcSwaAvL"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1475,
+        412,
+        1458,
+        902
+      ],
+      "_id": "OfmImS8uFBh9hZpg",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "levels": [],
+      "animation": null,
+      "_key": "!scenes.walls!eDQ6W23WoIPKzbad.OfmImS8uFBh9hZpg"
+    }
+  ],
+  "playlist": "cSALXBPGl51jO9MP",
+  "playlistSound": "W6QT4WDr5FJgdP7g",
+  "journal": null,
+  "journalEntryPage": null,
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "background-volume": {
+      "volume": 1
+    },
+    "LockView": {
+      "lockPan": false,
+      "lockPanInit": false,
+      "lockZoom": false,
+      "lockZoomInit": false,
+      "boundingBox": false,
+      "boundingBoxInit": false,
+      "autoScale": "0",
+      "rotation": "0",
+      "sidebar": "noChange",
+      "blackenSidebar": false,
+      "excludeSidebar": false,
+      "hideUI": false,
+      "forceInit": false,
+      "hideUIelements": {
+        "controls": true,
+        "hotbar": true,
+        "logo": true,
+        "navigation": true,
+        "players": true,
+        "sidebar": false
+      },
+      "editViewbox": false
+    },
+    "scene-packer": {
+      "hash": "89221340727d4c67511d09110075c9b23f419958"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734824033464,
+    "modifiedTime": 1734824033464,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "thumb": "modules/alien-deep-down/assets/scenes/eDQ6W23WoIPKzbad-thumb.webp",
+  "weather": "",
+  "environment": {
+    "globalLight": {
+      "luminosity": 0,
+      "enabled": true,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0
+    },
+    "darknessLevel": 0.35,
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "fog": {
+    "reset": 1706229000280,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    },
+    "mode": 1
+  },
+  "regions": [
+    {
+      "name": "Medlab - Heavy work",
+      "color": "#5028cc",
+      "shapes": [
+        {
+          "type": "rectangle",
+          "x": 1282.9567320608116,
+          "y": 554.3446276380977,
+          "width": 58.20464253454065,
+          "height": 251.1570191558958,
+          "rotation": 0,
+          "hole": false,
+          "anchorX": 0,
+          "anchorY": 0,
+          "gridBased": false
+        }
+      ],
+      "_id": "1sdf5wCQbvv7iHDu",
+      "elevation": {
+        "bottom": null,
+        "top": null,
+        "topInclusive": false
+      },
+      "behaviors": [
+        {
+          "name": "Medlab - Heavy work",
+          "type": "teleportToken",
+          "_id": "BkwZV9kLYMkkgN90",
+          "system": {
+            "choice": false,
+            "confirmPrompt": "",
+            "confirmPromptGM": "",
+            "destinations": [
+              "Scene.bgF65O3RWc3u25Rj.Region.9gdGaynprhMEvFft"
+            ]
+          },
+          "disabled": false,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "14.367",
+            "systemId": "alienrpg",
+            "systemVersion": "3.2.1",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "exportSource": null
+          },
+          "_key": "!scenes.regions.behaviors!eDQ6W23WoIPKzbad.1sdf5wCQbvv7iHDu.BkwZV9kLYMkkgN90"
+        }
+      ],
+      "visibility": 0,
+      "locked": false,
+      "flags": {
+        "easy-regions": {
+          "src": "",
+          "tint": null,
+          "size": 40
+        }
+      },
+      "levels": [],
+      "restriction": {
+        "enabled": false,
+        "type": "move",
+        "priority": 0
+      },
+      "attachment": {
+        "token": null
+      },
+      "highlightMode": "shapes",
+      "displayMeasurements": false,
+      "hidden": false,
+      "ownership": {
+        "default": 0
+      },
+      "_shapeConstraints": null,
+      "_key": "!scenes.regions!eDQ6W23WoIPKzbad.1sdf5wCQbvv7iHDu"
+    }
+  ],
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Medical Bay",
+      "background": {
+        "color": "#000000",
+        "src": "modules/alien-deep-down/assets/Maps/base/Medlab/medlab.png",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "top": 20,
+        "bottom": 0
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!eDQ6W23WoIPKzbad.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
+  },
+  "_key": "!scenes!eDQ6W23WoIPKzbad",
+  "templates": []
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Combat",
+  "sounds": [
+    {
+      "name": "Adrenaline Horror Trailer Combined",
+      "path": "modules/alien-deep-down/assets/Sounds/Combat-free/adrenaline-horror-trailer-combined.ogg",
+      "_id": "4grUWxHPkJhQYGTw",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cwLOyhunIsN3ZEB0.4grUWxHPkJhQYGTw"
+    },
+    {
+      "name": "Aggressive Metal Sinister 111839",
+      "path": "modules/alien-deep-down/assets/Sounds/Combat-free/aggressive-metal-sinister-111839.mp3",
+      "_id": "3xS6rAoc0R4u5soK",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cwLOyhunIsN3ZEB0.3xS6rAoc0R4u5soK"
+    },
+    {
+      "name": "Dramatic Epic Full 15721",
+      "path": "modules/alien-deep-down/assets/Sounds/Combat-free/dramatic-epic-full-15721.mp3",
+      "_id": "DsptuisKQlmNFNVp",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cwLOyhunIsN3ZEB0.DsptuisKQlmNFNVp"
+    },
+    {
+      "name": "Horror Action 115269",
+      "path": "modules/alien-deep-down/assets/Sounds/Combat-free/horror-action-115269.mp3",
+      "_id": "8nsPbEKh6OUnEZSM",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cwLOyhunIsN3ZEB0.8nsPbEKh6OUnEZSM"
+    },
+    {
+      "name": "Horror Blockbuster Combined",
+      "path": "modules/alien-deep-down/assets/Sounds/Combat-free/horror-blockbuster-combined.ogg",
+      "_id": "RGwWUosyGMFF1wff",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cwLOyhunIsN3ZEB0.RGwWUosyGMFF1wff"
+    },
+    {
+      "name": "Horror Trailer 147727",
+      "path": "modules/alien-deep-down/assets/Sounds/Combat-free/horror-trailer-147727.mp3",
+      "_id": "hOW88KYj7rhvKGH8",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!cwLOyhunIsN3ZEB0.hOW88KYj7rhvKGH8"
+    }
+  ],
+  "channel": "music",
+  "mode": 1,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": 478,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "fb8b033d5e1c7f4d64ec775174b278a53e3c38b9",
+      "sourceId": "Playlist.cGxJtmIqGjRaGgER"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804412897,
+    "modifiedTime": 1734804415323,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "description": "",
+  "_id": "cwLOyhunIsN3ZEB0",
+  "sort": 100000,
+  "_key": "!playlists!cwLOyhunIsN3ZEB0"
+}

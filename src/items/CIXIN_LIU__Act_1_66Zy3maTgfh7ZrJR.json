@@ -1,0 +1,48 @@
+{
+  "folder": "5Cl78rttfWPhO7rU",
+  "name": "CIXIN LIU  Act 1",
+  "type": "agenda",
+  "img": "systems/alienrpg/images/icons/personal-agenda.png",
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "comment": {
+        "value": "<p data-pm-slice=\"1 1 [&quot;bullet_list&quot;,{&quot;_preserve&quot;:{}},&quot;list_item&quot;,{&quot;_preserve&quot;:{}}]\">You&rsquo;re convinced Dubov is involved in the disappearance or any other mishaps. Don&rsquo;t miss a chance to put that waste of space in his place. You also hold hope that the investigator might have the power to save the station.</p>\n<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><br style=\"mso-special-character: line-break;\"><!--[endif]--></span></p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "78b23eda3a9910d22b5cacfb9f4daf5ccb5b3cdd"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "66Zy3maTgfh7ZrJR",
+  "_key": "!items!66Zy3maTgfh7ZrJR"
+}

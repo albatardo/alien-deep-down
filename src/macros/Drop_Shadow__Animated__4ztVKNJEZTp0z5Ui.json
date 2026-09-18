@@ -1,0 +1,35 @@
+{
+  "name": "Drop Shadow (Animated)",
+  "type": "script",
+  "author": "h1BfzYYX7qtp2kbH",
+  "img": "modules/tokenmagic/gui/macros/images/03%20-%20Drop%20Shadow.webp",
+  "scope": "global",
+  "command": "let params =\n[{\n    filterType: \"shadow\",\n    filterId: \"myShadow\",\n    rotation: 0,\n    blur: 2,\n    quality: 5,\n    distance: 20,\n    alpha: 0.7,\n    padding: 10,\n    shadowOnly: false,\n    color: 0x000000,\n    zOrder: 6000,\n    animated:\n    {\n        blur:     \n        { \n           active: true, \n           loopDuration: 5000, \n           animType: \"syncCosOscillation\", \n           val1: 2, \n           val2: 4\n        },\n        rotation:\n        {\n           active: true,\n           loopDuration: 5000,\n           animType: \"syncSinOscillation\",\n           val1: 33,\n           val2: 37\n        }\n     }\n}];\n\nawait TokenMagic.addUpdateFiltersOnSelected(params);",
+  "folder": "CMFSLqecf96SGXJV",
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "ef354eb8d7f5301138784cda2f3f8ee864f0af3b"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Njc5YzFjZDI5NjZl": 3,
+    "gLoDESYzFUt2roLW": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.All_Sal_Modulos.SAL_TK_MAGIC_MODULO.Macro.hpIYdWtsPu9jj3TD",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734807396777,
+    "modifiedTime": 1734807396777,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "4ztVKNJEZTp0z5Ui",
+  "sort": 18750,
+  "_key": "!macros!4ztVKNJEZTp0z5Ui"
+}

@@ -1,0 +1,399 @@
+{
+  "name": "invisible Bioluminos",
+  "type": "creature",
+  "img": "modules/alien-deep-down/assets/icons/skull-blood.jpg",
+  "items": [],
+  "effects": [],
+  "folder": "293xp0dxuPEQLZdC",
+  "sort": 600000,
+  "flags": {
+    "SharedVision": {
+      "enable": false,
+      "hidden": false,
+      "userSetting": [
+        {
+          "id": "Rx1E1ahAa0Wo5dXy",
+          "token": false,
+          "vision": false,
+          "fog": false
+        },
+        {
+          "id": "jbD8psdMGhGnzEY0",
+          "token": false,
+          "vision": false,
+          "fog": false
+        },
+        {
+          "id": "fm0PsC9oo31YI1EI",
+          "token": false,
+          "vision": false,
+          "fog": false
+        },
+        {
+          "id": "cTO8R66qc1hiTUPm",
+          "token": false,
+          "vision": false,
+          "fog": false
+        },
+        {
+          "id": "23WlupdqtmODwMus",
+          "token": false,
+          "vision": false,
+          "fog": false
+        },
+        {
+          "id": "aofDHx9cQyR3oViA",
+          "token": false,
+          "vision": false,
+          "fog": false
+        },
+        {
+          "id": "f5vl1zrwISNqIG8A",
+          "token": false,
+          "vision": false,
+          "fog": false
+        }
+      ]
+    },
+    "token-variants": {
+      "variants": [
+        {
+          "imgSrc": "REPOSITORIO/TOKENS/Meus tokens/evil eye no token_TK.png",
+          "names": [
+            "evil eye no token_TK"
+          ]
+        },
+        {
+          "imgSrc": "REPOSITORIO/TOKENS/Meus tokens/evil eye token_TK.png",
+          "names": [
+            "evil eye token_TK"
+          ]
+        }
+      ]
+    },
+    "scene-packer": {
+      "hash": "386c2e12da3cbc5142283b80d69a2c87ee98025a"
+    }
+  },
+  "system": {
+    "header": {
+      "health": {
+        "value": 0,
+        "label": "Health",
+        "max": 0
+      }
+    },
+    "attributes": {
+      "speed": {
+        "value": 0,
+        "label": "Speed"
+      },
+      "armorrating": {
+        "value": 0,
+        "label": "Number",
+        "max": 10
+      },
+      "armorvfire": {
+        "value": 0,
+        "label": "Number",
+        "max": 10
+      }
+    },
+    "general": {
+      "mobility": {
+        "value": "-",
+        "label": "Mobility"
+      },
+      "observation": {
+        "value": "-",
+        "label": "Observation"
+      },
+      "comment": {
+        "value": "",
+        "label": "Text"
+      },
+      "special": {
+        "value": "use to make glowing effects (BIOLUMINESCENCE) with no visible token.\n\nonly shows light if token is visible.\n",
+        "label": "Text"
+      },
+      "acidSplash": {
+        "value": "-",
+        "label": "Acid Splash"
+      },
+      "critInj": {
+        "value": ""
+      }
+    },
+    "notes": {
+      "notes": ""
+    },
+    "rTables": "None",
+    "cTables": "None"
+  },
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "prototypeToken": {
+    "name": "invisible Bioluminos",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 0.35,
+    "light": {
+      "alpha": 1,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 7,
+      "dim": 10,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 10,
+        "intensity": 7,
+        "reverse": false,
+        "type": "ghost"
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": "#225d56",
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0
+    },
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "None"
+    },
+    "flags": {
+      "monks-enhanced-journal": {
+        "chatbubble": ""
+      },
+      "monks-little-details": {
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "REPOSITORIO/IMAGENS/transparente.png"
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      },
+      "tokenmagic": {
+        "filters": [
+          {
+            "tmFilters": {
+              "tmFilterId": "cmjqeQlw6YxV9Qz6",
+              "tmFilterInternalId": "EZ6au9Yf0axJdlnC",
+              "tmFilterType": "shadow",
+              "tmFilterOwner": "LMOJKfi8GnehqjGy",
+              "tmParams": {
+                "filterType": "shadow",
+                "blur": 2,
+                "quality": 5,
+                "distance": 0,
+                "alpha": 1,
+                "padding": 100,
+                "color": 16777215,
+                "animated": {
+                  "blur": {
+                    "active": true,
+                    "loopDuration": 1000,
+                    "animType": "syncCosOscillation",
+                    "val1": 2,
+                    "val2": 4
+                  }
+                },
+                "rank": 10042,
+                "filterId": "cmjqeQlw6YxV9Qz6",
+                "enabled": true,
+                "placeableId": "rlI2UYg1XDk9de1v",
+                "filterInternalId": "EZ6au9Yf0axJdlnC",
+                "filterOwner": "LMOJKfi8GnehqjGy",
+                "placeableType": "Token",
+                "updateId": "zOS3I18fnhWn2WPr"
+              }
+            }
+          },
+          {
+            "tmFilters": {
+              "tmFilterId": "mmYBHGAF69MUjyUW",
+              "tmFilterInternalId": "eL2TRb4YGJrZKsHw",
+              "tmFilterType": "electric",
+              "tmFilterOwner": "LMOJKfi8GnehqjGy",
+              "tmParams": {
+                "filterType": "electric",
+                "color": 16777215,
+                "time": 0,
+                "blend": 2,
+                "intensity": 1,
+                "animated": {
+                  "time": {
+                    "active": true,
+                    "speed": 0.002,
+                    "animType": "move"
+                  }
+                },
+                "rank": 10043,
+                "filterId": "mmYBHGAF69MUjyUW",
+                "enabled": true,
+                "placeableId": "rlI2UYg1XDk9de1v",
+                "filterInternalId": "eL2TRb4YGJrZKsHw",
+                "filterOwner": "LMOJKfi8GnehqjGy",
+                "placeableType": "Token",
+                "updateId": "ZaFpnDMO0dJWRtQc"
+              }
+            }
+          },
+          {
+            "tmFilters": {
+              "tmFilterId": "RJY7sG3k7h24waRS",
+              "tmFilterInternalId": "pTPhpwgUdCUV2fXA",
+              "tmFilterType": "shadow",
+              "tmFilterOwner": "LMOJKfi8GnehqjGy",
+              "tmParams": {
+                "filterType": "shadow",
+                "blur": 2,
+                "quality": 5,
+                "distance": 0,
+                "alpha": 1,
+                "padding": 100,
+                "color": 16777215,
+                "animated": {
+                  "blur": {
+                    "active": true,
+                    "loopDuration": 1000,
+                    "animType": "syncCosOscillation",
+                    "val1": 2,
+                    "val2": 4
+                  }
+                },
+                "rank": 10044,
+                "filterId": "RJY7sG3k7h24waRS",
+                "enabled": true,
+                "placeableId": "1nfRyMWUoevIo6ii",
+                "filterInternalId": "pTPhpwgUdCUV2fXA",
+                "filterOwner": "LMOJKfi8GnehqjGy",
+                "placeableType": "Token",
+                "updateId": "dKCmqjuz1cRFT9l7"
+              }
+            }
+          },
+          {
+            "tmFilters": {
+              "tmFilterId": "TR2BkY1KvXM5QL21",
+              "tmFilterInternalId": "rogsPdYU3JM79mdZ",
+              "tmFilterType": "electric",
+              "tmFilterOwner": "LMOJKfi8GnehqjGy",
+              "tmParams": {
+                "filterType": "electric",
+                "color": 16777215,
+                "time": 0,
+                "blend": 2,
+                "intensity": 1,
+                "animated": {
+                  "time": {
+                    "active": true,
+                    "speed": 0.002,
+                    "animType": "move"
+                  }
+                },
+                "rank": 10045,
+                "filterId": "TR2BkY1KvXM5QL21",
+                "enabled": true,
+                "placeableId": "1nfRyMWUoevIo6ii",
+                "filterInternalId": "rogsPdYU3JM79mdZ",
+                "filterOwner": "LMOJKfi8GnehqjGy",
+                "placeableType": "Token",
+                "updateId": "g6rin0ByBrTOFNEZ"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "randomImg": false,
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/transparent_png_tokem.png",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 12,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": {},
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "MTasA46MGR6la4jz",
+  "_key": "!actors!MTasA46MGR6la4jz"
+}

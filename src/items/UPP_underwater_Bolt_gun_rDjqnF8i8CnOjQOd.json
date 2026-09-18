@@ -1,0 +1,87 @@
+{
+  "name": "UPP underwater Bolt gun",
+  "type": "weapon",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "effects": [],
+  "folder": "2UeLQByS9kcZtALz",
+  "sort": 325000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "f727119a61b1913953653c02214b5436b770ba51"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "1",
+        "label": "Text"
+      },
+      "active": false
+    },
+    "attributes": {
+      "bonus": {
+        "value": 0,
+        "label": "Number"
+      },
+      "damage": {
+        "value": 3,
+        "label": "Number"
+      },
+      "weight": {
+        "value": 1,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "$400.00",
+        "label": "Number"
+      },
+      "range": {
+        "value": "2",
+        "label": "Text"
+      },
+      "class": {
+        "value": "Pistol",
+        "label": "Text"
+      },
+      "rounds": {
+        "value": null,
+        "label": "Number"
+      },
+      "power": {
+        "value": null,
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<p><strong>UPP underwater Bolt gun</strong> (similar to DV-303). DMG 3, short range</p>\n<p>Armor piercing, Single-shot. A construction tool that uses expanding bolts to make emergency hull repairs. Can be turned into an improvised weapon, firing bolts like a single round shotgun. This weapon must be reloaded (slow action) after each shot.</p>",
+        "label": "Text"
+      },
+      "quantity": {
+        "value": 1
+      }
+    },
+    "notes": {
+      "notes": null
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "YEoPmwinvi5w1FW6": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.XqPXh8vRDleVJ4Np",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "rDjqnF8i8CnOjQOd",
+  "_key": "!items!rDjqnF8i8CnOjQOd"
+}

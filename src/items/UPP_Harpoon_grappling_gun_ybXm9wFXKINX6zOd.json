@@ -1,0 +1,87 @@
+{
+  "name": "UPP Harpoon grappling gun",
+  "type": "weapon",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "effects": [],
+  "folder": "2UeLQByS9kcZtALz",
+  "sort": 350000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "119a88fb3d2077be4cc2d5cde793f5d7c8df1fcc"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "1",
+        "label": "Text"
+      },
+      "active": false
+    },
+    "attributes": {
+      "bonus": {
+        "value": 0,
+        "label": "Number"
+      },
+      "damage": {
+        "value": 2,
+        "label": "Number"
+      },
+      "weight": {
+        "value": 1,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "$300.00",
+        "label": "Number"
+      },
+      "range": {
+        "value": "2",
+        "label": "Text"
+      },
+      "class": {
+        "value": "Rifle",
+        "label": "Text"
+      },
+      "rounds": {
+        "value": 0,
+        "label": "Number"
+      },
+      "power": {
+        "value": 0,
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<p>&nbsp;</p>\n<p>(similar to ASSO-400, but larger). DMG 2, short range</p>\n<p>Armor doubled, single-shot. Designed for aiding in emergency manual docking maneuvers, altered for underwater use to close the distance between free-floating objects and the user. On a hit with this weapon, the grappling hook attaches to the target. If the target is heavier than you, you can use the tether to rappel quickly towards the target (slow action, moves you from Medium range to Engaged). If you are heavier, you can instead pull the target towards you (requires a Strength Vs. Strength opposed roll if the target resists).</p>\n<p>&nbsp;</p>",
+        "label": "Text"
+      },
+      "quantity": {
+        "value": 1
+      }
+    },
+    "notes": {
+      "notes": null
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "YEoPmwinvi5w1FW6": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.5NcdQeMviosRea3G",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "ybXm9wFXKINX6zOd",
+  "_key": "!items!ybXm9wFXKINX6zOd"
+}

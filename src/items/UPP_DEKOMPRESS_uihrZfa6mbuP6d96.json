@@ -1,0 +1,170 @@
+{
+  "name": "UPP DEKOMPRESS",
+  "type": "item",
+  "img": "modules/alien-deep-down/assets/images/dekompress.png",
+  "effects": [],
+  "folder": "q3HVQjtmZpk4C4NT",
+  "sort": 125000,
+  "flags": {
+    "scene-packer": {
+      "hash": "191c28f37a2b29755fdeb6f28bc4fe3c90efbf3f"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "6",
+        "label": "Text"
+      },
+      "active": false,
+      "completed": false
+    },
+    "attributes": {
+      "weight": {
+        "value": 0.1,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "$200.00",
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<p><strong>DEKOMPRESS Syringes<br><br></strong></p>\n<p>DEKOMPRESS syringes can be found in all dive preparation areas, medkits, and medbays. The drug prevents the effects of decompression sickness if taken up to an hour before diving and the same before returning to the surface. Failing to do so means death at such deeps.&nbsp;</p>\n<p>Since there are no decompression chambers available, these syringes are essential for anyone attempting to leave Novotny without succumbing to this potentially fatal condition.</p>",
+        "label": "Text"
+      },
+      "food": {
+        "value": 0,
+        "label": "Number"
+      },
+      "water": {
+        "value": 0,
+        "label": "Number"
+      },
+      "power": {
+        "value": 0,
+        "label": "Stress"
+      },
+      "airsupply": {
+        "value": 0,
+        "label": "Number"
+      },
+      "quantity": {
+        "value": 1
+      },
+      "notes": {
+        "notes": ""
+      }
+    },
+    "modifiers": {
+      "attributes": {
+        "health": {
+          "value": 0,
+          "label": "Health"
+        },
+        "stress": {
+          "value": 0,
+          "label": "Stress"
+        },
+        "str": {
+          "value": 0,
+          "label": "Strength"
+        },
+        "wit": {
+          "value": 0,
+          "label": "Wits"
+        },
+        "agl": {
+          "value": 0,
+          "label": "Agility"
+        },
+        "emp": {
+          "value": 0,
+          "label": "Empathy"
+        }
+      },
+      "skills": {
+        "heavyMach": {
+          "value": 0,
+          "label": "Heavy Machinery",
+          "ability": "str"
+        },
+        "closeCbt": {
+          "value": 0,
+          "label": "Close Combat",
+          "ability": "str"
+        },
+        "stamina": {
+          "value": 0,
+          "label": "Stamina",
+          "ability": "str"
+        },
+        "rangedCbt": {
+          "value": 0,
+          "label": "Ranged Combat",
+          "ability": "agl"
+        },
+        "mobility": {
+          "value": 0,
+          "label": "Mobility",
+          "ability": "agl"
+        },
+        "piloting": {
+          "value": 0,
+          "label": "Piloting",
+          "ability": "agl"
+        },
+        "command": {
+          "value": 0,
+          "label": "Command",
+          "ability": "emp"
+        },
+        "manipulation": {
+          "value": 0,
+          "label": "Manipulation",
+          "ability": "emp"
+        },
+        "medicalAid": {
+          "value": 0,
+          "label": "Medical Aid",
+          "ability": "emp"
+        },
+        "observation": {
+          "value": 0,
+          "label": "Observation",
+          "ability": "wit"
+        },
+        "survival": {
+          "value": 0,
+          "label": "Survival",
+          "ability": "wit"
+        },
+        "comtech": {
+          "value": 0,
+          "label": "Comtech",
+          "ability": "wit"
+        }
+      }
+    },
+    "notes": {
+      "notes": "<p>ARCTURIAN SWEET DREAMS&trade;</p>\n<p>&nbsp;</p>\n<p>Derived from Arcturian hallucinogenic mushrooms, Sweet Dreams is a pleasure drug that causes you to see what you really want to see.&nbsp;</p>\n<p>Take it and people around you will melt and change into others.</p>\n<p>Exposure to these mushrooms originally made humanity think that the Arcturians were shapeshifters of some kind.</p>\n<p>Sweet Dreams are sometimes used by intelligence personnel to gather information by convincing someone they are confiding in a friend or lover.<br /><br /></p>\n<p>A NOTE FROM MU/TH/UR:&nbsp;</p>\n<p>&nbsp;</p>\n<p>While it&rsquo;s not exactly illegal, the drug is restricted, very expensive, and can get you into a lot of trouble.&nbsp;</p>\n<p>Just be careful when huffin&rsquo; these things&mdash;that poodle just might be a giant cockroach and that colonist&rsquo;s cute daughter just might be that burly grunt you owe $100 W-Y bucks to.&nbsp;</p>\n<p>&nbsp;</p>\n<p>price tag varies wildly across territories.</p>"
+    }
+  },
+  "ownership": {
+    "default": 2,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "uihrZfa6mbuP6d96",
+  "_key": "!items!uihrZfa6mbuP6d96"
+}

@@ -1,0 +1,49 @@
+{
+  "folder": "5Cl78rttfWPhO7rU",
+  "name": "KIM PHAM Act 2",
+  "type": "agenda",
+  "img": "systems/alienrpg/images/icons/personal-agenda.png",
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "comment": {
+        "value": "<p data-pm-slice=\"1 1 []\"><strong>Act 2:</strong> Your priority is survival and preserving your family&rsquo;s legacy, but you can&rsquo;t abandon <strong>Anya</strong>. Her life depends on you, and you must ensure her safety alongside your own.</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "5502bce436a2632c30260425d2ffa542f10f9157"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.wDvcq0Fb79c1DXQv",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "6mmKofmkTg3iAcIE",
+  "_key": "!items!6mmKofmkTg3iAcIE"
+}

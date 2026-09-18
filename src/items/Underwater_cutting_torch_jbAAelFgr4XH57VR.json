@@ -1,0 +1,91 @@
+{
+  "name": "Underwater cutting torch",
+  "type": "weapon",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "effects": [],
+  "folder": "2UeLQByS9kcZtALz",
+  "sort": 300000,
+  "flags": {
+    "core": {},
+    "maestro": {
+      "playlist": "nG81ODq2wzA2ImjD",
+      "track": "XoK1NHcB6oWYcWgI"
+    },
+    "scene-packer": {
+      "hash": "16e1f59c2713e2e893f2e60bd51c48c7340ce1f1"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "2",
+        "label": "Text"
+      },
+      "active": false
+    },
+    "attributes": {
+      "bonus": {
+        "value": 0,
+        "label": "Number"
+      },
+      "damage": {
+        "value": 3,
+        "label": "Number"
+      },
+      "weight": {
+        "value": 1,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "$300.00",
+        "label": "Number"
+      },
+      "range": {
+        "value": "1",
+        "label": "Text"
+      },
+      "class": {
+        "value": "Close Combat",
+        "label": "Text"
+      },
+      "rounds": {
+        "value": 0,
+        "label": "Number"
+      },
+      "power": {
+        "value": 5,
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<p><strong>Armor piercing, Power Supply 5.</strong></p>\n<p>A underwater blowtorch used for both welding and cutting through metal. In a pinch, a cutting torch can be used as a weapon. You need to make a Power Supply roll after every use. Its battery has a Power Supply level of 5 when fully charged.</p>",
+        "label": "Text"
+      },
+      "quantity": {
+        "value": 1
+      }
+    },
+    "notes": {
+      "notes": null
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "YEoPmwinvi5w1FW6": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.D75HtPpvamO5UX4T",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "jbAAelFgr4XH57VR",
+  "_key": "!items!jbAAelFgr4XH57VR"
+}

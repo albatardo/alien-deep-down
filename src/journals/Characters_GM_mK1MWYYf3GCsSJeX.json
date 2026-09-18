@@ -1,0 +1,387 @@
+{
+  "folder": "3WEbekbKztXvhiAj",
+  "name": "Characters GM",
+  "_id": "mK1MWYYf3GCsSJeX",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "CIXIN LIU STATION ENGINEER  (UNOFFICIAL TEAM LEADER)",
+      "type": "text",
+      "_id": "H4J1h9FaxGcSBTTO",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>CIXIN LIU - Chief Engineer</strong></p><img src=\"modules/alien-deep-down/assets/tokens/CIXIN_LIU/CIXIN_LIU.png\" height=\"300\"><p></p><ul><li><strong>Full Name</strong>: Cixin Liu</li><li><strong>Role</strong>: Station Engineer</li><li><strong>Age</strong>: 52</li><li><strong>Personality</strong>: Independent</li></ul><p>Cixin Liu has worked at Novotny Station for over 25 years. He firmly believes that only through hard work and dedication can the people of the UPP advance their cause across the galaxy.</p><p>Proud of ensuring the station’s equipment operates correctly, Liu has faced increasing frustration as his repeated requests for basic tools are ignored. Despite these challenges, he has devoted his life to Novotny and dreams of restoring it to its former glory. However, this current shift under the sea has tested even his unyielding resolve.</p><p>He despises the station's hierarchical corruption and sees this investigation—and Olga’s arrival—as a chance to finally bring change.</p><p></p><hr><p><strong>Attributes</strong></p><ul><li>Strength: 3</li><li>Wits: 5</li><li>Empathy: 4</li><li>Agility: 2</li></ul><p><strong>Health</strong>: 3</p><p></p><hr><p><strong>Skills</strong></p><ul><li>Heavy Machinery: 5</li><li>Observation: 3</li><li>Comtech: 5</li><li>Command: 1</li></ul><p><strong>Talent</strong>: Analysis</p><p></p><hr><p><strong>Buddy</strong>: Alvarez<br><strong>Rival</strong>: Dubov</p><p><strong>Signature Item</strong>: Sci-Fi Story Novel<br><strong>Equipment</strong>: Seegson Electronics Kit (+1 to Comtech)</p><p></p><hr><p></p><p><strong>Agenda</strong></p><ul><li><p><strong>Act 1</strong>:<br>You’re convinced Dubov is involved in the disappearance or any other mishaps. Don’t miss a chance to put that waste of space in his place. You also hold hope that the investigator might have the power to save the station.</p></li><li><p><strong>Act 2</strong>:<br>Even if you can’t prove it, you know Dubov is a bad influence—and possibly in league with Xiang. People like them drag the UPP down, and they shouldn’t leave this place alive.<br>You’ve done everything you could for the station. Now, it’s time to focus on saving yourself and getting to the surface while you still can.</p></li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mK1MWYYf3GCsSJeX.H4J1h9FaxGcSBTTO"
+    },
+    {
+      "sort": 200000,
+      "name": "Cpt. Olga Kramarenko.",
+      "type": "text",
+      "_id": "Rh575rXzrmYaPP9N",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Cpt. Olga Kramarenko</strong></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/OLGA_KRAMARENKO_prt.png\" height=\"300\"><p><strong>Occupation:</strong> MSS Agent<br><strong>Age:</strong> 36<br><strong>Personality:</strong> Direct</p><p></p><hr><p></p><p></p><h3><strong>ATTRIBUTES</strong></h3><p><strong>STRENGTH:</strong> 5<br><strong>WITS:</strong> 3<br><strong>EMPATHY:</strong> 3<br><strong>AGILITY:</strong> 3</p><p><strong>HEALTH:</strong> 5</p><hr><p></p><p></p><h3><strong>SKILLS</strong></h3><ul><li><strong>Close Combat:</strong> 3</li><li><strong>Ranged Combat:</strong> 3</li><li><strong>Command:</strong> 4</li><li><strong>Observation:</strong> 2</li></ul><hr><p></p><p></p><h3><strong>TALENTS</strong></h3><ul><li><strong>Pull Rank</strong></li></ul><p><strong>Buddy:</strong> To be chosen in the final act.<br><strong>Rival:</strong> Qiang</p><p><strong>Signature Item:</strong> Bravery Medal</p><hr><p></p><p></p><h3><strong>EQUIPMENT</strong></h3><ul><li><strong>UPP 9mm Service Pistol</strong> (2 loads)</li><li><strong>Large Serrated Underwater Combat Knife</strong> (DMG 2)</li><li><strong>P-DAT</strong></li></ul><hr><p></p><p></p><h3><strong>Backstory</strong></h3><p>Cpt. Olga Kramarenko once commanded an elite unit of underwater demolition commandos. Her unshakable loyalty to the UPP was severely tested about a year ago when her entire team was abandoned in enemy-infested waters. She emerged as the sole survivor.</p><p>Awarded a bravery medal for her actions, Olga found herself emboldened enough to question her superiors about the decisions that led to this military catastrophe. Their response was swift: she was \"promoted\" and reassigned to the <strong>Ministry of Space Security</strong>, ostensibly as a reward for her valor, but in reality, it was a means of sidelining her.</p><p>Her next assignment took her to the aquatic world of <strong>Voda</strong>, tasked with investigating a series of disappearances. Cautious but dutiful, Olga prepared for the mission, knowing full well she couldn't trust the motives of her superiors.</p><p>She was warned about the station’s <strong>chief engineer, Cixin Liu</strong>, whose repeated incompetence had compounded the station's troubles.</p><hr><p></p><p></p><h3><strong>Agenda</strong></h3><p></p><p><strong>Act 1:</strong> Investigate the disappearances. However, you remain deeply suspicious of your superiors' true intentions. You are a genuine UPP hero and deserve the respect that comes with it.</p><p></p><p><strong>Act 2:</strong> Bear witness to the unfolding events. Survive at all costs.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mK1MWYYf3GCsSJeX.Rh575rXzrmYaPP9N"
+    },
+    {
+      "sort": 300000,
+      "name": "IVAN DUBOV - OPERADOR DE MÁQUINA",
+      "type": "text",
+      "_id": "o3xcRYshgIPeRDiI",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Ivan Dubov</strong></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/IVAN_DUBOV/IVAN_DUBOV.png\" height=\"300\"><p><strong>Occupation:</strong> Machine Operator<br><strong>Age:</strong> 25<br><strong>Personality:</strong> Rebellious</p><hr><p></p><h3><strong>ATTRIBUTES</strong></h3><p><strong>STRENGTH:</strong> 5<br><strong>WITS:</strong> 2<br><strong>EMPATHY:</strong> 2<br><strong>AGILITY:</strong> 5</p><p><strong>HEALTH:</strong> 5</p><hr><p></p><h3><strong>SKILLS</strong></h3><ul><li><strong>Heavy Machinery:</strong> 4</li><li><strong>Close Combat:</strong> 3</li><li><strong>Manipulation:</strong> 1</li><li><strong>Ranged Combat:</strong> 2</li></ul><hr><p></p><h3><strong>TALENTS</strong></h3><ul><li><strong>The Long Haul</strong></li></ul><p><strong>Buddy:</strong> Pham<br><strong>Rival:</strong> Liu</p><p><strong>Signature Item:</strong> Cigarette Case</p><hr><p></p><h3><strong>EQUIPMENT</strong></h3><ul><li><strong>Razor-Sharp Switchblade</strong> (DMG 2)</li></ul><hr><p></p><h3><strong>Backstory</strong></h3><p>Ivan Dubov is an underwater welder specializing in deep-sea operations. Once a free spirit, his penchant for illegal gambling repeatedly brought him into conflict with the state. He was eventually sentenced to forced labor.</p><p>After spending several years in a labor prison, Ivan was given a choice: continue his grueling sentence or sign a decades-long contract to work on the underwater station. He reluctantly chose the latter.</p><p>A recent arrival at the station, Ivan has proven to be a thorn in the side of seasoned workers like <strong>Liu</strong>, whom he constantly antagonizes. His rebellious attitude and disciplinary issues have led to him being barred from joining the other workers on most tasks, relegating him to menial jobs like cleaning latrines in the habitation area.</p><p>Though outwardly defiant, Ivan dreams of escaping what he sees as a life of slavery and charting his own course. He only trusts a few people, and most of the station’s staff are not on that list.</p><hr><p></p><h3><strong>Agenda</strong></h3><p><strong>Act 1:</strong> This isn’t fair! If it weren’t for that idiot Liu, you’d be on your way home by now, not stuck here over some missing person. The UPP’s way feels more like slavery than freedom, and you hate it. Make sure everyone knows how you feel about this miserable situation!</p><p></p><p><strong>Act 2:</strong> Things are going horribly wrong, and it’s time to get out. The only person you care about is <strong>Dr. Pham</strong>—make sure both of you survive!</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mK1MWYYf3GCsSJeX.o3xcRYshgIPeRDiI"
+    },
+    {
+      "sort": 400000,
+      "name": "KIM PHAM - ESPECIALISTA EM MERGULHO / MÉDICO",
+      "type": "text",
+      "_id": "iuvXYcHXS1hT9qIQ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Kim Pham</strong></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/KIM_PHAM/KIM_PHAM.png\" height=\"300\"><p><strong>Occupation:</strong> Diving Specialist / Medic<br><strong>Age:</strong> 28<br><strong>Personality:</strong> Curious</p><hr><h3><strong><br><br>ATTRIBUTES</strong></h3><p><strong>STRENGTH:</strong> 3<br><strong>WITS:</strong> 4<br><strong>EMPATHY:</strong> 5<br><strong>AGILITY:</strong> 2</p><p><strong>HEALTH:</strong> 3</p><hr><h3><strong><br><br>SKILLS</strong></h3><ul><li><strong>Observation:</strong> 3</li><li><strong>Comtech:</strong> 3</li><li><strong>Medical Aid:</strong> 4</li></ul><hr><h3><strong><br><br>TALENTS</strong></h3><ul><li><strong>Field Surgeon</strong></li></ul><p><strong>Buddy:</strong> Dubov<br><strong>Rival:</strong> Alvarez</p><p><strong>Signature Item:</strong> Old Family Photo</p><hr><h3><strong><br><br>EQUIPMENT</strong></h3><ul><li><strong>Personal Med Kit</strong></li><li><strong>AMVIL'S HEART! (Naproleve -UPP) (2 doses)</strong></li></ul><hr><h3><strong><br><br>Backstory</strong></h3><p>Dr. Kim Pham grew up in a farming cooperative far from the ocean, dreaming of exploring alien worlds and charting new frontiers. A trailblazer in her family, she became the first to receive formal education, choosing a career in medicine.</p><p>Driven by her passion for discovery, she seized the opportunity to work on an underwater station on a distant alien planet, acing every underwater skills test with perfect scores.</p><p>However, shortly after her arrival at <strong>Matvey Station</strong>, Pham learned that her family had perished in a devastating—yet preventable—farming accident. This tragedy shattered her trust in the UPP’s promises to care for its citizens, leaving her disillusioned and burdened with regret over her decision to join.</p><p>Despite her internal conflict, Pham remains a skilled and compassionate medic, committed to helping those in her care.</p><hr><h3><strong><br><br>Agenda</strong></h3><p><strong>Act 1:</strong> You are responsible for <strong>Anya</strong>, a patient who requires periodic medical attention. You’re determined to locate your missing colleague but deeply distrust <strong>Alvarez</strong>—his relentless optimism seems like a façade hiding something sinister.</p><p><strong><br>Act 2:</strong> Your priority is survival and preserving your family’s legacy, but you can’t abandon <strong>Anya</strong>. Her life depends on you, and you must ensure her safety alongside your own.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mK1MWYYf3GCsSJeX.iuvXYcHXS1hT9qIQ"
+    },
+    {
+      "sort": 500000,
+      "name": "DIEGO ALVAREZ  - UPP State Agent",
+      "type": "text",
+      "_id": "OEP8Btu6HckIfKUA",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Diego Alvarez</strong></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/DIEGO_ALVAREZ/DIEGO_ALVAREZ.png\" height=\"300\"><p><strong>Occupation:</strong> UPP State Agent<br><strong>Age:</strong> 31<br><strong>Personality:</strong> Optimistic</p><hr><p></p><p></p><h3><strong>ATTRIBUTES</strong></h3><p><strong>STRENGTH:</strong> 3<br><strong>WITS:</strong> 5<br><strong>EMPATHY:</strong> 3<br><strong>AGILITY:</strong> 3</p><p><strong>HEALTH:</strong> 3</p><hr><p></p><p></p><h3><strong>SKILLS</strong></h3><ul><li><strong>Close Combat:</strong> 2</li><li><strong>Observation:</strong> 2</li><li><strong>Survival:</strong> 1</li><li><strong>Comtech:</strong> 4</li><li><strong>Ranged Combat:</strong> 1</li></ul><hr><p></p><p></p><h3><strong>TALENTS</strong></h3><ul><li><strong>Cunning</strong></li></ul><p><strong>Buddy:</strong> Liu<br><strong>Rival:</strong> Qiang</p><p><strong>Signature Item:</strong> UPP Shoulder Patch</p><hr><p></p><p></p><h3><strong>EQUIPMENT</strong></h3><ul><li><strong>Custom Underwater Power Tool</strong> (DMG 2)</li></ul><hr><p></p><p></p><h3><strong>Backstory</strong></h3><p>Born on an aquatic world plagued by scarcity and hardship, Diego Alvarez grew up in a community where survival was a daily struggle. Recognized for his aptitude in science, he earned a spot in a UPP state cooperative, specializing in underwater mining and serving as a company representative.</p><p>Despite his corporate role, Diego is not the stereotypical company agent. His actions are guided by compassion and humanism rather than ambition or ruthlessness. His optimistic outlook and genuine desire to help others set him apart from his peers.</p><p>Recently assigned to <strong>Matvey Station</strong> as part of an interplanetary exchange program, Diego enjoyed a carefree evening of drinking and card games with <strong>Dubov</strong> and <strong>Frenkel</strong>. Unfortunately, he overslept, missing the scheduled elevator departure to the surface. He awakens to find the station in lockdown and chaos unfolding around him.</p><hr><p></p><p></p><h3><strong>Agenda</strong></h3><p></p><p><strong>Act 1:</strong> You wake up hungover and realize you've missed your ride to the surface. Now you're stuck because someone has gone missing. True to your optimistic nature, you'll make the best of the situation and help investigate the mystery. While you don't particularly like <strong>Kramarenko</strong>, you hide your feelings and assist her as much as possible.</p><p></p><p><strong>Act 2:</strong> Your priority is to return to the surface, but you are determined to save as many lives as possible. You embody the best qualities of the UPP, and this is your chance to prove it. You've survived countless challenges, and this one will be no different.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mK1MWYYf3GCsSJeX.OEP8Btu6HckIfKUA"
+    },
+    {
+      "sort": 600000,
+      "name": "MARIA DEL CAMPOS - Hydroponics",
+      "type": "text",
+      "_id": "hcQXgjfQxtAVyq6W",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p class=\"MsoNormal\"><strong>FULL NAME:</strong> Maria Del Campos</p><p></p><img src=\"modules/alien-deep-down/assets/tokens/MARIA_DEL_CAMPOS/MARIA_DEL_CAMPOS.png\" height=\"300\"><p class=\"MsoNormal\"><strong>OCCUPATION:</strong> Hydroponics</p><p class=\"MsoNormal\"><strong>AGE:</strong> 21</p><p class=\"MsoNormal\"><strong>PERSONALITY:</strong> Hardworking</p><p class=\"MsoNormal\">Maria grew up in a family of deep-sea divers. When she took her aptitude test sponsored by the UPP, it was only natural that she was assigned to one of the UPP's most important underwater mining projects.</p><p class=\"MsoNormal\">Shortly after arriving at the Novotny station, she took on a second role working in the hydroponic farm.</p><p class=\"MsoNormal\">She loves her work and firmly believes that the UPP's system is the perfect model. To her, it represents what all hardworking people across the galaxy should aspire to adopt.</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><strong>ATTRIBUTES:</strong><br>STRENGTH: 4<br>WITS: 3<br>EMPATHY: 3<br>AGILITY: 4</p><p class=\"MsoNormal\"><strong>HEALTH:</strong> 4</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><strong>SKILLS:</strong></p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p>Heavy Machinery: 3</p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p>Stamina: 1</p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p>Comtech: 3</p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p>Mobility: 2</p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p>Ranged Combat: 1</p></li></ul><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><strong>TALENT:</strong> Calm Breather</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><strong>BUDDY:</strong> Pham<br><strong>RIVAL:</strong> Qiang</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><strong>SIGNATURE ITEM:</strong> Deep Sea Diver Pin</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><strong>GEAR:</strong></p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l2 level1 lfo2;tab-stops:list 36.0pt\"><p>10 doses of X-Stim DEKOMPRESS antidote (see Agenda)</p></li></ul><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><strong>AGENDA:</strong></p><p class=\"MsoNormal\"><strong>Act 1 &amp; 2:</strong> You think everyone has gone mad—except you!</p><p class=\"MsoNormal\">That missing engineer clearly took his own life, and the rest is just a horrifying shared hallucination, a known side effect of DeKompress.</p><p class=\"MsoNormal\">You have 10 doses of X-Stims with you.</p><p class=\"MsoNormal\">Your goal is to administer a dose to everyone, whether they want it or not, to calm them down and make them realize they are experiencing a mass hallucination!</p><p class=\"MsoNormal\">You show no symptoms yourself and must not use the drug on yourself. Its side effects might hinder your ability to act and save others.</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><strong>X-Stim Mechanics:</strong></p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo3;tab-stops:list 36.0pt\"><p>Reduces Stress by half (rounded down).</p></li><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo3;tab-stops:list 36.0pt\"><p>Inflicts a <strong>-1 penalty</strong> to all Agility-based rolls for 1 turn.</p></li><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo3;tab-stops:list 36.0pt\"><p>Cancels the effects of DeKompress. Re-administering DeKompress requires <strong>1 shift</strong> to take effect again.</p></li><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo3;tab-stops:list 36.0pt\"><p>Causes loss of short memory, you don’t remember receiving the dose.</p></li></ul><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"><strong>SECRET TRUTH:</strong><br>Maria is the one experiencing a hallucination.</p><p class=\"MsoNormal\">If someone manages to administer the drug to her, allow the player to select a new agenda for her. Maria will not come to this realization on her own.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mK1MWYYf3GCsSJeX.hcQXgjfQxtAVyq6W"
+    },
+    {
+      "sort": 700000,
+      "name": "LI QIANG -  SUPERVISOR",
+      "type": "text",
+      "_id": "yI7QAqFNxW6mkTbm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span style=\"font-family:'Aptos',sans-serif\">NOME COMPLETO: <strong>LI QIANG</strong></span></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/LI_QIANG/LI_QIANG.png\" height=\"300\"><p><span style=\"font-family:'Aptos',sans-serif\">TRABALHO: SUPERVISOR</span></p><p><span style=\"font-family:'Aptos',sans-serif\">IDADE: 47</span></p><p><span style=\"font-family:'Aptos',sans-serif\">PERSONALIDADE: AMBICIOSO</span></p><p><span style=\"font-family:'Aptos',sans-serif\">Qiang é o supervisor responsável pela estação Matvey.</span></p><p><span style=\"font-family:'Aptos',sans-serif\">Ele é implacável e ambicioso, e não se importou em receber um suborno para olhar para o outro lado quando os recursos da estação eram desviados para ganho corrupto e para o gen Volkoff.</span></p><p><span style=\"font-family:'Aptos',sans-serif\">Ele ficou surpreso quando seus superiores disseram que ele deveria ir para a estação enquanto um investigador era enviado para encontrar o camarada desaparecido, e garantir que ela não encontre ou haja contra os sinais de corrupção.</span></p><p><span style=\"font-family:'Aptos',sans-serif\">Ele fará o que eles pediram por enquanto por medo de ir preso, mas ele é leal apenas a si mesmo, todo mundo que se dane.<br></span><strong>Li Qiang</strong></p><p><strong>Occupation:</strong> Supervisor<br><strong>Age:</strong> 47<br><strong>Personality:</strong> Ambitious</p><hr><p></p><h3><strong>ATTRIBUTES</strong></h3><p><strong>STRENGTH:</strong> 4<br><strong>AGILITY:</strong> 3<br><strong>WITS:</strong> 3<br><strong>EMPATHY:</strong> 4</p><p><strong>HEALTH:</strong> 4</p><hr><p></p><h3><strong>SKILLS</strong></h3><ul><li><strong>Heavy Machinery:</strong> 3</li><li><strong>Comtech:</strong> 2</li><li><strong>Manipulation:</strong> 3</li><li><strong>Command:</strong> 2</li></ul><hr><p></p><h3><strong>TALENTS</strong></h3><ul><li><strong>Influence</strong></li></ul><p><strong>Buddy:</strong> None<br><strong>Rival:</strong> Everyone</p><p><strong>Signature Item:</strong> Demerits Book</p><hr><p></p><h3><strong>EQUIPMENT</strong></h3><ul><li><strong>UPP 9mm Service Pistol</strong> (1 load)</li></ul><hr><p></p><h3><strong>Backstory</strong></h3><p>Li Qiang is the no-nonsense supervisor of <strong>Matvey Station</strong>. Ruthlessly ambitious, he turned a blind eye to resource diversion and corruption when bribed, funneling profits to the notorious <strong>General Volkoff</strong>.</p><p>Qiang's confidence was shaken when his superiors unexpectedly ordered him to go to the station with an investigator that was dispatched to locate a missing comrade. His covert mission is to ensure that no evidence of corruption surfaces and to obstruct any inquiries that might implicate him or Volkoff.</p><p>Though he begrudgingly complies with the directives to avoid imprisonment, Qiang is loyal only to himself. Everyone else, in his view, is expendable.</p><hr><p></p><h3><strong>Agenda</strong></h3><p></p><p><strong>Act 1:</strong> Cover up your crimes at all costs, including those of <strong>General Volkoff</strong>, or risk him exposing you as well. Keep the investigator in the dark and derail her investigation whenever possible.</p><p></p><p><strong>Act 2:</strong> Prioritize self-preservation above all else. No one can be allowed to escape if it risks pointing the blame at you!<span style=\"font-family:'Aptos',sans-serif\"><br></span></p><p></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mK1MWYYf3GCsSJeX.yI7QAqFNxW6mkTbm"
+    },
+    {
+      "sort": 800000,
+      "name": "Anya Zomorova - babushka",
+      "type": "text",
+      "_id": "TZ5bhfxth0NbiaVF",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p class=\"MsoNormal\"><strong>FULL NAME</strong>: Anya Zomorova</p><p></p><img src=\"modules/alien-deep-down/assets/tokens/Anya_Zomorova/Anya_Zomorova_prt.png\" height=\"300\"><p class=\"MsoNormal\"><strong>ROLE</strong>: Wherever she wants, former diver</p><p class=\"MsoNormal\"><strong>AGE</strong>: 71</p><p class=\"MsoNormal\"><strong>PERSONALITY</strong>: Babushka</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p></p><h2><strong>ATTRIBUTES</strong></h2><p class=\"MsoNormal\"><strong>STRENGTH</strong>: 2<br><strong>AGILITY</strong>: 2<br><strong>WITS</strong>: 4<br><strong>EMPATHY</strong>: 4</p><p class=\"MsoNormal\"><strong>HEALTH</strong>: 2</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p></p><h2><strong>SKILLS</strong></h2><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l2 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Heavy Machinery</strong>: 2</p></li><li class=\"MsoNormal\" style=\"mso-list:l2 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Manipulation</strong>: 2</p></li><li class=\"MsoNormal\" style=\"mso-list:l2 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Medical Aid</strong>: 1</p></li><li class=\"MsoNormal\" style=\"mso-list:l2 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Observation</strong>: 1</p></li><li class=\"MsoNormal\" style=\"mso-list:l2 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Survival</strong>: 1</p></li><li class=\"MsoNormal\" style=\"mso-list:l2 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Comtech</strong>: 3</p></li></ul><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p></p><h2><strong>TALENTS</strong></h2><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l3 level1 lfo2;tab-stops:list 36.0pt\"><p><strong>Compassion</strong></p></li></ul><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"><strong>BUDDY</strong>: Everyone<br><strong>RIVAL</strong>: Li Qiang</p><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"><strong>SIGNATURE ITEM</strong></p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo3;tab-stops:list 36.0pt\"><p>Team photo</p></li></ul><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p></p><h2><strong>ITEMS</strong></h2><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo4;tab-stops:list 36.0pt\"><p>Homemade vodka</p></li></ul><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p></p><h2><span style=\"font-family:Signika, sans-serif\"><strong style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:var(--color-scrollbar) var(--color-scrollbar-track)\">Backstory</strong></span></h2><p class=\"MsoNormal\"><br>\"Anya has been serving at this station for over 45 years. She met her husband here, her daughter was born here, and she knows the station like no one else.</p><p class=\"MsoNormal\">However, Anya doesn’t love the station itself; she loves the people in it.</p><p class=\"MsoNormal\">When the time came to retire, she didn’t want to leave. She decided to stay, and her request was granted.</p><p class=\"MsoNormal\">Babushka doesn’t cause trouble and is the main reason why morale at the station isn’t worse. That, and the vodka she makes herself.</p><p class=\"MsoNormal\">She lost her husband 20 years ago to a heart attack and her daughter in the border war 2 years ago. Since then, her attachment to the station's residents has become her sole motivation.</p><p class=\"MsoNormal\">In her attempt to find Karill, she exhausted herself during a 6-hour trek outside the base. She no longer believes he is alive but wanted at least to find his body.</p><p class=\"MsoNormal\">Now, she believes the station is haunted by evil spirits from her childhood stories—called <em>Vodyanoy</em>—malicious water spirits who want to drown humans as vengeance for the wrongs caused by war and humanity.\"</p><p></p><p></p><h2><strong>AGENDA</strong></h2><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"><strong>ACT 1</strong>: You love everyone on the station. You’re their grandmother! You won’t let them lose hope that everything will work out, nor will you allow them to give up on each other.</p><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"><strong>ACT 2</strong>: You’ll do whatever it takes to save your grandchildren—all of them! Even face this Demon!</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mK1MWYYf3GCsSJeX.TZ5bhfxth0NbiaVF"
+    },
+    {
+      "sort": 900000,
+      "name": "Frenkel",
+      "type": "text",
+      "_id": "LbBndEoZpZwlxKRm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Guilhermo Petrosky Frenkel<br><br><br>Routine Maintenance Gone Wrong... Again.</strong></p><p class=\"MsoNormal\"> </p><img src=\"modules/alien-deep-down/assets/tokens/Guilhermo_Petrosky_Frenkel/Guilhermo_Petrosky_Frenkel_PRT.png\" height=\"300\"><p class=\"MsoNormal\"><em>(My friend here makes a awesome Frenkel! See you around Guilherme!)</em></p><p class=\"MsoNormal\"><strong> </strong></p><p class=\"MsoNormal\"><strong>(If someone is in the seabed with Frenkel, make him disappear into the dark before they can do something about it. This event is proof that something is in the water beyond any doubt.)</strong></p><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">NPC Frenkel, suffering from the worst hangover, goes out to finish the maintenance Karill never completed.</p><p class=\"MsoNormal\">An alarm goes off, indicating Frenkel's hose has been disconnected (everyone adds one stress when the alarm sounds).</p><p class=\"MsoNormal\">Frenkel screams over the communicator, gasping, scared, terrified. \"Oh my God, what...\", more sharp screams follow and then muffle, as Frenkel alternates between his main connection and his backup breathing device.</p><p class=\"MsoNormal\">Heavy breaths are heard: \"help me!\", \"something is here\", \"please!\".</p><p class=\"MsoNormal\">Frenkel cannot be seen visually as he is behind the drill and a camera that would normally cover him is no longer working.</p><p class=\"MsoNormal\">A flash of light, a blur, a swirl of the sea is seen near the area if anyone bothers to look through the porthole.</p><p class=\"MsoNormal\">Frenkel needs help, and the players need to act.</p><p class=\"MsoNormal\">If no one volunteers to go out and rescue him, an NPC will immediately order them to rescue Frenkel.</p><p class=\"MsoNormal\"> </p><p></p><p class=\"MsoNormal\">The hydromorphs have disconnected Frenkel's air and are playing with him, probing and testing how the players react.</p><p class=\"MsoNormal\">Frenkel will continue to scream over their communicators while the players prepare to go after him (more stress will be added at the GM's discretion once the players are in the air chamber).</p><p class=\"MsoNormal\">When the players reach Frenkel, they will find him tangled in his own disconnected air hose, nearly out of air and injured.</p><img src=\"modules/alien-deep-down/assets/images/lost_frenkel.png\" height=\"300\"><p class=\"MsoNormal\">Players must make a proper mobility check to untangle him.</p><p class=\"MsoNormal\">Once they attempt to rescue Frenkel, the hydromorphs will attack using only option #2 on their characteristic attack table (dragging the players away, screaming, and then releasing them).</p><p class=\"MsoNormal\">Some players' hoses will be disconnected by the hydromorphs, and the player will then need to switch to their secondary emergency air tank. This requires a mobility test.</p><p class=\"MsoNormal\">Failure to secure the secondary breathing device will add +1 stress. Running out of air can result in damage and even death if not corrected (at the GM's discretion).</p><p class=\"MsoNormal\">If the PCs manage to bring Frenkel back, he will be in shock and die shortly after, convulsing with wide eyes.</p><p class=\"MsoNormal\">A medical examination will reveal lacerations and strange burn marks all over his torso as the hydromorphs drained his electrical life energy from his body.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!mK1MWYYf3GCsSJeX.LbBndEoZpZwlxKRm"
+    }
+  ],
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3,
+    "WpgL5mgqYVSQ6ZA5": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734871636534,
+    "modifiedTime": 1734871636534,
+    "lastModifiedBy": "WpgL5mgqYVSQ6ZA5",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!mK1MWYYf3GCsSJeX"
+}

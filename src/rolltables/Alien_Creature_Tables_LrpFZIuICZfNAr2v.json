@@ -1,0 +1,26 @@
+{
+  "name": "Alien Creature Tables",
+  "type": "RollTable",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#ff0000",
+  "flags": {
+    "scene-packer": {
+      "hash": "5d272d81938ecb509135fb1609907a500fb3fc5e"
+    }
+  },
+  "_id": "LrpFZIuICZfNAr2v",
+  "folder": "Btepu5tifRV0Pj7w",
+  "description": "",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804381739,
+    "modifiedTime": 1734804381739,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!LrpFZIuICZfNAr2v"
+}

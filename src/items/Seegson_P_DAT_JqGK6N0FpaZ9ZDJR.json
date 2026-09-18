@@ -1,0 +1,170 @@
+{
+  "_id": "JqGK6N0FpaZ9ZDJR",
+  "name": "Seegson P-DAT",
+  "type": "item",
+  "img": "modules/alien-deep-down/assets/Items/p-dat.png",
+  "effects": [],
+  "folder": "CNFIy5m7nRfjwCHd",
+  "sort": 150000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "6574d83f9c3fb32d763eeaa948253074c222b801"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "2",
+        "label": "Text"
+      },
+      "active": false,
+      "completed": false
+    },
+    "attributes": {
+      "weight": {
+        "value": 0.5,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "US$500.00",
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<p>Copyrighted. Please add information here as I am prohibited from doing so.</p>",
+        "label": "Text"
+      },
+      "food": {
+        "value": 0,
+        "label": "Number"
+      },
+      "water": {
+        "value": 0,
+        "label": "Number"
+      },
+      "power": {
+        "value": 0,
+        "label": "Stress"
+      },
+      "airsupply": {
+        "value": 0,
+        "label": "Number"
+      },
+      "quantity": {
+        "value": 1
+      },
+      "notes": {
+        "notes": ""
+      }
+    },
+    "modifiers": {
+      "attributes": {
+        "health": {
+          "value": 0,
+          "label": "Health"
+        },
+        "stress": {
+          "value": 0,
+          "label": "Stress"
+        },
+        "str": {
+          "value": 0,
+          "label": "Strength"
+        },
+        "wit": {
+          "value": 0,
+          "label": "Wits"
+        },
+        "agl": {
+          "value": 0,
+          "label": "Agility"
+        },
+        "emp": {
+          "value": 0,
+          "label": "Empathy"
+        }
+      },
+      "skills": {
+        "heavyMach": {
+          "value": 0,
+          "label": "Heavy Machinery",
+          "ability": "str"
+        },
+        "closeCbt": {
+          "value": 0,
+          "label": "Close Combat",
+          "ability": "str"
+        },
+        "stamina": {
+          "value": 0,
+          "label": "Stamina",
+          "ability": "str"
+        },
+        "rangedCbt": {
+          "value": 0,
+          "label": "Ranged Combat",
+          "ability": "agl"
+        },
+        "mobility": {
+          "value": 0,
+          "label": "Mobility",
+          "ability": "agl"
+        },
+        "piloting": {
+          "value": 0,
+          "label": "Piloting",
+          "ability": "agl"
+        },
+        "command": {
+          "value": 0,
+          "label": "Command",
+          "ability": "emp"
+        },
+        "manipulation": {
+          "value": 0,
+          "label": "Manipulation",
+          "ability": "emp"
+        },
+        "medicalAid": {
+          "value": 0,
+          "label": "Medical Aid",
+          "ability": "emp"
+        },
+        "observation": {
+          "value": 0,
+          "label": "Observation",
+          "ability": "wit"
+        },
+        "survival": {
+          "value": 0,
+          "label": "Survival",
+          "ability": "wit"
+        },
+        "comtech": {
+          "value": 0,
+          "label": "Comtech",
+          "ability": "wit"
+        }
+      }
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "YEoPmwinvi5w1FW6": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Item.aji7vzr1zFX5RCBH",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!items!JqGK6N0FpaZ9ZDJR"
+}

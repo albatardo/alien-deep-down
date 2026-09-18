@@ -1,0 +1,26 @@
+{
+  "name": "Ending",
+  "sorting": "a",
+  "folder": "NLQmmen0jiW1DHzJ",
+  "type": "Scene",
+  "_id": "chdzYZPjYtnyym4b",
+  "description": "",
+  "sort": 631250,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "68e95a70b8c15f7df5107b2239178d6377244e9a"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734824033307,
+    "modifiedTime": 1734824033307,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!chdzYZPjYtnyym4b"
+}

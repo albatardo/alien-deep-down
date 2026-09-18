@@ -1,0 +1,26 @@
+{
+  "name": "DEEP DOWN MACROS",
+  "sorting": "a",
+  "folder": null,
+  "type": "Macro",
+  "_id": "CMFSLqecf96SGXJV",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "8d89e79275c391aadc7bed4abc43dce027136e0c"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734807396769,
+    "modifiedTime": 1734807396791,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!CMFSLqecf96SGXJV"
+}

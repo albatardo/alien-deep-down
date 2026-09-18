@@ -1,0 +1,49 @@
+{
+  "folder": "5Cl78rttfWPhO7rU",
+  "name": "Ivan Dubov  Act 2",
+  "type": "agenda",
+  "img": "systems/alienrpg/images/icons/personal-agenda.png",
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "comment": {
+        "value": "<p><strong>Act 2:</strong> Things are going horribly wrong, and it&rsquo;s time to get out. The only person you care about is <strong>Dr. Pham</strong>&mdash;make sure both of you survive!</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "aa1967f37c264107c11d545b8bda962b0aa6c9d6"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.wDvcq0Fb79c1DXQv",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "0tLjF22CtEuvYfj9",
+  "_key": "!items!0tLjF22CtEuvYfj9"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Alien Mother Tables",
+  "type": "RollTable",
+  "sorting": "a",
+  "sort": 0,
+  "color": "#00c100",
+  "flags": {
+    "scene-packer": {
+      "hash": "79dbd8ad6ce51cf885bbb4b8cd20164577a68483"
+    }
+  },
+  "_id": "A0N3Ct1TQq9BuGk6",
+  "folder": "Btepu5tifRV0Pj7w",
+  "description": "",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804381739,
+    "modifiedTime": 1734804381739,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!A0N3Ct1TQq9BuGk6"
+}

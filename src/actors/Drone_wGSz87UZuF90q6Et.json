@@ -1,0 +1,226 @@
+{
+  "_id": "wGSz87UZuF90q6Et",
+  "name": "Drone",
+  "type": "creature",
+  "img": "modules/alien-deep-down/assets/tokens/Xenomorph_Drone/drone-prt.jpg",
+  "items": [],
+  "effects": [],
+  "folder": "9NkXaoM7te8JkDZO",
+  "sort": 0,
+  "flags": {
+    "core": {},
+    "token-variants": {
+      "disableNameSearch": true,
+      "randomizerSettings": {
+        "tokenCreate": false,
+        "tokenCopyPaste": false,
+        "tokenToPortrait": false,
+        "diffImages": false,
+        "syncImages": false,
+        "nonRepeat": false,
+        "tokenName": false,
+        "actorName": false,
+        "keywords": false,
+        "shared": true,
+        "wildcard": false
+      },
+      "variants": [
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/Xenomorph_Drone/drone_tk.png",
+          "names": [
+            "drone_tk"
+          ]
+        }
+      ]
+    },
+    "scene-packer": {
+      "hash": "4c38ed6da3df1616989bed7a20da5af6099b9b47"
+    }
+  },
+  "system": {
+    "header": {
+      "health": {
+        "value": 7,
+        "label": "Health",
+        "max": 7
+      }
+    },
+    "attributes": {
+      "speed": {
+        "value": 2,
+        "label": "Speed"
+      },
+      "armorrating": {
+        "value": 8,
+        "label": "Number",
+        "max": 10
+      },
+      "armorvfire": {
+        "value": 4,
+        "label": "Number",
+        "max": 10
+      }
+    },
+    "general": {
+      "mobility": {
+        "value": "10",
+        "label": "Mobility"
+      },
+      "observation": {
+        "value": "8",
+        "label": "Observation"
+      },
+      "comment": {
+        "value": "",
+        "label": "Text"
+      },
+      "special": {
+        "value": "copyrighted, please add information",
+        "label": "Text"
+      },
+      "acidSplash": {
+        "value": "8",
+        "label": "Acid Splash"
+      },
+      "critInj": {
+        "value": ""
+      }
+    },
+    "notes": "<p>Now young adults, Stage IV Xenos are able to adapte a bipedal stance, even though they might not always make use of it. Their now fully polarized skin is near black in tone; they have a bladed prehensile tail, six-fingered hands with enlarged nails, pronounced ribs, and translucent to opaque smooth-domed heads. In addition to their metallic, toothy mouths, they have an inner set of jaws that can strike like a piston-a favored mode of attack.</p>\n<p>Save for the Scout, Stage IV Xenomorphs have four dorsal tubes affixed to their backs. While some have theorized the tubes are used for spinning and cocooning the resin for their hive, that has generally been discounted as a fallacy. The current line of thinking is that the tubes are a type of breathing apparatus, filtering out airborne toxins and allowing the creatures to breathe underwater. However, as Aliens have been observed surviving the vacuum of space, it is possible that they do not need to breathe at all.</p>\n<p>Sometimes called Lurkers, Drones stand 2.4 meters tall, and are stealthy ambush hunters. Their tails end in a deadly hooked blade and rudimentary barb for Ovomorph injection. In many ways, Drones are the most alien of the species. It is theorized that the strange behavior often exhibited by Drones is due to them reaching young adulthood without establishing a connection to the alien hive mind. The stealthy creatures' fluid yet awkward movements and unorthodox reactions to stimuli belie their methodical intelligence. As much as a Stalker acts like a feral animal, a Drone plots. The ebon Drone is a clever yet single-minded iteration of the Xenomorph. Development of P. praepotens will arrest at Stage IV unless a Queen's pheromones cause it to molt into a Worker or Soldier-whichever form the hive is most in need of. Until then it will eat, gather hosts for ovomorphing, and sleep. When it evolves to the next stage, it joins the hive mind.</p>\n<p>&nbsp;</p>",
+    "rTables": "Stalker, Scout and Drone Attacks  (add options)",
+    "cTables": "Critical Injuries on Xenomorphs   (add options)"
+  },
+  "ownership": {
+    "default": 0,
+    "lS61ysx9qdaPA2WY": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "prototypeToken": {
+    "flags": {
+      "monks-little-details": {
+        "token-combat-animation": "",
+        "token-highlight": "",
+        "bloodsplat-colour": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "path/image.png"
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      }
+    },
+    "name": "Drone",
+    "displayName": 20,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "None"
+    },
+    "randomImg": false,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.25,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/Xenomorph_Drone/drone_tk.png",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": false,
+      "range": 12,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": {},
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 0.9,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-creatures.wEwibmccQHtgkTYn",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!actors!wGSz87UZuF90q6Et"
+}

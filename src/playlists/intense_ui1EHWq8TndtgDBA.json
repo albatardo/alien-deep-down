@@ -1,0 +1,107 @@
+{
+  "name": "intense",
+  "sounds": [
+    {
+      "name": "Heavy Metalquothellfire Rampagequot By Storm 223345",
+      "path": "modules/alien-deep-down/assets/Sounds/intense-free/heavy-metalquothellfire-rampagequot-by-storm-223345.mp3",
+      "_id": "Ic3e0g86APy7Xp6s",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!ui1EHWq8TndtgDBA.Ic3e0g86APy7Xp6s"
+    },
+    {
+      "name": "Metal Dark Matter 111451",
+      "path": "modules/alien-deep-down/assets/Sounds/intense-free/metal-dark-matter-111451.mp3",
+      "_id": "7MIm6fFCVBHVXHc3",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!ui1EHWq8TndtgDBA.7MIm6fFCVBHVXHc3"
+    },
+    {
+      "name": "Nu Metal No Solo 109317",
+      "path": "modules/alien-deep-down/assets/Sounds/intense-free/nu-metal-no-solo-109317.mp3",
+      "_id": "lwwmidRuTcxf9Ud1",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!ui1EHWq8TndtgDBA.lwwmidRuTcxf9Ud1"
+    },
+    {
+      "name": "Sport Metal Groove 11961",
+      "path": "modules/alien-deep-down/assets/Sounds/intense-free/sport-metal-groove-11961.mp3",
+      "_id": "36IOlIBalUJ2OQV1",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.78,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!ui1EHWq8TndtgDBA.36IOlIBalUJ2OQV1"
+    },
+    {
+      "name": "The Unkillable 155342",
+      "path": "modules/alien-deep-down/assets/Sounds/intense-free/the-unkillable-155342.mp3",
+      "_id": "8zF0AG8iIKRW5Ymm",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!ui1EHWq8TndtgDBA.8zF0AG8iIKRW5Ymm"
+    }
+  ],
+  "channel": "music",
+  "mode": 0,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": 984,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e3416ebdca3ee6d337ad32621bfe62aa59a6daa8",
+      "sourceId": "Playlist.4rxifp8GuZ896p4M"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804415308,
+    "modifiedTime": 1734804415323,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "description": "",
+  "_id": "ui1EHWq8TndtgDBA",
+  "sort": 200000,
+  "_key": "!playlists!ui1EHWq8TndtgDBA"
+}

@@ -1,0 +1,49 @@
+{
+  "folder": "5Cl78rttfWPhO7rU",
+  "name": "CIXIN LIU Act 2",
+  "type": "agenda",
+  "img": "systems/alienrpg/images/icons/personal-agenda.png",
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "comment": {
+        "value": "<p data-pm-slice=\"1 1 [&quot;bullet_list&quot;,{&quot;_preserve&quot;:{}},&quot;list_item&quot;,{&quot;_preserve&quot;:{}}]\">Even if you can&rsquo;t prove it, you know Dubov is a bad influence&mdash;and possibly in league with Xiang. People like them drag the UPP down, and they shouldn&rsquo;t leave this place alive.<br>You&rsquo;ve done everything you could for the station. Now, it&rsquo;s time to focus on saving yourself and getting to the surface while you still can.</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "1f099d26f813733e1a7be68330d63452c8074067"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.wDvcq0Fb79c1DXQv",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "d9rZrClW8SPOXlp2",
+  "_key": "!items!d9rZrClW8SPOXlp2"
+}

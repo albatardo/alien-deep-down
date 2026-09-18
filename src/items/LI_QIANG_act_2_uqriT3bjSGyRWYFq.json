@@ -1,0 +1,49 @@
+{
+  "folder": "5Cl78rttfWPhO7rU",
+  "name": "LI QIANG act 2",
+  "type": "agenda",
+  "img": "systems/alienrpg/images/icons/personal-agenda.png",
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "comment": {
+        "value": "<p><strong>Act 2:</strong> Prioritize self-preservation above all else. No one can be allowed to escape if it risks pointing the blame at you!</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "218ee1ceeb301faa9d48626c9bc4fd66cad320eb"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.wDvcq0Fb79c1DXQv",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "uqriT3bjSGyRWYFq",
+  "_key": "!items!uqriT3bjSGyRWYFq"
+}

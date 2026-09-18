@@ -1,0 +1,33 @@
+{
+  "_id": "HlXMtahX9JUDj4Qy",
+  "name": "CLEAR TK MAGIC FX",
+  "type": "script",
+  "author": "h1BfzYYX7qtp2kbH",
+  "img": "modules/tokenmagic/gui/macros/images/00%20-%20A%20-%20Delete%20filters%20on%20Selected.webp",
+  "scope": "global",
+  "command": "// Delete all filters on the selected tokens/tiles\nawait TokenMagic.deleteFiltersOnSelected();",
+  "folder": "CMFSLqecf96SGXJV",
+  "sort": 0,
+  "flags": {
+    "scene-packer": {
+      "hash": "323cb7b2352ed929241a36f4b5d89f3984ca1ada"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Njc5YzFjZDI5NjZl": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.tokenmagic.tmMacros.Macro.DCRnfJDBd25fOQxc",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734807396777,
+    "modifiedTime": 1734807396777,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!macros!HlXMtahX9JUDj4Qy"
+}

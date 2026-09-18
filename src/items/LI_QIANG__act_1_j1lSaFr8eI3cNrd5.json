@@ -1,0 +1,49 @@
+{
+  "folder": "5Cl78rttfWPhO7rU",
+  "name": "LI QIANG  act 1",
+  "type": "agenda",
+  "img": "systems/alienrpg/images/icons/personal-agenda.png",
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "comment": {
+        "value": "<p><strong>Act 1:</strong>&nbsp;Cover up your crimes at all costs, including those of&nbsp;<strong>General Volkoff</strong>, or risk him exposing you as well. Keep the investigator in the dark and derail her investigation whenever possible.</p>\n<p>&nbsp;</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "b2785d2dc2806f3c42a3eb4d77d37eacbfe7f6ae"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.66Zy3maTgfh7ZrJR",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "j1lSaFr8eI3cNrd5",
+  "_key": "!items!j1lSaFr8eI3cNrd5"
+}

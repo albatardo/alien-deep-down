@@ -1,0 +1,38 @@
+{
+  "name": "Ligth source (token)",
+  "type": "script",
+  "author": "h1BfzYYX7qtp2kbH",
+  "img": "icons/sundries/lights/lantern-iron-lit-yellow.webp",
+  "scope": "global",
+  "command": "function tokenUpdate(data) {\n  canvas.tokens.controlled.map(token => token.document.update({light: data}));\n}\n\nlet torchAnimation = {\"type\": \"torch\", \"speed\": 6, \"intensity\": 1, \"reverse\": false};\n\nlet dialogEditor = new Dialog({\n  title: `Token Light Picker`,\n  content: `Pick the light source the selected token is holding.`,\n  buttons: {\n    none: {\n      label: `None`,\n      callback: () => {\n        tokenUpdate({\"color\": \"#ffffff\", \"dim\": 0, \"bright\": 0, \"angle\": 360, \"luminosity\": 0.5});\n        dialogEditor.render(true);\n      }\n    },\n    torch: {\n      label: `Torch`,\n      callback: () => {\n        tokenUpdate({\"color\": \"#f65904\",\"dim\": 20, \"bright\": 10, \"angle\": 360, \"luminosity\": 0.5, \"animation\": torchAnimation});\n        dialogEditor.render(true);\n      },\n    },\n    light: {\n      label: `Chemical Light`,\n      callback: () => {\n        tokenUpdate({\"color\": \"#fbff00\", \"dim\": 30, \"bright\": 20, \"angle\": 360, \"luminosity\": 0.5, \"animation\": {\"type\": \"fog\", \"speed\": 3, \"intensity\": 6, \"reverse\": false}});        \n        dialogEditor.render(true);\n      }\n    },\n    lamp: {\n      label: `Flashlight`,\n      callback: () => {\n        tokenUpdate({\"color\": \"#ffffff\", \"dim\": 40, \"bright\": 25, \"angle\": 65, \"luminosity\": 0.5, \"luminosity\": 0.5, \"animation\": {\"type\": \"fog\", \"speed\": 1, \"intensity\": 1, \"reverse\": false}});\n        dialogEditor.render(true);\n      }\n    },\n    lamp2: {\n      label: `Scary Flashlight`,\n      callback: () => {\n        tokenUpdate({\"color\": \"#ffffff\", \"dim\": 18, \"bright\": 5, \"angle\": 65, \"luminosity\": 0.5, \"luminosity\": 0.5, \"animation\": {\"type\": \"fog\", \"speed\": 5, \"intensity\": 1, \"reverse\": false}});\n        dialogEditor.render(true);\n      }\n    }\n  },\n\n  default: \"close\",\n  close: () => {}\n});\n\ndialogEditor.render(true);",
+  "flags": {
+    "core": {},
+    "combat-utility-belt": {
+      "macroTrigger": ""
+    },
+    "scene-packer": {
+      "hash": "33d443897c3b93d0a797a8a70ed1a0d6387308fb"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "Qw71KIC0H6lPti49": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Macro.ArUAciqagDhTiO9Y",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734807396777,
+    "modifiedTime": 1734807396777,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "folder": "CMFSLqecf96SGXJV",
+  "_id": "RWka6UrPea5QVmXp",
+  "sort": 25000,
+  "_key": "!macros!RWka6UrPea5QVmXp"
+}

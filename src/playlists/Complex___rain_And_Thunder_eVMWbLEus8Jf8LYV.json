@@ -1,0 +1,78 @@
+{
+  "folder": "QiMBa2WlJRIaBuj1",
+  "name": "Complex - rain And Thunder",
+  "_id": "eVMWbLEus8Jf8LYV",
+  "sounds": [
+    {
+      "name": "Rain And Distant Thunder",
+      "path": "modules/alien-deep-down/assets/Sounds/effects/rain/Rain_and_Distant_Thunder.mp3",
+      "_id": "pOKkEoppWqVghDZf",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": true,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!eVMWbLEus8Jf8LYV.pOKkEoppWqVghDZf"
+    },
+    {
+      "name": "Rain Effect Short Sem Raios (r)",
+      "path": "modules/alien-deep-down/assets/Sounds/effects/rain/Rain_Effect_Short_sem_raios___(R).ogg",
+      "_id": "sTKA5ZdufnHmNlzY",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": true,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!eVMWbLEus8Jf8LYV.sTKA5ZdufnHmNlzY"
+    },
+    {
+      "name": "Scary Fog Mist Maquina Distante (r)",
+      "path": "modules/alien-deep-down/assets/Sounds/effects/rain/Scary_fog_Mist_maquina_distante__(R).ogg",
+      "_id": "f2INdUYTtrHTGl7I",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": true,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!eVMWbLEus8Jf8LYV.f2INdUYTtrHTGl7I"
+    }
+  ],
+  "channel": "music",
+  "mode": 2,
+  "playing": false,
+  "fade": null,
+  "sorting": "a",
+  "seed": 97,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "130c86f137792f2c5fe1c4435d4cff9f9b881d0b"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804411559,
+    "modifiedTime": 1734804411559,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "description": "",
+  "_key": "!playlists!eVMWbLEus8Jf8LYV"
+}

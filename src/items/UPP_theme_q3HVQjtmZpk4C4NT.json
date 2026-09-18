@@ -1,0 +1,29 @@
+{
+  "name": "UPP theme",
+  "sorting": "a",
+  "folder": "OEXljdGM7qqYtAqK",
+  "type": "Item",
+  "_id": "q3HVQjtmZpk4C4NT",
+  "sort": 100000,
+  "color": null,
+  "flags": {
+    "core": {
+      "sourceId": "Folder.q3HVQjtmZpk4C4NT"
+    },
+    "scene-packer": {
+      "hash": "de86910697d2fa13c9a7e6399dcd775d48bcdd9a"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460491,
+    "modifiedTime": 1734804460491,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "description": "",
+  "_key": "!folders!q3HVQjtmZpk4C4NT"
+}

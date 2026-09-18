@@ -1,0 +1,13 @@
+{
+  "name": "alien-deep-down",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "unpack": "node tools/unpack.mjs",
+    "export:journal": "node tools/export-journal.mjs",
+    "build": "node tools/build.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.0"
+  }
+}

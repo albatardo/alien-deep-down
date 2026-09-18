@@ -1,0 +1,49 @@
+{
+  "folder": "5Cl78rttfWPhO7rU",
+  "name": "DIEGO ALVAREZ  Act 1",
+  "type": "agenda",
+  "img": "systems/alienrpg/images/icons/personal-agenda.png",
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "comment": {
+        "value": "<p><strong>Act 1:</strong>&nbsp;You wake up hungover and realize you've missed your ride to the surface. Now you're stuck because someone has gone missing. True to your optimistic nature, you'll make the best of the situation and help investigate the mystery. While you don't particularly like&nbsp;<strong>Kramarenko</strong>, you hide your feelings and assist her as much as possible.</p>\n<p>&nbsp;</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "e95086704f1ed76850ae678f87696335959f47e1"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.66Zy3maTgfh7ZrJR",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "qAQZGd6n0kCubVNB",
+  "_key": "!items!qAQZGd6n0kCubVNB"
+}

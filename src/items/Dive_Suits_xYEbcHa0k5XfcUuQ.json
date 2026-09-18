@@ -1,0 +1,151 @@
+{
+  "name": "Dive Suits",
+  "type": "armor",
+  "img": "modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_prt.jpg",
+  "effects": [],
+  "folder": "bKb61P3WGQ6HrZVH",
+  "sort": 0,
+  "flags": {
+    "scene-packer": {
+      "hash": "abb4439b6e87bb600ab3f633246976bc4ded9fa5"
+    }
+  },
+  "system": {
+    "header": {
+      "active": false
+    },
+    "attributes": {
+      "weight": {
+        "value": 2,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "$2,000.00",
+        "label": "Number"
+      },
+      "armorrating": {
+        "value": "4",
+        "label": "Number"
+      },
+      "airsupply": {
+        "value": 0,
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<h3>Armor 4</h3>\n<p>&nbsp;</p>\n<p>If the armor value is reduced to zero and the victim is in the water, they die instantly as the crushing pressure tears through the suit like a bag of chips...</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3>Base Hose Connection</h3>\n<p>&nbsp;</p>\n<p>If open the victim cannot breathe, but a feedback valve prevents water from directly entering the suit. It takes a Fast Action and a MOBILITY test at -2 to grab the loose hose. A HEAVY MACHINERY test is required to reconnect the hose.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3>Emergency Air</h3>\n<p>&nbsp;</p>\n<p>It takes a Slow Action and a successful HEAVY MACHINERY test to equip the emergency air supply.</p>\n<p>&nbsp;</p>\n<h3>Drowning:</h3>\n<p>&nbsp;</p>\n<p>If the user cannot breathe (i.e., no air supply), they must make a DROWNING test (STAMINA) at the start of their action - if failed, they take 1 point of damage. If broken by this method, they must make a DEATH SAVE or depart this mortal coil!<br><br>pg 110 core rule book</p>",
+        "label": "Text"
+      }
+    },
+    "modifiers": {
+      "attributes": {
+        "health": {
+          "value": 0,
+          "label": "Health"
+        },
+        "stress": {
+          "value": 0,
+          "label": "Stress"
+        },
+        "str": {
+          "value": 0,
+          "label": "Strength"
+        },
+        "wit": {
+          "value": 0,
+          "label": "Wits"
+        },
+        "agl": {
+          "value": 0,
+          "label": "Agility"
+        },
+        "emp": {
+          "value": 0,
+          "label": "Empathy"
+        }
+      },
+      "skills": {
+        "heavyMach": {
+          "value": 0,
+          "label": "Heavy Machinery",
+          "ability": "str"
+        },
+        "closeCbt": {
+          "value": 0,
+          "label": "Close Combat",
+          "ability": "str"
+        },
+        "stamina": {
+          "value": 0,
+          "label": "Stamina",
+          "ability": "str"
+        },
+        "rangedCbt": {
+          "value": 0,
+          "label": "Ranged Combat",
+          "ability": "agl"
+        },
+        "mobility": {
+          "value": 0,
+          "label": "Mobility",
+          "ability": "agl"
+        },
+        "piloting": {
+          "value": 0,
+          "label": "Piloting",
+          "ability": "agl"
+        },
+        "command": {
+          "value": 0,
+          "label": "Command",
+          "ability": "emp"
+        },
+        "manipulation": {
+          "value": 0,
+          "label": "Manipulation",
+          "ability": "emp"
+        },
+        "medicalAid": {
+          "value": 0,
+          "label": "Medical Aid",
+          "ability": "emp"
+        },
+        "observation": {
+          "value": 0,
+          "label": "Observation",
+          "ability": "wit"
+        },
+        "survival": {
+          "value": 0,
+          "label": "Survival",
+          "ability": "wit"
+        },
+        "comtech": {
+          "value": 0,
+          "label": "Comtech",
+          "ability": "wit"
+        }
+      }
+    },
+    "notes": {
+      "notes": "<h2>Caminhadas no mar</h2>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">A &aacute;gua a 4 milhas de profundidade &eacute; completamente escura. </span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Cada mergulhador tem uma luz pessoal embutida no topo do capacete de mergulho. </span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Os trajes de mergulho s&atilde;o como os da imagem.</span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Cada traje normalmente &eacute; conectado a uma mangueira de ar principal que tem um alcance que permitiria aos jogadores chegarem &agrave; &aacute;rea de perfura&ccedil;&atilde;o ou qualquer outra &aacute;rea externa da instala&ccedil;&atilde;o. Isso &eacute; feito pela possibilidade de trabalhar por tempo ilimitado.</span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Se a bomba de ar localizada dentro da esta&ccedil;&atilde;o falhar ou se a mangueira principal for desconectada, os jogadores carregam um backup tanque de emerg&ecirc;ncia que podem conectar e ligar. Este tanque tem cerca de 15 minutos de ar antes de acabar. Os jogadores podem se comunicar entre si e com a esta&ccedil;&atilde;o enquanto estiverem no traje. </span></p>\n<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Existem 6 kits de ar para 6h que ainda funcionam, outros est&atilde;o em mal estado e podem falhar. </span></p>"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "xYEbcHa0k5XfcUuQ",
+  "_key": "!items!xYEbcHa0k5XfcUuQ"
+}

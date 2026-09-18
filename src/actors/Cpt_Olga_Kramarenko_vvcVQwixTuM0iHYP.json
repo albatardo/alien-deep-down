@@ -1,0 +1,939 @@
+{
+  "folder": "PB9b4sLMCNXT5SDy",
+  "name": "Cpt.Olga Kramarenko",
+  "type": "character",
+  "_id": "vvcVQwixTuM0iHYP",
+  "img": "modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/OLGA_KRAMARENKO_prt.png",
+  "system": {
+    "header": {
+      "health": {
+        "value": 5,
+        "label": "Health",
+        "mod": 0,
+        "max": 5,
+        "calculatedMax": 5
+      },
+      "stress": {
+        "value": 0,
+        "label": "Stress",
+        "mod": 0,
+        "max": 10
+      },
+      "npc": false
+    },
+    "attributes": {
+      "str": {
+        "value": 5,
+        "label": "Strength",
+        "mod": 5
+      },
+      "wit": {
+        "value": 3,
+        "label": "Wits",
+        "mod": 3
+      },
+      "agl": {
+        "value": 3,
+        "label": "Agility",
+        "mod": 3
+      },
+      "emp": {
+        "value": 3,
+        "label": "Empathy",
+        "mod": 3
+      }
+    },
+    "skills": {
+      "heavyMach": {
+        "value": 0,
+        "label": "Heavy Machinery",
+        "ability": "str",
+        "description": "Heavy Machinery",
+        "mod": 5
+      },
+      "closeCbt": {
+        "value": 3,
+        "label": "Close Combat",
+        "ability": "str",
+        "description": "Close Combat",
+        "mod": 8
+      },
+      "stamina": {
+        "value": 0,
+        "label": "Stamina",
+        "ability": "str",
+        "description": "Stamina",
+        "mod": 5
+      },
+      "rangedCbt": {
+        "value": 3,
+        "label": "Ranged Combat",
+        "ability": "agl",
+        "description": "Ranged Combat",
+        "mod": 6
+      },
+      "mobility": {
+        "value": 0,
+        "label": "Mobility",
+        "ability": "agl",
+        "description": "Mobility",
+        "mod": 3
+      },
+      "piloting": {
+        "value": 0,
+        "label": "Piloting",
+        "ability": "agl",
+        "description": "Piloting",
+        "mod": 3
+      },
+      "command": {
+        "value": 4,
+        "label": "Command",
+        "ability": "emp",
+        "description": "Command",
+        "mod": 7
+      },
+      "manipulation": {
+        "value": 0,
+        "label": "Manipulation",
+        "ability": "emp",
+        "description": "Manipulation",
+        "mod": 3
+      },
+      "medicalAid": {
+        "value": 0,
+        "label": "Medical Aid",
+        "ability": "emp",
+        "description": "Medical Aid",
+        "mod": 3
+      },
+      "observation": {
+        "value": 2,
+        "label": "Observation",
+        "ability": "wit",
+        "description": "Observation",
+        "mod": 5
+      },
+      "survival": {
+        "value": 0,
+        "label": "Survival",
+        "ability": "wit",
+        "description": "Survival",
+        "mod": 3
+      },
+      "comtech": {
+        "value": 0,
+        "label": "Comtech",
+        "ability": "wit",
+        "description": "Comtech",
+        "mod": 3
+      }
+    },
+    "general": {
+      "career": {
+        "value": "12",
+        "label": "career"
+      },
+      "appearance": {
+        "value": "",
+        "label": "appearance"
+      },
+      "sigItem": {
+        "value": "Bravery Medal",
+        "label": "sigItem"
+      },
+      "agenda": {
+        "value": "",
+        "label": "agenda"
+      },
+      "relOne": {
+        "value": "CHOOSE WHEN APPROPRIATE",
+        "label": "relOne"
+      },
+      "relTwo": {
+        "value": "Li Qiang",
+        "label": "relTwo"
+      },
+      "xp": {
+        "value": 0,
+        "max": 20,
+        "calculatedMax": 20
+      },
+      "sp": {
+        "value": 0,
+        "max": 3
+      },
+      "radiation": {
+        "value": 0,
+        "max": 10,
+        "permanent": 0,
+        "calculatedMax": 10
+      },
+      "starving": {
+        "value": 0,
+        "max": 1
+      },
+      "dehydrated": {
+        "value": 0,
+        "max": 1
+      },
+      "exhausted": {
+        "value": 0,
+        "max": 1
+      },
+      "freezing": {
+        "value": 0,
+        "max": 1
+      },
+      "hypoxia": {
+        "value": 0,
+        "max": 1
+      },
+      "heatstroke": {
+        "value": 0,
+        "max": 1
+      },
+      "gravitydyspraxia": {
+        "value": 0,
+        "max": 1
+      },
+      "critInj": {
+        "value": 0
+      },
+      "armor": {
+        "value": 0,
+        "max": 10
+      },
+      "panic": {
+        "value": 0,
+        "max": 1,
+        "lastRoll": 3
+      },
+      "cash": {
+        "value": "0",
+        "label": "Number"
+      }
+    },
+    "consumables": {
+      "air": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "power": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "food": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "water": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      }
+    },
+    "notes": "<p data-pm-slice=\"0 0 []\"><strong>Cpt. Olga Kramarenko</strong></p>\n<p><strong>Occupation:</strong> MSS Agent<br><strong>Age:</strong> 36<br><strong>Personality:</strong> Direct</p>\n<p>&nbsp;</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3><strong>ATTRIBUTES</strong></h3>\n<p><strong>STRENGTH:</strong> 5<br><strong>WITS:</strong> 3<br><strong>EMPATHY:</strong> 3<br><strong>AGILITY:</strong> 3</p>\n<p><strong>HEALTH:</strong> 5</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3><strong>SKILLS</strong></h3>\n<ul>\n<li><strong>Close Combat:</strong> 3</li>\n<li><strong>Ranged Combat:</strong> 3</li>\n<li><strong>Command:</strong> 4</li>\n<li><strong>Observation:</strong> 2</li>\n</ul>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3><strong>TALENTS</strong></h3>\n<ul>\n<li><strong>Pull Rank</strong></li>\n</ul>\n<p><strong>Buddy:</strong> To be chosen in the final act.<br><strong>Rival:</strong> Qiang</p>\n<p><strong>Signature Item:</strong> Bravery Medal</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3><strong>EQUIPMENT</strong></h3>\n<ul>\n<li><strong>UPP 9mm Service Pistol</strong> (2 loads)</li>\n<li><strong>Large Serrated Underwater Combat Knife</strong> (DMG 2)</li>\n<li style=\"font-weight: bold;\"><strong>P-DAT</strong></li>\n</ul>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3><strong>Backstory</strong></h3>\n<p>Cpt. Olga Kramarenko once commanded an elite unit of underwater demolition commandos. Her unshakable loyalty to the UPP was severely tested about a year ago when her entire team was abandoned in enemy-infested waters. She emerged as the sole survivor.</p>\n<p>Awarded a bravery medal for her actions, Olga found herself emboldened enough to question her superiors about the decisions that led to this military catastrophe. Their response was swift: she was \"promoted\" and reassigned to the <strong>Ministry of Space Security</strong>, ostensibly as a reward for her valor, but in reality, it was a means of sidelining her.</p>\n<p>Her next assignment took her to the aquatic world of <strong>Voda</strong>, tasked with investigating a series of disappearances. Cautious but dutiful, Olga prepared for the mission, knowing full well she couldn't trust the motives of her superiors.</p>\n<p>She was warned about the station&rsquo;s <strong>chief engineer, Cixin Liu</strong>, whose repeated incompetence had compounded the station's troubles.</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "adhocitems": ""
+  },
+  "prototypeToken": {
+    "name": "Cpt.Olga Kramarenko",
+    "displayName": 20,
+    "actorLink": true,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/OLGA_KRAMARENKO_tk.png",
+      "scaleX": 1,
+      "scaleY": 1,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "header.stress"
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "sight": {
+      "enabled": true,
+      "range": 12,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": {},
+    "flags": {
+      "monks-enhanced-journal": {
+        "chatbubble": ""
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "path/image.png"
+      },
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      }
+    },
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "folder": "5Cl78rttfWPhO7rU",
+      "name": "Kramarenko Act 1",
+      "type": "agenda",
+      "_id": "vdRDjpknTa6Ty5qD",
+      "img": "systems/alienrpg/images/icons/personal-agenda.png",
+      "system": {
+        "attributes": {
+          "flag": {
+            "value": 0,
+            "label": "Flag"
+          }
+        },
+        "general": {
+          "comment": {
+            "value": "<p class=\"MsoNormal\"><strong>Act 1:</strong> Investigate the disappearances. However, you remain deeply suspicious of your superiors' true intentions. You are a genuine UPP hero and deserve the respect that comes with it.</p>\n<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><br style=\"mso-special-character: line-break;\"><!--[endif]--></span></p>",
+            "label": "Text"
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {
+        "scene-packer": {
+          "hash": "5af54bb95f8fb005243dbb0342ee0fb6b3647e17"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Item.wDvcq0Fb79c1DXQv",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!vvcVQwixTuM0iHYP.vdRDjpknTa6Ty5qD"
+    },
+    {
+      "_id": "J7jroFuNPqf2RfTR",
+      "name": "UPP 9mm Service Pistol",
+      "type": "weapon",
+      "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+      "effects": [],
+      "folder": "2UeLQByS9kcZtALz",
+      "sort": 337500,
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "11a73fc53cb589c345ef01be9bb9100bcc99262e"
+        }
+      },
+      "system": {
+        "header": {
+          "type": {
+            "value": "1",
+            "label": "Text"
+          },
+          "active": false
+        },
+        "attributes": {
+          "bonus": {
+            "value": 2,
+            "label": "Number"
+          },
+          "damage": {
+            "value": 1,
+            "label": "Number"
+          },
+          "weight": {
+            "value": 0.5,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "$200.00",
+            "label": "Number"
+          },
+          "range": {
+            "value": "3",
+            "label": "Text"
+          },
+          "class": {
+            "value": "Pistol",
+            "label": "Text"
+          },
+          "rounds": {
+            "value": 0,
+            "label": "Number"
+          },
+          "power": {
+            "value": 0,
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<p>IDENTICAL TO THE M4A3 Service Pistol<br><br><br><br></p>",
+            "label": "Text"
+          },
+          "quantity": {
+            "value": 1
+          }
+        },
+        "notes": {
+          "notes": "<p>This inexpensive 9mm pistol is the standard sidearm of the USCMC. You should always have a backup for your backup, and this pistol might as well be it.</p>"
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "YEoPmwinvi5w1FW6": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.dhAjuWI9AALV0UhF",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!vvcVQwixTuM0iHYP.J7jroFuNPqf2RfTR"
+    },
+    {
+      "_id": "m6Y9c0BGEBqWKhU4",
+      "name": "Seegson P-DAT",
+      "type": "item",
+      "img": "modules/alien-deep-down/assets/Items/p-dat.png",
+      "effects": [],
+      "folder": "CNFIy5m7nRfjwCHd",
+      "sort": 150000,
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "a7df081721115611fca5fde41f6cfc04d4114747"
+        }
+      },
+      "system": {
+        "header": {
+          "type": {
+            "value": "2",
+            "label": "Text"
+          },
+          "active": false,
+          "completed": false
+        },
+        "attributes": {
+          "weight": {
+            "value": 0.5,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "US$500.00",
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<p>Copyrighted. Please add information here as I am prohibited from doing so.</p>",
+            "label": "Text"
+          },
+          "food": {
+            "value": 0,
+            "label": "Number"
+          },
+          "water": {
+            "value": 0,
+            "label": "Number"
+          },
+          "power": {
+            "value": 0,
+            "label": "Stress"
+          },
+          "airsupply": {
+            "value": 0,
+            "label": "Number"
+          },
+          "quantity": {
+            "value": 1
+          },
+          "notes": {
+            "notes": ""
+          }
+        },
+        "modifiers": {
+          "attributes": {
+            "health": {
+              "value": 0,
+              "label": "Health"
+            },
+            "stress": {
+              "value": 0,
+              "label": "Stress"
+            },
+            "str": {
+              "value": 0,
+              "label": "Strength"
+            },
+            "wit": {
+              "value": 0,
+              "label": "Wits"
+            },
+            "agl": {
+              "value": 0,
+              "label": "Agility"
+            },
+            "emp": {
+              "value": 0,
+              "label": "Empathy"
+            }
+          },
+          "skills": {
+            "heavyMach": {
+              "value": 0,
+              "label": "Heavy Machinery",
+              "ability": "str"
+            },
+            "closeCbt": {
+              "value": 0,
+              "label": "Close Combat",
+              "ability": "str"
+            },
+            "stamina": {
+              "value": 0,
+              "label": "Stamina",
+              "ability": "str"
+            },
+            "rangedCbt": {
+              "value": 0,
+              "label": "Ranged Combat",
+              "ability": "agl"
+            },
+            "mobility": {
+              "value": 0,
+              "label": "Mobility",
+              "ability": "agl"
+            },
+            "piloting": {
+              "value": 0,
+              "label": "Piloting",
+              "ability": "agl"
+            },
+            "command": {
+              "value": 0,
+              "label": "Command",
+              "ability": "emp"
+            },
+            "manipulation": {
+              "value": 0,
+              "label": "Manipulation",
+              "ability": "emp"
+            },
+            "medicalAid": {
+              "value": 0,
+              "label": "Medical Aid",
+              "ability": "emp"
+            },
+            "observation": {
+              "value": 0,
+              "label": "Observation",
+              "ability": "wit"
+            },
+            "survival": {
+              "value": 0,
+              "label": "Survival",
+              "ability": "wit"
+            },
+            "comtech": {
+              "value": 0,
+              "label": "Comtech",
+              "ability": "wit"
+            }
+          }
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "YEoPmwinvi5w1FW6": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Item.aji7vzr1zFX5RCBH",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!vvcVQwixTuM0iHYP.m6Y9c0BGEBqWKhU4"
+    },
+    {
+      "name": "Large serrated underwater knife",
+      "type": "weapon",
+      "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+      "effects": [],
+      "folder": "2UeLQByS9kcZtALz",
+      "sort": 100000,
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "e55e09091767892027980f73fa79029b36953245"
+        }
+      },
+      "system": {
+        "header": {
+          "type": {
+            "value": "2",
+            "label": "Text"
+          },
+          "active": false
+        },
+        "attributes": {
+          "bonus": {
+            "value": 0,
+            "label": "Number"
+          },
+          "damage": {
+            "value": 2,
+            "label": "Number"
+          },
+          "weight": {
+            "value": 0.5,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "$50.00",
+            "label": "Number"
+          },
+          "range": {
+            "value": "1",
+            "label": "Text"
+          },
+          "class": {
+            "value": "Close Combat",
+            "label": "Text"
+          },
+          "rounds": {
+            "value": 0,
+            "label": "Number"
+          },
+          "power": {
+            "value": 0,
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<p>A large serrated underwater knife with a rugged blade for cutting through tough materials, designed for durability and precision in marine environments.</p>",
+            "label": "Text"
+          },
+          "quantity": {
+            "value": 1
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "YEoPmwinvi5w1FW6": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.mBvwfDCm5butGbru",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_id": "wpk4XqPlCuSDdcdb",
+      "_key": "!actors.items!vvcVQwixTuM0iHYP.wpk4XqPlCuSDdcdb"
+    },
+    {
+      "name": "Unarmed Attack",
+      "type": "weapon",
+      "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+      "effects": [],
+      "folder": "2UeLQByS9kcZtALz",
+      "sort": 500000,
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "1f673f9e35f769d037999c33355d43122e58962a"
+        }
+      },
+      "system": {
+        "header": {
+          "type": {
+            "value": "2",
+            "label": "Text"
+          },
+          "active": true
+        },
+        "attributes": {
+          "bonus": {
+            "value": 0,
+            "label": "Number"
+          },
+          "damage": {
+            "value": 1,
+            "label": "Number"
+          },
+          "weight": {
+            "value": 0,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "$0.00",
+            "label": "Number"
+          },
+          "range": {
+            "value": "1",
+            "label": "Text"
+          },
+          "class": {
+            "value": "Close Combat",
+            "label": "Text"
+          },
+          "rounds": {
+            "value": 0,
+            "label": "Number"
+          },
+          "power": {
+            "value": 0,
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<p>Armor doubled.</p>",
+            "label": "Text"
+          },
+          "quantity": {
+            "value": 1
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "YEoPmwinvi5w1FW6": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3,
+        "Rx1E1ahAa0Wo5dXy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.8VU3oDrsl2WZEIxl",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_id": "ryYBS6ydkYHfbYWb",
+      "_key": "!actors.items!vvcVQwixTuM0iHYP.ryYBS6ydkYHfbYWb"
+    }
+  ],
+  "effects": [],
+  "sort": 187500,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "jbD8psdMGhGnzEY0": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "SharedVision": {
+      "enable": true,
+      "hidden": false,
+      "userSetting": [
+        {
+          "id": "jbD8psdMGhGnzEY0",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "RRob7Y3JRsmrWMCK",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "fm0PsC9oo31YI1EI",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "cTO8R66qc1hiTUPm",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "23WlupdqtmODwMus",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "aofDHx9cQyR3oViA",
+          "token": false,
+          "vision": true,
+          "fog": false
+        }
+      ]
+    },
+    "token-variants": {
+      "variants": [
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/facehugger_tk.png",
+          "names": [
+            "facehugger_tk"
+          ]
+        },
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/dive_suit_super_heavy_tk.png",
+          "names": [
+            "dive_suit_super_heavy_tk"
+          ]
+        },
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/OLGA_KRAMARENKO_tk.png",
+          "names": [
+            "OLGA_KRAMARENKO_tk"
+          ]
+        }
+      ],
+      "disableNameSearch": true,
+      "randomizerSettings": {
+        "tokenCreate": false,
+        "tokenCopyPaste": false,
+        "tokenToPortrait": false,
+        "diffImages": false,
+        "syncImages": false,
+        "nonRepeat": false,
+        "tokenName": false,
+        "actorName": false,
+        "keywords": false,
+        "shared": true,
+        "wildcard": false
+      }
+    },
+    "scene-packer": {
+      "hash": "11a5bc964ba4eca5b9deb85d7f34b67470bf8678"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!actors!vvcVQwixTuM0iHYP"
+}

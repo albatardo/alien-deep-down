@@ -1,0 +1,49 @@
+{
+  "folder": "5Cl78rttfWPhO7rU",
+  "name": "MARIA DEL CAMPOS Act 1 & 2",
+  "type": "agenda",
+  "img": "systems/alienrpg/images/icons/personal-agenda.png",
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "comment": {
+        "value": "<p><strong>Act 1 &amp; 2:</strong> You think everyone has gone mad&mdash;except you!</p>\n<p>That missing engineer clearly took his own life, and the rest is just a horrifying shared hallucination, a side effect of DeKompress.</p>\n<p>You have 10 doses of X-Stims with you.</p>\n<p>Your goal is to administer a dose to everyone, whether they want it or not, to calm them down and make them realize they are experiencing a mass hallucination!</p>\n<p>You show no symptoms yourself and must not use the drug on yourself. Its side effects might hinder your ability to act and save others.</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "7e54bc2c5c25584efa8b0c932786f0e2eef9be28"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.66Zy3maTgfh7ZrJR",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "c5GLMCO7xBQlKUuj",
+  "_key": "!items!c5GLMCO7xBQlKUuj"
+}

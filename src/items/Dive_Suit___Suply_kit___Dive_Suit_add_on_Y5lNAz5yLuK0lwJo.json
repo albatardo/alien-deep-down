@@ -1,0 +1,167 @@
+{
+  "folder": "bKb61P3WGQ6HrZVH",
+  "name": "Dive Suit - Suply kit - Dive Suit add on",
+  "type": "item",
+  "_id": "Y5lNAz5yLuK0lwJo",
+  "img": "modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_prt.jpg",
+  "system": {
+    "header": {
+      "type": {
+        "value": "10",
+        "label": "Text"
+      },
+      "active": false,
+      "completed": false
+    },
+    "attributes": {
+      "weight": {
+        "value": 0,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "0",
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<p><strong>Dive Suit Kit - for the foundry sheet automation, need to activate.</strong></p>\n<p>&nbsp;</p>\n<p>Each dive suit kit includes:</p>\n<ul>\n<li>\n<p><strong>Air Supply</strong>:</p>\n<ul>\n<li>Emergency kit: 15 minutes of air (1 Air).</li>\n<li>Standard kit: 6 hours of air (3 Air).</li>\n</ul>\n</li>\n<li>\n<p><strong>Water and Nutrient Paste</strong>: Sustains the diver during prolonged operations.</p>\n</li>\n<li>\n<p><strong>Energy Source</strong>: Powers essential equipment, including lamps, communicators, locators, and other small devices.</p>\n</li>\n</ul>",
+        "label": "Text"
+      },
+      "food": {
+        "value": 1,
+        "label": "Number"
+      },
+      "water": {
+        "value": 1,
+        "label": "Number"
+      },
+      "power": {
+        "value": 2,
+        "label": "Stress"
+      },
+      "airsupply": {
+        "value": 1,
+        "label": "Number"
+      },
+      "quantity": {
+        "value": 1
+      },
+      "notes": {
+        "notes": ""
+      }
+    },
+    "modifiers": {
+      "attributes": {
+        "health": {
+          "value": 0,
+          "label": "Health"
+        },
+        "stress": {
+          "value": 0,
+          "label": "Stress"
+        },
+        "str": {
+          "value": 0,
+          "label": "Strength"
+        },
+        "wit": {
+          "value": 0,
+          "label": "Wits"
+        },
+        "agl": {
+          "value": 0,
+          "label": "Agility"
+        },
+        "emp": {
+          "value": 0,
+          "label": "Empathy"
+        }
+      },
+      "skills": {
+        "heavyMach": {
+          "value": 0,
+          "label": "Heavy Machinery",
+          "ability": "str"
+        },
+        "closeCbt": {
+          "value": 0,
+          "label": "Close Combat",
+          "ability": "str"
+        },
+        "stamina": {
+          "value": 0,
+          "label": "Stamina",
+          "ability": "str"
+        },
+        "rangedCbt": {
+          "value": 0,
+          "label": "Ranged Combat",
+          "ability": "agl"
+        },
+        "mobility": {
+          "value": 0,
+          "label": "Mobility",
+          "ability": "agl"
+        },
+        "piloting": {
+          "value": 0,
+          "label": "Piloting",
+          "ability": "agl"
+        },
+        "command": {
+          "value": 0,
+          "label": "Command",
+          "ability": "emp"
+        },
+        "manipulation": {
+          "value": 0,
+          "label": "Manipulation",
+          "ability": "emp"
+        },
+        "medicalAid": {
+          "value": 0,
+          "label": "Medical Aid",
+          "ability": "emp"
+        },
+        "observation": {
+          "value": 0,
+          "label": "Observation",
+          "ability": "wit"
+        },
+        "survival": {
+          "value": 0,
+          "label": "Survival",
+          "ability": "wit"
+        },
+        "comtech": {
+          "value": 0,
+          "label": "Comtech",
+          "ability": "wit"
+        }
+      }
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "976e95af7c0a325c4fc7b31e0eae13538ac67966"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!items!Y5lNAz5yLuK0lwJo"
+}

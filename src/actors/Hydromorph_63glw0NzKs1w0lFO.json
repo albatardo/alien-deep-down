@@ -1,0 +1,239 @@
+{
+  "folder": "OCngAom6ABJigekb",
+  "name": "Hydromorph",
+  "type": "creature",
+  "_id": "63glw0NzKs1w0lFO",
+  "img": "modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_(1).png",
+  "system": {
+    "header": {
+      "health": {
+        "value": 5,
+        "label": "Health",
+        "max": 5
+      }
+    },
+    "attributes": {
+      "speed": {
+        "value": 2,
+        "label": "Speed"
+      },
+      "armorrating": {
+        "value": 6,
+        "label": "Number",
+        "max": 10
+      },
+      "armorvfire": {
+        "value": 2,
+        "label": "Number",
+        "max": 10
+      }
+    },
+    "general": {
+      "mobility": {
+        "value": "8",
+        "label": "Mobility"
+      },
+      "observation": {
+        "value": "8",
+        "label": "Observation"
+      },
+      "comment": {
+        "value": "",
+        "label": "Text"
+      },
+      "special": {
+        "value": "Hydromorph loses 1 SPEED if not submerged!\n\n\n\nAll other information is identical to DRONE XENOMORPH and is copyrighted. Please add information here as I am prohibited from doing so.\n\n\n",
+        "label": "Text"
+      },
+      "acidSplash": {
+        "value": "6",
+        "label": "Acid Splash"
+      },
+      "critInj": {
+        "value": ""
+      }
+    },
+    "notes": "<p><a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.2A70WlvyYoIRKyer.JournalEntryPage.fBxdyIO3lqxrPaCr\" data-id=\"fBxdyIO3lqxrPaCr\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\">HIDROMORPH / Xenomorfos</a><br><br><a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"RollTable.wXgfh3p23uW05pb6\" data-id=\"wXgfh3p23uW05pb6\" data-type=\"RollTable\" data-tooltip=\"Rollable Table\">Hydromorph Attacks</a></p>",
+    "rTables": "Hydromorph Attacks",
+    "cTables": "Critical Injuries on Hydromorph"
+  },
+  "prototypeToken": {
+    "name": "Hydromorph",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_tk/Hydromorph__tk_2.png",
+      "scaleX": 1,
+      "scaleY": 1,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "None"
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "sight": {
+      "enabled": false,
+      "range": 12,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": {},
+    "flags": {
+      "monks-enhanced-journal": {
+        "chatbubble": ""
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph%20(1).png"
+      },
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      }
+    },
+    "randomImg": true,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "token-variants": {
+      "disableNameSearch": true,
+      "randomizerSettings": {
+        "tokenCreate": true,
+        "tokenCopyPaste": true,
+        "tokenToPortrait": false,
+        "diffImages": false,
+        "syncImages": false,
+        "nonRepeat": false,
+        "tokenName": false,
+        "actorName": false,
+        "keywords": false,
+        "shared": true,
+        "wildcard": false
+      },
+      "variants": [
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_tk/Hydromorph__tk.png",
+          "names": [
+            "Hydromorph__tk"
+          ]
+        },
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_tk/Hydromorph__tk_2.png",
+          "names": [
+            "Hydromorph__tk_2"
+          ]
+        },
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_tk/Hydromorph__tk_3.png",
+          "names": [
+            "Hydromorph__tk_3"
+          ]
+        },
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_tk/Hydromorph__tk_4.png",
+          "names": [
+            "Hydromorph__tk_4"
+          ]
+        }
+      ]
+    },
+    "scene-packer": {
+      "hash": "4c98ca0a4fe168a4f41d4c88de53b8d757b866d2"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!actors!63glw0NzKs1w0lFO"
+}

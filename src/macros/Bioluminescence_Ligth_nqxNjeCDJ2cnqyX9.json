@@ -1,0 +1,32 @@
+{
+  "name": "Bioluminescence Ligth",
+  "type": "script",
+  "command": "// Macro to apply light configuration to a token in Foundry VTT\nconst token = canvas.tokens.controlled[0];\nif (!token) {\n  ui.notifications.warn(\"No token selected!\");\n  return;\n}\n\nconst lightConfig = {\n  \"alpha\": 0.5,\n  \"angle\": 360,\n  \"bright\": 5,\n  \"coloration\": 7,\n  \"dim\": 5,\n  \"attenuation\": 0.5,\n  \"luminosity\": 0.75,\n  \"saturation\": 0.75,\n  \"contrast\": 0.65,\n  \"shadows\": 0,\n  \"animation\": {\n    \"type\": \"fairy\",\n    \"speed\": 5,\n    \"intensity\": 5,\n    \"reverse\": false\n  },\n  \"darkness\": {\n    \"min\": 0,\n    \"max\": 1\n  },\n  \"color\": \"#ffffff\",\n  \"negative\": false,\n  \"priority\": 0\n};\n\ntoken.document.update({ light: lightConfig });\nui.notifications.info(\"Light configuration applied!\");",
+  "img": "modules/alien-deep-down/assets/icons/fangs.png",
+  "_id": "nqxNjeCDJ2cnqyX9",
+  "author": "h1BfzYYX7qtp2kbH",
+  "scope": "global",
+  "folder": "CMFSLqecf96SGXJV",
+  "sort": 15625,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "d02776415784b91e0b3be37a6cfaddf3905566d3"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734807396777,
+    "modifiedTime": 1734807396777,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!macros!nqxNjeCDJ2cnqyX9"
+}

@@ -1,0 +1,55 @@
+{
+  "_id": "Ab1jjbIU5XzT1a48",
+  "name": "Compassion",
+  "type": "talent",
+  "img": "systems/alienrpg/images/icons/fire-dash.webp",
+  "effects": [],
+  "folder": "yMPsLfRkiduRKrSh",
+  "sort": 500000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "3553561e5c57f65903d92eda281e2eabd27d7bab"
+    }
+  },
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "career": {
+        "value": "6",
+        "label": "career"
+      },
+      "comment": {
+        "value": "<p>Copyrighted. Please add information here as I am prohibited from doing so.</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "023AT5ERR8Ij00Wy": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-talents-career.vdQEHkXFr4CeSm6t",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!items!Ab1jjbIU5XzT1a48"
+}

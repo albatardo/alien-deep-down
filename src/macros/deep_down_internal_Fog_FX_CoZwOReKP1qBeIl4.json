@@ -1,0 +1,38 @@
+{
+  "name": "deep down internal Fog FX",
+  "type": "script",
+  "command": "Hooks.call('fxmaster.updateParticleEffects', [{\"type\":\"fog\",\"options\":{\"scale\":1,\"speed\":1,\"lifetime\":1,\"density\":0.08,\"alpha\":0.4,\"tint\":{\"apply\":true,\"value\":\"#686956\"}}}]);",
+  "img": "modules/fxmaster/assets/particle-effects/icons/fog.png",
+  "_id": "CoZwOReKP1qBeIl4",
+  "author": "h1BfzYYX7qtp2kbH",
+  "scope": "global",
+  "folder": "CMFSLqecf96SGXJV",
+  "sort": 50000,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "07b4d9052cbc9ef0c1a89a2658ada0ac803a8c5e"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734807396777,
+    "modifiedTime": 1734807396777,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": {
+      "worldId": "aliendeepdown-the-new-victims",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "alienrpg",
+      "systemVersion": "3.2.1"
+    }
+  },
+  "_key": "!macros!CoZwOReKP1qBeIl4"
+}

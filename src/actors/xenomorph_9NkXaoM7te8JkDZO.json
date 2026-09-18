@@ -1,0 +1,26 @@
+{
+  "name": "xenomorph",
+  "type": "Actor",
+  "sorting": "a",
+  "sort": 250000,
+  "color": "#048b04",
+  "flags": {
+    "scene-packer": {
+      "hash": "9ab2af40e94b85521e1b0e58274543dbd9162076"
+    }
+  },
+  "_id": "9NkXaoM7te8JkDZO",
+  "folder": "293xp0dxuPEQLZdC",
+  "description": "",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471467,
+    "modifiedTime": 1734804471467,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!9NkXaoM7te8JkDZO"
+}

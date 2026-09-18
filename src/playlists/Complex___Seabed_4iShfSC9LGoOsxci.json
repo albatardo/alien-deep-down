@@ -1,0 +1,66 @@
+{
+  "folder": "QiMBa2WlJRIaBuj1",
+  "name": "Complex - Seabed",
+  "_id": "4iShfSC9LGoOsxci",
+  "sounds": [
+    {
+      "name": "Underwater_Abyss",
+      "path": "modules/alien-deep-down/assets/Sounds/other-music/Underwater_Abyss.ogg",
+      "channel": "music",
+      "repeat": true,
+      "fade": null,
+      "description": "",
+      "volume": 0.52,
+      "_id": "iuiDDxdIundWTCrv",
+      "playing": false,
+      "pausedTime": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!4iShfSC9LGoOsxci.iuiDDxdIundWTCrv"
+    },
+    {
+      "name": "Underwater_PERSON_MOVING",
+      "path": "modules/alien-deep-down/assets/Sounds/other-music/Underwater_PERSON_MOVING.ogg",
+      "channel": "environment",
+      "repeat": true,
+      "fade": null,
+      "description": "",
+      "volume": 0.52,
+      "_id": "p65DidRx2eXzarBA",
+      "playing": false,
+      "pausedTime": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!4iShfSC9LGoOsxci.p65DidRx2eXzarBA"
+    }
+  ],
+  "channel": "environment",
+  "mode": 2,
+  "playing": false,
+  "fade": null,
+  "sorting": "a",
+  "seed": 736,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "da56a8836c81f534e09e6e19a734136d89675e85"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804411559,
+    "modifiedTime": 1734804411559,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "description": "",
+  "_key": "!playlists!4iShfSC9LGoOsxci"
+}

@@ -1,0 +1,55 @@
+{
+  "_id": "fA3YIXKLYmfphwjq",
+  "name": "Pull Rank",
+  "type": "talent",
+  "img": "systems/alienrpg/images/icons/fire-dash.webp",
+  "effects": [],
+  "folder": "yMPsLfRkiduRKrSh",
+  "sort": 200000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "d98407fd2c91fa9365347b750ba8f85d9cb63ba7"
+    }
+  },
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "career": {
+        "value": "8",
+        "label": "career"
+      },
+      "comment": {
+        "value": "<p>Copyrighted. Please add information here as I am prohibited from doing so.</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "023AT5ERR8Ij00Wy": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-talents-career.oDvl7r7PMxe0bIGI",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!items!fA3YIXKLYmfphwjq"
+}

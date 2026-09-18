@@ -1,0 +1,26 @@
+{
+  "name": "Alien Sub-Tables",
+  "type": "RollTable",
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "9e7747630229c55506ac421ea560ee9c3db3dbbd"
+    }
+  },
+  "_id": "w3xO69hCmTtYDF8d",
+  "folder": "A0N3Ct1TQq9BuGk6",
+  "description": "",
+  "_stats": {
+    "compendiumSource": "Folder.w3xO69hCmTtYDF8d",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804381739,
+    "modifiedTime": 1734804381739,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!w3xO69hCmTtYDF8d"
+}

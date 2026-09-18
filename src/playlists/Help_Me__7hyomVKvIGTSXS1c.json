@@ -1,0 +1,107 @@
+{
+  "name": "Help Me!",
+  "sounds": [
+    {
+      "name": "Fem Help Me 2",
+      "path": "modules/alien-deep-down/assets/Sounds/HELP-ME/FEM---help_me-2.mp3",
+      "_id": "l30QN37klpjtiq3M",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7hyomVKvIGTSXS1c.l30QN37klpjtiq3M"
+    },
+    {
+      "name": "Fem Help Me",
+      "path": "modules/alien-deep-down/assets/Sounds/HELP-ME/FEM---help_me.mp3",
+      "_id": "rXF4hpst7sI2MNQQ",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7hyomVKvIGTSXS1c.rXF4hpst7sI2MNQQ"
+    },
+    {
+      "name": "Fem Reverb",
+      "path": "modules/alien-deep-down/assets/Sounds/HELP-ME/FEM---reverb.mp3",
+      "_id": "oQhcYPRre6XbhaqR",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7hyomVKvIGTSXS1c.oQhcYPRre6XbhaqR"
+    },
+    {
+      "name": "Man Helpme",
+      "path": "modules/alien-deep-down/assets/Sounds/HELP-ME/MAN---helpme.mp3",
+      "_id": "DtmUQ3vRhqww7IEc",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7hyomVKvIGTSXS1c.DtmUQ3vRhqww7IEc"
+    },
+    {
+      "name": "Man Please",
+      "path": "modules/alien-deep-down/assets/Sounds/HELP-ME/MAN---please.mp3",
+      "_id": "PyUljo96bztE1Dvv",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!7hyomVKvIGTSXS1c.PyUljo96bztE1Dvv"
+    }
+  ],
+  "channel": "music",
+  "mode": 0,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": 892,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "73bd2c0f138e46e0d0686135111307bb1fdfaf31",
+      "sourceId": "Playlist.7hWC2TeqSbMNogam"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804413986,
+    "modifiedTime": 1734804415323,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "description": "",
+  "_id": "7hyomVKvIGTSXS1c",
+  "sort": 300000,
+  "_key": "!playlists!7hyomVKvIGTSXS1c"
+}

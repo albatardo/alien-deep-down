@@ -1,0 +1,26 @@
+{
+  "name": "Deep Down",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "OEXljdGM7qqYtAqK",
+  "description": "",
+  "sort": 100000,
+  "color": "#0bcb55",
+  "flags": {
+    "scene-packer": {
+      "hash": "c480eb4590b46fb581e5115e559232332ebb9852"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460491,
+    "modifiedTime": 1734804460534,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!OEXljdGM7qqYtAqK"
+}

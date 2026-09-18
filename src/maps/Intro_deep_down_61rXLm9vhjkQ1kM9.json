@@ -1,0 +1,26 @@
+{
+  "name": "Intro deep down",
+  "sorting": "a",
+  "folder": "NLQmmen0jiW1DHzJ",
+  "type": "Scene",
+  "_id": "61rXLm9vhjkQ1kM9",
+  "sort": 100000,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "8223562df4615e3caa153f929c19eb4636fdb974"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734824033307,
+    "modifiedTime": 1734824033307,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "description": "",
+  "_key": "!folders!61rXLm9vhjkQ1kM9"
+}

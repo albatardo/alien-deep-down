@@ -1,0 +1,351 @@
+{
+  "name": "Random location table",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "ZUjCmCvSZFs988ip",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access and Umbilical",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.ZUjCmCvSZFs988ip"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "AQJdDrMVhIJQxhMQ",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "JOGGING TRACK",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.AQJdDrMVhIJQxhMQ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "1NXHkooSlVi1IR6U",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crew quarters",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.1NXHkooSlVi1IR6U"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "uOGrAYLIX0JyY4uu",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Comand Center",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.uOGrAYLIX0JyY4uu"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "ZcxanYKUIuTPUpLj",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydroponics and filtration",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.ZcxanYKUIuTPUpLj"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "YfilLzXakssWAplv",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "SCADA ROOM",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.YfilLzXakssWAplv"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "WX0gH0r11fwWY8i7",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "REACTOR ROOM",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.WX0gH0r11fwWY8i7"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "wtyWGYAYAQ5KM5Mt",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical Bay",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.wtyWGYAYAQ5KM5Mt"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "ci4aIzuS32Pw65HN",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "HEAVY WORK",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.ci4aIzuS32Pw65HN"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "WeGLG0UcHaDhpkPR",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "AIRLOCK",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.WeGLG0UcHaDhpkPR"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "gdPh6rTrkXEUEzuj",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "HANGAR",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.gdPh6rTrkXEUEzuj"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "G1ujHdUPBkd5Xpwz",
+      "img": "icons/svg/d20-black.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Old Station",
+      "name": "",
+      "_key": "!tables.results!OLukQVbgXjiAHa6u.G1ujHdUPBkd5Xpwz"
+    }
+  ],
+  "formula": "1d12",
+  "replacement": false,
+  "displayRoll": false,
+  "folder": null,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "a14c371e90ab56f4e5abce16c95541e7930b246c",
+      "sourceId": "RollTable.VsCouCOzwuZZHD71"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "lS61ysx9qdaPA2WY": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "description": "<p>Test if you want a random location for a Hydromorph problem or any issue to occur. External locations will only have Hydromorphs if there is human presence.</p>",
+  "_stats": {
+    "compendiumSource": "RollTable.JNsHgv2lzUvB6UcX",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734824002016,
+    "modifiedTime": 1734824002016,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "OLukQVbgXjiAHa6u",
+  "sort": 0,
+  "_key": "!tables!OLukQVbgXjiAHa6u"
+}

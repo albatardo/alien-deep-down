@@ -1,0 +1,1597 @@
+{
+  "folder": "3WEbekbKztXvhiAj",
+  "name": "DEEP DOWN LOCATONS",
+  "_id": "FWNFHgivDPkLkLux",
+  "pages": [
+    {
+      "sort": 300000,
+      "name": "JOGGING TRACK",
+      "type": "text",
+      "_id": "jCUxfAWxBpNNMRva",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The central corridor doubles as an exercise area for the facility's personnel. Embedded in its inner wall is a massive emergency pump.</p><p>The red switch used to activate the pump (in case of catastrophic flooding) is housed within a glass enclosure that requires a Strength test with a heavy object or tool to break.</p><p>The identical switch in the control room is no longer functional, though no one is aware of this.</p><p>Both the supervisor @UUID[Actor.4GcdxJq9BPDZ1BAN]{LI QIANG} and the engineer @UUID[Actor.XXpcnLOEf5YfefeR]{CIXIN LIU} possess keys to unlock the glass case.</p><p>Activating the pump can drain a flooded sealed room or slow down flooding. If used in emergency mode, it will seal all watertight doors.<span style=\"mso-fareast-font-family:'Times New Roman';mso-fareast-theme-font:minor-fareast\"><br><br><br></span></p><img src=\"modules/alien-deep-down/assets/images/Jogging_Track_.jpg\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.jCUxfAWxBpNNMRva"
+    },
+    {
+      "sort": 400000,
+      "name": "Living Quarters",
+      "type": "text",
+      "_id": "Z7ZgPoDiSJiref0o",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><p><span>The living quarters are a large area with bunks that accommodate all the station workers. Each bunk has personal lockers for the occupants. There are also several latrines, shower rooms, and laundry machines.</span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.Z7ZgPoDiSJiref0o"
+    },
+    {
+      "sort": 500000,
+      "name": "SHOWERS",
+      "type": "text",
+      "_id": "9zAKVAB0RP6UDPV1",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.9zAKVAB0RP6UDPV1"
+    },
+    {
+      "sort": 600000,
+      "name": "LATRINES",
+      "type": "text",
+      "_id": "OSaRj7ZmV6lESTEh",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.OSaRj7ZmV6lESTEh"
+    },
+    {
+      "sort": 700000,
+      "name": "Mess hall",
+      "type": "text",
+      "_id": "RBiewrSlpHifmWwu",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Mess hall</strong></p><p>All station workers gather here for their meals several times a day. Meals are served by Working Joe NS42 (\"Dmitri,\" see background details), a permanently assigned Working Joe for this station. </p><p>Coffee and occasional snacks are available, though snacks have been almost nonexistent for several months now.</p><p>Some tables have been repurposed into card and domino tables. </p><p>In one corner, there’s an old but functioning arcade machine featuring <em>Tetris</em>, and in another, a homemade vodka distillery. </p><p>While both are against protocol (especially the arcade machine), no one seems to mind these added amenities.</p><p>Dmitri enjoys the arcade machine and is surprisingly skilled at it.<span style=\"font-family:'Aptos',sans-serif\"><br><br></span></p><img src=\"modules/alien-deep-down/assets/images/tetris.jpg\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.RBiewrSlpHifmWwu"
+    },
+    {
+      "sort": 200000,
+      "name": "Landing Pad",
+      "type": "text",
+      "_id": "TRz17wyNQPB9AyIt",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Landing Platform</strong></p><p>Spanning nearly 150 meters in length and in relatively good condition, the landing platform—like the rest of the surface support—rests on a semi-submerged structure. It is stabilized by mechanical systems, mooring lines, and, in emergencies, auxiliary motors.</p><p>Though neglected in terms of cleanliness and paint maintenance, the platform remains structurally sound and secure.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.TRz17wyNQPB9AyIt"
+    },
+    {
+      "sort": 225000,
+      "name": "Abandoned Helipad",
+      "type": "text",
+      "_id": "GABFHGvviYba5L7l",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The helipad houses an ancient helicopter, over 100 years old, once used to access another base. </p><p>No one remembers why it exists here, but records can be found.</p><p></p><p> The vehicle is in a state of complete disrepair, far beyond any hope of restoration.<br></p><img src=\"modules/alien-deep-down/assets/images/helicoptero_abandonado.png\" height=\"400\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.GABFHGvviYba5L7l"
+    },
+    {
+      "sort": 250000,
+      "name": "Surface Umbilical base acess",
+      "type": "text",
+      "_id": "5ECe5lACV7cEatdb",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Connecting Corridor</strong></p><p></p><p>A corridor links the landing platform to the surface base. Access is managed by a Working Joe NS42 unit, which grants entry authorization.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.5ECe5lACV7cEatdb"
+    },
+    {
+      "sort": 237500,
+      "name": "Umbilical monitor",
+      "type": "text",
+      "_id": "A7XTSsFUUkoQdLwR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Security, access and communication can be done here.<br><br></p><img src=\"modules/alien-deep-down/assets/images/Umbilical_monitor.jpg\" height=\"300\">",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.A7XTSsFUUkoQdLwR"
+    },
+    {
+      "sort": 234375,
+      "name": "Surface depo acess",
+      "type": "text",
+      "_id": "1gC234k8p8g7HFuX",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Access to the almost empty deposit, nothing really useful here</p><p></p><img src=\"modules/alien-deep-down/assets/images/Surface_depo_acess.jpg\" height=\"400\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.1gC234k8p8g7HFuX"
+    },
+    {
+      "sort": 228125,
+      "name": "Diving Suits",
+      "type": "text",
+      "_id": "pQGQxK6uCLyLBO1K",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1>Diving Suits</h1><p></p><p>Diving suit storage, waiting for divers to descend via the open elevator.</p><p></p><img src=\"modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_prt.jpg\" height=\"300\"><h3>Armor 4</h3><p></p><p>If the armor value is reduced to zero and the victim is in the water, they die instantly as the crushing pressure tears through the suit like a bag of chips...</p><p></p><p></p><h3>Base Hose Connection</h3><p></p><p>If open the victim cannot breathe, but a feedback valve prevents water from directly entering the suit. It takes a Fast Action and a MOBILITY test at -2 to grab the loose hose. A HEAVY MACHINERY test is required to reconnect the hose.</p><p></p><p></p><h3>Emergency Air</h3><p></p><p>It takes a Slow Action and a successful HEAVY MACHINERY test to equip the emergency air supply.</p><p></p><h3>Drowning:</h3><p></p><p>If the user cannot breathe (i.e., no air supply), they must make a DROWNING test (STAMINA) at the start of their action - if failed, they take 1 point of damage. If broken by this method, they must make a DEATH SAVE or depart this mortal coil!<br><br>pg 110 core rule book</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.pQGQxK6uCLyLBO1K"
+    },
+    {
+      "sort": 1400000,
+      "name": "Countainer Elevator",
+      "type": "text",
+      "_id": "atZEhrNGxayu84CT",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Elevator</strong></p><p></p><p>The elevator is a steel container guided by cables, designed to transport personnel to the submerged base. It is exposed to water, making the use of diving suits essential for descent.</p><p></p><p>For this scenario, the elevator cannot be used to return to the surface.</p><p></p><p> It was disabled immediately after the team's descent by the captain of the Schatzi, acting under orders and threats from General Volkoff.</p><p></p><p>Restoring its functionality is not possible unless the GM decides to conclude the scenario differently.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.atZEhrNGxayu84CT"
+    },
+    {
+      "sort": 1500000,
+      "name": "Medbay",
+      "type": "text",
+      "_id": "AJUgl0D3XnFkxmds",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>DEKOMPRESS MEDS</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.AJUgl0D3XnFkxmds"
+    },
+    {
+      "sort": 1600000,
+      "name": "Weather Monitor",
+      "type": "text",
+      "_id": "lAG72Iz9soKzQPy7",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.lAG72Iz9soKzQPy7"
+    },
+    {
+      "sort": 1700000,
+      "name": "Seabed monitor",
+      "type": "text",
+      "_id": "TjSSYyKgF3e3lMvn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>These rooms are filled with monitors displaying external footage of the station. They also have replay capabilities and can store up to a month of data.</p><p></p><p>The rooms are equipped with general alarm monitors as well.</p><p></p><p>If someone decides to review past video logs, they may notice strange anomalies—shadows, energy blurs, and bizarre lights outside the station—coinciding with recent equipment malfunctions over the past few days.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.TjSSYyKgF3e3lMvn"
+    },
+    {
+      "sort": 1800000,
+      "name": "Remote monitors",
+      "type": "text",
+      "_id": "qbN7jT9gVxbNcjzy",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Monitoring Stations</strong></p><p></p><p>These rooms are filled with monitors displaying external footage of the station. They also feature replay capabilities and can store up to one month of data.</p><p></p><p>The rooms also include monitors for general alarms.</p><p></p><p>If someone reviews past video recordings, they may find unusual anomalies—shadows, energy distortions, and bizarre lights outside the station—coinciding with strange equipment malfunctions in recent days.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.qbN7jT9gVxbNcjzy"
+    },
+    {
+      "sort": 1900000,
+      "name": "COMMAND CENTER",
+      "type": "text",
+      "_id": "RClHHWPQ42Ofss95",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Command Center</strong><br></p><p>All drilling operations are managed from this area.  Monitoring sensors, chemical  equipment, controls, and monitors fill the room.</p><p></p><p>A glass dome at the ceiling offers unobstructed views of one side of the drilling system and most of the station. However, the exterior of the dome is significantly dirtied, obscuring visibility.<span style=\"font-family:'Aptos',sans-serif\"><br><br><br></span></p><img src=\"modules/alien-deep-down/assets/images/COMMAND%20ROOM.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.RClHHWPQ42Ofss95"
+    },
+    {
+      "sort": 2000000,
+      "name": "SCADA DATA TABLE",
+      "type": "text",
+      "_id": "h5g4YKdZJOgL8g0J",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span><strong>SCADA Computer Access</strong></span></p><p><span>Capable of reading computer accesses, interacting, and commanding, but not examining the mainframe hardware, just a remote dedicated terminal to SCADA..</span><br><br></p><img src=\"modules/alien-deep-down/assets/images/SCADA_DATA_TABLE.jpg\" height=\"300\"><p><br><br></p><p>@UUID[.nwndPSWdvflWlgbL]{SCADA CPU}</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.h5g4YKdZJOgL8g0J"
+    },
+    {
+      "sort": 2000000,
+      "name": "SCADA - 1/VAN CPU",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><p><strong>SCADA - 1/VAN</strong></p><p></p><p>Previously known as 1/VAN, now referred to as <strong>SCADA</strong> (Supervision Control And Data Acquisition), this system has suffered significant command corruption.</p><p>SCADA operates as a standard monitoring and data acquisition system in all respects except one: when a Xenomorphic presence is detected. In such instances, it activates its only remaining functional commands:</p><p></p><ul><li><strong>B000108</strong>: Alert the UPP of the detection.</li><li><strong>A001107</strong>: Dispatch an agent to investigate under strict secrecy.</li></ul><p></p><p></p><p>Other commands are visible to users but are incomplete and are ignored by SCADA - 1/VAN.</p><p></p><p>SCADA retains access to @UUID[Actor.Pv8jNWHyxSi59K0A]{Working Joe NS42 “Dmitri”} and any other synthetics on the station.</p><p>However, 1/VAN itself does not, leaving it unable to defend itself effectively. This creates a scenario akin to a split personality, with neither side fully aware of the other.</p><p></p><p><strong>Background</strong><br>1/VAN is an old AI system recycled from <em>Ouragan Station</em> 15 years ago (an OLD 1/VAN 3).<br></p><img src=\"modules/alien-deep-down/assets/images/scada.jpg\" height=\"300\"><p><br></p><p></p><p><br></p><img src=\"modules/alien-deep-down/assets/images/ouragan_station_old_logo_desgastado.png\" height=\"300\"><img src=\"modules/alien-deep-down/assets/images/ouragan_station_old_logo.jpg\" height=\"300\">",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_id": "nwndPSWdvflWlgbL",
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.nwndPSWdvflWlgbL"
+    },
+    {
+      "sort": 2100000,
+      "name": "Hydroponics",
+      "type": "text",
+      "_id": "ml1eml1KrdOXTr1c",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Hydroponics</strong></p><p></p><p>Work shifts on the station can last up to a year or even longer under certain circumstances. Therefore, the station's ability to grow its own food is critical.</p><p></p><p>All kinds of vegetables, proteins, and fruits are cultivated here. </p><p>The hydroponics area is maintained by @UUID[Actor.GjObv8jhwRpwB7jZ]{Maria Del Campos} and @UUID[Actor.12vb86KU6IWdlPGj]{Joe NS42 \"BORIS\"} (Roughneck).</p><img src=\"modules/alien-deep-down/assets/images/Hydroponics.webp\" height=\"300\"><p><br><br></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.ml1eml1KrdOXTr1c"
+    },
+    {
+      "sort": 2200000,
+      "name": "Air filtration PURGE",
+      "type": "text",
+      "_id": "PNPs7YcKPQp8BAeo",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span style=\"font-family:'Aptos',sans-serif\"><strong><br><br></strong></span><strong>Filtration Systems<br></strong></p><p>The air recyclers and water filtration systems are located in this area and are accessible via a small circular hatch. A failure in these systems could eventually necessitate the evacuation of all station workers.<br></p><p>The monitoring station equipped with lights and switches oversees these systems.</p><p></p><p>The <strong>purge station</strong> can cleanse the air of any contaminants, but it renders the environment unbreathable within 15 minutes. The purge process lasts for 2 hours, requiring the use of breathing apparatus during this time.</p><p></p><p></p><p></p><blockquote><p>GM Note:</p><p><br>This location is crucial due to its control over the station's air supply. If your players are too cautious or hesitant, consider putting this area in jeopardy! A malfunction, sabotage, or sudden contamination could force them to act quickly, creating tension and urgency in their decision-making</p></blockquote><p><span style=\"font-family:'Aptos',sans-serif\"><br></span></p><img src=\"modules/alien-deep-down/assets/images/Air%20filtration.jpg\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.PNPs7YcKPQp8BAeo"
+    },
+    {
+      "sort": 2300000,
+      "name": "REACTOR ROOM",
+      "type": "text",
+      "_id": "0PtlVCePx9TGRLM2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span><strong>Power Loader</strong></span></p><p></p><p><span>A deactivated and irrecoverable power loader, abandoned here after the reactor was activated. The battery still works, but the environment is radioactive.</span></p><p></p><p><span><strong>Radiation</strong> - pg 110, ALIEN CRB <strong>Strong Radiation:</strong> 1 Rad per Turn </span></p><p></p><p><span>Removing battery: 4 turns heavy machinery test.</span></p><p></p><p><span style=\"font-family:Signika, sans-serif\">This battery is not completely compatible with the submersible, another 2 turns and a Heavy Machinery Test is required to adapt. <br><br></span></p><img src=\"modules/alien-deep-down/assets/images/reactor_room.webp\" height=\"300\"><p><span style=\"font-family:Signika, sans-serif\"><br><br><br></span></p><img src=\"modules/alien-deep-down/assets/images/power_loader.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.0PtlVCePx9TGRLM2"
+    },
+    {
+      "sort": 2400000,
+      "name": "BLOCK DOOR",
+      "type": "text",
+      "_id": "UfivNIraKTJShkuN",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Permanent block compatible with expansion modules that never arrived</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.UfivNIraKTJShkuN"
+    },
+    {
+      "sort": 2500000,
+      "name": "Storage",
+      "type": "text",
+      "_id": "aVCZ7IqNfvpC8PLH",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span><strong>Storage</strong></span></p><p></p><p><span>Every conceivable piece of old equipment can be found in this area, some literally a century old.</span></p><p></p><p><span>Older pressure suits, some still functioning, and antique fishing harpoons that were never useful in this sea.</span></p><p><span>You'll see submarine equipment of all kinds, emergency lights, flares, and old respiratory devices. There are also old data blocks, newspapers, and magazines detailing the station's glory days, along with dusty files and records.</span></p><p><span>Among the clutter, you'll find spent batteries, a portrait of a former UPP leader, an employee of the year plaque, a Siberian teddy bear, and a 357 Rivet Bang Stick typically used for aggressive aquatic life converted to riveting, which has 6 charges.<br><br></span></p><p></p><blockquote><p><span>GM! </span></p><p><span><br></span>A shelf of documents that, on their own, do not prove corruption but provide hints. These suggest that the rest of the archive in the hangar contains the answers, holding all sorts of proof of corruption for those who seek it. The documents are moved to the hangar after being sealed in waterproof boxes to free up space.</p><p>Li Qiang will try to burn this documents if he starts to believe he will be caught. </p></blockquote><p><span style=\"font-family:'Aptos',sans-serif\"><br></span></p><img src=\"modules/alien-deep-down/assets/images/storage.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.aVCZ7IqNfvpC8PLH"
+    },
+    {
+      "sort": 2600000,
+      "name": "Maintenance",
+      "type": "text",
+      "_id": "MB9QaICEvC1JLzeM",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span><strong>Maintenance</strong></span></p><p><span>All machinery necessary for external maintenance activities is here, as well as all the equipment for repairs when done at the submerged base.</span></p><p></p><p><span>A large screen can monitor any camera in real-time, including helmet cameras, used for mechanics to observe defects before making decisions. many external cameras are broken or dirty lenses.</span><span style=\"font-family:'Aptos',sans-serif\"><br><br></span></p><img src=\"modules/alien-deep-down/assets/images/repair_bay.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.MB9QaICEvC1JLzeM"
+    },
+    {
+      "sort": 2700000,
+      "name": "External Tasks Monitor",
+      "type": "text",
+      "_id": "HJ0MCZDcOYO5cbg0",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This room is responsible for locally monitoring the dives and the external situation of the base, including the drilling rig, life support monitors, air pumps, and all necessary support for external tasks.<br><br><br></p><img src=\"modules/alien-deep-down/assets/images/monitor_room.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.HJ0MCZDcOYO5cbg0"
+    },
+    {
+      "sort": 2800000,
+      "name": "Dive Support equipment",
+      "type": "text",
+      "_id": "94u5shnDBHNxZnT4",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>DEKOMPRESS MEDS Cabinets</strong></p><p></p><p><br>@UUID[.duXumfw0nJhhvF0B]{DEKOMPRESS Syringes}</p><p></p><p>The area features built-in wall cabinets. These cabinets hold deep-sea diving equipment such as suits, helmets, emergency respirators, and harpoons used to anchor equipment to the seabed.</p><p></p><p>Benches line the walls and are used to prepare divers for sea walks (see <em>Sea Walks</em>).</p><p></p><p>Additionally, <strong>emergency air kits</strong> (15 minutes) and <strong>long-walk air kits</strong> (6 hours) are stored here.<span style=\"font-family:'Aptos',sans-serif\"><br><br><br></span></p><img src=\"modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_prt.jpg\" height=\"300\">",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.94u5shnDBHNxZnT4"
+    },
+    {
+      "sort": 2900000,
+      "name": "Medical Bay",
+      "type": "text",
+      "_id": "I1rY7dTPnY0YDDTd",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Medical Bay</strong></p><p>At the start of the scenario, one worker has fallen ill. Anya Zomorova is under the care of Dr. Kim Pham. She is connected to a machine after being severely debilitated during her search for the missing worker. She was awaiting evacuation when the order to remain below came from above (see <em>story points</em>).<br><br>The facility includes <strong>two rooms with beds</strong> for more intensive care and <strong>one room with multiple practical medical stations</strong> designed for quick assessments and treatments.</p><p></p><p>The medical bay, while not state-of-the-art and lacking medical capsule technology, is equipped with standard tools for examination and emergency stabilization. The bay is attended by Joe NS42.</p><p></p><blockquote><p>Dr. Pham has access to limited medications, <strong>six medkits</strong>, and a large stock of <strong>DEKOMPRESS</strong>, but the antidote for this medication has mysteriously gone missing.<span style=\"font-family:'Aptos',sans-serif\"><br></span></p></blockquote><img src=\"modules/alien-deep-down/assets/images/medical_room.jpg\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.I1rY7dTPnY0YDDTd"
+    },
+    {
+      "sort": 3000000,
+      "name": "Airlock",
+      "type": "text",
+      "_id": "1lg6AaQMfw0If24p",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<img src=\"modules/alien-deep-down/assets/images/airlock.png\" height=\"300\"><p><strong>Air Lock</strong></p><p></p><p>The station has <strong>three airlocks</strong> serving as access points to the external environment. One at the elevator, one in Heavy Works and One in the Hangar</p><p><br>(The <strong>Old Station</strong> utilizes a <strong>vertical stairwell</strong> , equipped with <strong>two watertight doors </strong>as an airlock to transition between the station and the external environment, its manual and 2 divers can use the space between doors during transitions.<br><br> Additionally, the <strong>flooded tunnel</strong> can function as an airlock as well to the hangar, utilizing its <strong>two watertight doors</strong> in the same manner.)<br><br></p><p>They function as follows:</p><p></p><p>Divers enter the airlock and seal the bulkhead door when ready to transition to the seafloor. A <strong>large internal metal key</strong> initiates the process (a <strong>manual override</strong> located outside the bulkhead door can also start this process).</p><p></p><p>A <strong>red light</strong> illuminates, and over the course of <strong>60 seconds</strong>, the chamber fills with external water. Once the process is complete, the chamber equalizes, and a <strong>green light</strong> signals that it is now safe to exit the station.</p><p></p><p>The <strong>metal doors to the exterior retract</strong> when another lever is operated.</p><p></p><p><em>(See the section on <strong>Sea Walks</strong> for more </em></p><p><em>information.@UUID[JournalEntry.2A70WlvyYoIRKyer.JournalEntryPage.sBcSRhMYrnBozOh8]{Sea Walks}</em><span style=\"font-family:'Aptos',sans-serif\"><br><br><br style=\"mso-special-character:line-break\"></span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.1lg6AaQMfw0If24p"
+    },
+    {
+      "sort": 3100000,
+      "name": "Flooded tunnel",
+      "type": "text",
+      "_id": "WWw2dFJvk60zLvMa",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This corridor suffered a catastrophic failure years ago. Never repaired, its entrances were sealed by the automatic system and the Hangar largely abandoned. The access to the Jogging was also welded shut from the inside.</p><p><br><br></p><img src=\"modules/alien-deep-down/assets/images/flooded_corridor.png\" height=\"300\"><p></p><p></p><p></p><p></p><p></p><p>Access to the hangar is functional, BUT IT REQUIRES AN EXTERNAL BATTERY TO OPEN!!</p><p>WITH THE BATTERY - HEAVY MACHINERY TEST, 1 TURN</p><p>WITHOUT THE BATTERY - HEAVY MACHINERY TEST -3, 3 TURNSS</p><p>!!!! THE BREATHING HOSES DO NOT GO THROUGH THE CORRIDOR MORE THAN A FEW METERS WITHOUT CONSTANTLY GETTING ENTANGLED (MOBILITY TEST), AND THEY MUST BE LEFT BEHIND!!<br></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.WWw2dFJvk60zLvMa"
+    },
+    {
+      "sort": 3200000,
+      "name": "DRILL",
+      "type": "text",
+      "_id": "xGcoCDEOmYVPBrTP",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Drill Platform</strong></p><p>For over 100 years, the drill platform has been extracting oil from the ocean floor. Its systems are <strong>entirely submerged</strong>, with no dry areas available. The operation is autonomous, theoretically requiring only periodic maintenance.</p><p></p><p></p><h3><strong>Significant Events</strong></h3><ul><li><p><strong>Kirill’s Disappearance</strong>: It was on this platform that <strong>Marin Kirill</strong> reportedly vanished.</p></li><li><p><strong>Frenkell’s Attack</strong>: The platform becomes the site of a pivotal event when <strong>Frenkell</strong> is attacked. The players may witness or investigate the aftermath, adding tension and urgency to their mission.</p></li></ul><p></p><p><br></p><p><br></p><img src=\"modules/alien-deep-down/assets/images/old_drill.avif\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.xGcoCDEOmYVPBrTP"
+    },
+    {
+      "sort": 3300000,
+      "name": "HANGAR",
+      "type": "text",
+      "_id": "qMTxTsHfY5yrjIjo",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Underwater  HANGAR Dock</strong></p><p></p><p>This is the permanent home of the <em>Baikal</em>, a deep-sea submersible.</p><p></p><p>The vessel is a spherical design built to accommodate up to three individuals (GM discretion). </p><p></p><p>Originally created for deep-sea research, it played a vital role in the final phase of construction and expansion of the Novotny station. Now inactive, it serves as a potential escape vessel in emergencies.</p><p></p><p>The <em>Baikal</em> has not been used for decades. It relies on three old, large solid batteries, which were disconnected and moved to the old station for other projects. A single battery is sufficient to power the sub to the surface.</p><p></p><p>The underwater dock's ceiling opens to release the <em>Baikal</em> into the sea through a specialized airlock. This system relies on cranes to move the submersible into position.</p><p></p><ul><li><p><strong>Manual Operation Required</strong>: The system functions but requires an operator to ensure safe operation. Without an operator, the submersible will sustain damage and lose one piloting point. The operator must stay behind, sacrificing themselves.</p><p></p></li><li><p><strong>System Restart</strong>: The system must be reactivated before use.</p><ul><li><strong>CONTECH Test</strong>: To restart the system properly.</li><li><strong>Heavy Machinery Test (-2)</strong>: For a risky direct WIRING.</li></ul></li></ul><ul><li><p><strong>No Initial Power</strong>: The dock has no power before reactivation. </p><ul><li><p>Attempting to force the lights on using a battery will render the battery unusable. A <strong>CONTECH Test</strong> is required to understand this risk.<br><br><br><br><br></p></li></ul></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.qMTxTsHfY5yrjIjo"
+    },
+    {
+      "sort": 3400000,
+      "name": "SUBMERSIBLE BAIKAL",
+      "type": "text",
+      "_id": "tIt8GR7FvwqRaYCo",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><img src=\"modules/alien-deep-down/assets/other/add/submersible_prt.png\" height=\"300\"><p><br><br><strong>Underwater Dock</strong></p><p></p><p>This area houses the <strong>Baikal</strong>, a deep-sea submersible.</p><ul><li><p><strong>Design and Capacity</strong>:<br>The Baikal is a <strong>spherical vessel</strong> designed for a crew of up to <strong>three</strong> (GM discretion). Originally intended for deep-sea research, it played a crucial role in the <strong>final construction phase and expansion</strong> of the Novotny station. Today, it serves as a <strong>last-resort escape craft</strong> in emergencies.</p></li><li><p><strong>Current Status</strong>:<br>The Baikal hasn’t been operational for <strong>decades</strong>. Its power source, <strong>three solid-state batteries</strong>, was repurposed for other projects. Only <strong>one battery</strong> retains a charge and could power the Baikal to the surface.</p></li></ul><p></p><p></p><h3><strong>Airlock and Crane System</strong></h3><p></p><p>The dock’s <strong>ceiling airlock</strong> is designed to release the submersible into the ocean, guided by a system of cranes.</p><ul><li><strong>Operator Required</strong>:     Due to <strong>years of neglect</strong>, the system requires an <strong>operator</strong> to ensure safe operation. Without one, the submersible will sustain damage, losing <strong>1 point of piloting capability</strong>. The operator, however, must stay behind, making this a potential <strong>sacrificial act</strong>.</li></ul><p></p><p></p><h3><strong>Power Restoration</strong></h3><p></p><p></p><ul><li><p><strong>Reactivation Steps</strong>:<br>The system must be <strong>reconnected</strong> via a <strong>CONTECH Test</strong> or a <strong>-2 Heavy Machinery roll</strong> for a direct but risky bypass.</p><p></p></li><li><p><strong>Critical Warning</strong>:<br>Power is unavailable until the system is restored  (TERMINAL IN THE UPPER RIGHT). Attempting to <strong>force the lights using the single battery</strong> will render the battery <strong>unusable</strong>. A <strong>CONTECH Test</strong> reveals this risk before action.</p></li></ul><p></p><p></p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.tIt8GR7FvwqRaYCo"
+    },
+    {
+      "sort": 3500000,
+      "name": "Pile of Old Documents",
+      "type": "text",
+      "_id": "bw9wNvRYlXtuiMka",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Pile of Old Bureaucratic Files and Office Discards</strong></p><p>For years, an administrative order dictated that files must be sent digitally, final digital and physical records stored in the archive. </p><p>However, these documents were, by law, <strong>never to be discarded,</strong> and over time, the growing pile of files became a <strong>storage issue</strong>.</p><p>In an attempt to free up space without committing the <strong>crime of document disposal</strong>, the files were gradually moved to the <strong>abandoned hangar</strong>, creating a de facto <strong>dead archive</strong>.</p><p></p><h3><strong>Annual Transfer</strong></h3><p></p><p>Once a year, with the <strong>connecting corridor out of service</strong>, a <strong>task force</strong> transports sealed boxes of that year’s documents to the hangar. Despite the <strong>laborious journey</strong>, this is seen as a better option than risking a <strong>gulag sentence</strong> for destroying documents.</p><p>This is a chaotic graveyard of forgotten bureaucracy, neglect, outdated systems, and the desperate lengths people go to in order to avoid harsh consequences.<br><br></p><p></p><h2>Evidence of Corruption </h2><p></p><p>But all the evidence of corruption by Li Qiang, General Volkov and others is here!</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.bw9wNvRYlXtuiMka"
+    },
+    {
+      "sort": 3600000,
+      "name": "Crashed Mantis-Class UA Ship",
+      "type": "text",
+      "_id": "mjDsjuaYECKe30mo",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><br><br></p><img src=\"modules/alien-deep-down/assets/images/CRASHED%20UNDERWATER%20DROPSHIP.png\" height=\"300\"><p><br><br></p><p>There are clear signs of tools being used to force an opening through a damaged section of the tail.</p><p></p><p>This was undoubtedly done while the ship was still in vacuum—it was boarded in space!</p><p></p><p>Inside the wreckage, the body of the missing operator <span style=\"font-family:Signika, sans-serif\">Marin Kirill </span>is found, crushed by the pressure when their suit failed.</p><p></p><p>There are five large fish still alive, trapped against the walls in resin, with evidence of at least ten more dead.</p><p></p><p>Strange eggs are scattered throughout the ship, but they appear to be deliberately organized. One of them seems to contain a fish slowly transforming into a larger egg.</p><p></p><p>Additionally:</p><ul><li>A damaged terminal is present. It can be salvaged and repaired back at the base to extract information.</li><li>Cryotubes containing a strange bioforms are part of the cargo.</li><li>--- An Egg and an Drone are still in cryochambers, other cryos are destroyed</li><li>An investigation reveals the remains of pilots wearing UPP commando suits, with two bodies restrained and executed in a corner, clear evidence of forced boarding.</li><li>While the ship was hijacked by the UPP, the cargo displays unmistakable signs of being UA in origin.</li></ul><p></p><p>Some information, specifically medical forensics are quite hard, apply any penalties, but I like to share this discoveries freely, after all, they will probably die, either by the nest or by the angry Hydromorphs that will defend the nest.</p><p></p><p>The cargo is linked to something labeled <strong>\"Life Force Program.\"</strong><br><br></p><img src=\"modules/alien-deep-down/assets/images/ovomorph.png\" height=\"300\"><img src=\"modules/alien-deep-down/assets/images/ovomorphs.png\" height=\"200\"><p><br><br></p><img src=\"modules/alien-deep-down/assets/images/ovomorph_container.png\" height=\"300\"><img src=\"modules/alien-deep-down/assets/images/xeno_crio.png\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.mjDsjuaYECKe30mo"
+    },
+    {
+      "sort": 231250,
+      "name": "The Access room",
+      "type": "text",
+      "_id": "lDkio8ci9aBB29Qj",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The Access room has a locked gate, but only leads to the nearly empty storage. A few chairs and a table adorn the sparse area.</p><p>A giant portrait of Pietro Novotny on the far wall greets all visitors and workers. Aside from the image of the current UPP leader, it is the only relatively new item in the room.<span style=\"mso-fareast-font-family:'Times New Roman';mso-fareast-theme-font:minor-fareast\"><br><br><br></span></p><img src=\"modules/alien-deep-down/assets/images/Pietro_Novotny.jpeg\" height=\"400\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.lDkio8ci9aBB29Qj"
+    },
+    {
+      "sort": 100000,
+      "name": "DEKOMPRESS Syringes",
+      "type": "text",
+      "_id": "duXumfw0nJhhvF0B",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A small dilapidated medical area<br><br>The only true useful item are the dekompress.<span style=\"font-size:14.0pt;line-height:107%;mso-fareast-font-family:'Times New Roman';mso-fareast-theme-font:minor-fareast\"><strong><br><br><br><br></strong></span><strong>DEKOMPRESS Syringes</strong></p><p></p><p></p><img src=\"modules/alien-deep-down/assets/images/dekompress.png\" height=\"300\"><p><strong><br></strong></p><p>DEKOMPRESS syringes can be found in all dive preparation areas, medkits, and medbays. The drug prevents the effects of decompression sickness if taken up to an hour before diving and the same before returning to the surface. Failing to do so means death at such deeps. </p><p>Since there are no decompression chambers available, these syringes are essential for anyone attempting to leave Novotny without succumbing to this potentially fatal condition.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.duXumfw0nJhhvF0B"
+    },
+    {
+      "sort": 226563,
+      "name": "Elevator Monitoring",
+      "type": "text",
+      "_id": "nqUeARqD9fTw497r",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<div class=\"flex-shrink-0 flex flex-col relative items-end\"><div><div class=\"pt-0\"><div class=\"gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full\"><div class=\"relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8\"><p></p></div></div></div></div></div><div class=\"group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"flex-col gap-1 md:gap-3\"><div class=\"flex max-w-full flex-col flex-grow\"><div data-message-author-role=\"assistant\" data-message-id=\"858a3791-e6cd-449d-b114-478ec3d6dfc5\" dir=\"auto\" class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5\" data-message-model-slug=\"gpt-4o\"><div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert dark\"><p><strong>Elevator Monitoring</strong></p><p>Monitors are installed to ensure the elevator's safety and proper operation. These systems provide real-time data on its status and performance.</p></div></div></div></div></div></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.nqUeARqD9fTw497r"
+    },
+    {
+      "sort": 3700000,
+      "name": "Emergency pump",
+      "type": "text",
+      "_id": "tAZf9b1WRNVdD3wA",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The red switch used to activate the pump (in case of catastrophic flooding) is housed within a glass enclosure, requiring a Strength test with a heavy object or tool to break.</p><p>The corresponding switch in the control room is no longer functional, a fact that remains unknown to the crew.</p><p>Supervisor @UUID[Actor.4GcdxJq9BPDZ1BAN]{LI QIANG} and engineer @UUID[Actor.XXpcnLOEf5YfefeR]{CIXIN LIU} each hold a key to unlock the glass case.</p><p>Activating the pump can drain a sealed flooded room or slow the progression of a flood. When used in emergency mode, it will automatically seal all watertight doors.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.tAZf9b1WRNVdD3wA"
+    },
+    {
+      "sort": 3800000,
+      "name": "Old Station",
+      "type": "text",
+      "_id": "6kN9MJyJkeCFQp9f",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><p>This is the century-old remnant of the original station, used as a construction base before the expansion of the main facility.</p><ul><li><strong>External Hatch</strong>: Opening the external hatch requires a <strong>STRENGTH Test</strong>.</li></ul><p>Upon entering and removing underwater gear, players will be overwhelmed by the pervasive stench of brine and crude oil.</p><p></p><p></p><p></p><h3><strong>Batteries</strong></h3><p>The three solid-state batteries that could power the <em>Baikal</em> have been repurposed to run an oil analyzer unit.</p><ul><li><p><strong>Battery Status</strong>:</p><ul><li>Only <strong>one battery still holds a charge</strong>, as it remains connected to the analyzer, which recharges itself using residual energy from the nuclear core.</li><li>The other two batteries are depleted and will require recharging before use if that is intended.</li></ul></li></ul><p></p><p>This location can serve as a pivotal challenge, forcing players to strategize carefully about how to retrieve and use the last functional battery.<br><br></p><img src=\"modules/alien-deep-down/assets/images/old_station.jpg\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!FWNFHgivDPkLkLux.6kN9MJyJkeCFQp9f"
+    }
+  ],
+  "sort": 175000,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3,
+    "WpgL5mgqYVSQ6ZA5": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734871636534,
+    "modifiedTime": 1734871636534,
+    "lastModifiedBy": "WpgL5mgqYVSQ6ZA5",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!FWNFHgivDPkLkLux"
+}

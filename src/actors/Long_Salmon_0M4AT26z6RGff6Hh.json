@@ -1,0 +1,197 @@
+{
+  "folder": "293xp0dxuPEQLZdC",
+  "name": "Long Salmon",
+  "type": "creature",
+  "_id": "0M4AT26z6RGff6Hh",
+  "img": "modules/alien-deep-down/assets/tokens/Long_Salmon/Long_Salmon_prt.jpg",
+  "system": {
+    "header": {
+      "health": {
+        "value": 2,
+        "label": "Health",
+        "max": 2
+      }
+    },
+    "attributes": {
+      "speed": {
+        "value": 1,
+        "label": "Speed"
+      },
+      "armorrating": {
+        "value": 1,
+        "label": "Number",
+        "max": 10
+      },
+      "armorvfire": {
+        "value": 0,
+        "label": "Number",
+        "max": 10
+      }
+    },
+    "general": {
+      "mobility": {
+        "value": "4",
+        "label": "Mobility"
+      },
+      "observation": {
+        "value": "4",
+        "label": "Observation"
+      },
+      "comment": {
+        "value": "",
+        "label": "Text"
+      },
+      "special": {
+        "value": "The Salmon will always run away!\n\nIn the worst case scenario, it will collide with anyone in its path, causing 1 damage.\n\nHowever, it uses Bioluminescence to communicate, which can cause fear.\n\n\n\nThe Long Salmon can grow to over 3 meters (10 feet) in length and weigh more than 90 kg (200 lbs). These remarkable fish sustain themselves through a unique combination of electricity absorption, sunlight utilization, and sulfate digestion.",
+        "label": "Text"
+      },
+      "acidSplash": {
+        "value": "-",
+        "label": "Acid Splash"
+      },
+      "critInj": {
+        "value": ""
+      }
+    },
+    "notes": "<p class=\"MsoNormal\" data-pm-slice=\"1 1 []\"><br>About 100 years ago, an extraterrestrial species of fish was introduced at the Korab station in an attempt to start aquaculture on VODA, the Long Salmon.&nbsp;&nbsp;These fish could feed on electricity, sunlight, and the digestion of sulfates, which are abundant on the planet.</p>\n<p class=\"MsoNormal\">The test was promising, but VODA doesn't have a high incidence of sunlight or constant electrical storms. So, the animals moved to the depths, seeking sulfates deposited at the bottom, where they grow much more slowly&mdash;too slowly for commercial purposes&mdash;and were abandoned. Gradually, they spread by the thousands and now have found the crashed ship, its eggs, and their fate as hosts.</p>\n<p class=\"MsoNormal\">The xenomorphs, true to their biology, immediately absorbed the life characteristics of these fish. They can absorb electricity and live in extreme depths without problems, but they are slower in dry areas. Also, they have only now discovered Novotny.</p>\n<p class=\"MsoNormal\">Any normal Facehugger, ovomorph, and the drone that awakens in the deep will enter hibernation unless brought to more normal pressure levels. The first embrioned fish was \"hugged\" because it tried to feed on the contents of the opening egg. But the result was the hydromorph, fully adap<br><br><br><a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.2A70WlvyYoIRKyer.JournalEntryPage.fBxdyIO3lqxrPaCr\" data-id=\"fBxdyIO3lqxrPaCr\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\" data-hash=\"hydromorph\">HYDROMORPH</a></p>",
+    "rTables": "None",
+    "cTables": "None"
+  },
+  "prototypeToken": {
+    "name": "Long Salmon",
+    "displayName": 20,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/Long_Salmon/Long_Salmon_tk.png",
+      "scaleX": 1,
+      "scaleY": 1,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "None"
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 5,
+      "coloration": 7,
+      "dim": 5,
+      "attenuation": 0.5,
+      "luminosity": 0.75,
+      "saturation": 0.75,
+      "contrast": 0.65,
+      "shadows": 0,
+      "animation": {
+        "type": "fairy",
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": "#ffffff",
+      "negative": false,
+      "priority": 0
+    },
+    "sight": {
+      "enabled": false,
+      "range": 12,
+      "angle": 360,
+      "visionMode": "basic",
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "color": null
+    },
+    "detectionModes": {},
+    "flags": {
+      "monks-enhanced-journal": {
+        "chatbubble": ""
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "modules/alien-deep-down/assets/tokens/Long%20Salmon/Long_Salmon_prt.jpg"
+      },
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      }
+    },
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [],
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "89f00d8f548960e882fc1b5be53c68d357fecee2"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!actors!0M4AT26z6RGff6Hh"
+}

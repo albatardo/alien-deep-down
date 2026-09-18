@@ -1,0 +1,26 @@
+{
+  "name": "Deep Down",
+  "sorting": "m",
+  "folder": null,
+  "type": "JournalEntry",
+  "_id": "3WEbekbKztXvhiAj",
+  "sort": 100000,
+  "color": null,
+  "flags": {
+    "core": {
+      "sourceId": "Folder.3WEbekbKztXvhiAj"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Folder.3WEbekbKztXvhiAj",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734871636498,
+    "modifiedTime": 1734871636643,
+    "lastModifiedBy": "WpgL5mgqYVSQ6ZA5"
+  },
+  "description": "",
+  "_key": "!folders!3WEbekbKztXvhiAj"
+}

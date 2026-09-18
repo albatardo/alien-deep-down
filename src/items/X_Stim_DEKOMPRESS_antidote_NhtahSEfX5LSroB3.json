@@ -1,0 +1,170 @@
+{
+  "name": "X-Stim DEKOMPRESS antidote",
+  "type": "item",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "effects": [],
+  "folder": "q3HVQjtmZpk4C4NT",
+  "sort": 150000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "3ed374ab0e21f9b362a9cdf0d9b70fd7e498a422"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "6",
+        "label": "Text"
+      },
+      "active": false,
+      "completed": false
+    },
+    "attributes": {
+      "weight": {
+        "value": 0,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "0",
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<ul style=\"margin-top: 0cm;\" type=\"disc\">\n<li class=\"MsoNormal\" style=\"mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\">Reduces Stress by half (rounded down).</li>\n<li class=\"MsoNormal\" style=\"mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\">Inflicts a <strong>-1 penalty</strong> to all Agility-based rolls for 1 turn.</li>\n<li class=\"MsoNormal\" style=\"mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\">Cancels the effects of DeKompress. Re-administering DeKompress requires <strong>1 shift</strong> to take effect again.</li>\n<li class=\"MsoNormal\" style=\"mso-list: l0 level1 lfo1; tab-stops: list 36.0pt;\">Causes loss of short memory, you don&rsquo;t remember receiving the dose.</li>\n</ul>",
+        "label": "Text"
+      },
+      "food": {
+        "value": 0,
+        "label": "Number"
+      },
+      "water": {
+        "value": 0,
+        "label": "Number"
+      },
+      "power": {
+        "value": 0,
+        "label": "Stress"
+      },
+      "airsupply": {
+        "value": 0,
+        "label": "Number"
+      },
+      "quantity": {
+        "value": 1
+      },
+      "notes": {
+        "notes": ""
+      }
+    },
+    "modifiers": {
+      "attributes": {
+        "health": {
+          "value": 0,
+          "label": "Health"
+        },
+        "stress": {
+          "value": 0,
+          "label": "Stress"
+        },
+        "str": {
+          "value": 0,
+          "label": "Strength"
+        },
+        "wit": {
+          "value": 0,
+          "label": "Wits"
+        },
+        "agl": {
+          "value": 0,
+          "label": "Agility"
+        },
+        "emp": {
+          "value": 0,
+          "label": "Empathy"
+        }
+      },
+      "skills": {
+        "heavyMach": {
+          "value": 0,
+          "label": "Heavy Machinery",
+          "ability": "str"
+        },
+        "closeCbt": {
+          "value": 0,
+          "label": "Close Combat",
+          "ability": "str"
+        },
+        "stamina": {
+          "value": 0,
+          "label": "Stamina",
+          "ability": "str"
+        },
+        "rangedCbt": {
+          "value": 0,
+          "label": "Ranged Combat",
+          "ability": "agl"
+        },
+        "mobility": {
+          "value": 0,
+          "label": "Mobility",
+          "ability": "agl"
+        },
+        "piloting": {
+          "value": 0,
+          "label": "Piloting",
+          "ability": "agl"
+        },
+        "command": {
+          "value": 0,
+          "label": "Command",
+          "ability": "emp"
+        },
+        "manipulation": {
+          "value": 0,
+          "label": "Manipulation",
+          "ability": "emp"
+        },
+        "medicalAid": {
+          "value": 0,
+          "label": "Medical Aid",
+          "ability": "emp"
+        },
+        "observation": {
+          "value": 0,
+          "label": "Observation",
+          "ability": "wit"
+        },
+        "survival": {
+          "value": 0,
+          "label": "Survival",
+          "ability": "wit"
+        },
+        "comtech": {
+          "value": 0,
+          "label": "Comtech",
+          "ability": "wit"
+        }
+      }
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "YEoPmwinvi5w1FW6": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Item.w7bmPFTvAmYj8XKn",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "NhtahSEfX5LSroB3",
+  "_key": "!items!NhtahSEfX5LSroB3"
+}

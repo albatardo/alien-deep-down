@@ -1,0 +1,601 @@
+{
+  "name": "Joe NS42 “BORIS” (ROUGTHNECK)",
+  "type": "synthetic",
+  "img": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_PRT.png",
+  "items": [
+    {
+      "_id": "mYl8OTroGMgzAsOL",
+      "name": "Pack Mule",
+      "type": "talent",
+      "img": "systems/alienrpg/images/icons/sprint.webp",
+      "effects": [],
+      "folder": "9IF2Yjl8OnTQMDFN",
+      "sort": 0,
+      "flags": {
+        "core": {}
+      },
+      "system": {
+        "attributes": {
+          "flag": {
+            "value": 0,
+            "label": "Flag"
+          }
+        },
+        "general": {
+          "career": {
+            "value": "1",
+            "label": "career"
+          },
+          "comment": {
+            "value": "You can carry twice as many objects as normal without being encumbered.",
+            "label": "Text"
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "023AT5ERR8Ij00Wy": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "PiPXYCkUi20oCQ9V": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-talents-general.TTcX3RxfHjXKlV7d",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!12vb86KU6IWdlPGj.mYl8OTroGMgzAsOL"
+    },
+    {
+      "_id": "0qkoRaY7gFTSKy8d",
+      "name": "Maintenance Jack",
+      "type": "item",
+      "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "f2f11147e2fe4d34106cef4d8268917bac7f9ef3"
+        }
+      },
+      "system": {
+        "header": {
+          "type": {
+            "value": "4",
+            "label": "Text"
+          },
+          "active": false,
+          "completed": false
+        },
+        "attributes": {
+          "weight": {
+            "value": 1,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "$0.00",
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<p>copyrighted, please add information</p>",
+            "label": "Text"
+          },
+          "food": {
+            "value": 0,
+            "label": "Number"
+          },
+          "water": {
+            "value": 0,
+            "label": "Number"
+          },
+          "power": {
+            "value": 0,
+            "label": "Stress"
+          },
+          "airsupply": {
+            "value": 0,
+            "label": "Number"
+          },
+          "quantity": {
+            "value": 1
+          },
+          "notes": {
+            "notes": ""
+          }
+        },
+        "modifiers": {
+          "attributes": {
+            "health": {
+              "value": 0,
+              "label": "Health"
+            },
+            "stress": {
+              "value": 0,
+              "label": "Stress"
+            },
+            "str": {
+              "value": 0,
+              "label": "Strength"
+            },
+            "wit": {
+              "value": 0,
+              "label": "Wits"
+            },
+            "agl": {
+              "value": 0,
+              "label": "Agility"
+            },
+            "emp": {
+              "value": 0,
+              "label": "Empathy"
+            }
+          },
+          "skills": {
+            "heavyMach": {
+              "value": 1,
+              "label": "Heavy Machinery",
+              "ability": "str"
+            },
+            "closeCbt": {
+              "value": 0,
+              "label": "Close Combat",
+              "ability": "str"
+            },
+            "stamina": {
+              "value": 0,
+              "label": "Stamina",
+              "ability": "str"
+            },
+            "rangedCbt": {
+              "value": 0,
+              "label": "Ranged Combat",
+              "ability": "agl"
+            },
+            "mobility": {
+              "value": 0,
+              "label": "Mobility",
+              "ability": "agl"
+            },
+            "piloting": {
+              "value": 0,
+              "label": "Piloting",
+              "ability": "agl"
+            },
+            "command": {
+              "value": 0,
+              "label": "Command",
+              "ability": "emp"
+            },
+            "manipulation": {
+              "value": 0,
+              "label": "Manipulation",
+              "ability": "emp"
+            },
+            "medicalAid": {
+              "value": 0,
+              "label": "Medical Aid",
+              "ability": "emp"
+            },
+            "observation": {
+              "value": 0,
+              "label": "Observation",
+              "ability": "wit"
+            },
+            "survival": {
+              "value": 0,
+              "label": "Survival",
+              "ability": "wit"
+            },
+            "comtech": {
+              "value": 0,
+              "label": "Comtech",
+              "ability": "wit"
+            }
+          }
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "YEoPmwinvi5w1FW6": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Item.pxeJcO2jdB1B86KK",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!12vb86KU6IWdlPGj.0qkoRaY7gFTSKy8d"
+    }
+  ],
+  "effects": [],
+  "folder": "293xp0dxuPEQLZdC",
+  "sort": 300000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "837af8e1735e214645c7edfcd6f45adb0b64aed3"
+    }
+  },
+  "system": {
+    "header": {
+      "health": {
+        "value": 7,
+        "label": "Health",
+        "mod": 0,
+        "max": 7,
+        "calculatedMax": 7
+      },
+      "npc": true,
+      "synthstress": false
+    },
+    "attributes": {
+      "str": {
+        "value": 7,
+        "label": "Strength",
+        "mod": 7,
+        "proficient": 0
+      },
+      "wit": {
+        "value": 1,
+        "mod": 1,
+        "label": "Wits"
+      },
+      "agl": {
+        "value": 2,
+        "mod": 2,
+        "label": "Agility"
+      },
+      "emp": {
+        "value": 1,
+        "mod": 1,
+        "label": "Empathy"
+      }
+    },
+    "skills": {
+      "heavyMach": {
+        "value": 3,
+        "label": "Heavy Machinery",
+        "ability": "str",
+        "description": "Heavy Machinery",
+        "mod": 10
+      },
+      "closeCbt": {
+        "value": 0,
+        "label": "Close Combat",
+        "ability": "str",
+        "description": "Close Combat",
+        "mod": 7
+      },
+      "stamina": {
+        "value": 0,
+        "label": "Stamina",
+        "ability": "str",
+        "description": "Stamina",
+        "mod": 7
+      },
+      "rangedCbt": {
+        "value": 0,
+        "label": "Ranged Combat",
+        "ability": "agl",
+        "description": "Ranged Combat",
+        "mod": 2
+      },
+      "mobility": {
+        "value": 0,
+        "label": "Mobility",
+        "ability": "agl",
+        "description": "Mobility",
+        "mod": 2
+      },
+      "piloting": {
+        "value": 0,
+        "label": "Piloting",
+        "ability": "agl",
+        "description": "Piloting",
+        "mod": 2
+      },
+      "command": {
+        "value": 0,
+        "label": "Command",
+        "ability": "emp",
+        "description": "Command",
+        "mod": 1
+      },
+      "manipulation": {
+        "value": 0,
+        "label": "Manipulation",
+        "ability": "emp",
+        "description": "Manipulation",
+        "mod": 1
+      },
+      "medicalAid": {
+        "value": 3,
+        "label": "Medical Aid",
+        "ability": "emp",
+        "description": "Medical Aid",
+        "mod": 4
+      },
+      "observation": {
+        "value": 0,
+        "label": "Observation",
+        "ability": "wit",
+        "description": "Observation",
+        "mod": 1
+      },
+      "survival": {
+        "value": 0,
+        "label": "Survival",
+        "ability": "wit",
+        "description": "Survival",
+        "mod": 1
+      },
+      "comtech": {
+        "value": 3,
+        "label": "Comtech",
+        "ability": "wit",
+        "description": "Comtech",
+        "mod": 4
+      }
+    },
+    "general": {
+      "career": {
+        "value": "11",
+        "label": "career"
+      },
+      "appearance": {
+        "value": "",
+        "label": "appearance"
+      },
+      "sigItem": {
+        "value": "",
+        "label": "sigItem"
+      },
+      "agenda": {
+        "value": "",
+        "label": "agenda"
+      },
+      "relOne": {
+        "value": "",
+        "label": "relOne"
+      },
+      "relTwo": {
+        "value": "",
+        "label": "relTwo"
+      },
+      "xp": {
+        "value": 0,
+        "max": 20,
+        "calculatedMax": 20
+      },
+      "sp": {
+        "value": 0,
+        "max": 3
+      },
+      "radiation": {
+        "value": 0,
+        "max": 10,
+        "calculatedMax": 10,
+        "permanent": 0
+      },
+      "starving": {
+        "value": 0,
+        "max": 1
+      },
+      "dehydrated": {
+        "value": 0,
+        "max": 1,
+        "calculatedMax": 1
+      },
+      "exhausted": {
+        "value": 0,
+        "max": 1,
+        "calculatedMax": 1
+      },
+      "freezing": {
+        "value": 0,
+        "max": 1,
+        "calculatedMax": 1
+      },
+      "hypoxia": {
+        "value": 0,
+        "max": 1
+      },
+      "heatstroke": {
+        "value": 0,
+        "max": 1
+      },
+      "gravitydyspraxia": {
+        "value": 0,
+        "max": 1
+      },
+      "critInj": {
+        "value": ""
+      },
+      "armor": {
+        "value": 0,
+        "max": 10
+      },
+      "cash": {
+        "value": "0",
+        "label": "Number"
+      }
+    },
+    "consumables": {
+      "air": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "power": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "food": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "water": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      }
+    },
+    "notes": "<p>Boris has limited cognitive abilities given damage to the head and is primarily used as a pack mule and for tending plants.</p>",
+    "adhocitems": "<div style=\"color: #d4d4d4; background-color: #1e1e1e; font-family: Consolas, 'Courier New', monospace; line-height: 19px; white-space: pre;\">Maintenance jack, Watatsumi DV-303 Bolt Gun or mechanical cutting torch.</div>"
+  },
+  "ownership": {
+    "default": 0,
+    "PiPXYCkUi20oCQ9V": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "prototypeToken": {
+    "name": "Joe NS42 “BORIS” (ROUGTHNECK)",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "None"
+    },
+    "flags": {
+      "monks-enhanced-journal": {
+        "chatbubble": ""
+      },
+      "monks-little-details": {
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_0_PRT.jpg"
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      }
+    },
+    "randomImg": false,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_TK.png",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": true,
+      "range": 12,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": {},
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "compendiumSource": "Actor.Pv8jNWHyxSi59K0A",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "12vb86KU6IWdlPGj",
+  "_key": "!actors!12vb86KU6IWdlPGj"
+}

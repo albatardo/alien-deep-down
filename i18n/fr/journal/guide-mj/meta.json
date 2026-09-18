@@ -1,0 +1,110 @@
+{
+  "_id": "2A70WlvyYoIRKyer",
+  "name": "Deep Down - GUIDE D'AVENTURE",
+  "pages": [
+    {
+      "_id": "cZDppSDM9gtyufCS",
+      "name": "Résumé de l'histoire",
+      "file": "01-cZDppSDM9gtyufCS.html"
+    },
+    {
+      "_id": "7bWj3TGJHBNyOodw",
+      "name": "Message du terminal pour la capitaine Kramarenko (à montrer au début)"
+    },
+    {
+      "_id": "T1glO5c59Itlf2VT",
+      "name": "Intro (À LIRE AUX JOUEURS)",
+      "file": "03-T1glO5c59Itlf2VT.html"
+    },
+    {
+      "_id": "5InH5Xhz1cxmLW0A",
+      "name": "Les circonstances de la disparition",
+      "file": "04-5InH5Xhz1cxmLW0A.html"
+    },
+    {
+      "_id": "isWOyTATFam8g8kF",
+      "name": "INFORMATIONS POUR LE MJ",
+      "file": "05-isWOyTATFam8g8kF.html"
+    },
+    {
+      "_id": "OCfgns6Ip9lsMWAS",
+      "name": "Le superviseur Li Qiang",
+      "file": "06-OCfgns6Ip9lsMWAS.html"
+    },
+    {
+      "_id": "sTNk8neigXJ46g6l",
+      "name": "SCADA - 1/VAN",
+      "file": "07-sTNk8neigXJ46g6l.html"
+    },
+    {
+      "_id": "fBxdyIO3lqxrPaCr",
+      "name": "HYDROMORPHE / Xénomorphes",
+      "file": "08-fBxdyIO3lqxrPaCr.html"
+    },
+    {
+      "_id": "TCZ13Tuo5Yryj7Jw",
+      "name": "La vision d'Anya Zomorova",
+      "file": "09-TCZ13Tuo5Yryj7Jw.html"
+    },
+    {
+      "_id": "5bNMllNXZIQPasc4",
+      "name": "Le dilemme de Dmitri",
+      "file": "10-5bNMllNXZIQPasc4.html"
+    },
+    {
+      "_id": "sBcSRhMYrnBozOh8",
+      "name": "Sorties en mer",
+      "file": "11-sBcSRhMYrnBozOh8.html"
+    },
+    {
+      "_id": "VK5NX4s5Csao9hPM",
+      "name": "Combinaisons de plongée",
+      "file": "12-VK5NX4s5Csao9hPM.html"
+    },
+    {
+      "_id": "KdZ4g9eQJyTBwfwG",
+      "name": "Équipements utilisables comme armes",
+      "file": "13-KdZ4g9eQJyTBwfwG.html"
+    },
+    {
+      "_id": "kDJbvaxA3I1veg4o",
+      "name": "Communications",
+      "file": "14-kDJbvaxA3I1veg4o.html"
+    },
+    {
+      "_id": "rrURkGwCK7RiJN7T",
+      "name": "Le plan infâme",
+      "file": "15-rrURkGwCK7RiJN7T.html"
+    },
+    {
+      "_id": "bEWIMZoEJmArsCq0",
+      "name": "Éclairage sous-marin",
+      "file": "16-bEWIMZoEJmArsCq0.html"
+    },
+    {
+      "_id": "t8tsrOHlA4VX7vry",
+      "name": "Le corps de Pietro Novotny",
+      "file": "17-t8tsrOHlA4VX7vry.html"
+    },
+    {
+      "_id": "0ohtJ7z5s7BvNcaK",
+      "name": "Remonter ou mourir (acte final)",
+      "file": "18-0ohtJ7z5s7BvNcaK.html"
+    },
+    {
+      "_id": "k3BmnaIXO9O2soSp",
+      "name": "(FRENKEL) Une maintenance de routine qui tourne mal… encore",
+      "file": "19-k3BmnaIXO9O2soSp.html"
+    },
+    {
+      "_id": "hcymlfrq2bwleucm",
+      "name": "Suggestion de déroulement",
+      "file": "20-hcymlfrq2bwleucm.html"
+    },
+    {
+      "_id": "7NqxNj7Kq7YVu5AI",
+      "name": "Complications et suggestions",
+      "file": "21-7NqxNj7Kq7YVu5AI.html"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Suspense",
+  "sounds": [
+    {
+      "name": "Musica De Investigacao Paranormal Tensa Hipervigilrpg 211154",
+      "path": "modules/alien-deep-down/assets/Sounds/suspense-free/musica-de-investigacao-paranormal-tensa-hipervigilrpg-211154.mp3",
+      "_id": "kYx4nOqAo85KLgE2",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uiWFo14JV4L2FhQp.kYx4nOqAo85KLgE2"
+    },
+    {
+      "name": "Mystery In Space 178544",
+      "path": "modules/alien-deep-down/assets/Sounds/suspense-free/mystery-in-space-178544.mp3",
+      "_id": "0nOvGkPBmdsgeVwf",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uiWFo14JV4L2FhQp.0nOvGkPBmdsgeVwf"
+    },
+    {
+      "name": "Suspense E Investigacao Hipervigilrpg 211156",
+      "path": "modules/alien-deep-down/assets/Sounds/suspense-free/suspense-e-investigacao-hipervigilrpg-211156.mp3",
+      "_id": "TVLBvs8NQAlC8doH",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uiWFo14JV4L2FhQp.TVLBvs8NQAlC8doH"
+    },
+    {
+      "name": "This Is Suspense End Of The Line 181766",
+      "path": "modules/alien-deep-down/assets/Sounds/suspense-free/this-is-suspense-end-of-the-line-181766.mp3",
+      "_id": "g26Cx6oxlztV3YtO",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uiWFo14JV4L2FhQp.g26Cx6oxlztV3YtO"
+    },
+    {
+      "name": "Wendigo Psychosis Dark Ambient Horror 240585",
+      "path": "modules/alien-deep-down/assets/Sounds/suspense-free/wendigo-psychosis-dark-ambient-horror-240585.mp3",
+      "_id": "mBCf1zPOyj8MNph5",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5"
+    }
+  ],
+  "channel": "music",
+  "mode": 0,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": 131,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "4b9feed9f5b53b7ae230b272c1ad35d785e2b2e3",
+      "sourceId": "Playlist.4r0Z31megTPid8Qo"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804424300,
+    "modifiedTime": 1734804424300,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "description": "",
+  "_id": "uiWFo14JV4L2FhQp",
+  "sort": 0,
+  "_key": "!playlists!uiWFo14JV4L2FhQp"
+}

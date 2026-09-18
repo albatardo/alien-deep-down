@@ -1,0 +1,259 @@
+{
+  "name": "DEEP DOWN SPASH",
+  "_id": "TrEipSACMW6f5Yo4",
+  "active": true,
+  "navigation": true,
+  "navOrder": 0,
+  "navName": "",
+  "width": 1920,
+  "height": 800,
+  "padding": 0.25,
+  "initial": {
+    "x": 1629,
+    "y": 581,
+    "scale": 0.839
+  },
+  "grid": {
+    "type": 0,
+    "size": 50,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "m",
+    "style": "solidLines",
+    "thickness": 1
+  },
+  "tokenVision": false,
+  "drawings": [
+    {
+      "_id": "UqxBtuCH1gJ9FL70",
+      "author": "h1BfzYYX7qtp2kbH",
+      "shape": {
+        "type": "r",
+        "width": 254,
+        "height": 58,
+        "radius": null,
+        "points": []
+      },
+      "x": 2163,
+      "y": 952,
+      "elevation": 0,
+      "sort": 0,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 8,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 0,
+      "texture": null,
+      "text": "created Using scenes from Movie \"Underwater\" 20th Century FOX - Go see IT!",
+      "fontFamily": "Bruno Ace",
+      "fontSize": 10,
+      "textColor": "#ffea00",
+      "textAlpha": 0.3,
+      "hidden": false,
+      "locked": true,
+      "interface": false,
+      "flags": {},
+      "levels": [],
+      "_key": "!scenes.drawings!TrEipSACMW6f5Yo4.UqxBtuCH1gJ9FL70"
+    }
+  ],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "entryId": "jw4a9u8bQYYckc3B",
+      "pageId": null,
+      "text": "Deep Down",
+      "x": 1531,
+      "y": 490,
+      "elevation": 0,
+      "sort": 0,
+      "global": false,
+      "iconSize": 40,
+      "texture": {
+        "tint": "#ffea00",
+        "src": "modules/alien-deep-down/assets/icons/deep_down.jpg",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "alphaThreshold": 0
+      },
+      "fontFamily": "Signika",
+      "fontSize": 25,
+      "textColor": "#ffea00",
+      "textAnchor": 1,
+      "flags": {
+        "tagger": {},
+        "arms-reach": {
+          "range": 0
+        },
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "_id": "xJhyTJ19GY972e0N",
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!TrEipSACMW6f5Yo4.xJhyTJ19GY972e0N"
+    }
+  ],
+  "sounds": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": "cSALXBPGl51jO9MP",
+  "playlistSound": "QMViJdMETjXMjio3",
+  "journal": null,
+  "journalEntryPage": null,
+  "folder": "61rXLm9vhjkQ1kM9",
+  "sort": 100000,
+  "ownership": {
+    "default": 2,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "background-volume": {
+      "volume": 1
+    },
+    "LockView": {
+      "lockPan": true,
+      "lockPanInit": true,
+      "lockZoom": true,
+      "lockZoomInit": true,
+      "boundingBox": false,
+      "boundingBoxInit": false,
+      "autoScale": "1",
+      "rotation": "0",
+      "sidebar": "noChange",
+      "blackenSidebar": false,
+      "excludeSidebar": false,
+      "hideUI": false,
+      "forceInit": false,
+      "hideUIelements": {
+        "controls": true,
+        "hotbar": true,
+        "logo": true,
+        "navigation": true,
+        "players": true,
+        "sidebar": false
+      },
+      "editViewbox": false
+    },
+    "scene-packer": {
+      "hash": "a23661ab0e4897928a704bf5aa9289b1ea877cd8"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734824033464,
+    "modifiedTime": 1734824033464,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "thumb": "modules/alien-deep-down/assets/scenes/TrEipSACMW6f5Yo4-thumb.webp",
+  "weather": "",
+  "environment": {
+    "globalLight": {
+      "luminosity": 0,
+      "enabled": false,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0
+    },
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "fog": {
+    "reset": 1706117221745,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    },
+    "mode": 0
+  },
+  "regions": [],
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "DEEP DOWN SPASH",
+      "background": {
+        "color": "#000000",
+        "src": "modules/alien-deep-down/assets/videos/deep_down_SPLASH.mp4",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "top": 20,
+        "bottom": 0
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!TrEipSACMW6f5Yo4.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
+  },
+  "_key": "!scenes!TrEipSACMW6f5Yo4",
+  "templates": []
+}

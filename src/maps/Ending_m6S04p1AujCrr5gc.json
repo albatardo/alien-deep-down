@@ -1,0 +1,447 @@
+{
+  "folder": "chdzYZPjYtnyym4b",
+  "name": "Ending",
+  "_id": "m6S04p1AujCrr5gc",
+  "active": false,
+  "navigation": true,
+  "navOrder": 600000,
+  "navName": "",
+  "width": 1300,
+  "height": 686,
+  "padding": 0.25,
+  "initial": {
+    "x": 1160,
+    "y": 473,
+    "scale": 0.925
+  },
+  "grid": {
+    "type": 0,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "m",
+    "style": "solidLines",
+    "thickness": 1
+  },
+  "tokenVision": false,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "entryId": "2A70WlvyYoIRKyer",
+      "pageId": "0ohtJ7z5s7BvNcaK",
+      "text": "",
+      "x": 600,
+      "y": 400,
+      "global": false,
+      "iconSize": 80,
+      "texture": {
+        "tint": "#bfe30d",
+        "src": "modules/alien-deep-down/assets/icons/facehugger_W.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#bfe30d",
+      "textAnchor": 1,
+      "flags": {
+        "notelicker": {
+          "disableAutoIcon": false,
+          "keepBorder": false
+        }
+      },
+      "_id": "sAmaYXA0Owpi5kFp",
+      "elevation": 0,
+      "sort": 0,
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!m6S04p1AujCrr5gc.sAmaYXA0Owpi5kFp"
+    },
+    {
+      "entryId": "WmgzHFNduuw3OlM2",
+      "pageId": "Ubbp9iOBvRHYr4Kx",
+      "text": "",
+      "x": 1559,
+      "y": 231,
+      "global": false,
+      "iconSize": 50,
+      "texture": {
+        "tint": "#ff0000",
+        "src": "modules/alien-deep-down/assets/icons/Symbol%20E.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0
+      },
+      "fontFamily": "Signika",
+      "fontSize": 32,
+      "textColor": "#bfe30d",
+      "textAnchor": 1,
+      "flags": {
+        "notelicker": {
+          "keepBorder": false
+        }
+      },
+      "elevation": 0,
+      "sort": 0,
+      "_id": "tptXqSsNdjudwsmb",
+      "author": null,
+      "levels": [],
+      "locked": false,
+      "_key": "!scenes.notes!m6S04p1AujCrr5gc.tptXqSsNdjudwsmb"
+    }
+  ],
+  "sounds": [],
+  "tiles": [
+    {
+      "texture": {
+        "src": "modules/alien-deep-down/assets/images/Gen%20Volkoff.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75
+      },
+      "x": 660,
+      "y": 185,
+      "width": 702,
+      "height": 730,
+      "_id": "jqEJhaQiL6lLOCKF",
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": true,
+      "locked": false,
+      "occlusion": {
+        "alpha": 0,
+        "modes": [
+          1
+        ]
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "dblclick"
+          ],
+          "allowpaused": false,
+          "usealpha": false,
+          "pointer": true,
+          "vision": true,
+          "pertoken": false,
+          "minrequired": 0,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "showhide",
+              "data": {
+                "entity": {
+                  "id": "tile",
+                  "name": "This Tile"
+                },
+                "collection": "tokens",
+                "hidden": "toggle",
+                "fade": 5
+              },
+              "id": "GNCHekcRHlcAFRax"
+            }
+          ],
+          "files": [],
+          "name": ""
+        },
+        "tokenmagic": {
+          "filters": [
+            {
+              "tmFilters": {
+                "tmFilterId": "dodgeStance",
+                "tmFilterInternalId": "uPiofaIjV2op8wMZ",
+                "tmFilterType": "transform",
+                "tmFilterOwner": "LMOJKfi8GnehqjGy",
+                "tmParams": {
+                  "filterType": "transform",
+                  "filterId": "dodgeStance",
+                  "padding": 50,
+                  "animated": {
+                    "translationX": {
+                      "animType": "sinOscillation",
+                      "val1": -0.012,
+                      "val2": 0.012,
+                      "loopDuration": 30000
+                    },
+                    "translationY": {
+                      "animType": "cosOscillation",
+                      "val1": -0.012,
+                      "val2": 0.012,
+                      "loopDuration": 30000
+                    }
+                  },
+                  "updateId": "6uYGMbBqCqaNMcvf",
+                  "rank": 10002,
+                  "enabled": true,
+                  "placeableId": "jqEJhaQiL6lLOCKF",
+                  "filterInternalId": "uPiofaIjV2op8wMZ",
+                  "filterOwner": "LMOJKfi8GnehqjGy",
+                  "placeableType": "Tile"
+                }
+              }
+            },
+            {
+              "tmFilters": {
+                "tmFilterId": "myShadow",
+                "tmFilterInternalId": "6DRyTJ68cQFEbaFQ",
+                "tmFilterType": "shadow",
+                "tmFilterOwner": "LMOJKfi8GnehqjGy",
+                "tmParams": {
+                  "filterType": "shadow",
+                  "filterId": "myShadow",
+                  "rotation": 35,
+                  "blur": 2,
+                  "quality": 5,
+                  "distance": 20,
+                  "alpha": 0.7,
+                  "padding": 10,
+                  "shadowOnly": false,
+                  "color": 0,
+                  "zOrder": 6000,
+                  "animated": {
+                    "blur": {
+                      "active": true,
+                      "loopDuration": 500,
+                      "animType": "syncCosOscillation",
+                      "val1": 2,
+                      "val2": 4
+                    },
+                    "rotation": {
+                      "active": true,
+                      "loopDuration": 100,
+                      "animType": "syncSinOscillation",
+                      "val1": 33,
+                      "val2": 37
+                    }
+                  },
+                  "updateId": "ccpAQAS6hE5NNaEK",
+                  "rank": 10000,
+                  "enabled": true,
+                  "placeableId": "jqEJhaQiL6lLOCKF",
+                  "filterInternalId": "6DRyTJ68cQFEbaFQ",
+                  "filterOwner": "LMOJKfi8GnehqjGy",
+                  "placeableType": "Tile"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "elevation": 0,
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "levels": [],
+      "_key": "!scenes.tiles!m6S04p1AujCrr5gc.jqEJhaQiL6lLOCKF"
+    }
+  ],
+  "walls": [],
+  "playlist": "cSALXBPGl51jO9MP",
+  "playlistSound": "aZoNvS0P4A9FdQCn",
+  "journal": null,
+  "journalEntryPage": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "background-volume": {
+      "volume": 1
+    },
+    "LockView": {
+      "lockPan": false,
+      "lockPanInit": false,
+      "lockZoom": false,
+      "lockZoomInit": false,
+      "boundingBox": false,
+      "boundingBoxInit": false,
+      "autoScale": "1",
+      "rotation": "0",
+      "sidebar": "noChange",
+      "blackenSidebar": false,
+      "excludeSidebar": false,
+      "hideUI": false,
+      "forceInit": false,
+      "hideUIelements": {
+        "controls": true,
+        "hotbar": true,
+        "logo": true,
+        "navigation": true,
+        "players": true,
+        "sidebar": false
+      },
+      "editViewbox": false
+    },
+    "fxmaster": {
+      "effects": {
+        "core_embers": {
+          "type": "embers",
+          "options": {
+            "scale": 1,
+            "speed": 1,
+            "lifetime": 1,
+            "density": 0.7,
+            "alpha": 1,
+            "tint": {
+              "apply": true,
+              "value": "#f77300"
+            }
+          }
+        },
+        "core_fog": {
+          "type": "fog",
+          "options": {
+            "scale": 1,
+            "speed": 1,
+            "lifetime": 1,
+            "density": 0.08,
+            "alpha": 0.5,
+            "tint": {
+              "apply": false,
+              "value": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "scene-packer": {
+      "hash": "7e2ae9b338c59e8e718b59e60df362c7fe6a9ba9"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734824033464,
+    "modifiedTime": 1734824033464,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "thumb": "modules/alien-deep-down/assets/scenes/m6S04p1AujCrr5gc-thumb.webp",
+  "weather": "",
+  "environment": {
+    "globalLight": {
+      "luminosity": 0,
+      "enabled": true,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0
+    },
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "fog": {
+    "reset": 1706995515995,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    },
+    "mode": 0
+  },
+  "regions": [],
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Ending",
+      "background": {
+        "color": "#000000",
+        "src": "modules/alien-deep-down/assets/Maps/surface/ending%20surface/TROOPS.png",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "top": 20,
+        "bottom": 0
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!m6S04p1AujCrr5gc.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
+  },
+  "_key": "!scenes!m6S04p1AujCrr5gc",
+  "templates": []
+}

@@ -1,0 +1,49 @@
+{
+  "folder": "5Cl78rttfWPhO7rU",
+  "name": "DIEGO ALVAREZ  Act 2",
+  "type": "agenda",
+  "img": "systems/alienrpg/images/icons/personal-agenda.png",
+  "system": {
+    "attributes": {
+      "flag": {
+        "value": 0,
+        "label": "Flag"
+      }
+    },
+    "general": {
+      "comment": {
+        "value": "<p>&nbsp;</p>\n<p><strong>Act 2:</strong> Your priority is to return to the surface, but you are determined to save as many lives as possible. You embody the best qualities of the UPP, and this is your chance to prove it. You've survived countless challenges, and this one will be no different.</p>",
+        "label": "Text"
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "a3007139dd69630976aa16b3a418f4626481c08f"
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Item.66Zy3maTgfh7ZrJR",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "iqUpcAZs6UaAdTYx",
+  "_key": "!items!iqUpcAZs6UaAdTYx"
+}

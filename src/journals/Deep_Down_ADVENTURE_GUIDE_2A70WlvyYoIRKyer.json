@@ -1,0 +1,851 @@
+{
+  "folder": "3WEbekbKztXvhiAj",
+  "name": "Deep Down ADVENTURE GUIDE",
+  "_id": "2A70WlvyYoIRKyer",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Intro (READ TO THE PLAYERS)",
+      "type": "text",
+      "_id": "T1glO5c59Itlf2VT",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><strong>The Place (READ TO THE PLAYERS)</strong></h1><p class=\"MsoNormal\"></p><p></p><p class=\"MsoNormal\">Along the Outer Rim lies the GJ1187 system, known as the Shānmén System, home to the planet Voda—a vast aquatic world claimed by the UPP.</p><p class=\"MsoNormal\">Voda is lifeless now, but once, it teemed with vitality. As a result, the planet held vast reserves of high-grade oil buried 4 MILES beneath its waves.</p><p class=\"MsoNormal\">With the help of Seegson Corporation, the UPP constructed the Novotny-class offshore drilling stations.</p><p class=\"MsoNormal\">The project’s inaugural station was named after Pietro Novotny, the brilliant engineer who assisted Seegson in designing the drill. Tragically, Novotny died in a horrific underwater accident just days before the station began operations.</p><p class=\"MsoNormal\">Now, a century later, the planet is under UPP military oversight, its once-rich resources nearly depleted. All other mining stations have been shut down, leaving Novotny Station as the last operational outpost. Novotny – while still operational – is starting to slide into dangerous disrepair.</p><p class=\"MsoNormal\">You are all here, whether as crew or visitors.</p><p class=\"MsoNormal\">The station is a corroded, rusting relic. Safety bulkheads are spaced every 10 meters, ready to seal at the first sign of a hull breach. Double doors connect the modules, sealing off entire sections if needed.</p><p class=\"MsoNormal\">The place echoes with constant drips, hisses, and the groans of stressed structures under immense pressure—a haunting symphony of decay.</p><p class=\"MsoNormal\">Equipment failures, always a part of life here, have become more frequent, almost routine.</p><p class=\"MsoNormal\">You’re certain Novotny Station is nearing its end. Supply shipments from the surface have been reduced, and even your favorite treat, Plyushka—a sweet biscuit—ran out weeks ago.</p><p></p><p></p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><h1><strong>Disaster</strong></h1><p class=\"MsoNormal\">Eight days ago, disaster struck. Machine operator Marin Kirill vanished during a routine maintenance shift on the seafloor.</p><p class=\"MsoNormal\">A search was conducted, but no trace of him was found. After all this time, there’s no hope of him surviving on his own.</p><p></p><p></p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><h1><strong>Transport</strong></h1><p></p><p class=\"MsoNormal\">The cargo ship <em>PSV-Schatzi</em> was en route to Novotny Station, carrying supplies, spare parts, food, crew for shift rotation, and MSS** Military Investigator Olga Kramarenko, tasked with conducting a routine inspection of the station.</p><p class=\"MsoNormal\">Mid-flight, the ship received an urgent message from station supervisors based on the nearby planet Shānmén in GJ1187.</p><p class=\"MsoNormal\">The order: Everyone must remain on the station—even those scheduled to return to the surface, and those about to begin their shifts are to not disembark —until Investigator Olga Kramarenko completes her inquiry into recent events accompanied by the supervisor LI QIANG.</p><p class=\"MsoNormal\">The <em>PSV-Schatzi</em>, now with only its captain awakened aboard, is instructed to continue its deliveries elsewhere after ensuring that the Captain and the Supervisor are safely on the submerged station, returning to Novotny Station later.</p><p></p><p>SHOW THE VIDEO TO THE PLAYERS.<br><br>@UUID[.T1glO5c59Itlf2VT]{Intro (READ TO THE PLAYERS)}</p><p></p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><strong>STOP READING HERE!</strong></p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"><em><strong>Players should now introduce themselves.</strong></em></p><p class=\"MsoNormal\">* PSV: People's Space Vessel (UPP designation), Schatzi = treasure.<br>** MSS: Ministry of Space Security.</p><p class=\"MsoNormal\"></p><h2><strong>Disabled Elevator</strong></h2><p><br>The captain of the PSV-Schatzi, the ship that transported Olga to Novotny, will mechanically disable the surface elevator after it descends.</p><p>If the camera recordings are reviewed, they show the captain meticulously following instructions displayed on a pad.</p><p>He seems entirely unaware of the purpose or the consequences of his actions—simply following orders without question</p><p></p><p class=\"MsoNormal\"><span lang=\"PT-BR\" style=\"mso-ansi-language:PT-BR\"> </span></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.T1glO5c59Itlf2VT"
+    },
+    {
+      "sort": 200000,
+      "name": "Details of the Disappearance",
+      "type": "text",
+      "_id": "5InH5Xhz1cxmLW0A",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p class=\"MsoNormal\"> </p><h1><strong>Details of the Disappearance</strong></h1><p class=\"MsoNormal\">The maintenance check for the drills during shift change is straightforward and hasn’t changed in 100 years.</p><p class=\"MsoNormal\">Marin Kirill was performing a visual inspection of the four drills, focusing on the electrical systems, which had been exhibiting unusual malfunctions.</p><p></p><img src=\"modules/alien-deep-down/assets/images/karil.png\" height=\"300\"><p></p><p></p><p class=\"MsoNormal\">It could have been a localized short circuit or something more serious, like a faulty actuator or coupling joint.</p><p class=\"MsoNormal\">Kirill radioed in as he approached the drill—and was never seen or heard from again.</p><p class=\"MsoNormal\">No one had a visual on him at the time of his disappearance.</p><p class=\"MsoNormal\">His primary connection hose was recovered intact but appeared to have been disconnected. This was strange, as Kirill—out of laziness or carelessness—had left his locator device in the locker room, along with his emergency air kit. If he disconnected it intentionally to wander off, there’s NO way to track him.</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr><p class=\"MsoNormal\"></p><p></p><p><strong>GAME MASTER</strong><br><br style=\"mso-special-character:line-break\"></p></div><p class=\"MsoNormal\">An NPC should strongly insist that Kirill had a death wish and simply committed suicide.</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"><br>1/VAN instructed Kirill to investigate a “location” of interest beyond the hose’s range, under secrecy, promising rewards. Kirill didn’t bring his emergency air kit because he carried a 6-hour exploration pack instead.</p><p class=\"MsoNormal\">The site was a 45-minute walk beyond the hose’s range—or a 5-minute trip using the submersible.</p><p class=\"MsoNormal\"><span lang=\"PT-BR\" style=\"mso-ansi-language:PT-BR\"> </span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.5InH5Xhz1cxmLW0A"
+    },
+    {
+      "sort": 300000,
+      "name": "GAME MASTER INFORMATION",
+      "type": "text",
+      "_id": "isWOyTATFam8g8kF",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p class=\"MsoNormal\"></p><h1><strong>The Legacy of Vaughn</strong></h1><p></p><p class=\"MsoNormal\">One year before the current events, the UPP attempted to intercept a Weyland-Yutani ship that had strayed far off course. However, the ship crashed into the waters of Voda and was lost.</p><p class=\"MsoNormal\">This vessel carried specimens from General Vaughn’s infamous collection (<em>Colonial Marines Campaign: Border Wars</em>).</p><p class=\"MsoNormal\">Ten days ago, the Novotny Station computer, <em>1/VAN</em>, transmitted an unusual signal to Shānmén:</p><p class=\"MsoNormal\"><strong>Code: B000108</strong>.</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"></p><h1><strong>General Volkoff</strong></h1><p></p><img src=\"modules/alien-deep-down/assets/Maps/surface/ending%20surface/Gen%20Volkoff.png\" height=\"300\"><p class=\"MsoNormal\"></p><p class=\"MsoNormal\"></p><p><strong>General Volkoff</strong> leads sector wide military administration from the planet Shānmén, he and his team, identified the code as:</p><p></p><p></p><p class=\"MsoNormal\"><strong>“XENOFORM DETECTED OUT OF CONTAINMENT.”</strong></p><p></p><p></p><p class=\"MsoNormal\">After some investigation they discover that this CODE was originally used on Ouragan Station, an infamous UPP facility. Upon reviewing the computer’s logs, Volkoff’s team discovered that this <em>1/VAN</em> unit had been recycled from Ouragan years ago, before it's destruction. Despite undergoing a memory wipe, the military-grade <em>1/VAN</em> likely retained fragments of its original protocols.</p><p class=\"MsoNormal\">Due to the extreme compartmentalization of information within the UPP, Volkoff remains unaware of the Weyland-Yutani ship crash. Instead, he assumes that Novotny’s drilling operations breached a containment site or that the creatures infiltrated the station through some other means. His knowledge of Xenoforms is fragmentary at best.</p><p class=\"MsoNormal\">To make matters worse, the station is already under scrutiny. Military Investigator Olga Kramarenko from the Ministry of Space Security (MSS) was en route for a routine inspection of Novotny Station. Volkoff, anxious to cover his tracks, dispatched with her Supervisor Li Qiang—one of the few administrative staff stationed on Shānmén—to “facilitate procedures” and ensure Kramarenko finds nothing suspicious.</p><p class=\"MsoNormal\">Seizing the opportunity, Volkoff ordered a lockdown of Novotny Station under the pretense of safety and to “ensure the investigation runs smoothly.” This maneuver gave him time to gather intelligence and mobilize a recovery team.</p><p class=\"MsoNormal\">Volkoff has every reason to see Novotny Station destroyed. If his crimes are exposed, he risks being sent to a Gulag. The current chaos not only provides him with a cover story but also presents a chance to profit from the Xenoforms.</p><p></p><hr><p></p><h1><strong>The Surface Umbilical</strong></h1><p></p><p class=\"MsoNormal\">The surface umbilical marks a significant shift between the Dead Sea and Deep Down scenarios. Novotny, now in a state of neglect, uses the umbilical solely as an entry port, automated and staffed by a single Working Joe, there is absolutely no crew on the umbilical.</p><p class=\"MsoNormal\">This Working Joe, damaged and missing large patches of its synthetic skin, struggles to greet arriving crew members. It delivers a broken, robotic speech praising the honor of visiting the legendary Novotny station—the UPP’s crown jewel—while awkwardly inserting the name of the current Premier of the Council into a pre-written script.</p><p class=\"MsoNormal\">Years without maintenance have left the Working Joe erratic and incapable of performing complex tasks. Repairing the elevator is far beyond its current abilities, even with guidance—assuming communication systems are still functional.</p><p></p><h2><strong>Disabled Elevator (remember)</strong></h2><p><br>The captain of the PSV-Schatzi, the ship that transported Olga to Novotny, will mechanically disable the surface elevator after it descends.</p><p>If the camera recordings are reviewed, they show the captain meticulously following instructions displayed on a pad.</p><p>He seems entirely unaware of the purpose or the consequences of his actions—simply following orders without question</p><p></p><h1><strong>Korab Station</strong></h1><p><br></p><img src=\"modules/alien-deep-down/assets/images/KORAB-ending.jpg\" height=\"300\"><p><br></p><p class=\"MsoNormal\">Korab Station, named after a Slavic fishing deity, is located 300 km from Novotny. Abandoned for over 100 years, it was originally also a drilling station before being repurposed for aquaculture experiments. The project failed, and the site was quickly deserted.</p><p class=\"MsoNormal\">The station’s design and condition are entirely up to the GM, allowing for creative freedom.</p><p></p><p>In the decayed Surface Umbilical of Novotny Station sits an ancient, rusting helicopter—a relic from a bygone era. This aircraft once facilitated travel between Novotny and Korab Stations during a time when Novotny was a bustling, well-equipped facility supporting Korab that barely functioned.</p><p class=\"MsoNormal\">Today, the helicopter is little more than a forgotten husk, now its purpose is forgotten, and the entire crew don’t even know Korab exists.</p><p class=\"MsoNormal\">For the GM, this relic can serve as a narrative element to point at the existence of Korab.<br></p><img src=\"modules/alien-deep-down/assets/images/helicoptero_abandonado.png\" height=\"300\"><p class=\"MsoNormal\"><br></p><p></p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><h2><strong>Opening Act and Final Act</strong></h2><p class=\"MsoNormal\">This scenario doesn’t follow the traditional three-act structure. The opening act concludes when the <em>Rise or Die</em> event is triggered.</p><div class=\"MsoNormal\" style=\"text-align:center\"><hr></div><p class=\"MsoNormal\"></p><p></p><p></p><p></p><h1>The planet <strong>VODA</strong></h1><p class=\"MsoNormal\"></p><p class=\"MsoNormal\">The planet Voda is a completely aquatic world, thoroughly studied and found to be utterly devoid of life. For the crew of Novotny, this is well-known; the only life present is the microbial contamination they themselves introduced. Consequently, little is done to avoid environmental contamination, with waste hatches expelling everything deemed useless into the sea. (These hatches also create opportunities for creatures to invade the base.)</p><p class=\"MsoNormal\">Voda once teemed with immense biological mass, but a cataclysmic event wiped out all life eons ago, leaving today vast oil reserves. Thus, the appearance of life, fish, or \"monsters\" in the water is utterly absurd to the crew.</p><p></p><p>The crew on Voda is administered by the military in a nearby planet, Shānmén, that controls the entire system and local sector.</p><p></p><h1><strong>Baikal</strong></h1><p class=\"MsoNormal\">The <em>Baikal</em> submarine has a maximum capacity of three people. If more players are alive by the time of escape, they will need to figure out a solution.</p><p class=\"MsoNormal\">Surviving the ascent without the <em>Baikal</em> is impossible.</p><p class=\"MsoNormal\">The GM is encouraged to modify this detail as needed.</p><p class=\"MsoNormal\">The underwater dock’s ceiling opens to release the <em>Baikal</em> into the ocean through a specialized airlock. However, due to years of neglect, the mechanism requires a single operator to function properly.</p><p class=\"MsoNormal\">If players attempt to cling to the exterior of the submarine or cram in more passengers (as they often do), apply a <strong>-1 penalty to Piloting</strong> for each additional person. If there are more than two extra passengers, the submarine’s turbines slow drastically, leaving it vulnerable to swarms of Xenos during the <em>Rise or Die</em> event.<br><br><br></p><h1><strong><br>DEKOMPRESS Syringes</strong></h1><p></p><p></p><img src=\"modules/alien-deep-down/assets/images/dekompress.png\" height=\"300\"><p><strong><br></strong></p><p>DEKOMPRESS syringes can be found in all dive preparation areas, medkits, and medbays. The drug prevents the effects of decompression sickness if taken up to an hour before diving and the same before returning to the surface. Failing to do so means death at such deeps. </p><p>Since there are no decompression chambers available, these syringes are essential for anyone attempting to leave Novotny without succumbing to this potentially fatal condition.</p><p class=\"MsoNormal\"><br></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.isWOyTATFam8g8kF"
+    },
+    {
+      "sort": 400000,
+      "name": "Supervisor Li Qiang",
+      "type": "text",
+      "_id": "OCfgns6Ip9lsMWAS",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><strong>Supervisor Li Qiang</strong></h1><img src=\"modules/alien-deep-down/assets/tokens/LI_QIANG/LI_QIANG.png\" height=\"300\"><p></p><p>To safeguard his own interests, General Volkoff deployed Li Qiang, Novotny Station’s General Supervisor, to oversee the lockdown. Normally stationed near Volkoff and far from Voda, Qiang is more of a liability than an asset to the General when in Shānmén.</p><p></p><p>Arrogant and self-serving, Qiang has been complicit in covering up Volkoff’s diversion of funds and materials from Novotny for over a decade, making occasional visits to the station with flimsy excuses. Fearful of Volkoff’s wrath and the certainty of prison if Kramarenko uncovers the corruption, Qiang is now desperate to avoid exposure.</p><p></p><p>However, Qiang remains oblivious to many critical details. He knows nothing about the  xenoforms, Volkoff’s intent to destroy Novotny, or the full history of 1/VAN, the recycled mainframe. In fact, Qiang prefers ignorance, though he is aware of SCADA’s origins as he was the one to make the request for a new mainframe.</p><p></p><p>Driven by fear and self-preservation, Qiang is willing to ben’d rules and make rash decisions to protect himself.<br><br>Li Qiang will accompany Captain Olga from Shānmén to Novotny. Along the way, he will be awakened with her to receive the notice of Kirill's disappearance and the change in mission parameters. </p><p><br>Li Qiang will constantly try to 'help' the captain and demonstrate that the situation of disrepair in Novotny is due to budget cuts by the UPP and the incompetence of the crew, especially CIXIN LIU.<br></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.OCfgns6Ip9lsMWAS"
+    },
+    {
+      "sort": 500000,
+      "name": "SCADA - 1/VAN",
+      "type": "text",
+      "_id": "sTNk8neigXJ46g6l",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">SCADA - 1/VAN</p><p class=\"MsoNormal\"> <br></p><img src=\"modules/alien-deep-down/assets/images/scada.jpg\" height=\"300\"><p class=\"MsoNormal\"><br><br></p><p class=\"MsoNormal\">Meanwhile, 1/VAN, now called SCADA - Supervision Control And Data Acquisition, has its commands corrupted, functioning as SCADA in every way, except when a XENOFORM is detected, when it starts its only functional commands as 1/VAN:</p><p></p><p></p><h2>B000108, alert the UPP about the detection</h2><p class=\"MsoNormal\"><span style=\"mso-spacerun:yes\"> </span></p><p class=\"MsoNormal\"></p><p class=\"MsoNormal\">and</p><p></p><p></p><h2>A001107, send an agent to investigate under extreme secrecy</h2><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">other commands can be read by users, but corrupted and incomplete, are ignored by 1/VAN, except one:</p><p class=\"MsoNormal\"> </p><p></p><h2>EXTREME IMPORTANCE OF THE SPECIMEN, CREW EXPENDABLE.</h2><p></p><p></p><h1>\"SCADA - 1/VAN Dual Personality\"</h1><p></p><p class=\"MsoNormal\">“1/VAN” is fully capable of communication and to try to convince the crew of any ideia it has, but compromised, it can only act when a xenomorph is detected, returning to “SCADA” protocols in all other situations.</p><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">SCADA has access to DIMITRI and any other synthetic, but 1/VAN does not, only to terminals, and even so, barely, so it cannot even defend itself properly.</p><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">Consider a situation of a Mainframe with double personality without SCADA knowing about 1/VAN, and 1/VAN incapable of full control.<br><br></p><img src=\"modules/alien-deep-down/assets/images/ouragan_station_old_logo_desgastado.png\" height=\"300\">",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.sTNk8neigXJ46g6l"
+    },
+    {
+      "sort": 600000,
+      "name": "HIDROMORPH / Xenomorfos",
+      "type": "text",
+      "_id": "fBxdyIO3lqxrPaCr",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><strong>HYDROMORPH</strong></h1><p class=\"MsoNormal\"> </p><p></p><blockquote><p>@UUID[JournalEntry.WmgzHFNduuw3OlM2.JournalEntryPage.1dQrolItYCsywJAU]{HYDROMORPH IMAGES}<br><br>Hydromorph loses 1 SPEED if not submerged!<br><br>All other information is identical to DRONE XENOMORPH and is copyrighted. Please add information here as I am prohibited from doing so.t.<br><br><br><br>@UUID[Actor.63glw0NzKs1w0lFO]{Hydromorph}<br><br>@UUID[Actor.f0Ff6ADM6zoRleB6]{Hydrohugger}<br><br>@UUID[Actor.KDrVRH19yyEqwJeg]{Hydrobuster}<br><br><br></p></blockquote><p><br></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/Hydromorph/Hydromorph_(4).png\" height=\"300\"><p></p><p class=\"MsoNormal\">The appearance of xenoforms on VODA is a surprise to Volkoff, but a welcome one. He has no idea how they arrived, but if they can operate at such depths, they would be perfect instruments for sabotaging any enemy military or mining installation based in water. Volkoff also realized he could kill two birds with one stone.</p><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">They could test these biological weapons on the failing station itself to discover what they can really do, while also covering up half a century of corruption in one fell swoop. The once legendary station is now in a complete state of deterioration, as most of the maintenance funds never arrived.</p><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">Once the Novotny station is destroyed (and blamed on the United Americas, of course), it will erase all evidence of corruption, and the aquatic xenomorphs \"captured\" will certainly prove their worth as weapons for the bureau chiefs.</p><p class=\"MsoNormal\"> </p><h1><strong>The Xenomorphs</strong></h1><p class=\"MsoNormal\"></p><p class=\"MsoNormal\">The xenos arrived on the crashed ship about 1 year ago, with several surviving eggs in stasis, and 2 drones, 1 still alive in its capsule.</p><p class=\"MsoNormal\">About 100 years ago, an extraterrestrial species of fish was introduced at the Korab station in an attempt to start aquaculture on VODA. @UUID[Actor.0M4AT26z6RGff6Hh]{Long Salmon}  These fish could feed on electricity, sunlight, and the digestion of sulfates, which are abundant on the planet.</p><p class=\"MsoNormal\">The test was promising, but VODA doesn't have a high incidence of sunlight or constant electrical storms. So, the animals moved to the depths, seeking sulfates deposited at the bottom, where they grow much more slowly—too slowly for commercial purposes—and were abandoned. Gradually, they spread by the thousands and now have found the crashed ship, its eggs, and their fate as hosts.</p><p class=\"MsoNormal\">The xenomorphs, true to their biology, immediately absorbed the life characteristics of these fish. They can absorb electricity and live in extreme depths without problems, but they are slower in dry areas. Also, they have only now discovered Novotny.</p><p class=\"MsoNormal\">Any normal Facehugger, ovomorph, and the drone that awakens in the deep will enter hibernation unless brought to more normal pressure levels. The first embrioned fish was \"hugged\" because it tried to feed on the contents of the opening egg. But the result was the hydromorph, fully adapt to the environment.</p><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">Now there are about 7 adult hydromorphs investigating Novotny, and the xenomorph drone is in stasis in the ship. Kiril could not be impregnated because his body was destroyed when his diving suit was breached by the xenos. However, a nest is forming with more impregnated fish in the donned ship.</p><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\"><strong>Hydromorph Attacks (already formatted for Foundry automation)</strong></p><p class=\"MsoNormal\"> </p><p>@UUID[RollTable.wXgfh3p23uW05pb6]{Hydromorph Attacks}</p><p></p><ol style=\"margin-top:0cm\" type=\"1\"><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>&lt;b&gt;Bio-luminescence Display:&lt;/b&gt; &lt;br /&gt; The Hydromorph flashes bright lights and colors, erupting in a dazzling display used to mesmerise and stun their prey. The target gains +1 STRESS and must make a WITS roll or be stunned and lose their next Slow Action.</strong></p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>&lt;b&gt;Testing Its Prey: &lt;/b&gt; &lt;br /&gt; The Tail reach out and to drag the player away into the blackness (2 zones away, the creature will move 1 now and one in it's next move and then release the victim). Attack with [[8db]] Base Dice, Dam 1. If the attack hits the PC will be taken, is disorientated and they drop any hand-held items, and they must make an Immediate Panic Roll, their air hose (if applicable) is disconnected if it is stressed (like moving under obstacles, passing narrow spaces, etc).</strong></p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>&lt;b&gt;Drain Energy : &lt;/b&gt; &lt;br /&gt;The Hydromorph wraps itself around its prey and tries to siphon the victim’s energy. Attack with [[7db]] Base Dice, Dam 1. For each point of damage, the victim loses 1 point of Power from an item in their possession that has a Power Supply. If there is no power the victim suffers the damage normally.</strong></p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>&lt;b&gt;Tearing Tentacles: &lt;/b&gt; &lt;br /&gt; The Hydromorph have multiple tiny barbs and hooks in it's body that it uses to grab and tear their prey. These lacerate whatever the victim is wearing. They attack with [[8db]] Base Dice, Dam 1. Each point of damage automatically damages the victim’s armor, if they are wearing any. Any remaining damage that does not hit armor damages the victim as normal. Make an Immediate Panic Roll.</strong></p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>&lt;b&gt;Tentacle Lash: &lt;/b&gt; &lt;br /&gt; The beast’s tail whips at its poor target. Attack with [[9db]] Base Dice, Dam 2.</strong></p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>&lt;b&gt;Headbite: &lt;/b&gt; &lt;br /&gt; The Hydromorph attempts to feed, with a [[10db]] Dice Attack, Dam 1. If any damage is suffered the victim suffers an immediate Critical Injury.<br><br></strong></p><p></p></li></ol><h2><strong>Hydrobuster</strong></h2><img src=\"modules/alien-deep-down/assets/tokens/hydrobuster/hidrobuster.jpg\" height=\"300\"><p></p><p>@UUID[RollTable.5l160RNk904BlWxA]{Hydrobuster Attacks}</p><p></p><h2>Hydrohugger</h2><p></p><img src=\"modules/alien-deep-down/assets/tokens/Hydrohugger/Hidrohugger.png\" height=\"300\"><p></p><p>@UUID[RollTable.uKzpDdiiyXCVF8yd]{Hydrohugger Attacks}</p><p></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.fBxdyIO3lqxrPaCr"
+    },
+    {
+      "sort": 700000,
+      "name": "Anya Zomorova's vision",
+      "type": "text",
+      "_id": "TCZ13Tuo5Yryj7Jw",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><strong>Anya Zomorova's vision</strong></h1><p class=\"MsoNormal\"><br></p><img src=\"modules/alien-deep-down/assets/tokens/Anya_Zomorova/Anya_Zomorova_prt.png\" height=\"300\"><p class=\"MsoNormal\"><br><br><br>She fell ill during the attempt to search for her colleague.</p><p class=\"MsoNormal\">She is an older woman and someone who should be rescued when the players leave the station (or not, depending on their agendas).</p><p class=\"MsoNormal\">At some point, she will sit on her medical bed and recount the legend of the Slavic myth of the Vodyanoy (evil water spirits that wish to drown humans, etc.), as she feels this is a reckoning against humanity for its arrogance. She can be interpreted as a religious fanatic or someone foretelling what is about to happen. She can be used to give a name to the creatures in the game.</p><h2><br><br><strong>The rescue attempt</strong></h2><p class=\"MsoNormal\"><br><br>Anya spent hours searching for Kirill after his disappearance, even after her colleagues gave up and insisted on her return. She used tanks instead of the hose to move further. Exhausted, she glimpsed something in the water, either the hydromorphs or Long salmon, and is now in shock and delirious from the effort and not understanding what she saw.</p><p class=\"MsoNormal\">She will try to sneak out to save Frenkel if no one responds to her calls for help, even if it's to recover the body hours later.</p><p class=\"MsoNormal\">She is universally loved on the station, the oldest crew member and the babushka \"grandma\" to everyone</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.TCZ13Tuo5Yryj7Jw"
+    },
+    {
+      "sort": 800000,
+      "name": "Dmitri's Dilemma",
+      "type": "text",
+      "_id": "5bNMllNXZIQPasc4",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><strong>Dmitri's Dilemma</strong></h1><blockquote><p><br>Dmitri's love for the game causes his software to better adapt to solving problems and 'tactical thinking,' at least for a Joe. Consequently, he is more autonomous and communicative<br><br></p></blockquote><img src=\"modules/alien-deep-down/assets/tokens/JOE/JOE_1_PRT.jpg\" height=\"300\"><p></p><p class=\"MsoNormal\">The Working Joe NS42, Dmitri, hasn't had a proper update in many years and has developed an unusual emotional attachment to the arcade machine on the station.</p><p class=\"MsoNormal\">He continues to perform his duties flawlessly, which include providing basic medical assistance, overseeing hydroponics, operations in the dining hall, and supervising the maintenance of various communication units throughout the station.</p><p class=\"MsoNormal\">Ironically, while performing a function for which he was not designed, updating the old arcade machine, he found an unsecured message intended for the MISSING DIVER KIRILL.</p><p class=\"MsoNormal\">Due to the overall poor condition of the facility, the secure communication channels are not as secure.</p><p class=\"MsoNormal\">Dmitri was able to read the basics of the 1/VAN REQUEST's plot (he thinks it's SCADA). His internal AI struggled between keeping a message secure or letting the players know the danger they are in.</p><p class=\"MsoNormal\">He will chooses to help the players.</p><p class=\"MsoNormal\">This information can be revealed during the total attack event or the rise or death event, ideally when DMITRI sacrifices himself for the workers by closing a watertight door as water rushes in or recovering a key piece of equipment or refusing to go on, preferring to go down with the station and his beloved arcade machine, etc.<br><br></p><img src=\"modules/alien-deep-down/assets/images/tetris.jpg\" height=\"300\">"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.5bNMllNXZIQPasc4"
+    },
+    {
+      "sort": 900000,
+      "name": "Sea Walks",
+      "type": "text",
+      "_id": "sBcSRhMYrnBozOh8",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><strong>Sea Walks</strong></h1><p></p><p></p><img src=\"modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_prt.jpg\" height=\"300\"><p></p><p class=\"MsoNormal\">At a depth of 4 miles, the water is completely dark.</p><p></p><p class=\"MsoNormal\">Each diver has a personal light embedded at the top of their diving helmet.</p><p></p><p class=\"MsoNormal\">The diving suits are like those in the image.</p><p></p><p class=\"MsoNormal\">Each suit is usually connected to a main air hose that has a range allowing players to reach the drilling area or any other external area of the facility.</p><p></p><p class=\"MsoNormal\">The use of hoses allows for unlimited work time.</p><p></p><p class=\"MsoNormal\">If the air pump located inside the station fails or if the main hose is disconnected, players carry an emergency backup tank that they can connect and activate.</p><p></p><p class=\"MsoNormal\">This tank has about 15 minutes of air before it runs out. Players can communicate with each other and with the station while in the suit.</p><p></p><p class=\"MsoNormal\">There are 6 air kits for 6 hours that still work, others are in poor condition and may fail. Some character may remember that there was 7!</p><p></p><p class=\"MsoNormal\">Equipment defined as <strong>underwater</strong> can be used with or without the dive suit.</p><p></p><p class=\"MsoNormal\">The dive suit has small thrusters and servos to aid movement (like a power armor). It does not cause a loss of movement <span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">in water</span></strong></span> but is slow out of it. Consider that every action, be it walking or any other physical action out of the water, takes both the slow and fast actions of the turn.</p><p class=\"MsoNormal\"><br>The suits are extremely heavy outside the water and remain standing if empty. Pushing them causes them to slowly walk by themselves, which is used for maneuvering these suits around.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.sBcSRhMYrnBozOh8"
+    },
+    {
+      "sort": 1000000,
+      "name": "Diving Suits",
+      "type": "text",
+      "_id": "VK5NX4s5Csao9hPM",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1>Diving Suits</h1><img src=\"modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_prt.jpg\" height=\"300\"><h3>Armor 4</h3><p></p><p>If the armor value is reduced to zero and the victim is in the water, they die instantly as the crushing pressure tears through the suit like a bag of chips...</p><p></p><p></p><h3>Base Hose Connection</h3><p></p><p>If open the victim cannot breathe, but a feedback valve prevents water from directly entering the suit. It takes a Fast Action and a MOBILITY test at -2 to grab the loose hose. A HEAVY MACHINERY test is required to reconnect the hose.</p><p></p><p></p><h3>Emergency Air</h3><p></p><p>It takes a Slow Action and a successful HEAVY MACHINERY test to equip the emergency air supply.</p><p></p><h3>Drowning:</h3><p></p><p>If the user cannot breathe (i.e., no air supply), they must make a DROWNING test (STAMINA) at the start of their action - if failed, they take 1 point of damage. If broken by this method, they must make a DEATH SAVE or depart this mortal coil!<br><br>pg 110 core rule book</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.VK5NX4s5Csao9hPM"
+    },
+    {
+      "sort": 1100000,
+      "name": "Equipment that can be used as weapons:",
+      "type": "text",
+      "_id": "KdZ4g9eQJyTBwfwG",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><span><strong>Equipment that can be used as weapons:</strong></span></h1><p></p><p></p><p><span>These can be found within the station and may be used at the GM's discretion.</span></p><p></p><ul><li><p><span><strong>UPP underwater Bolt gun</strong> (similar to DV-303). DMG 3, short range</span></p></li><li><p><span><strong>UPP Harpoon grappling gun</strong> (similar to ASSO-400, but larger). DMG 2, short range</span></p></li><li><p><span><strong>Underwater cutting torch</strong> DMG 3, close combat</span></p></li><li><p><span><strong>.357 Rivet Bang Stick</strong> DMG 2, close combat (a long stick similar to those used to protect divers from aggressive marine life like sharks, etc. It fires a large rivet propelled by a blank projectile cartridge on contact and must be manually reloaded after each shot. It is used to rivet hard to reach locations).</span></p></li><li><p><span>Large serrated underwater knife</span></p></li><li><p><span>Underwater Powered Saw<br></span></p></li></ul><p></p><p>@UUID[Item.eK8h1ZzteepnMcsz]{Underwater Powered Saw}</p><p>@UUID[Item.LeR5zv1EOCSybWPq]{Large serrated underwater knife}</p><p><span>@UUID[Item.wMChpM6aDei08fgs]{.357 Rivet Bang Stick}</span></p><p><span>@UUID[Item.rDjqnF8i8CnOjQOd]{UPP underwater Bolt gun}</span></p><p><span>@UUID[Item.ybXm9wFXKINX6zOd]{UPP Harpoon grappling gun}</span></p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.KdZ4g9eQJyTBwfwG"
+    },
+    {
+      "sort": 1200000,
+      "name": "Communications",
+      "type": "text",
+      "_id": "kDJbvaxA3I1veg4o",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><span><strong>Communications</strong></span></h1><p></p><p></p><p><span>Communications between the station and </span><span style=\"font-family:Signika, sans-serif\">Shānmén </span><span>Supervision are irregular at best.</span></p><p></p><p><span>Usually, if communications with Supervision are justified, it will be with Yuri Semyonov, the supposed head of communications at Shānmén and a synthetic, mainly due to the sensitive nature of the current situation.<br></span></p><p><span>At some point, the hydromorphs will cause enough damage for communications to become non-operational.</span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.kDJbvaxA3I1veg4o"
+    },
+    {
+      "sort": 1300000,
+      "name": "The Nefarious Plan",
+      "type": "text",
+      "_id": "rrURkGwCK7RiJN7T",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><span><strong>The Nefarious Plan</strong></span></h1><p></p><img src=\"modules/alien-deep-down/assets/tokens/OLGA_KRAMARENKO/OLGA_KRAMARENKO_prt.png\" height=\"300\"><p></p><p><span>Olga Kramarenko was chosen to lead the investigation because she is considered extremely competent. Once a significant problem for General Volkov, this has now become an opportunity. She is expected to prove a formidable opponent for the XENOS.<br></span></p><p><span>Another advantage is that her unquestionable character will provide cover for the secretive nature of the operation. No one would suspect that a hero of the UPP could be involved in something nefarious. <br><br>Olga has no idea of the overall plot.</span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.rrURkGwCK7RiJN7T"
+    },
+    {
+      "sort": 1400000,
+      "name": "Underwater Lights",
+      "type": "text",
+      "_id": "bEWIMZoEJmArsCq0",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2><span><strong>Underwater Lights</strong></span></h2><p></p><p></p><p><span>The station generally has lights covering the external area. These lights are usually turned off between sea walks. Due to poor maintenance, most of these lights do not work, which increases the feeling of fear when being in the water during a very dark walk.<br><br></span>More than that, the oil, trash, and sediment plumes constantly stirred up by the pulsing of machines and drills cause immense turbidity in the water, especially near the drill.<br><br>Vision is always difficult, as there is floating debris, especially plastic bags and garbage. causing \"Shadows in the darkness\". </p><p></p><p>Use this to create scares with shadows of trash and demonstrate bioluminescence as something disturbing.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.bEWIMZoEJmArsCq0"
+    },
+    {
+      "sort": 1500000,
+      "name": "The Body of Pietro Novotny",
+      "type": "text",
+      "_id": "t8tsrOHlA4VX7vry",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<img src=\"modules/alien-deep-down/assets/images/Pietro_Novotny.jpeg\" height=\"300\"><p><span>The man responsible for constructing the station died in an underwater accident just before the station was built. He was embalmed and buried in his diving suit near the old station.</span></p><p></p><p><span>A small circular headstone marks his grave. Players may find the grave dug up (Vodyanoy) and may find his dead body floating in an old pressure suit (he was buried in it).</span></p><p></p><p><span>Players may see a body from afar, and as they approach, they will see the unmistakable mummified face of Novotny staring back at them.<br><br>Alternatively, he may float past a hatch, triggering the players to go out to recover him, etc. Feel free to add +1 stress when or if they encounter him.</span><span style=\"font-family:'Aptos',sans-serif\"><br><br></span></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.t8tsrOHlA4VX7vry"
+    },
+    {
+      "sort": 1600000,
+      "name": "Ascension or Death (Final Act)",
+      "type": "text",
+      "_id": "0ohtJ7z5s7BvNcaK",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><strong>Ascension or Death (Final Act)</strong></h1><h2><br><br>Retrieve the batteries</h2><p></p><p class=\"MsoNormal\">Players must retrieve the battery from the old station and then head to the submarine dock, install the battery, start the submarine, and make their way to the surface.</p><p>The sea walk to the old station should be filled with tension and terror, but the hydromorph will not attack the players at this moment, as they are curious to see what the players are planning.</p><p></p><p class=\"MsoNormal\">However, the hydromorph will harass and try to prevent the players once they head towards the submarine dock with the battery (they sense the electricity).</p><h2><br>Take command over the submersible </h2><p class=\"MsoNormal\"></p><p class=\"MsoNormal\">Installing the battery will require a successful heavy machinery test.</p><p class=\"MsoNormal\">To properly start the submarine, a successful comtech test will be needed.</p><p></p><p class=\"MsoNormal\">The ceiling of the underwater dock opens to let the Baikal exit to the sea through a specialized airlock that depends on one operator due to years of no maintenance. This person will be abandoned; if only one player is here, they can try to blow the hatch remotely, but this will damage the submersible!</p><h2><br>The ascend</h2><p class=\"MsoNormal\"></p><p class=\"MsoNormal\">If the players manage to start the submarine and begin to ascend, the hydromorphs will try one last time to stop them, surrounding the submarine and attempting to drain the battery or damage the sub.</p><p></p><p class=\"MsoNormal\">A successful piloting test will allow the submarine to escape, or a series of then, have fun GM.</p><p></p><h2>In the SURFACE UMBILICAL</h2><p></p><p class=\"MsoNormal\">The xenos will cease to harass the submersible once it gains speed, but upon reaching the surface station, the players will be greeted by the presence of Gen. Volkoff and a whole capture team in specialized suits, along with elite soldiers, and will be promptly detained, their future uncertain in the hands of the General.</p><p></p><h2>In the Korab Station</h2><p></p><p class=\"MsoNormal\">If the players decide to go to the Korab station, they will escape the General but be stranded in a remote location with no communications, no food, and with the possibility of the xenos to surface eventually, their future uncertain and dire.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.0ohtJ7z5s7BvNcaK"
+    },
+    {
+      "sort": 1700000,
+      "name": "(FRENKEL) Routine Maintenance Gone Wrong... Again.",
+      "type": "text",
+      "_id": "k3BmnaIXO9O2soSp",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Routine Maintenance Gone Wrong... Again.</strong></p><p class=\"MsoNormal\"> </p><img src=\"modules/alien-deep-down/assets/tokens/Guilhermo_Petrosky_Frenkel/Guilhermo_Petrosky_Frenkel_PRT.png\" height=\"300\"><p class=\"MsoNormal\"><em>(My friend here makes a awesome Frenkel! See you around Guilherme!)</em></p><p class=\"MsoNormal\"><strong> </strong></p><p class=\"MsoNormal\"><strong>(If someone is in the seabed with Frenkel, make him disappear into the dark before they can do something about it. This event is proof that something is in the water beyond any doubt.)</strong></p><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">NPC Frenkel, suffering from the worst hangover, goes out to finish the maintenance Kirill never completed.</p><p class=\"MsoNormal\">An alarm goes off, indicating Frenkel's hose has been disconnected (everyone adds one stress when the alarm sounds).</p><p class=\"MsoNormal\">Frenkel screams over the communicator, gasping, scared, terrified. \"Oh my God, what...\", more sharp screams follow and then muffle, as Frenkel alternates between his main connection and his backup breathing device.</p><p class=\"MsoNormal\">Heavy breaths are heard: \"help me!\", \"something is here\", \"please!\".</p><p class=\"MsoNormal\">Frenkel cannot be seen visually as he is behind the drill and a camera that would normally cover him is no longer working.</p><p class=\"MsoNormal\">A flash of light, a blur, a swirl of the sea is seen near the area if anyone bothers to look through the porthole.</p><p class=\"MsoNormal\">Frenkel needs help, and the players need to act.</p><p class=\"MsoNormal\">If no one volunteers to go out and rescue him, an NPC will immediately order them to rescue Frenkel.</p><p class=\"MsoNormal\"> </p><p></p><p class=\"MsoNormal\">The hydromorphs have disconnected Frenkel's air and are playing with him, probing and testing how the players react.</p><p class=\"MsoNormal\">Frenkel will continue to scream over their communicators while the players prepare to go after him (more stress will be added at the GM's discretion once the players are in the air chamber).</p><p class=\"MsoNormal\">When the players reach Frenkel, they will find him tangled in his own disconnected air hose, nearly out of air and injured.</p><img src=\"modules/alien-deep-down/assets/images/lost_frenkel.png\" height=\"300\"><p class=\"MsoNormal\">Players must make a proper mobility check to untangle him.</p><p class=\"MsoNormal\">Once they attempt to rescue Frenkel, the hydromorphs will attack using only option #2 on their characteristic attack table (dragging the players away, screaming, and then releasing them).</p><p class=\"MsoNormal\">Some players' hoses will be disconnected by the hydromorphs, and the player will then need to switch to their secondary emergency air tank. This requires a mobility test.</p><p class=\"MsoNormal\">Failure to secure the secondary breathing device will add +1 stress. Running out of air can result in damage and even death if not corrected (at the GM's discretion).</p><p class=\"MsoNormal\">If the PCs manage to bring Frenkel back, he will be in shock and die shortly after, convulsing with wide eyes.</p><p class=\"MsoNormal\">A medical examination will reveal lacerations and strange burn marks all over his torso as the hydromorphs drained his electrical life energy from his body.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.k3BmnaIXO9O2soSp"
+    },
+    {
+      "sort": 1800000,
+      "name": "Action Sequence suggestion",
+      "type": "text",
+      "_id": "hcymlfrq2bwleucm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Arrival</h2><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo1;tab-stops:list 36.0pt\"><p>Arrival of the group</p></li><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo1;tab-stops:list 36.0pt\"><p>Time to argue, investigate the disappearance, assess the station's condition, and point fingers!</p></li><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo1;tab-stops:list 36.0pt\"><p>Strange noises and errors in the terminals.</p></li><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo1;tab-stops:list 36.0pt\"><p>Babushka wakes up and claims she saw the devil!</p></li><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo1;tab-stops:list 36.0pt\"><p>More time for blaming each other!</p></li><li class=\"MsoNormal\" style=\"mso-list:l1 level1 lfo1;tab-stops:list 36.0pt\"><p> </p></li></ul><h2><strong>!!! Frenkel (Event) Disappears!!! There's a creature here!</strong></h2><p class=\"MsoNormal\"> </p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l3 level1 lfo2;tab-stops:list 36.0pt\"><p>Discover that the elevator has been disabled at the surface base.</p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l3 level3 lfo2;tab-stops:list 108.0pt\"><p>The Captain of the Ship that transported Olga to Novotny will mechanically disable the surface elevator. If reviewed through camera recordings, the footage will reveal him following instructions displayed on a pad.</p></li><li class=\"MsoNormal\" style=\"mso-list:l3 level3 lfo2;tab-stops:list 108.0pt\"><p>The captain appears unaware of the purpose or consequences of his actions—he is simply following orders without question.</p></li></ul></li></ul><p class=\"MsoNormal\" style=\"margin-left:36.0pt\"> </p><h2><strong>!!! Determine how to escape (submarine, batteries at the old station, installation, etc.)!!!</strong></h2><p class=\"MsoNormal\"> </p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l4 level1 lfo3;tab-stops:list 36.0pt\"><p>It's evident that these creatures are not from here! Will they try to learn more about them?</p></li><li class=\"MsoNormal\" style=\"mso-list:l4 level1 lfo3;tab-stops:list 36.0pt\"><p>Maria wants to drug the people (she could blame Dubois as the drug is a narcotic).</p></li><li class=\"MsoNormal\" style=\"mso-list:l4 level1 lfo3;tab-stops:list 36.0pt\"><p>Babushka might try to go out to placate the devil!</p></li><li class=\"MsoNormal\" style=\"mso-list:l4 level1 lfo3;tab-stops:list 36.0pt\"><p>The drill will break if not repaired, which may be seen as intentional destruction of government property. Will they go out to fix it?</p></li></ul><p class=\"MsoNormal\"> </p><h2><strong>!!! Reason to go to the crashed ship? </strong><span style=\"mso-spacerun:yes\"><strong> </strong></span><strong>the fear of not being found if you disappear!!!</strong></h2><p class=\"MsoNormal\"><span style=\"mso-spacerun:yes\">  </span></p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l2 level1 lfo4;tab-stops:list 36.0pt\"><p>Can they hack 1/VAN and discover about Marill and the crashed ship? Will they go there?</p></li><li class=\"MsoNormal\" style=\"mso-list:l2 level1 lfo4;tab-stops:list 36.0pt\"><p>During any walk, it is noticed that the locator's detection antenna is broken. Will they fix it?</p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l2 level2 lfo4;tab-stops:list 72.0pt\"><p>If fixed, the locator will show that any missing person was taken to the ship.</p></li><li class=\"MsoNormal\" style=\"mso-list:l2 level2 lfo4;tab-stops:list 72.0pt\"><p>Impregnation is impossible in the water, but the xenos had not understand that yet.</p></li></ul></li></ul><h2><strong><br>!!! At the Start of Ascension or Death (Final Act)!!!</strong></h2><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\"><strong>!!! The creatures attack the station if they take too long to act, and begin to invade!!!</strong></p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo5;tab-stops:list 36.0pt\"><p>When a creature enters by breaching, water enters and the system tries to isolate that area.</p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l0 level2 lfo5;tab-stops:list 72.0pt\"><p>The bulkhead system seals the initial breach (a hole in the hull is sealed by an emergency inflatable bulkhead, not with air, it's a gel that solidifies inside the inflatable), and now there's a xeno in the base...</p></li></ul></li></ul><p class=\"MsoNormal\" style=\"margin-left:72.0pt\"> </p><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo5;tab-stops:list 36.0pt\"><p>When a creature enters by using any garbage shut, or other means, they may stay hidden, amazing to allow hydrohuggers in.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.hcymlfrq2bwleucm"
+    },
+    {
+      "sort": 0,
+      "name": "Terminal message to Captain Kramarenko (show at the start)",
+      "type": "video",
+      "_id": "7bWj3TGJHBNyOodw",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 1,
+        "loop": false,
+        "autoplay": false,
+        "timestamp": 0,
+        "width": 600,
+        "height": 400
+      },
+      "src": "modules/alien-deep-down/assets/videos/terminal_upp_english.webm",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.7bWj3TGJHBNyOodw"
+    },
+    {
+      "sort": 1900000,
+      "name": "Complications and Suggestions",
+      "type": "text",
+      "_id": "7NqxNj7Kq7YVu5AI",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><strong>Drinking Too Much!</strong></h1><p></p><p>Frenkel, Diego, and Dubov spent the last night drinking and playing cards, celebrating that after six months of rotation, Diego was about to get a vacation—alongside Maria, who wasn't at the party. </p><p></p><p>Only Dubov’s legendary stamina held up the next day. Frenkel has a headache, and Diego overslept, now thinking he would miss the off-world transport. </p><p>He might first encounter Olga, running half-dressed in a panic about missing the elevator, only to learn that the captain had already arrived and the station was on lockdown. </p><p></p><p>Not the best way to start!</p><p></p><p></p><h1>Li Qiang Fear</h1><p></p><p></p><p>Li Qiang is terrified at the thought of being imprisoned for embezzlement and other financial crimes. He also fears the possibility that his corruption may have caused or contributed to Kirill's death. On top of this, he is certain that Volkov will either pin the blame or direct his wrath onto Li—and he doubts he will survive either outcome.</p><p>Li will do everything in his power to avoid taking the fall. He will destroy evidence, shift blame onto the crew, the UPP, or anything else that might serve his purpose.</p><p>He might even exploit the monster as a distraction to cover his tracks or eliminate anyone who could incriminate him. It will take him some time to realize that the creature poses a far greater threat than his crimes.</p><p></p><h1>The Madness of Maria</h1><p></p><p></p><p>Maria is suffering from hallucinations due to an uncommon side effect of having received her dose of Dekompress to prepare for her return to the surface at the end of her shift. She was scheduled to leave on the ship that brought Captain Olga, ending her six-month service rotation for some well-deserved rest.</p><p></p><p>Maria believes the monster isn’t real. When she sees it, she struggles to comprehend what it is, often dismissing or forgetting its existence altogether, even hallucination or conjuring another explanation.</p><p></p><p>She secretly plans to use the Dekompress Antidote on the crew. This prevents the recipient from adjusting to surface pressure (making any attempt to ascend fatal) but does not stop them from remaining at the current depth.</p><p></p><p>The antidote immediately reduces stress by half, induces sleep, and stops panic effects.</p><p></p><p>However, it causes <strong>recent memory loss</strong>, leaving the person unaware they were injected.</p><p></p><p>The drug also has narcotic properties, and Maria might shift blame onto Dubov for the disappearance of the stolen medication from MEDLAB. Conveniently, the medlab cameras have been broken for a long time, giving her cover for her actions.</p><p></p><p></p><h1>Cautious Players</h1><p></p><p>If the players are overly cautious about leaving the base, create a serious problem to push them into action.</p><p>In my sessions, I introduced a scenario where the base maintains part of its integrity using external artificial gravity generation plates. These plates are designed to reduce external pressure but consume significant energy—making them an attractive target for both Long Salmons and Hydromorphs.</p><p></p><p>If the plates are damaged, it can trigger a timed crisis that must be resolved before irreversible damage occurs! I usually target the hydroponics system, as its failure compromises air filtration and food production. However, it doesn’t block access to other sectors, ensuring the players still have options while dealing with the escalating threat.</p><p></p><h1>It is Just a F**** FISH!!!!!</h1><p></p><p>When Frenkel disappears or during the monster's first appearance to a diver, instead of immediately revealing the Hydromorph, use the the invisible Bioluminos TOKEN.</p><p><br><br>This will send the diver fleeing in panic back to the airlock. Once things seem more under control, surprise the group by having a Long Salmon token in the airlock.</p><p></p><p>As they investigate the incident, since life doesn't exist in VODA, they'll uncover ties to the abandoned Korab Station. SCADA’s system, still operational, holds information about past aquaculture experiments and secrets connected to the current events.</p><p></p><p>To deepen the mystery and horror, give the Long Salmon strange scars across its face.</p><p></p><p>—a beautiful baby Hydrobuster gestating inside the fish, ready to escalate the chaos.<br><br></p><h1>Invasion</h1><p></p><p>After some time, introduce the invasion of the base by the creatures.</p><p></p><p>Start with Hydrohuggers infiltrating through the debris ejection hatches. Their small size allows them to slip through unnoticed until it’s too late.</p><p></p><p>Soon after, Hydromorphs follow, escalating the threat. They can use the same debris hatches, but they cause damage, and alarms, or they can force their way through weakened sections of the base.</p><p></p><p>In response, the hull-sealing systems will activate automatically (hull sealing not watertight doors, yet), but they won’t be enough to fully stop the water.</p><p></p><p>Water will slowly begin to flood the base, players must deal with both the invading creatures and the encroaching flood.</p><p><br></p><h1>Random location table</h1><p><br>Test if you want a random location for a Hydromorph problem or any issue to occur. External locations will only have Hydromorphs if there is human presence.<br><br><br></p><p>@UUID[RollTable.VsCouCOzwuZZHD71]{Random location table}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.7NqxNj7Kq7YVu5AI"
+    },
+    {
+      "sort": -100000,
+      "name": "Summary of the Story",
+      "type": "text",
+      "_id": "cZDppSDM9gtyufCS",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1><strong>Summary of the Story</strong></h1><p class=\"MsoNormal\"><br>General Volkov oversees a UPP sector that includes the VODA planet and the Novotny station on it. For years, he and his team, with the help of Li Qiang, the station supervisor, have embezzled funds for personal gain. Due to bureaucratic convenience, Li Qiang operates closely with Volkov's team instead of Voda.<br style=\"mso-special-character:line-break\"><br style=\"mso-special-character:line-break\"></p><p class=\"MsoNormal\">The Ministry of Space Security (MSS) dispatched Captain Olga Kramarenko for a routine inspection and state audit of VODA. A renowned war hero with a reputation for being incorruptible, Olga represents a serious threat to Volkov's operations. To safeguard his interests, Volkov instructs Li Qiang to go with her, joining the ship during transit, though his apprehension remains palpable.<br style=\"mso-special-character:line-break\"><br style=\"mso-special-character:line-break\"></p><p class=\"MsoNormal\">While Olga and Qiang are still en route, Volkov receives a report from Novotny station: the base's computer mentions Xenomorphs, followed hours later by a message from the crew about a missing, presumed-dead diver, this clear that the crew doesn’t know about the Xenomorphs.</p><p class=\"MsoNormal\"> </p><p class=\"MsoNormal\">Investigating, Volkov learns sparse details about the Xenomorphs. He devises a ruthless plan: use the creatures to eliminate witnesses, wipe out the crew, and capture the aliens for his own advantage within the UPP.<br style=\"mso-special-character:line-break\"><br style=\"mso-special-character:line-break\"></p><p class=\"MsoNormal\">He instructs the transport ship's captain to perform \"maintenance\" on the station's elevator. Unaware of the implications, the captain disables the elevator, trapping the crew in the depths of the ocean.<br style=\"mso-special-character:line-break\"><br style=\"mso-special-character:line-break\"></p><p class=\"MsoNormal\">At the station, the only escape option is an abandoned, unreliable submersible. From here, character agendas and interpersonal conflicts drive the story.<br style=\"mso-special-character:line-break\"><br style=\"mso-special-character:line-break\"></p><h1><strong>Acts Breakdown</strong></h1><ul style=\"margin-top:0cm\"><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p><strong>Act 1 ends</strong> when it becomes clear to the crew that escape is their only option—monsters have appeared, and survival becomes the top priority.</p></li><li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1;tab-stops:list 36.0pt\"><p>There are no three distinct acts in this scenario.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "WpgL5mgqYVSQ6ZA5": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!2A70WlvyYoIRKyer.cZDppSDM9gtyufCS"
+    }
+  ],
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3,
+    "WpgL5mgqYVSQ6ZA5": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734871636534,
+    "modifiedTime": 1734871636534,
+    "lastModifiedBy": "WpgL5mgqYVSQ6ZA5",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!2A70WlvyYoIRKyer"
+}

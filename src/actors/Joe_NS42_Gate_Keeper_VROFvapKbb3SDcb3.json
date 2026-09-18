@@ -1,0 +1,431 @@
+{
+  "name": "Joe NS42 Gate Keeper",
+  "type": "synthetic",
+  "img": "modules/alien-deep-down/assets/tokens/JOE/JOE_3_PRT.jpg",
+  "items": [
+    {
+      "_id": "mYl8OTroGMgzAsOL",
+      "name": "Pack Mule",
+      "type": "talent",
+      "img": "systems/alienrpg/images/icons/sprint.webp",
+      "effects": [],
+      "folder": "9IF2Yjl8OnTQMDFN",
+      "sort": 0,
+      "flags": {
+        "core": {}
+      },
+      "system": {
+        "attributes": {
+          "flag": {
+            "value": 0,
+            "label": "Flag"
+          }
+        },
+        "general": {
+          "career": {
+            "value": "1",
+            "label": "career"
+          },
+          "comment": {
+            "value": "You can carry twice as many objects as normal without being encumbered.",
+            "label": "Text"
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "023AT5ERR8Ij00Wy": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "PiPXYCkUi20oCQ9V": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-talents-general.TTcX3RxfHjXKlV7d",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!VROFvapKbb3SDcb3.mYl8OTroGMgzAsOL"
+    }
+  ],
+  "effects": [],
+  "folder": "293xp0dxuPEQLZdC",
+  "sort": 300000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "c862029e494c97243fe7a4ff5a96413bbc18bf34"
+    }
+  },
+  "system": {
+    "header": {
+      "health": {
+        "value": 7,
+        "label": "Health",
+        "mod": 0,
+        "max": 7,
+        "calculatedMax": 7
+      },
+      "npc": true,
+      "synthstress": false
+    },
+    "attributes": {
+      "str": {
+        "value": 7,
+        "label": "Strength",
+        "mod": 7,
+        "proficient": 0
+      },
+      "wit": {
+        "value": 1,
+        "mod": 1,
+        "label": "Wits"
+      },
+      "agl": {
+        "value": 2,
+        "mod": 2,
+        "label": "Agility"
+      },
+      "emp": {
+        "value": 1,
+        "mod": 1,
+        "label": "Empathy"
+      }
+    },
+    "skills": {
+      "heavyMach": {
+        "value": 3,
+        "label": "Heavy Machinery",
+        "ability": "str",
+        "description": "Heavy Machinery",
+        "mod": 10
+      },
+      "closeCbt": {
+        "value": 0,
+        "label": "Close Combat",
+        "ability": "str",
+        "description": "Close Combat",
+        "mod": 7
+      },
+      "stamina": {
+        "value": 0,
+        "label": "Stamina",
+        "ability": "str",
+        "description": "Stamina",
+        "mod": 7
+      },
+      "rangedCbt": {
+        "value": 0,
+        "label": "Ranged Combat",
+        "ability": "agl",
+        "description": "Ranged Combat",
+        "mod": 2
+      },
+      "mobility": {
+        "value": 0,
+        "label": "Mobility",
+        "ability": "agl",
+        "description": "Mobility",
+        "mod": 2
+      },
+      "piloting": {
+        "value": 0,
+        "label": "Piloting",
+        "ability": "agl",
+        "description": "Piloting",
+        "mod": 2
+      },
+      "command": {
+        "value": 0,
+        "label": "Command",
+        "ability": "emp",
+        "description": "Command",
+        "mod": 1
+      },
+      "manipulation": {
+        "value": 0,
+        "label": "Manipulation",
+        "ability": "emp",
+        "description": "Manipulation",
+        "mod": 1
+      },
+      "medicalAid": {
+        "value": 3,
+        "label": "Medical Aid",
+        "ability": "emp",
+        "description": "Medical Aid",
+        "mod": 4
+      },
+      "observation": {
+        "value": 0,
+        "label": "Observation",
+        "ability": "wit",
+        "description": "Observation",
+        "mod": 1
+      },
+      "survival": {
+        "value": 0,
+        "label": "Survival",
+        "ability": "wit",
+        "description": "Survival",
+        "mod": 1
+      },
+      "comtech": {
+        "value": 3,
+        "label": "Comtech",
+        "ability": "wit",
+        "description": "Comtech",
+        "mod": 4
+      }
+    },
+    "general": {
+      "career": {
+        "value": "11",
+        "label": "career"
+      },
+      "appearance": {
+        "value": "",
+        "label": "appearance"
+      },
+      "sigItem": {
+        "value": "",
+        "label": "sigItem"
+      },
+      "agenda": {
+        "value": "",
+        "label": "agenda"
+      },
+      "relOne": {
+        "value": "",
+        "label": "relOne"
+      },
+      "relTwo": {
+        "value": "",
+        "label": "relTwo"
+      },
+      "xp": {
+        "value": 0,
+        "max": 20,
+        "calculatedMax": 20
+      },
+      "sp": {
+        "value": 0,
+        "max": 3
+      },
+      "radiation": {
+        "value": 0,
+        "max": 10,
+        "calculatedMax": 10,
+        "permanent": 0
+      },
+      "starving": {
+        "value": 0,
+        "max": 1
+      },
+      "dehydrated": {
+        "value": 0,
+        "max": 1,
+        "calculatedMax": 1
+      },
+      "exhausted": {
+        "value": 0,
+        "max": 1,
+        "calculatedMax": 1
+      },
+      "freezing": {
+        "value": 0,
+        "max": 1,
+        "calculatedMax": 1
+      },
+      "hypoxia": {
+        "value": 0,
+        "max": 1
+      },
+      "heatstroke": {
+        "value": 0,
+        "max": 1
+      },
+      "gravitydyspraxia": {
+        "value": 0,
+        "max": 1
+      },
+      "critInj": {
+        "value": ""
+      },
+      "armor": {
+        "value": 0,
+        "max": 10
+      },
+      "cash": {
+        "value": "0",
+        "label": "Number"
+      }
+    },
+    "consumables": {
+      "air": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "power": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "food": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "water": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      }
+    },
+    "notes": "<p class=\"MsoNormal\">This Working Joe, damaged and missing large patches of its synthetic skin, struggles to greet arriving crew members. It delivers a broken, robotic speech praising the honor of visiting the legendary Novotny station&mdash;the UPP&rsquo;s crown jewel&mdash;while awkwardly inserting the name of the current Premier of the Council into a pre-written script.</p>\n<p class=\"MsoNormal\">Years without maintenance have left the Working Joe erratic and incapable of performing complex tasks. Repairing the elevator is far beyond its current abilities, even with guidance&mdash;assuming communication systems are still functional</p>",
+    "adhocitems": ""
+  },
+  "ownership": {
+    "default": 0,
+    "PiPXYCkUi20oCQ9V": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "prototypeToken": {
+    "name": "Joe NS42 Gate Keeper",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "None"
+    },
+    "flags": {
+      "monks-enhanced-journal": {
+        "chatbubble": ""
+      },
+      "monks-little-details": {
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "modules/alien-deep-down/assets/tokens/JOE/JOE_5_PRT.jpg"
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      }
+    },
+    "randomImg": false,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5,
+      "negative": false,
+      "priority": 0
+    },
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/JOE/JOE_2_TK.png",
+      "tint": "#ffffff",
+      "scaleX": 1,
+      "scaleY": 1,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": true,
+      "range": 12,
+      "brightness": 1,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": {},
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_stats": {
+    "compendiumSource": "Actor.Pv8jNWHyxSi59K0A",
+    "duplicateSource": "Actor.12vb86KU6IWdlPGj",
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "VROFvapKbb3SDcb3",
+  "_key": "!actors!VROFvapKbb3SDcb3"
+}

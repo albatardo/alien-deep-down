@@ -1,0 +1,78 @@
+{
+  "name": "Motion Tracker",
+  "sounds": [
+    {
+      "name": "Motion Tracker Ping Close",
+      "path": "modules/alien-deep-down/assets/Sounds/ALIEN-motion-tracker/motion-tracker---ping_close.ogg",
+      "_id": "DfXF9DsqC5pSXhen",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!nIiSlL1yXuBNuJQN.DfXF9DsqC5pSXhen"
+    },
+    {
+      "name": "Motion Tracker Ping Far",
+      "path": "modules/alien-deep-down/assets/Sounds/ALIEN-motion-tracker/motion-tracker---ping_far.ogg",
+      "_id": "13KMl5wxdgaEzLey",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!nIiSlL1yXuBNuJQN.13KMl5wxdgaEzLey"
+    },
+    {
+      "name": "Motion Tracker Wave",
+      "path": "modules/alien-deep-down/assets/Sounds/ALIEN-motion-tracker/motion-tracker---wave.ogg",
+      "_id": "OYvGypUQjZuDvfUm",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.5,
+      "fade": null,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!nIiSlL1yXuBNuJQN.OYvGypUQjZuDvfUm"
+    }
+  ],
+  "channel": "music",
+  "mode": 2,
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "a",
+  "seed": 148,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6ba80b7ee59b5d9f789878e81d770054b97f5919",
+      "sourceId": "Playlist.NXhS3r5cpIAcJtNI"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804416429,
+    "modifiedTime": 1734804416429,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "nIiSlL1yXuBNuJQN",
+  "sort": 0,
+  "_key": "!playlists!nIiSlL1yXuBNuJQN"
+}

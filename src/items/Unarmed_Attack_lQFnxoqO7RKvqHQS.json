@@ -1,0 +1,88 @@
+{
+  "name": "Unarmed Attack",
+  "type": "weapon",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "effects": [],
+  "folder": "2UeLQByS9kcZtALz",
+  "sort": 500000,
+  "flags": {
+    "core": {},
+    "scene-packer": {
+      "hash": "e728d2da5e18af22771cbfc65033fd03965122c3"
+    }
+  },
+  "system": {
+    "header": {
+      "type": {
+        "value": "2",
+        "label": "Text"
+      },
+      "active": true
+    },
+    "attributes": {
+      "bonus": {
+        "value": 0,
+        "label": "Number"
+      },
+      "damage": {
+        "value": 1,
+        "label": "Number"
+      },
+      "weight": {
+        "value": 0,
+        "label": "Number"
+      },
+      "cost": {
+        "value": "$0.00",
+        "label": "Number"
+      },
+      "range": {
+        "value": "1",
+        "label": "Text"
+      },
+      "class": {
+        "value": "Close Combat",
+        "label": "Text"
+      },
+      "rounds": {
+        "value": 0,
+        "label": "Number"
+      },
+      "power": {
+        "value": 0,
+        "label": "Number"
+      },
+      "comment": {
+        "value": "<p>Armor doubled.</p>",
+        "label": "Text"
+      },
+      "quantity": {
+        "value": 1
+      }
+    },
+    "notes": {
+      "notes": ""
+    }
+  },
+  "ownership": {
+    "default": 1,
+    "YEoPmwinvi5w1FW6": 3,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "Rx1E1ahAa0Wo5dXy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.8VU3oDrsl2WZEIxl",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460514,
+    "modifiedTime": 1734804460514,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "lQFnxoqO7RKvqHQS",
+  "_key": "!items!lQFnxoqO7RKvqHQS"
+}

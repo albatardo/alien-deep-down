@@ -1,0 +1,29 @@
+{
+  "name": "DEEP DOWN",
+  "sorting": "m",
+  "folder": null,
+  "type": "Actor",
+  "_id": "293xp0dxuPEQLZdC",
+  "sort": 100000,
+  "color": "#ff0000",
+  "flags": {
+    "core": {
+      "sourceId": "Folder.293xp0dxuPEQLZdC"
+    },
+    "scene-packer": {
+      "hash": "fbccf244036962d43afb7e8c4e99902a5319c362"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471467,
+    "modifiedTime": 1734804471604,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "description": "",
+  "_key": "!folders!293xp0dxuPEQLZdC"
+}

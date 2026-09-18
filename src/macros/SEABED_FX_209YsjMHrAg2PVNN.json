@@ -1,0 +1,38 @@
+{
+  "name": "SEABED FX",
+  "type": "script",
+  "command": "Hooks.call('fxmaster.updateParticleEffects', [{\"type\":\"clouds\",\"options\":{\"scale\":2,\"direction\":90,\"speed\":1,\"lifetime\":3.4,\"density\":0.139,\"alpha\":1,\"tint\":{\"apply\":true,\"value\":\"#1d2e1f\"}}}]);\nFXMASTER.filters.setFilters([{\"type\":\"underwater\",\"options\":{\"speed\":1.8,\"scale\":1}}]);",
+  "img": "icons/svg/windmill.svg",
+  "_id": "209YsjMHrAg2PVNN",
+  "author": "h1BfzYYX7qtp2kbH",
+  "scope": "global",
+  "folder": "CMFSLqecf96SGXJV",
+  "sort": 75000,
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "9114bc54ac4eff1c4f3ea5ad8e024bef335f06d8"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734807396777,
+    "modifiedTime": 1734807396777,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": {
+      "worldId": "aliendeepdown-the-new-victims",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "alienrpg",
+      "systemVersion": "3.2.1"
+    }
+  },
+  "_key": "!macros!209YsjMHrAg2PVNN"
+}

@@ -1,0 +1,634 @@
+{
+  "folder": "lKHkORIYD4qJPBFc",
+  "name": "LI QIANG",
+  "type": "character",
+  "_id": "4GcdxJq9BPDZ1BAN",
+  "img": "modules/alien-deep-down/assets/tokens/LI_QIANG/LI_QIANG.png",
+  "system": {
+    "header": {
+      "health": {
+        "value": 4,
+        "label": "Health",
+        "mod": 0,
+        "max": 4,
+        "calculatedMax": 4
+      },
+      "stress": {
+        "value": 0,
+        "label": "Stress",
+        "mod": 0,
+        "max": 10
+      },
+      "npc": false
+    },
+    "attributes": {
+      "str": {
+        "value": 4,
+        "label": "Strength",
+        "mod": 4
+      },
+      "wit": {
+        "value": 3,
+        "label": "Wits",
+        "mod": 3
+      },
+      "agl": {
+        "value": 3,
+        "label": "Agility",
+        "mod": 3
+      },
+      "emp": {
+        "value": 4,
+        "label": "Empathy",
+        "mod": 4
+      }
+    },
+    "skills": {
+      "heavyMach": {
+        "value": 3,
+        "label": "Heavy Machinery",
+        "ability": "str",
+        "description": "Heavy Machinery",
+        "mod": 7
+      },
+      "closeCbt": {
+        "value": 0,
+        "label": "Close Combat",
+        "ability": "str",
+        "description": "Close Combat",
+        "mod": 4
+      },
+      "stamina": {
+        "value": 0,
+        "label": "Stamina",
+        "ability": "str",
+        "description": "Stamina",
+        "mod": 4
+      },
+      "rangedCbt": {
+        "value": 0,
+        "label": "Ranged Combat",
+        "ability": "agl",
+        "description": "Ranged Combat",
+        "mod": 3
+      },
+      "mobility": {
+        "value": 0,
+        "label": "Mobility",
+        "ability": "agl",
+        "description": "Mobility",
+        "mod": 3
+      },
+      "piloting": {
+        "value": 0,
+        "label": "Piloting",
+        "ability": "agl",
+        "description": "Piloting",
+        "mod": 3
+      },
+      "command": {
+        "value": 2,
+        "label": "Command",
+        "ability": "emp",
+        "description": "Command",
+        "mod": 6
+      },
+      "manipulation": {
+        "value": 3,
+        "label": "Manipulation",
+        "ability": "emp",
+        "description": "Manipulation",
+        "mod": 7
+      },
+      "medicalAid": {
+        "value": 0,
+        "label": "Medical Aid",
+        "ability": "emp",
+        "description": "Medical Aid",
+        "mod": 4
+      },
+      "observation": {
+        "value": 0,
+        "label": "Observation",
+        "ability": "wit",
+        "description": "Observation",
+        "mod": 3
+      },
+      "survival": {
+        "value": 0,
+        "label": "Survival",
+        "ability": "wit",
+        "description": "Survival",
+        "mod": 3
+      },
+      "comtech": {
+        "value": 2,
+        "label": "Comtech",
+        "ability": "wit",
+        "description": "Comtech",
+        "mod": 5
+      }
+    },
+    "general": {
+      "career": {
+        "value": "12",
+        "label": "career"
+      },
+      "appearance": {
+        "value": "",
+        "label": "appearance"
+      },
+      "sigItem": {
+        "value": "DEMERITS BOOK",
+        "label": "sigItem"
+      },
+      "agenda": {
+        "value": "",
+        "label": "agenda"
+      },
+      "relOne": {
+        "value": "NONE",
+        "label": "relOne"
+      },
+      "relTwo": {
+        "value": "EVERYONE",
+        "label": "relTwo"
+      },
+      "xp": {
+        "value": 0,
+        "max": 20,
+        "calculatedMax": 20
+      },
+      "sp": {
+        "value": 0,
+        "max": 3
+      },
+      "radiation": {
+        "value": 0,
+        "max": 10,
+        "permanent": 0,
+        "calculatedMax": 10
+      },
+      "starving": {
+        "value": 0,
+        "max": 1
+      },
+      "dehydrated": {
+        "value": 0,
+        "max": 1
+      },
+      "exhausted": {
+        "value": 0,
+        "max": 1
+      },
+      "freezing": {
+        "value": 0,
+        "max": 1
+      },
+      "hypoxia": {
+        "value": 0,
+        "max": 1
+      },
+      "heatstroke": {
+        "value": 0,
+        "max": 1
+      },
+      "gravitydyspraxia": {
+        "value": 0,
+        "max": 1
+      },
+      "critInj": {
+        "value": 0
+      },
+      "armor": {
+        "value": 0,
+        "max": 10
+      },
+      "panic": {
+        "value": 0,
+        "max": 1,
+        "lastRoll": 0
+      },
+      "cash": {
+        "value": "0",
+        "label": "Number"
+      }
+    },
+    "consumables": {
+      "air": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "power": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "food": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "water": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      }
+    },
+    "notes": "<p data-pm-slice=\"0 0 []\">NOME COMPLETO: <strong>LI QIANG</strong></p>\n<p>TRABALHO: SUPERVISOR</p>\n<p>IDADE: 47</p>\n<p>PERSONALIDADE: AMBICIOSO</p>\n<p>Qiang &eacute; o supervisor respons&aacute;vel pela esta&ccedil;&atilde;o Matvey.</p>\n<p>Ele &eacute; implac&aacute;vel e ambicioso, e n&atilde;o se importou em receber um suborno para olhar para o outro lado quando os recursos da esta&ccedil;&atilde;o eram desviados para ganho corrupto e para o gen Volkoff.</p>\n<p>Ele ficou surpreso quando seus superiores disseram que ele deveria ir para a esta&ccedil;&atilde;o enquanto um investigador era enviado para encontrar o camarada desaparecido, e garantir que ela n&atilde;o encontre ou haja contra os sinais de corrup&ccedil;&atilde;o.</p>\n<p>Ele far&aacute; o que eles pediram por enquanto por medo de ir preso, mas ele &eacute; leal apenas a si mesmo, todo mundo que se dane.<br><strong>Li Qiang</strong></p>\n<p><strong>Occupation:</strong> Supervisor<br><strong>Age:</strong> 47<br><strong>Personality:</strong> Ambitious</p>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>ATTRIBUTES</strong></h3>\n<p><strong>STRENGTH:</strong> 4<br><strong>AGILITY:</strong> 3<br><strong>WITS:</strong> 3<br><strong>EMPATHY:</strong> 4</p>\n<p><strong>HEALTH:</strong> 4</p>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>SKILLS</strong></h3>\n<ul>\n<li><strong>Heavy Machinery:</strong> 3</li>\n<li><strong>Comtech:</strong> 2</li>\n<li><strong>Manipulation:</strong> 3</li>\n<li><strong>Command:</strong> 2</li>\n</ul>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>TALENTS</strong></h3>\n<ul>\n<li><strong>Influence</strong></li>\n</ul>\n<p><strong>Buddy:</strong> None<br><strong>Rival:</strong> Everyone</p>\n<p><strong>Signature Item:</strong> Demerits Book</p>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>EQUIPMENT</strong></h3>\n<ul>\n<li><strong>UPP 9mm Service Pistol</strong> (1 load)</li>\n</ul>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>Backstory</strong></h3>\n<p>Li Qiang is the no-nonsense supervisor of <strong>Matvey Station</strong>. Ruthlessly ambitious, he turned a blind eye to resource diversion and corruption when bribed, funneling profits to the notorious <strong>General Volkoff</strong>.</p>\n<p>Qiang's confidence was shaken when his superiors unexpectedly ordered him to go to the station with an investigator that was dispatched to locate a missing comrade. His covert mission is to ensure that no evidence of corruption surfaces and to obstruct any inquiries that might implicate him or Volkoff.</p>\n<p>Though he begrudgingly complies with the directives to avoid imprisonment, Qiang is loyal only to himself. Everyone else, in his view, is expendable.</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "adhocitems": ""
+  },
+  "prototypeToken": {
+    "name": "LI QIANG",
+    "displayName": 20,
+    "actorLink": true,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/LI_QIANG/LI_QIANG_tk.png",
+      "scaleX": 1,
+      "scaleY": 1,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "header.stress"
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "sight": {
+      "enabled": true,
+      "range": 12,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": {
+      "basicSight": {
+        "range": 3,
+        "enabled": true
+      }
+    },
+    "flags": {
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "path/image.png"
+      }
+    },
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "W0CSGoDW4OX6jUAE",
+      "name": "Influence",
+      "type": "talent",
+      "img": "systems/alienrpg/images/icons/fire-dash.webp",
+      "effects": [],
+      "folder": "2PpSokOh2N2RlV4M",
+      "sort": 0,
+      "flags": {
+        "core": {}
+      },
+      "system": {
+        "attributes": {
+          "flag": {
+            "value": 0,
+            "label": "Flag"
+          }
+        },
+        "general": {
+          "career": {
+            "value": "8",
+            "label": "career"
+          },
+          "comment": {
+            "value": "<p>Copyrighted. Please add information here as I am prohibited from doing so.</p>",
+            "label": "Text"
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "023AT5ERR8Ij00Wy": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-talents-career.DsQeptXz2CkB3CEB",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!4GcdxJq9BPDZ1BAN.W0CSGoDW4OX6jUAE"
+    },
+    {
+      "_id": "LFzSr2o7NE7MFI5O",
+      "name": "UPP 9mm Service Pistol",
+      "type": "weapon",
+      "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+      "effects": [],
+      "folder": "2UeLQByS9kcZtALz",
+      "sort": 337500,
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "11a73fc53cb589c345ef01be9bb9100bcc99262e"
+        }
+      },
+      "system": {
+        "header": {
+          "type": {
+            "value": "1",
+            "label": "Text"
+          },
+          "active": false
+        },
+        "attributes": {
+          "bonus": {
+            "value": 2,
+            "label": "Number"
+          },
+          "damage": {
+            "value": 1,
+            "label": "Number"
+          },
+          "weight": {
+            "value": 0.5,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "$200.00",
+            "label": "Number"
+          },
+          "range": {
+            "value": "3",
+            "label": "Text"
+          },
+          "class": {
+            "value": "Pistol",
+            "label": "Text"
+          },
+          "rounds": {
+            "value": 0,
+            "label": "Number"
+          },
+          "power": {
+            "value": 0,
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<p>IDENTICAL TO THE M4A3 Service Pistol<br><br><br><br></p>",
+            "label": "Text"
+          },
+          "quantity": {
+            "value": 1
+          }
+        },
+        "notes": {
+          "notes": "<p>This inexpensive 9mm pistol is the standard sidearm of the USCMC. You should always have a backup for your backup, and this pistol might as well be it.</p>"
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "YEoPmwinvi5w1FW6": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.dhAjuWI9AALV0UhF",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!4GcdxJq9BPDZ1BAN.LFzSr2o7NE7MFI5O"
+    },
+    {
+      "folder": "5Cl78rttfWPhO7rU",
+      "name": "LI QIANG  act 1",
+      "type": "agenda",
+      "img": "systems/alienrpg/images/icons/personal-agenda.png",
+      "system": {
+        "attributes": {
+          "flag": {
+            "value": 0,
+            "label": "Flag"
+          }
+        },
+        "general": {
+          "comment": {
+            "value": "<p><strong>Act 1:</strong>&nbsp;Cover up your crimes at all costs, including those of&nbsp;<strong>General Volkoff</strong>, or risk him exposing you as well. Keep the investigator in the dark and derail her investigation whenever possible.</p>\n<p>&nbsp;</p>",
+            "label": "Text"
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "b2785d2dc2806f3c42a3eb4d77d37eacbfe7f6ae"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Item.66Zy3maTgfh7ZrJR",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_id": "RwyCad1Bxyihs9i4",
+      "_key": "!actors.items!4GcdxJq9BPDZ1BAN.RwyCad1Bxyihs9i4"
+    }
+  ],
+  "effects": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "token-variants": {
+      "variants": [
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/LI_QIANG/facehugger_tk.png",
+          "names": [
+            "facehugger_tk"
+          ]
+        },
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/LI_QIANG/dive_suit_super_heavy_tk.png",
+          "names": [
+            "dive_suit_super_heavy_tk"
+          ]
+        },
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/LI_QIANG/LI_QIANG_tk.png",
+          "names": [
+            "LI_QIANG_tk"
+          ]
+        }
+      ],
+      "disableNameSearch": true
+    },
+    "SharedVision": {
+      "enable": false,
+      "hidden": false,
+      "userSetting": [
+        {
+          "id": "jbD8psdMGhGnzEY0",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "RRob7Y3JRsmrWMCK",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "fm0PsC9oo31YI1EI",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "cTO8R66qc1hiTUPm",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "23WlupdqtmODwMus",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "aofDHx9cQyR3oViA",
+          "token": false,
+          "vision": true,
+          "fog": false
+        }
+      ]
+    },
+    "scene-packer": {
+      "hash": "3edb55de721af6e7b59bba74127b04563fc6a72f"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!actors!4GcdxJq9BPDZ1BAN"
+}

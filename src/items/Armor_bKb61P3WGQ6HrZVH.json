@@ -1,0 +1,27 @@
+{
+  "name": "Armor",
+  "type": "Item",
+  "sorting": "a",
+  "sort": 300000,
+  "color": null,
+  "flags": {
+    "textColour": "",
+    "scene-packer": {
+      "hash": "dad09b310315a348de20b3ac5145b4652eeb40e2"
+    }
+  },
+  "_id": "bKb61P3WGQ6HrZVH",
+  "folder": "OEXljdGM7qqYtAqK",
+  "description": "",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804460491,
+    "modifiedTime": 1734804460491,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!bKb61P3WGQ6HrZVH"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Complex Playlist",
+  "sorting": "a",
+  "folder": null,
+  "type": "Playlist",
+  "_id": "QiMBa2WlJRIaBuj1",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "f3a7b9cec09bb821f6b765e21e96d7f01a52da8d"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804411553,
+    "modifiedTime": 1734804411572,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH"
+  },
+  "_key": "!folders!QiMBa2WlJRIaBuj1"
+}

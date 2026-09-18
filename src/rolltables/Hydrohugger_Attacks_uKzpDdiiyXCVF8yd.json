@@ -1,0 +1,167 @@
+{
+  "name": "Hydrohugger Attacks",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "description": "<h2 style=\"text-align:center;color:lightblue\">Hydrohugger Attacks</h2>",
+  "results": [
+    {
+      "_id": "XaTaOdC43UyH2uyP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Skittering Menace:</b> The Hydrohugger has chosen its host and they know it is coming for them! It skitters forward flashing bright lights and colors, single-minded and horrifyingly spider-like. The victim suffers +1 Stress Level and must make an immediate Panic Roll.",
+      "name": "",
+      "_key": "!tables.results!uKzpDdiiyXCVF8yd.XaTaOdC43UyH2uyP"
+    },
+    {
+      "_id": "4WA0qLpBhW2u0E6f",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Tail Lash: </b>The little monster comes for its target, lashing out with its wicked tail. It attacks with [[5db]] Base Dice, Damage 1. Aside from any damage the victim get +1 Stress Level.",
+      "name": "",
+      "_key": "!tables.results!uKzpDdiiyXCVF8yd.4WA0qLpBhW2u0E6f"
+    },
+    {
+      "_id": "zKJoQLS8RUSFBtqu",
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sub Table Hydrohugger Attacks",
+      "documentUuid": "RollTable.qtzEFCCbqHRLl8Uh",
+      "description": "",
+      "_key": "!tables.results!uKzpDdiiyXCVF8yd.zKJoQLS8RUSFBtqu"
+    },
+    {
+      "_id": "s7tFmPNLlCQSkDzC",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Face Grapple:</b> The Hydrohugger leaps at its victim. Make an opposed roll with [[6db]] Base Dice against the target's Close Combat skill (not counting as an action for the victim): <br> <br> If the victim wins they throw the beast away, but it's not finished with them yet and attacks the same target again on its next initiative.<br> <br>If the Hydrohugger wins, the target will suffer the Final Embrace on the Hydrohugger's next Initiative. <br> <br> <i>The Final Embrace: The Hydrohugger gets to its victim, its acid making short work of any helmet or respirator in the way. Roll for the attack with [[6db]] Base Dice. If it gets one or more Success's, the poor victim is facehugged and immediately Broken. Their last sensations are horrible, yet strangely loving: a firm but gentle caress around their head; a smothering sensation followed by a warm burst of oxygen-rich air filling their lungs; a deep sensation of slow-motion falling; it's okay to fall asleep...</i>",
+      "name": "",
+      "_key": "!tables.results!uKzpDdiiyXCVF8yd.s7tFmPNLlCQSkDzC"
+    },
+    {
+      "_id": "d1YqC2DO7PExjRnZ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>The Final Embrace: </b> The Hydrohugger gets to its victim, its acid making short work of any helmet or respirator in the way. Roll for the attack with [[6db]] Base Dice. If it gets one or more Success's, the poor victim is facehugged and immediately Broken. Their last sensations are horrible, yet strangely loving: a firm but gentle caress around their head; a smothering sensation followed by a warm burst of oxygen-rich air filling their lungs; a deep sensation of slow-motion falling; it's okay to fall asleep...",
+      "name": "",
+      "_key": "!tables.results!uKzpDdiiyXCVF8yd.d1YqC2DO7PExjRnZ"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": false,
+  "displayRoll": false,
+  "folder": "LrpFZIuICZfNAr2v",
+  "sort": 800000,
+  "flags": {
+    "scene-packer": {
+      "hash": "4d563eddd51ec4366f3782909cdb1218271c1904"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804381756,
+    "modifiedTime": 1734804381756,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_id": "uKzpDdiiyXCVF8yd",
+  "_key": "!tables!uKzpDdiiyXCVF8yd"
+}

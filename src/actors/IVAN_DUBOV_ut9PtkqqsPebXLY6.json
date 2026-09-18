@@ -1,0 +1,1211 @@
+{
+  "folder": "PB9b4sLMCNXT5SDy",
+  "name": "IVAN DUBOV",
+  "type": "character",
+  "_id": "ut9PtkqqsPebXLY6",
+  "img": "modules/alien-deep-down/assets/tokens/IVAN_DUBOV/IVAN_DUBOV.png",
+  "system": {
+    "header": {
+      "health": {
+        "value": 5,
+        "label": "Health",
+        "mod": 0,
+        "max": 5,
+        "calculatedMax": 5
+      },
+      "stress": {
+        "value": 0,
+        "label": "Stress",
+        "mod": 0,
+        "max": 10
+      },
+      "npc": false
+    },
+    "attributes": {
+      "str": {
+        "value": 5,
+        "label": "Strength",
+        "mod": 5
+      },
+      "wit": {
+        "value": 2,
+        "label": "Wits",
+        "mod": 2
+      },
+      "agl": {
+        "value": 5,
+        "label": "Agility",
+        "mod": 5
+      },
+      "emp": {
+        "value": 2,
+        "label": "Empathy",
+        "mod": 2
+      }
+    },
+    "skills": {
+      "heavyMach": {
+        "value": 4,
+        "label": "Heavy Machinery",
+        "ability": "str",
+        "description": "Heavy Machinery",
+        "mod": 9
+      },
+      "closeCbt": {
+        "value": 3,
+        "label": "Close Combat",
+        "ability": "str",
+        "description": "Close Combat",
+        "mod": 8
+      },
+      "stamina": {
+        "value": 0,
+        "label": "Stamina",
+        "ability": "str",
+        "description": "Stamina",
+        "mod": 5
+      },
+      "rangedCbt": {
+        "value": 2,
+        "label": "Ranged Combat",
+        "ability": "agl",
+        "description": "Ranged Combat",
+        "mod": 7
+      },
+      "mobility": {
+        "value": 0,
+        "label": "Mobility",
+        "ability": "agl",
+        "description": "Mobility",
+        "mod": 5
+      },
+      "piloting": {
+        "value": 0,
+        "label": "Piloting",
+        "ability": "agl",
+        "description": "Piloting",
+        "mod": 5
+      },
+      "command": {
+        "value": 0,
+        "label": "Command",
+        "ability": "emp",
+        "description": "Command",
+        "mod": 2
+      },
+      "manipulation": {
+        "value": 1,
+        "label": "Manipulation",
+        "ability": "emp",
+        "description": "Manipulation",
+        "mod": 3
+      },
+      "medicalAid": {
+        "value": 0,
+        "label": "Medical Aid",
+        "ability": "emp",
+        "description": "Medical Aid",
+        "mod": 2
+      },
+      "observation": {
+        "value": 0,
+        "label": "Observation",
+        "ability": "wit",
+        "description": "Observation",
+        "mod": 2
+      },
+      "survival": {
+        "value": 0,
+        "label": "Survival",
+        "ability": "wit",
+        "description": "Survival",
+        "mod": 2
+      },
+      "comtech": {
+        "value": 0,
+        "label": "Comtech",
+        "ability": "wit",
+        "description": "Comtech",
+        "mod": 2
+      }
+    },
+    "general": {
+      "career": {
+        "value": "12",
+        "label": "career"
+      },
+      "appearance": {
+        "value": "",
+        "label": "appearance"
+      },
+      "sigItem": {
+        "value": " CIGARETTE CASE",
+        "label": "sigItem"
+      },
+      "agenda": {
+        "value": "",
+        "label": "agenda"
+      },
+      "relOne": {
+        "value": "PHAM",
+        "label": "relOne"
+      },
+      "relTwo": {
+        "value": "CIXIN LIU",
+        "label": "relTwo"
+      },
+      "xp": {
+        "value": 0,
+        "max": 20,
+        "calculatedMax": 20
+      },
+      "sp": {
+        "value": 0,
+        "max": 3
+      },
+      "radiation": {
+        "value": 0,
+        "max": 10,
+        "permanent": 0,
+        "calculatedMax": 10
+      },
+      "starving": {
+        "value": 0,
+        "max": 1
+      },
+      "dehydrated": {
+        "value": 0,
+        "max": 1
+      },
+      "exhausted": {
+        "value": 0,
+        "max": 1
+      },
+      "freezing": {
+        "value": 0,
+        "max": 1
+      },
+      "hypoxia": {
+        "value": 0,
+        "max": 1
+      },
+      "heatstroke": {
+        "value": 0,
+        "max": 1
+      },
+      "gravitydyspraxia": {
+        "value": 0,
+        "max": 1
+      },
+      "critInj": {
+        "value": 0
+      },
+      "armor": {
+        "value": 0,
+        "max": 10
+      },
+      "panic": {
+        "value": 1,
+        "max": 1,
+        "lastRoll": 0
+      },
+      "cash": {
+        "value": "0",
+        "label": "Number"
+      }
+    },
+    "consumables": {
+      "air": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "power": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "food": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      },
+      "water": {
+        "value": 0,
+        "min": 0,
+        "max": 5
+      }
+    },
+    "notes": "<p data-pm-slice=\"0 0 []\"><strong>Ivan Dubov</strong></p>\n<p><strong>Occupation:</strong> Machine Operator<br><strong>Age:</strong> 25<br><strong>Personality:</strong> Rebellious</p>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>ATTRIBUTES</strong></h3>\n<p><strong>STRENGTH:</strong> 5<br><strong>WITS:</strong> 2<br><strong>EMPATHY:</strong> 2<br><strong>AGILITY:</strong> 5</p>\n<p><strong>HEALTH:</strong> 5</p>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>SKILLS</strong></h3>\n<ul>\n<li><strong>Heavy Machinery:</strong> 4</li>\n<li><strong>Close Combat:</strong> 3</li>\n<li><strong>Manipulation:</strong> 1</li>\n<li><strong>Ranged Combat:</strong> 2</li>\n</ul>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>TALENTS</strong></h3>\n<ul>\n<li><strong>The Long Haul</strong></li>\n</ul>\n<p><strong>Buddy:</strong> Pham<br><strong>Rival:</strong> Liu</p>\n<p><strong>Signature Item:</strong> Cigarette Case</p>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>EQUIPMENT</strong></h3>\n<ul>\n<li><strong>Razor-Sharp Switchblade</strong> (DMG 2)</li>\n</ul>\n<hr>\n<p>&nbsp;</p>\n<h3><strong>Backstory</strong></h3>\n<p>Ivan Dubov is an underwater welder specializing in deep-sea operations. Once a free spirit, his penchant for illegal gambling repeatedly brought him into conflict with the state. He was eventually sentenced to forced labor.</p>\n<p>After spending several years in a labor prison, Ivan was given a choice: continue his grueling sentence or sign a decades-long contract to work on the underwater station. He reluctantly chose the latter.</p>\n<p>A recent arrival at the station, Ivan has proven to be a thorn in the side of seasoned workers like <strong>Liu</strong>, whom he constantly antagonizes. His rebellious attitude and disciplinary issues have led to him being barred from joining the other workers on most tasks, relegating him to menial jobs like cleaning latrines in the habitation area.</p>\n<p>Though outwardly defiant, Ivan dreams of escaping what he sees as a life of slavery and charting his own course. He only trusts a few people, and most of the station&rsquo;s staff are not on that list.</p>\n<hr>\n<p>&nbsp;</p>",
+    "adhocitems": ""
+  },
+  "prototypeToken": {
+    "name": "IVAN DUBOV",
+    "displayName": 20,
+    "actorLink": true,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "texture": {
+      "src": "modules/alien-deep-down/assets/tokens/IVAN_DUBOV/IVAN_DUBOV_tk.png",
+      "scaleX": 1,
+      "scaleY": 1,
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "header.health"
+    },
+    "bar2": {
+      "attribute": "header.stress"
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "negative": false,
+      "priority": 0
+    },
+    "sight": {
+      "enabled": true,
+      "range": 12,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": {
+      "basicSight": {
+        "range": 3,
+        "enabled": true
+      }
+    },
+    "flags": {
+      "monks-combat-details": {
+        "displayBarsCombat": null
+      },
+      "token-variants": {
+        "randomImgDefault": "",
+        "disableHUDButton": false
+      },
+      "monks-combat-marker": {
+        "token-highlight-scale": 1.8,
+        "token-combat-animation": "",
+        "token-highlight": ""
+      },
+      "image-hover": {
+        "hideArt": false,
+        "specificArt": "path/image.png"
+      }
+    },
+    "randomImg": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "depth": 1,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "34G8o58taxPwD5mM",
+      "name": "The Long Haul",
+      "type": "talent",
+      "img": "systems/alienrpg/images/icons/fire-dash.webp",
+      "effects": [],
+      "folder": "2PpSokOh2N2RlV4M",
+      "sort": 0,
+      "flags": {
+        "core": {}
+      },
+      "system": {
+        "attributes": {
+          "flag": {
+            "value": 0,
+            "label": "Flag"
+          }
+        },
+        "general": {
+          "career": {
+            "value": "10",
+            "label": "career"
+          },
+          "comment": {
+            "value": "<p>Copyrighted. Please add information here as I am prohibited from doing so.</p>",
+            "label": "Text"
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "023AT5ERR8Ij00Wy": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-talents-career.OtMlbO9gaU7JxoId",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!ut9PtkqqsPebXLY6.34G8o58taxPwD5mM"
+    },
+    {
+      "folder": "5Cl78rttfWPhO7rU",
+      "name": "Ivan Dubov  Act 1",
+      "type": "agenda",
+      "img": "systems/alienrpg/images/icons/personal-agenda.png",
+      "system": {
+        "attributes": {
+          "flag": {
+            "value": 0,
+            "label": "Flag"
+          }
+        },
+        "general": {
+          "comment": {
+            "value": "<p data-pm-slice=\"1 1 []\"><strong>Act 1:</strong> This isn&rsquo;t fair! If it weren&rsquo;t for that idiot Liu, you&rsquo;d be on your way home by now, not stuck here over some missing person. The UPP&rsquo;s way feels more like slavery than freedom, and you hate it. Make sure everyone knows how you feel about this miserable situation!</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">&nbsp;</span></p>",
+            "label": "Text"
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "6e9708b212d5889fbee9e9731a1b6f08b5ff197e"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Item.66Zy3maTgfh7ZrJR",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_id": "z4LEaeabccEF7WRb",
+      "_key": "!actors.items!ut9PtkqqsPebXLY6.z4LEaeabccEF7WRb"
+    },
+    {
+      "name": "Razor-sharp switch blade  -  Knife",
+      "type": "weapon",
+      "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+      "effects": [],
+      "folder": "2UeLQByS9kcZtALz",
+      "sort": 100000,
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "97727abc06a109b1f3ce62119c7bdde085c87e6f"
+        }
+      },
+      "system": {
+        "header": {
+          "type": {
+            "value": "2",
+            "label": "Text"
+          },
+          "active": false
+        },
+        "attributes": {
+          "bonus": {
+            "value": 1,
+            "label": "Number"
+          },
+          "damage": {
+            "value": 1,
+            "label": "Number"
+          },
+          "weight": {
+            "value": 0.5,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "$50.00",
+            "label": "Number"
+          },
+          "range": {
+            "value": "1",
+            "label": "Text"
+          },
+          "class": {
+            "value": "Close Combat",
+            "label": "Text"
+          },
+          "rounds": {
+            "value": 0,
+            "label": "Number"
+          },
+          "power": {
+            "value": 0,
+            "label": "Number"
+          },
+          "comment": {
+            "value": "",
+            "label": "Text"
+          },
+          "quantity": {
+            "value": 1
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "YEoPmwinvi5w1FW6": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.mBvwfDCm5butGbru",
+        "duplicateSource": "Item.LeR5zv1EOCSybWPq",
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_id": "AsjHlYwjlcol6Qsy",
+      "_key": "!actors.items!ut9PtkqqsPebXLY6.AsjHlYwjlcol6Qsy"
+    },
+    {
+      "name": "Dive Suits",
+      "type": "armor",
+      "img": "modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_tk.png",
+      "effects": [],
+      "folder": "bKb61P3WGQ6HrZVH",
+      "sort": 0,
+      "flags": {
+        "scene-packer": {
+          "hash": "8b0cb2f8e1b8cafdefba951ae3a6f1d279621bb0"
+        }
+      },
+      "system": {
+        "header": {
+          "active": false
+        },
+        "attributes": {
+          "weight": {
+            "value": 2,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "$2,000.00",
+            "label": "Number"
+          },
+          "armorrating": {
+            "value": "4",
+            "label": "Number"
+          },
+          "airsupply": {
+            "value": 0,
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<h3>Armor 4</h3>\n<p>&nbsp;</p>\n<p>If the armor value is reduced to zero and the victim is in the water, they die instantly as the crushing pressure tears through the suit like a bag of chips...</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3>Base Hose Connection</h3>\n<p>&nbsp;</p>\n<p>If open the victim cannot breathe, but a feedback valve prevents water from directly entering the suit. It takes a Fast Action and a MOBILITY test at -2 to grab the loose hose. A HEAVY MACHINERY test is required to reconnect the hose.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3>Emergency Air</h3>\n<p>&nbsp;</p>\n<p>It takes a Slow Action and a successful HEAVY MACHINERY test to equip the emergency air supply.</p>\n<p>&nbsp;</p>\n<h3>Drowning:</h3>\n<p>&nbsp;</p>\n<p>If the user cannot breathe (i.e., no air supply), they must make a DROWNING test (STAMINA) at the start of their action - if failed, they take 1 point of damage. If broken by this method, they must make a DEATH SAVE or depart this mortal coil!<br><br>pg 110 core rule book</p>",
+            "label": "Text"
+          }
+        },
+        "modifiers": {
+          "attributes": {
+            "health": {
+              "value": 0,
+              "label": "Health"
+            },
+            "stress": {
+              "value": 0,
+              "label": "Stress"
+            },
+            "str": {
+              "value": 0,
+              "label": "Strength"
+            },
+            "wit": {
+              "value": 0,
+              "label": "Wits"
+            },
+            "agl": {
+              "value": 0,
+              "label": "Agility"
+            },
+            "emp": {
+              "value": 0,
+              "label": "Empathy"
+            }
+          },
+          "skills": {
+            "heavyMach": {
+              "value": 0,
+              "label": "Heavy Machinery",
+              "ability": "str"
+            },
+            "closeCbt": {
+              "value": 0,
+              "label": "Close Combat",
+              "ability": "str"
+            },
+            "stamina": {
+              "value": 0,
+              "label": "Stamina",
+              "ability": "str"
+            },
+            "rangedCbt": {
+              "value": 0,
+              "label": "Ranged Combat",
+              "ability": "agl"
+            },
+            "mobility": {
+              "value": 0,
+              "label": "Mobility",
+              "ability": "agl"
+            },
+            "piloting": {
+              "value": 0,
+              "label": "Piloting",
+              "ability": "agl"
+            },
+            "command": {
+              "value": 0,
+              "label": "Command",
+              "ability": "emp"
+            },
+            "manipulation": {
+              "value": 0,
+              "label": "Manipulation",
+              "ability": "emp"
+            },
+            "medicalAid": {
+              "value": 0,
+              "label": "Medical Aid",
+              "ability": "emp"
+            },
+            "observation": {
+              "value": 0,
+              "label": "Observation",
+              "ability": "wit"
+            },
+            "survival": {
+              "value": 0,
+              "label": "Survival",
+              "ability": "wit"
+            },
+            "comtech": {
+              "value": 0,
+              "label": "Comtech",
+              "ability": "wit"
+            }
+          }
+        },
+        "notes": {
+          "notes": "<h2>Caminhadas no mar</h2>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">A &aacute;gua a 4 milhas de profundidade &eacute; completamente escura. </span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Cada mergulhador tem uma luz pessoal embutida no topo do capacete de mergulho. </span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Os trajes de mergulho s&atilde;o como os da imagem.</span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Cada traje normalmente &eacute; conectado a uma mangueira de ar principal que tem um alcance que permitiria aos jogadores chegarem &agrave; &aacute;rea de perfura&ccedil;&atilde;o ou qualquer outra &aacute;rea externa da instala&ccedil;&atilde;o. Isso &eacute; feito pela possibilidade de trabalhar por tempo ilimitado.</span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-fareast-language: EN-US;\">Se a bomba de ar localizada dentro da esta&ccedil;&atilde;o falhar ou se a mangueira principal for desconectada, os jogadores carregam um backup tanque de emerg&ecirc;ncia que podem conectar e ligar. Este tanque tem cerca de 15 minutos de ar antes de acabar. Os jogadores podem se comunicar entre si e com a esta&ccedil;&atilde;o enquanto estiverem no traje. </span></p>\n<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Existem 6 kits de ar para 6h que ainda funcionam, outros est&atilde;o em mal estado e podem falhar. </span></p>"
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Item.xYEbcHa0k5XfcUuQ",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_id": "wuCY7ZYFRh9yOXgR",
+      "_key": "!actors.items!ut9PtkqqsPebXLY6.wuCY7ZYFRh9yOXgR"
+    },
+    {
+      "folder": "bKb61P3WGQ6HrZVH",
+      "name": "Dive Suit - Suply kit - Dive Suit add on",
+      "type": "item",
+      "_id": "lDmrfiabOEZtMMEF",
+      "img": "modules/alien-deep-down/assets/tokens/dive_suit_super_heavy/dive_suit_super_heavy_tk.png",
+      "system": {
+        "header": {
+          "type": {
+            "value": "10",
+            "label": "Text"
+          },
+          "active": false,
+          "completed": false
+        },
+        "attributes": {
+          "weight": {
+            "value": 0,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "0",
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<p><strong>Dive Suit Kit - for the foundry sheet automation, need to activate.</strong></p>\n<p>&nbsp;</p>\n<p>Each dive suit kit includes:</p>\n<ul>\n<li>\n<p><strong>Air Supply</strong>:</p>\n<ul>\n<li>Emergency kit: 15 minutes of air (1 Air).</li>\n<li>Standard kit: 6 hours of air (3 Air).</li>\n</ul>\n</li>\n<li>\n<p><strong>Water and Nutrient Paste</strong>: Sustains the diver during prolonged operations.</p>\n</li>\n<li>\n<p><strong>Energy Source</strong>: Powers essential equipment, including lamps, communicators, locators, and other small devices.</p>\n</li>\n</ul>",
+            "label": "Text"
+          },
+          "food": {
+            "value": 1,
+            "label": "Number"
+          },
+          "water": {
+            "value": 1,
+            "label": "Number"
+          },
+          "power": {
+            "value": 2,
+            "label": "Stress"
+          },
+          "airsupply": {
+            "value": 1,
+            "label": "Number"
+          },
+          "quantity": {
+            "value": 1
+          },
+          "notes": {
+            "notes": ""
+          }
+        },
+        "modifiers": {
+          "attributes": {
+            "health": {
+              "value": 0,
+              "label": "Health"
+            },
+            "stress": {
+              "value": 0,
+              "label": "Stress"
+            },
+            "str": {
+              "value": 0,
+              "label": "Strength"
+            },
+            "wit": {
+              "value": 0,
+              "label": "Wits"
+            },
+            "agl": {
+              "value": 0,
+              "label": "Agility"
+            },
+            "emp": {
+              "value": 0,
+              "label": "Empathy"
+            }
+          },
+          "skills": {
+            "heavyMach": {
+              "value": 0,
+              "label": "Heavy Machinery",
+              "ability": "str"
+            },
+            "closeCbt": {
+              "value": 0,
+              "label": "Close Combat",
+              "ability": "str"
+            },
+            "stamina": {
+              "value": 0,
+              "label": "Stamina",
+              "ability": "str"
+            },
+            "rangedCbt": {
+              "value": 0,
+              "label": "Ranged Combat",
+              "ability": "agl"
+            },
+            "mobility": {
+              "value": 0,
+              "label": "Mobility",
+              "ability": "agl"
+            },
+            "piloting": {
+              "value": 0,
+              "label": "Piloting",
+              "ability": "agl"
+            },
+            "command": {
+              "value": 0,
+              "label": "Command",
+              "ability": "emp"
+            },
+            "manipulation": {
+              "value": 0,
+              "label": "Manipulation",
+              "ability": "emp"
+            },
+            "medicalAid": {
+              "value": 0,
+              "label": "Medical Aid",
+              "ability": "emp"
+            },
+            "observation": {
+              "value": 0,
+              "label": "Observation",
+              "ability": "wit"
+            },
+            "survival": {
+              "value": 0,
+              "label": "Survival",
+              "ability": "wit"
+            },
+            "comtech": {
+              "value": 0,
+              "label": "Comtech",
+              "ability": "wit"
+            }
+          }
+        }
+      },
+      "effects": [],
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "flags": {
+        "scene-packer": {
+          "hash": "4e9e7640b83f3b80761df160e0ee0801a705cb4e"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Item.Y5lNAz5yLuK0lwJo",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_key": "!actors.items!ut9PtkqqsPebXLY6.lDmrfiabOEZtMMEF"
+    },
+    {
+      "name": "UPP DEKOMPRESS",
+      "type": "item",
+      "img": "modules/alien-deep-down/assets/images/dekompress.png",
+      "effects": [],
+      "folder": "q3HVQjtmZpk4C4NT",
+      "sort": 125000,
+      "flags": {
+        "scene-packer": {
+          "hash": "9320c11498c738b9bad86f9149e744433e723225"
+        }
+      },
+      "system": {
+        "header": {
+          "type": {
+            "value": "6",
+            "label": "Text"
+          },
+          "active": false,
+          "completed": false
+        },
+        "attributes": {
+          "weight": {
+            "value": 0.1,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "$200.00",
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<p><strong>DEKOMPRESS Syringes<br><br></strong></p>\n<p>DEKOMPRESS syringes can be found in all dive preparation areas, medkits, and medbays. The drug prevents the effects of decompression sickness if taken up to an hour before diving and the same before returning to the surface. Failing to do so means death at such deeps.&nbsp;</p>\n<p>Since there are no decompression chambers available, these syringes are essential for anyone attempting to leave Novotny without succumbing to this potentially fatal condition.</p>",
+            "label": "Text"
+          },
+          "food": {
+            "value": 0,
+            "label": "Number"
+          },
+          "water": {
+            "value": 0,
+            "label": "Number"
+          },
+          "power": {
+            "value": 0,
+            "label": "Stress"
+          },
+          "airsupply": {
+            "value": 0,
+            "label": "Number"
+          },
+          "quantity": {
+            "value": 1
+          },
+          "notes": {
+            "notes": ""
+          }
+        },
+        "modifiers": {
+          "attributes": {
+            "health": {
+              "value": 0,
+              "label": "Health"
+            },
+            "stress": {
+              "value": 0,
+              "label": "Stress"
+            },
+            "str": {
+              "value": 0,
+              "label": "Strength"
+            },
+            "wit": {
+              "value": 0,
+              "label": "Wits"
+            },
+            "agl": {
+              "value": 0,
+              "label": "Agility"
+            },
+            "emp": {
+              "value": 0,
+              "label": "Empathy"
+            }
+          },
+          "skills": {
+            "heavyMach": {
+              "value": 0,
+              "label": "Heavy Machinery",
+              "ability": "str"
+            },
+            "closeCbt": {
+              "value": 0,
+              "label": "Close Combat",
+              "ability": "str"
+            },
+            "stamina": {
+              "value": 0,
+              "label": "Stamina",
+              "ability": "str"
+            },
+            "rangedCbt": {
+              "value": 0,
+              "label": "Ranged Combat",
+              "ability": "agl"
+            },
+            "mobility": {
+              "value": 0,
+              "label": "Mobility",
+              "ability": "agl"
+            },
+            "piloting": {
+              "value": 0,
+              "label": "Piloting",
+              "ability": "agl"
+            },
+            "command": {
+              "value": 0,
+              "label": "Command",
+              "ability": "emp"
+            },
+            "manipulation": {
+              "value": 0,
+              "label": "Manipulation",
+              "ability": "emp"
+            },
+            "medicalAid": {
+              "value": 0,
+              "label": "Medical Aid",
+              "ability": "emp"
+            },
+            "observation": {
+              "value": 0,
+              "label": "Observation",
+              "ability": "wit"
+            },
+            "survival": {
+              "value": 0,
+              "label": "Survival",
+              "ability": "wit"
+            },
+            "comtech": {
+              "value": 0,
+              "label": "Comtech",
+              "ability": "wit"
+            }
+          }
+        },
+        "notes": {
+          "notes": "<p>ARCTURIAN SWEET DREAMS&trade;</p>\n<p>&nbsp;</p>\n<p>Derived from Arcturian hallucinogenic mushrooms, Sweet Dreams is a pleasure drug that causes you to see what you really want to see.&nbsp;</p>\n<p>Take it and people around you will melt and change into others.</p>\n<p>Exposure to these mushrooms originally made humanity think that the Arcturians were shapeshifters of some kind.</p>\n<p>Sweet Dreams are sometimes used by intelligence personnel to gather information by convincing someone they are confiding in a friend or lover.<br /><br /></p>\n<p>A NOTE FROM MU/TH/UR:&nbsp;</p>\n<p>&nbsp;</p>\n<p>While it&rsquo;s not exactly illegal, the drug is restricted, very expensive, and can get you into a lot of trouble.&nbsp;</p>\n<p>Just be careful when huffin&rsquo; these things&mdash;that poodle just might be a giant cockroach and that colonist&rsquo;s cute daughter just might be that burly grunt you owe $100 W-Y bucks to.&nbsp;</p>\n<p>&nbsp;</p>\n<p>price tag varies wildly across territories.</p>"
+        }
+      },
+      "ownership": {
+        "default": 2,
+        "LMOJKfi8GnehqjGy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Item.uihrZfa6mbuP6d96",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_id": "2gl7nbkLLCwRdIOC",
+      "_key": "!actors.items!ut9PtkqqsPebXLY6.2gl7nbkLLCwRdIOC"
+    },
+    {
+      "name": "Unarmed Attack",
+      "type": "weapon",
+      "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+      "effects": [],
+      "folder": "2UeLQByS9kcZtALz",
+      "sort": 500000,
+      "flags": {
+        "core": {},
+        "scene-packer": {
+          "hash": "1f673f9e35f769d037999c33355d43122e58962a"
+        }
+      },
+      "system": {
+        "header": {
+          "type": {
+            "value": "2",
+            "label": "Text"
+          },
+          "active": true
+        },
+        "attributes": {
+          "bonus": {
+            "value": 0,
+            "label": "Number"
+          },
+          "damage": {
+            "value": 1,
+            "label": "Number"
+          },
+          "weight": {
+            "value": 0,
+            "label": "Number"
+          },
+          "cost": {
+            "value": "$0.00",
+            "label": "Number"
+          },
+          "range": {
+            "value": "1",
+            "label": "Text"
+          },
+          "class": {
+            "value": "Close Combat",
+            "label": "Text"
+          },
+          "rounds": {
+            "value": 0,
+            "label": "Number"
+          },
+          "power": {
+            "value": 0,
+            "label": "Number"
+          },
+          "comment": {
+            "value": "<p>Armor doubled.</p>",
+            "label": "Text"
+          },
+          "quantity": {
+            "value": 1
+          }
+        },
+        "notes": {
+          "notes": ""
+        }
+      },
+      "ownership": {
+        "default": 1,
+        "YEoPmwinvi5w1FW6": 3,
+        "M2aZuGY0mCdDk004": 3,
+        "LMOJKfi8GnehqjGy": 3,
+        "Rx1E1ahAa0Wo5dXy": 3,
+        "h1BfzYYX7qtp2kbH": 3
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.alienrpg-corerules.alienrpg-weapons.8VU3oDrsl2WZEIxl",
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "_id": "pZExyon3LGxULG0B",
+      "_key": "!actors.items!ut9PtkqqsPebXLY6.pZExyon3LGxULG0B"
+    }
+  ],
+  "effects": [],
+  "sort": 181250,
+  "ownership": {
+    "default": 0,
+    "LMOJKfi8GnehqjGy": 3,
+    "fm0PsC9oo31YI1EI": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "flags": {
+    "SharedVision": {
+      "enable": true,
+      "hidden": false,
+      "userSetting": [
+        {
+          "id": "jbD8psdMGhGnzEY0",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "RRob7Y3JRsmrWMCK",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "fm0PsC9oo31YI1EI",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "cTO8R66qc1hiTUPm",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "23WlupdqtmODwMus",
+          "token": false,
+          "vision": true,
+          "fog": false
+        },
+        {
+          "id": "aofDHx9cQyR3oViA",
+          "token": false,
+          "vision": true,
+          "fog": false
+        }
+      ]
+    },
+    "token-variants": {
+      "variants": [
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/IVAN_DUBOV/dive_suit_super_heavy_tk.png",
+          "names": [
+            "dive_suit_super_heavy_tk"
+          ]
+        },
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/IVAN_DUBOV/facehugger_tk.png",
+          "names": [
+            "facehugger_tk"
+          ]
+        },
+        {
+          "imgSrc": "modules/alien-deep-down/assets/tokens/IVAN_DUBOV/IVAN_DUBOV_tk.png",
+          "names": [
+            "IVAN_DUBOV_tk"
+          ]
+        }
+      ],
+      "disableNameSearch": true
+    },
+    "scene-packer": {
+      "hash": "3eaac1af85b95947112098fe8cbb000c99f66038"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804471539,
+    "modifiedTime": 1734804471539,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!actors!ut9PtkqqsPebXLY6"
+}

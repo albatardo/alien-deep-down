@@ -1,0 +1,950 @@
+{
+  "name": "Alien Map Markers",
+  "folder": "3WEbekbKztXvhiAj",
+  "pages": [
+    {
+      "name": "ACESS TERMINAL",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/ACESS-TERMINAL.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "vfPNXvGSncIpB9x4",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.vfPNXvGSncIpB9x4"
+    },
+    {
+      "name": "AIRLOCK",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/AIRLOCK.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "yVcEEtGcY2Sx2YBT",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.yVcEEtGcY2Sx2YBT"
+    },
+    {
+      "name": "ARMORY",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/ARMORY.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "zOBs61zNPrjcEzLK",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.zOBs61zNPrjcEzLK"
+    },
+    {
+      "name": "BARRACKS",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/BARRACKS.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "IRft9hLeu730zMrT",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.IRft9hLeu730zMrT"
+    },
+    {
+      "name": "CAPTAIN QUARTERS",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/CAPTAIN-QUARTERS.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "PwwcuqNHSNIkp3Jv",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.PwwcuqNHSNIkp3Jv"
+    },
+    {
+      "name": "CRIOPODS",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/CRIOPODS.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "lXjJs0m8Q48sbvZ4",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.lXjJs0m8Q48sbvZ4"
+    },
+    {
+      "name": "ELEVATORS",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/ELEVATORS.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "KOCvhKr03lPcMAJk",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.KOCvhKr03lPcMAJk"
+    },
+    {
+      "name": "EVA SUIT STORAGE",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/EVA-SUIT-STORAGE.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "sxjq1LdylKhOvgPy",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.sxjq1LdylKhOvgPy"
+    },
+    {
+      "name": "FIRESTATION",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/FIRESTATION.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "pLAGTyAPY8ffH8Si",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.pLAGTyAPY8ffH8Si"
+    },
+    {
+      "name": "INTERCOM",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/INTERCOM.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "cl62DOy1L4xcaqAG",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.cl62DOy1L4xcaqAG"
+    },
+    {
+      "name": "Ladder",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/Ladder.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "YbaWDY0ujdvFZsR4",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.YbaWDY0ujdvFZsR4"
+    },
+    {
+      "name": "Mainframe",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/Mainframe.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "119s9UzKTd6d8Gbn",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.119s9UzKTd6d8Gbn"
+    },
+    {
+      "name": "MEDKIT",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/MEDKIT.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "pfabpFP73rCbDdnb",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.pfabpFP73rCbDdnb"
+    },
+    {
+      "name": "MEDLAB",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/MEDLAB.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "aY1ETJxDdWoKLU4N",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.aY1ETJxDdWoKLU4N"
+    },
+    {
+      "name": "OBSERVATION",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/OBSERVATION.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "noIZSGNy65e8xvZ6",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.noIZSGNy65e8xvZ6"
+    },
+    {
+      "name": "Passage  tunel Access",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/passage-_tunel-Access.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "LZxmjPflbuyPDcyz",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.LZxmjPflbuyPDcyz"
+    },
+    {
+      "name": "POWER LOADER",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/POWER-LOADER.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "IJ9k5GhgSSjKsNbJ",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.IJ9k5GhgSSjKsNbJ"
+    },
+    {
+      "name": "RADIOACTIVE AREA",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/RADIOACTIVE-AREA.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "cTxru7DSe4FmHcqn",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.cTxru7DSe4FmHcqn"
+    },
+    {
+      "name": "REACTOR",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/REACTOR.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "NgfK36OyBdKhQZdz",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.NgfK36OyBdKhQZdz"
+    },
+    {
+      "name": "Safety Panic door",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/Safety_Panic-door.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "05J9S2L3KIknXcvJ",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.05J9S2L3KIknXcvJ"
+    },
+    {
+      "name": "SCAPE PODS",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/SCAPE-PODS.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "q1FS4EBrqVIK4J0a",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.q1FS4EBrqVIK4J0a"
+    },
+    {
+      "name": "Synthetics Maintenance Station",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/Synthetics-Maintenance-Station.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "sLi1wIYuP2hryD9m",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.sLi1wIYuP2hryD9m"
+    },
+    {
+      "name": "Watertight Doors",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/Watertight-Doors.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "LpZuewKO7H9LALn8",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.LpZuewKO7H9LALn8"
+    },
+    {
+      "name": "Workshop",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<img src=\"modules/alien-deep-down/assets/Alien-Map-Markers/Workshop.png\" height=\"200\">",
+        "format": 1
+      },
+      "_id": "yuI5D2jOo54b9vTD",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "14.367",
+        "systemId": "alienrpg",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!BobAQhnQWrKLl96n.yuI5D2jOo54b9vTD"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "h1BfzYYX7qtp2kbH": 3,
+    "WpgL5mgqYVSQ6ZA5": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "7174962a3e7ed78aa29b3bfb6bfa7d0ed0c96649",
+      "sourceId": "JournalEntry.BobAQhnQWrKLl96n"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734871636534,
+    "modifiedTime": 1734871636534,
+    "lastModifiedBy": "WpgL5mgqYVSQ6ZA5",
+    "exportSource": {
+      "worldId": "deep-down",
+      "uuid": null,
+      "coreVersion": "12.331",
+      "systemId": "alienrpg",
+      "systemVersion": "3.2.1"
+    }
+  },
+  "_id": "BobAQhnQWrKLl96n",
+  "sort": 600000,
+  "categories": [],
+  "_key": "!journal!BobAQhnQWrKLl96n"
+}

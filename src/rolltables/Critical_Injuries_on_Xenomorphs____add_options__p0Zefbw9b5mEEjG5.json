@@ -1,0 +1,167 @@
+{
+  "_id": "p0Zefbw9b5mEEjG5",
+  "name": "Critical Injuries on Xenomorphs   (add options)",
+  "img": "modules/alien-deep-down/assets/icons/alien-egg.webp",
+  "description": "<p>Copyrighted. Please add information here as I am prohibited from doing so.</p><p></p>",
+  "results": [
+    {
+      "_id": "Nr3Yw05S0hJQalSI",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "add option 1",
+      "name": "",
+      "_key": "!tables.results!p0Zefbw9b5mEEjG5.Nr3Yw05S0hJQalSI"
+    },
+    {
+      "_id": "UuYYp1ytlSaDVA73",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "add option 2",
+      "name": "",
+      "_key": "!tables.results!p0Zefbw9b5mEEjG5.UuYYp1ytlSaDVA73"
+    },
+    {
+      "_id": "aJA6UKLD2aceDZDD",
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sub Table Critical Injuries on Xenomorphs",
+      "documentUuid": "RollTable.5qchUEcOe4Fxefrp",
+      "description": "",
+      "_key": "!tables.results!p0Zefbw9b5mEEjG5.aJA6UKLD2aceDZDD"
+    },
+    {
+      "_id": "2AudgIbkQqPsB0So",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "add option 3",
+      "name": "",
+      "_key": "!tables.results!p0Zefbw9b5mEEjG5.2AudgIbkQqPsB0So"
+    },
+    {
+      "_id": "XIuHHmPMUQuFXPjA",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "14.367",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "add option 4",
+      "name": "",
+      "_key": "!tables.results!p0Zefbw9b5mEEjG5.XIuHHmPMUQuFXPjA"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "A0N3Ct1TQq9BuGk6",
+  "sort": 250000,
+  "flags": {
+    "scene-packer": {
+      "hash": "5aa663e0a4f0f56d68d3b51434a459550411e073"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "M2aZuGY0mCdDk004": 3,
+    "LMOJKfi8GnehqjGy": 3,
+    "h1BfzYYX7qtp2kbH": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.sal-alien-adventures.sal-tabelas-alien-adventures.RollTable.C741Gqau8f1b0bwz",
+    "duplicateSource": null,
+    "coreVersion": "14.367",
+    "systemId": "alienrpg",
+    "systemVersion": "3.2.1",
+    "createdTime": 1734804381756,
+    "modifiedTime": 1734804381756,
+    "lastModifiedBy": "h1BfzYYX7qtp2kbH",
+    "exportSource": null
+  },
+  "_key": "!tables!p0Zefbw9b5mEEjG5"
+}
