@@ -1,14 +1,14 @@
-2026/09/18-20:11:32.920 27bc Recovering log #83
-2026/09/18-20:11:32.933 27bc Delete type=0 #83
-2026/09/18-20:11:32.933 27bc Delete type=3 #81
-2026/09/18-20:11:32.951 8a68 Level-0 table #88: started
-2026/09/18-20:11:32.956 8a68 Level-0 table #88: 5544 bytes OK
-2026/09/18-20:11:32.962 8a68 Delete type=0 #86
-2026/09/18-20:11:32.962 8a68 Manual compaction at level-0 from '!folders!CMFSLqecf96SGXJV' @ 72057594037927935 : 1 .. '!macros!nqxNjeCDJ2cnqyX9' @ 0 : 0; will stop at '!macros!nqxNjeCDJ2cnqyX9' @ 34 : 1
-2026/09/18-20:11:32.962 8a68 Compacting 1@0 + 1@1 files
-2026/09/18-20:11:32.967 8a68 Generated table #89@0: 8 keys, 5544 bytes
-2026/09/18-20:11:32.967 8a68 Compacted 1@0 + 1@1 files => 5544 bytes
-2026/09/18-20:11:32.978 8a68 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/18-20:11:32.979 8a68 Delete type=2 #80
-2026/09/18-20:11:32.979 8a68 Delete type=2 #88
-2026/09/18-20:11:32.979 8a68 Manual compaction at level-0 from '!macros!nqxNjeCDJ2cnqyX9' @ 34 : 1 .. '!macros!nqxNjeCDJ2cnqyX9' @ 0 : 0; will stop at (end)
+2026/09/18-20:50:27.505 234c Recovering log #91
+2026/09/18-20:50:27.514 234c Delete type=0 #91
+2026/09/18-20:50:27.516 234c Delete type=3 #90
+2026/09/18-20:50:27.531 79e4 Level-0 table #95: started
+2026/09/18-20:50:27.535 79e4 Level-0 table #95: 5544 bytes OK
+2026/09/18-20:50:27.539 79e4 Delete type=0 #93
+2026/09/18-20:50:27.540 79e4 Manual compaction at level-0 from '!folders!CMFSLqecf96SGXJV' @ 72057594037927935 : 1 .. '!macros!nqxNjeCDJ2cnqyX9' @ 0 : 0; will stop at '!macros!nqxNjeCDJ2cnqyX9' @ 42 : 1
+2026/09/18-20:50:27.540 79e4 Compacting 1@0 + 1@1 files
+2026/09/18-20:50:27.545 79e4 Generated table #96@0: 8 keys, 5544 bytes
+2026/09/18-20:50:27.545 79e4 Compacted 1@0 + 1@1 files => 5544 bytes
+2026/09/18-20:50:27.555 79e4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/18-20:50:27.560 79e4 Delete type=2 #89
+2026/09/18-20:50:27.560 79e4 Delete type=2 #95
+2026/09/18-20:50:27.560 79e4 Manual compaction at level-0 from '!macros!nqxNjeCDJ2cnqyX9' @ 42 : 1 .. '!macros!nqxNjeCDJ2cnqyX9' @ 0 : 0; will stop at (end)

@@ -1,14 +1,14 @@
-2026/09/18-20:11:33.257 27bc Recovering log #83
-2026/09/18-20:11:33.269 27bc Delete type=0 #83
-2026/09/18-20:11:33.269 27bc Delete type=3 #81
-2026/09/18-20:11:33.280 8a68 Level-0 table #88: started
-2026/09/18-20:11:33.285 8a68 Level-0 table #88: 6006 bytes OK
-2026/09/18-20:11:33.289 8a68 Delete type=0 #86
-2026/09/18-20:11:33.289 8a68 Manual compaction at level-0 from '!folders!QiMBa2WlJRIaBuj1' @ 72057594037927935 : 1 .. '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 0 : 0; will stop at '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 114 : 1
-2026/09/18-20:11:33.290 8a68 Compacting 1@0 + 1@1 files
-2026/09/18-20:11:33.296 8a68 Generated table #89@0: 37 keys, 6006 bytes
-2026/09/18-20:11:33.296 8a68 Compacted 1@0 + 1@1 files => 6006 bytes
-2026/09/18-20:11:33.301 8a68 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/09/18-20:11:33.301 8a68 Delete type=2 #80
-2026/09/18-20:11:33.301 8a68 Delete type=2 #88
-2026/09/18-20:11:33.301 8a68 Manual compaction at level-0 from '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 114 : 1 .. '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 0 : 0; will stop at (end)
+2026/09/18-20:50:27.889 234c Recovering log #91
+2026/09/18-20:50:27.912 234c Delete type=0 #91
+2026/09/18-20:50:27.912 234c Delete type=3 #90
+2026/09/18-20:50:27.923 79e4 Level-0 table #95: started
+2026/09/18-20:50:27.926 79e4 Level-0 table #95: 6004 bytes OK
+2026/09/18-20:50:27.928 79e4 Delete type=0 #93
+2026/09/18-20:50:27.928 79e4 Manual compaction at level-0 from '!folders!QiMBa2WlJRIaBuj1' @ 72057594037927935 : 1 .. '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 0 : 0; will stop at '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 151 : 1
+2026/09/18-20:50:27.928 79e4 Compacting 1@0 + 1@1 files
+2026/09/18-20:50:27.932 79e4 Generated table #96@0: 37 keys, 6004 bytes
+2026/09/18-20:50:27.932 79e4 Compacted 1@0 + 1@1 files => 6004 bytes
+2026/09/18-20:50:27.935 79e4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/18-20:50:27.935 79e4 Delete type=2 #89
+2026/09/18-20:50:27.935 79e4 Delete type=2 #95
+2026/09/18-20:50:27.935 79e4 Manual compaction at level-0 from '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 151 : 1 .. '!playlists.sounds!uiWFo14JV4L2FhQp.mBCf1zPOyj8MNph5' @ 0 : 0; will stop at (end)
