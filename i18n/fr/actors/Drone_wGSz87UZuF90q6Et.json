@@ -1,0 +1,15 @@
+{
+  "_id": "wGSz87UZuF90q6Et",
+  "name": "Drone",
+  "prototypeToken": {
+    "name": "Drone"
+  },
+  "system": {
+    "notes": "<p>Désormais jeunes adultes, les xénos de stade IV sont capables d'adopter une posture bipède, même s'ils ne s'en servent pas toujours. Leur peau, maintenant entièrement polarisée, est d'un ton presque noir ; ils ont une queue préhensile terminée par une lame, des mains à six doigts aux ongles hypertrophiés, des côtes saillantes et un crâne lisse en forme de dôme, translucide à opaque. En plus de leur gueule métallique garnie de dents, ils possèdent une mâchoire interne capable de frapper comme un piston : leur mode d'attaque favori.</p>\n<p>À l'exception de l'Éclaireur, les xénomorphes de stade IV ont quatre tubes dorsaux fixés sur le dos. Certains ont supposé que ces tubes servaient à filer et à cocooner la résine de la ruche, mais cette hypothèse est généralement écartée. L'idée actuelle est qu'il s'agit d'une sorte d'appareil respiratoire, qui filtre les toxines de l'air et permet aux créatures de respirer sous l'eau. Cependant, comme on a vu des Aliens survivre au vide spatial, il est possible qu'ils n'aient pas besoin de respirer du tout.</p>\n<p>Parfois appelés Rôdeurs, les Drones mesurent 2,4 mètres et sont des chasseurs furtifs qui attaquent en embuscade. Leur queue se termine par une lame crochue mortelle et un aiguillon rudimentaire servant à l'injection ovomorphe. À bien des égards, les Drones sont les plus étrangers de l'espèce. On suppose que le comportement étrange qu'ils manifestent souvent vient de ce qu'ils atteignent l'âge adulte sans s'être connectés à l'esprit de ruche. Les mouvements fluides mais maladroits de ces créatures furtives et leurs réactions inhabituelles aux stimuli masquent une intelligence méthodique. Autant un Traqueur agit comme un animal sauvage, autant un Drone manigance. Le Drone d'ébène est une version rusée mais obstinée du xénomorphe. Le développement de P. praepotens s'arrête au stade IV, à moins que les phéromones d'une Reine ne le fassent muer en Ouvrier ou en Soldat, selon ce dont la ruche a le plus besoin. D'ici là, il mange, rassemble des hôtes pour l'ovomorphose et dort. Quand il passe au stade suivant, il rejoint l'esprit de ruche.</p>",
+    "general": {
+      "special": {
+        "value": "protégé par le droit d'auteur, merci d'ajouter les informations"
+      }
+    }
+  }
+}

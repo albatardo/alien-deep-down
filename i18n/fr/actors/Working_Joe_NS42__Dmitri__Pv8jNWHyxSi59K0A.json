@@ -1,0 +1,11 @@
+{
+  "_id": "Pv8jNWHyxSi59K0A",
+  "name": "Working Joe NS42 « Dmitri »",
+  "prototypeToken": {
+    "name": "Working Joe NS42 « Dmitri »"
+  },
+  "system": {
+    "notes": "<h1><strong>Le dilemme de Dmitri</strong></h1>\n<p>La passion de Dmitri pour le jeu a amélioré la capacité de son logiciel à résoudre des problèmes et à « réfléchir tactiquement », du moins pour un Joe. Il est donc plus autonome et plus communicatif.</p>\n<p><img src=\"modules/alien-deep-down/assets/tokens/JOE/JOE_1_PRT.jpg\" height=\"300\"></p>\n<p>Le Working Joe NS42 Dmitri n'a pas reçu de véritable mise à jour depuis des années et s'est inhabituellement attaché, sur le plan émotionnel, à la borne d'arcade de la station.</p>\n<p>Il continue d'accomplir ses tâches à la perfection : assistance médicale de base, supervision de l'hydroponie, service au réfectoire et surveillance de l'entretien des différentes unités de communication de la station.</p>\n<p>Ironie du sort, c'est en accomplissant une tâche pour laquelle il n'a pas été conçu — mettre à jour la vieille borne d'arcade — qu'il a trouvé un message non sécurisé destiné au PLONGEUR DISPARU, KIRILL.</p>\n<p>Vu le mauvais état général de l'installation, les canaux de communication sécurisés ne le sont plus vraiment.</p>\n<p>Dmitri a pu lire l'essentiel du plan de la REQUÊTE de 1/VAN (il croit qu'il s'agit du SCADA). Son IA interne a hésité entre garder le message secret et avertir les joueurs du danger qu'ils courent.</p>\n<p>Il choisit d'aider les joueurs.</p>\n<p>Cette information peut être révélée pendant l'événement de l'attaque totale ou celui de « Remonter ou mourir », idéalement quand DMITRI se sacrifie pour les travailleurs en fermant une porte étanche alors que l'eau s'engouffre, en récupérant une pièce d'équipement essentielle, ou en refusant d'aller plus loin pour sombrer avec la station et sa chère borne d'arcade, etc.</p>",
+    "adhocitems": "<div style=\"color: #d4d4d4; background-color: #1e1e1e; font-family: Consolas, 'Courier New', monospace; line-height: 19px; white-space: pre;\">Cric de maintenance, pistolet à boulons Watatsumi DV-303 ou chalumeau de découpe mécanique.</div>"
+  }
+}

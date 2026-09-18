@@ -1,0 +1,15 @@
+{
+  "_id": "ARAplYJ1K7gRXtSr",
+  "name": "Ovomorphe",
+  "prototypeToken": {
+    "name": "Ovomorphe"
+  },
+  "system": {
+    "notes": "<p>Grands objets à l'aspect de cuir, les Ovomorphes sont le début du cycle de vie alien. Leur taille varie de 0,6 à 1,2 mètre. Si la plupart s'ouvrent au sommet en quatre pétales, certains n'ont qu'une simple fente qui s'ouvre pour révéler le facehugger qu'ils abritent. Ces œufs sont des formes de vie à part entière, capables de protéger leur précieux contenu des chocs et des effractions, tout en percevant les mouvements pour réveiller le parasite en conséquence. Les œufs aliens naturels se forment de deux manières : soit par la transformation d'un hôte vivant, qui se métamorphose en Ovomorphe, soit simplement par la ponte d'une Reine. Les œufs pondus par une Reine sont plus robustes et plus sains que ceux issus de l'ovomorphose.</p>",
+    "general": {
+      "special": {
+        "value": "protégé par le droit d'auteur, merci d'ajouter les informations"
+      }
+    }
+  }
+}

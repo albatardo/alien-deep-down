@@ -1,0 +1,23 @@
+{
+  "_id": "VROFvapKbb3SDcb3",
+  "name": "Joe NS42 Gardien de l'entrée",
+  "prototypeToken": {
+    "name": "Joe NS42 Gardien de l'entrée"
+  },
+  "system": {
+    "notes": "<p>Ce Working Joe, endommagé et privé de larges pans de sa peau synthétique, peine à accueillir les membres d'équipage qui arrivent. Il débite un discours robotique haché qui célèbre l'honneur de visiter la légendaire station Novotny — le joyau de la couronne de l'UPP —, en insérant maladroitement le nom de l'actuel Premier du Conseil dans un texte préenregistré.</p>\n<p>Des années sans maintenance ont rendu ce Working Joe erratique et incapable d'accomplir des tâches complexes. Réparer l'ascenseur dépasse de loin ses capacités actuelles, même avec des instructions — à supposer que les systèmes de communication fonctionnent encore.</p>"
+  },
+  "items": [
+    {
+      "_id": "mYl8OTroGMgzAsOL",
+      "name": "Bête de somme",
+      "system": {
+        "general": {
+          "comment": {
+            "value": "Vous pouvez porter deux fois plus d'objets que la normale sans être encombré."
+          }
+        }
+      }
+    }
+  ]
+}

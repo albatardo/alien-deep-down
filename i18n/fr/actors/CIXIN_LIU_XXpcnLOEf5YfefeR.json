@@ -1,0 +1,34 @@
+{
+  "_id": "XXpcnLOEf5YfefeR",
+  "name": "CIXIN LIU",
+  "prototypeToken": {
+    "name": "CIXIN LIU"
+  },
+  "system": {
+    "notes": "<p><strong>CIXIN LIU - Ingénieur en chef</strong></p>\n<img src=\"modules/alien-deep-down/assets/tokens/CIXIN_LIU/CIXIN_LIU.png\" height=\"300\"><p></p>\n<ul><li><strong>Nom complet</strong> : Cixin Liu</li>\n<li><strong>Rôle</strong> : ingénieur de la station</li>\n<li><strong>Âge</strong> : 52 ans</li>\n<li><strong>Personnalité</strong> : indépendant</li>\n</ul>\n<p>Cixin Liu travaille à la station Novotny depuis plus de 25 ans. Il est convaincu que seuls le travail acharné et le dévouement permettront au peuple de l'UPP de faire avancer sa cause à travers la galaxie.</p>\n<p>Fier de veiller au bon fonctionnement des équipements de la station, Liu est de plus en plus exaspéré de voir ses demandes répétées d'outils de base ignorées. Malgré ces difficultés, il a consacré sa vie à Novotny et rêve de lui rendre sa gloire d'antan. Mais ce quart sous la mer a mis à l'épreuve même sa détermination inébranlable.</p>\n<p>Il méprise la corruption de la hiérarchie de la station et voit dans cette enquête — et dans l'arrivée d'Olga — l'occasion de faire enfin bouger les choses.</p>",
+    "general": {
+      "sigItem": {
+        "value": "ROMAN DE SCIENCE-FICTION"
+      },
+      "relOne": {
+        "value": "DIEGO ALVAREZ"
+      },
+      "relTwo": {
+        "value": "DUBOV"
+      }
+    }
+  },
+  "items": [
+    {
+      "_id": "epcWMfbILPi9pGhn",
+      "name": "Outils électroniques",
+      "system": {
+        "attributes": {
+          "comment": {
+            "value": "COMTECH +1."
+          }
+        }
+      }
+    }
+  ]
+}

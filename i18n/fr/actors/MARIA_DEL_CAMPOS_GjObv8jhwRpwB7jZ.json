@@ -1,0 +1,21 @@
+{
+  "_id": "GjObv8jhwRpwB7jZ",
+  "name": "MARIA DEL CAMPOS",
+  "prototypeToken": {
+    "name": "MARIA DEL CAMPOS"
+  },
+  "system": {
+    "notes": "<p class=\"MsoNormal\"><strong>NOM COMPLET :</strong> Maria Del Campos</p>\n<p></p>\n<img src=\"modules/alien-deep-down/assets/tokens/MARIA_DEL_CAMPOS/MARIA_DEL_CAMPOS.png\" height=\"300\"><p class=\"MsoNormal\"><strong>PROFESSION :</strong> hydroponie</p>\n<p class=\"MsoNormal\"><strong>ÂGE :</strong> 21 ans</p>\n<p class=\"MsoNormal\"><strong>PERSONNALITÉ :</strong> travailleuse</p>\n<p class=\"MsoNormal\">Maria a grandi dans une famille de plongeurs des grands fonds. Quand elle a passé son test d'aptitude parrainé par l'UPP, c'est tout naturellement qu'elle a été affectée à l'un des plus importants projets miniers sous-marins de l'UPP.</p>\n<p class=\"MsoNormal\">Peu après son arrivée à la station Novotny, elle a pris un second poste à la ferme hydroponique.</p>\n<p class=\"MsoNormal\">Elle aime son travail et croit fermement que le système de l'UPP est le modèle parfait. Pour elle, c'est ce à quoi tous les travailleurs de la galaxie devraient aspirer.</p>\n<hr>\n<p class=\"MsoNormal\"><strong>ATTRIBUTS :</strong><br>FORCE : 4<br>ESPRIT : 3<br>EMPATHIE : 3<br>AGILITÉ : 4</p>\n<p class=\"MsoNormal\"><strong>SANTÉ :</strong> 4</p>\n<hr>\n<p class=\"MsoNormal\"><strong>COMPÉTENCES :</strong></p>\n<ul><li><p>MACHINES LOURDES : 3</p>\n</li>\n<li><p>ENDURANCE : 1</p>\n</li>\n<li><p>COMTECH : 3</p>\n</li>\n<li><p>MOBILITÉ : 2</p>\n</li>\n<li><p>COMBAT À DISTANCE : 1</p>\n</li>\n</ul>\n<hr>\n<p class=\"MsoNormal\"><strong>TALENT :</strong> Souffle maîtrisé</p>\n<hr>\n<p class=\"MsoNormal\"><strong>COPAIN :</strong> Pham<br><strong>RIVAL :</strong> Qiang</p>\n<hr>\n<p class=\"MsoNormal\"><strong>OBJET FÉTICHE :</strong> un pin's de plongeur des grands fonds</p>\n<hr>\n<p class=\"MsoNormal\"><strong>ÉQUIPEMENT :</strong></p>\n<ul><li><p>10 doses d'antidote au DEKOMPRESS X-Stim (voir l'objectif personnel)</p>\n</li>\n</ul>\n<hr>",
+    "general": {
+      "sigItem": {
+        "value": "PIN'S DE PLONGEUR DES GRANDS FONDS"
+      },
+      "relOne": {
+        "value": "KIM PHAM"
+      },
+      "relTwo": {
+        "value": "LI QIANG"
+      }
+    }
+  }
+}

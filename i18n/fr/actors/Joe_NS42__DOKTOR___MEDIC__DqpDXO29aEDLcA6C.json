@@ -1,0 +1,23 @@
+{
+  "_id": "DqpDXO29aEDLcA6C",
+  "name": "Joe NS42 « DOKTOR » (MÉDECIN)",
+  "prototypeToken": {
+    "name": "Joe NS42 « DOKTOR » (MÉDECIN)"
+  },
+  "system": {
+    "notes": "<p>Le Doktor dispose d'un logiciel amélioré d'assistance médicale et fait office d'infirmier. Mais, comme la plupart des « Joe », il manque d'autonomie et n'agit que sur ordre ou en réponse aux lois de la robotique ou au SCADA. Il quitte rarement l'infirmerie.</p>"
+  },
+  "items": [
+    {
+      "_id": "mYl8OTroGMgzAsOL",
+      "name": "Bête de somme",
+      "system": {
+        "general": {
+          "comment": {
+            "value": "Vous pouvez porter deux fois plus d'objets que la normale sans être encombré."
+          }
+        }
+      }
+    }
+  ]
+}

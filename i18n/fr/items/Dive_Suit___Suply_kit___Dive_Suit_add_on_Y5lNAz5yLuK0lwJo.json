@@ -1,0 +1,11 @@
+{
+  "_id": "Y5lNAz5yLuK0lwJo",
+  "name": "Kit de ravitaillement de combinaison de plongée",
+  "system": {
+    "attributes": {
+      "comment": {
+        "value": "<p><strong>Kit de combinaison de plongée : à activer pour l'automatisation de la fiche dans Foundry.</strong></p>\n<p>Chaque kit de combinaison de plongée comprend :</p>\n<ul>\n<li>\n<p><strong>Réserve d'air</strong> :</p>\n<ul>\n<li>Kit de secours : 15 minutes d'air (1 Air).</li>\n<li>Kit standard : 6 heures d'air (3 Air).</li>\n</ul>\n</li>\n<li>\n<p><strong>Eau et pâte nutritive</strong> : de quoi tenir pendant les opérations prolongées.</p>\n</li>\n<li>\n<p><strong>Source d'énergie</strong> : alimente l'équipement essentiel, notamment les lampes, les communicateurs, les balises de localisation et d'autres petits appareils.</p>\n</li>\n</ul>"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "MJA1B3sWtBsVwUpk",
+  "name": "KIM PHAM",
+  "prototypeToken": {
+    "name": "KIM PHAM"
+  },
+  "system": {
+    "notes": "<p><strong>Kim Pham</strong></p>\n<p></p>\n<img src=\"modules/alien-deep-down/assets/tokens/KIM_PHAM/KIM_PHAM.png\" height=\"300\"><p><strong>Profession :</strong> spécialiste de la plongée / médecin<br><strong>Âge :</strong> 28 ans<br><strong>Personnalité :</strong> curieuse</p>\n<hr>\n<p></p>\n<h3><strong>ATTRIBUTS</strong></h3>\n<p><strong>FORCE :</strong> 3<br><strong>ESPRIT :</strong> 4<br><strong>EMPATHIE :</strong> 5<br><strong>AGILITÉ :</strong> 2</p>\n<p><strong>SANTÉ :</strong> 3</p>\n<hr>\n<p></p>\n<h3><strong>COMPÉTENCES</strong></h3>\n<ul><li><strong>OBSERVATION :</strong> 3</li>\n<li><strong>COMTECH :</strong> 3</li>\n<li><strong>SOINS MÉDICAUX :</strong> 4</li>\n</ul>\n<hr>\n<p></p>\n<h3><strong>TALENTS</strong></h3>\n<ul><li><strong>Chirurgien de terrain</strong></li>\n</ul>\n<p></p>\n<p><strong>Copain :</strong> Dubov<br><strong>Rival :</strong> Alvarez</p>\n<p><strong>Objet fétiche :</strong> une vieille photo de famille</p>\n<hr>\n<p></p>\n<h3><strong>ÉQUIPEMENT</strong></h3>\n<ul><li><strong>Trousse de soins personnelle</strong></li>\n<li><strong>CŒUR D'AMVIL ! (Naproleve - UPP) (2 doses)</strong></li>\n</ul>\n<hr>\n<p></p>\n<h3><strong>Historique</strong></h3>\n<p>La docteure Kim Pham a grandi dans une coopérative agricole loin de l'océan, en rêvant d'explorer des mondes extraterrestres et de repousser de nouvelles frontières. Pionnière dans sa famille, elle a été la première à suivre des études, et a choisi la médecine.</p>\n<p>Portée par sa passion de la découverte, elle a saisi l'occasion de travailler sur une station sous-marine d'une lointaine planète extraterrestre, en réussissant tous les tests de plongée avec la note maximale.</p>\n<p>Mais peu après son arrivée à la <strong>station Matvey</strong>, Pham a appris que sa famille avait péri dans un terrible accident agricole — qui aurait pu être évité. Ce drame a brisé sa confiance dans les promesses de l'UPP de prendre soin de ses citoyens, et l'a laissée désabusée, rongée par le regret d'avoir accepté ce poste.</p>\n<p>Malgré ce conflit intérieur, Pham reste une médecin compétente et empathique, dévouée à ceux dont elle a la charge.</p>",
+    "general": {
+      "sigItem": {
+        "value": " VIEILLE PHOTO DE FAMILLE"
+      },
+      "relOne": {
+        "value": "IVAN DUBOV"
+      },
+      "relTwo": {
+        "value": "ALVAREZ "
+      }
+    }
+  },
+  "items": [
+    {
+      "_id": "oRDKdIIWp1JsP8R8",
+      "name": "Trousse de soins personnelle",
+      "system": {
+        "attributes": {
+          "comment": {
+            "value": "<p>Protégé par le droit d'auteur. Merci d'ajouter les informations ici, je n'ai pas le droit de le faire.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

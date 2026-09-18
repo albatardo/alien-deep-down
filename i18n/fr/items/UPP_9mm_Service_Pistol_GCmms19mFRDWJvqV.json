@@ -1,0 +1,14 @@
+{
+  "_id": "GCmms19mFRDWJvqV",
+  "name": "Pistolet de service UPP 9 mm",
+  "system": {
+    "attributes": {
+      "comment": {
+        "value": "<p>IDENTIQUE AU PISTOLET DE SERVICE M4A3</p>"
+      }
+    },
+    "notes": {
+      "notes": "<p>Ce pistolet 9 mm bon marché est l'arme de poing réglementaire de l'USCMC. Il faut toujours avoir une arme de secours pour son arme de secours, et ce pistolet peut très bien faire l'affaire.</p>"
+    }
+  }
+}

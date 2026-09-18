@@ -1,0 +1,21 @@
+{
+  "_id": "5l160RNk904BlWxA",
+  "results": [
+    {
+      "_id": "DI0ToFQYzfEpYhnW",
+      "description": "<b>Fuite : </b>  <br>L'Hydrobuster s'enfuit grâce à sa bioluminescence vers la cachette la plus proche, dans l'eau si possible."
+    },
+    {
+      "_id": "Ki3ksWdttCGBqR0X",
+      "description": "<b>Sifflement terrifiant : </b>  <br> L'Hydrobuster bondit vers une cible en faisant clignoter sa peau bioluminescente. La cible doit faire immédiatement un test de Panique."
+    },
+    {
+      "_id": "00lBfemGMCb7znwU",
+      "description": "<b>Entaille à la jambe : </b>  <br> D'un mouvement ondulant, l'Hydrobuster tranche la jambe de sa cible avec une nageoire affûtée comme un rasoir. [[6db]] dés de base, Dégâts 2. Si l'attaque inflige des dégâts, elle cause la blessure critique n° 53 (même si la victime n'est pas Brisée), ce qui déclenche immédiatement un test de Panique."
+    },
+    {
+      "_id": "5TkaMT4E3WajPB3s",
+      "description": "<b>Appel à l'aide : </b>  <br>L'Hydrobuster pousse un cri strident qui appelle tous les hydromorphes des environs ; ils viendront protéger le petit dans [[1db]] rounds. S'il n'y en a aucun à proximité, le cri se répercute dans l'eau et d'autres viendront plus tard."
+    }
+  ]
+}

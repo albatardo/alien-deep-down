@@ -1,13 +1,39 @@
 // Applies i18n/fr onto the English sources in src/ and compiles them into packs/.
-// Journals exist twice (journals pack + embedded in the adventure), so translations are applied by _id to both.
+// Documents exist twice (their pack + embedded in the adventure), so translations are applied by _id to both.
 // Close the world (or disable the module) in Foundry first: it keeps the LevelDB packs locked.
 import { compilePack } from "@foundryvtt/foundryvtt-cli";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
+import { FIELDS, ITEM_FIELDS, collectPairs, getPath, merge, setPath } from "./i18n-docs.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const readJson = (f) => JSON.parse(fs.readFileSync(f, "utf8"));
+const readDir = (d) => (fs.existsSync(d) ? fs.readdirSync(d).map((f) => readJson(path.join(d, f))) : []);
+
+const docFr = new Map(Object.keys(FIELDS).map((pack) =>
+  [pack, new Map(readDir(path.join(root, "i18n", "fr", pack)).map((p) => [p._id, p]))]));
+
+// Items embedded in actors are copies of compendium items with other _ids: translate them by their English text.
+const itemDict = new Map();
+for (const item of readDir(path.join(root, "src", "items"))) {
+  const patch = docFr.get("items").get(item._id);
+  if (patch) collectPairs(item, patch, itemDict);
+}
+
+const counts = Object.fromEntries(Object.keys(FIELDS).map((p) => [p, new Set()]));
+function translateDoc(pack, doc) {
+  if (pack === "actors") {
+    for (const item of doc.items ?? []) for (const p of ITEM_FIELDS) {
+      const fr = itemDict.get(getPath(item, p));
+      if (fr !== undefined) setPath(item, p, fr);
+    }
+  }
+  const patch = docFr.get(pack).get(doc._id);
+  if (!patch) return;
+  merge(doc, patch);
+  counts[pack].add(doc._id);
+}
 
 const journalFr = new Map();
 const journalDir = path.join(root, "i18n", "fr", "journal");
@@ -41,7 +67,13 @@ for (const { name } of packs) {
   for (const f of fs.readdirSync(path.join(root, "src", name))) {
     const doc = readJson(path.join(root, "src", name, f));
     if (name === "journals" && doc.pages) total += translateJournal(doc);
-    if (name === "adventure") for (const j of doc.journal ?? []) translateJournal(j);
+    if (FIELDS[name] && !doc._key?.startsWith("!folders")) translateDoc(name, doc);
+    if (name === "adventure") {
+      for (const j of doc.journal ?? []) translateJournal(j);
+      for (const a of doc.actors ?? []) translateDoc("actors", a);
+      for (const i of doc.items ?? []) translateDoc("items", i);
+      for (const t of doc.tables ?? []) translateDoc("rolltables", t);
+    }
     fs.writeFileSync(path.join(tmp, f), JSON.stringify(doc));
   }
   await compilePack(tmp, path.join(root, "packs", name), { recursive: false, log: false });
@@ -49,3 +81,4 @@ for (const { name } of packs) {
   console.log(`packs/${name} compiled`);
 }
 console.log(`${total} journal pages translated`);
+for (const [pack, ids] of Object.entries(counts)) console.log(`${ids.size} ${pack} translated`);

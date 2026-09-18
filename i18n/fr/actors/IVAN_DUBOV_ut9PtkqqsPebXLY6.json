@@ -1,0 +1,21 @@
+{
+  "_id": "ut9PtkqqsPebXLY6",
+  "name": "IVAN DUBOV",
+  "prototypeToken": {
+    "name": "IVAN DUBOV"
+  },
+  "system": {
+    "notes": "<p><strong>Ivan Dubov</strong></p>\n<p></p>\n<img src=\"modules/alien-deep-down/assets/tokens/IVAN_DUBOV/IVAN_DUBOV.png\" height=\"300\"><p><strong>Profession :</strong> opérateur de machines<br><strong>Âge :</strong> 25 ans<br><strong>Personnalité :</strong> rebelle</p>\n<hr>\n<p></p>\n<h3><strong>ATTRIBUTS</strong></h3>\n<p><strong>FORCE :</strong> 5<br><strong>ESPRIT :</strong> 2<br><strong>EMPATHIE :</strong> 2<br><strong>AGILITÉ :</strong> 5</p>\n<p><strong>SANTÉ :</strong> 5</p>\n<hr>\n<p></p>\n<h3><strong>COMPÉTENCES</strong></h3>\n<ul><li><strong>MACHINES LOURDES :</strong> 4</li>\n<li><strong>COMBAT RAPPROCHÉ :</strong> 3</li>\n<li><strong>MANIPULATION :</strong> 1</li>\n<li><strong>COMBAT À DISTANCE :</strong> 2</li>\n</ul>\n<hr>\n<p></p>\n<h3><strong>TALENTS</strong></h3>\n<ul><li><strong>Longue haleine</strong></li>\n</ul>\n<p></p>\n<p><strong>Copain :</strong> Pham<br><strong>Rival :</strong> Liu</p>\n<p><strong>Objet fétiche :</strong> un étui à cigarettes</p>\n<hr>\n<p></p>\n<h3><strong>ÉQUIPEMENT</strong></h3>\n<ul><li><strong>Cran d'arrêt affûté comme un rasoir</strong> (Dég. 2)</li>\n</ul>\n<hr>\n<p></p>\n<h3><strong>Historique</strong></h3>\n<p>Ivan Dubov est un soudeur sous-marin spécialisé dans les opérations en eaux profondes. Autrefois esprit libre, son penchant pour les jeux d'argent illégaux l'a mis à plusieurs reprises en conflit avec l'État. Il a fini par être condamné aux travaux forcés.</p>\n<p>Après plusieurs années dans une prison de travail, Ivan s'est vu offrir un choix : purger le reste de sa peine éreintante ou signer un contrat de plusieurs décennies pour travailler sur la station sous-marine. Il a choisi la seconde option à contrecœur.</p>\n<p>Arrivé récemment à la station, Ivan s'est révélé être une épine dans le pied des travailleurs chevronnés comme <strong>Liu</strong>, qu'il provoque sans cesse. Son attitude rebelle et ses problèmes de discipline lui valent d'être tenu à l'écart des autres ouvriers pour la plupart des tâches, et relégué à des corvées comme le nettoyage des latrines de la zone d'habitation.</p>\n<p>Sous ses airs provocateurs, Ivan rêve d'échapper à ce qu'il considère comme une vie d'esclave et de choisir sa propre voie. Il ne fait confiance qu'à peu de gens, et la plupart des membres du personnel de la station n'en font pas partie.</p>",
+    "general": {
+      "sigItem": {
+        "value": " ÉTUI À CIGARETTES"
+      },
+      "relOne": {
+        "value": "PHAM"
+      },
+      "relTwo": {
+        "value": "CIXIN LIU"
+      }
+    }
+  }
+}

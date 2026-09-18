@@ -76,3 +76,15 @@ Les distances impériales sont converties : 4 miles → 6 kilomètres.
 ## Noms à ne pas traduire
 
 `scripts/init.js` cherche par leur nom exact : les journaux « Deep Down Welcome » et « Alien Map Markers », la macro « Ligth source (token) ». Les traduire impose de mettre à jour `init.js`.
+
+Le système alienrpg retrouve aussi des tables par leur nom :
+
+- les tables référencées par `system.rTables` / `system.cTables` des créatures (« Hydromorph Attacks », « Hydrobuster Attacks », « Critical Injuries on Hydromorph », « Stalker, Scout and Drone Attacks (add options) », « Critical Injuries on Xenomorphs (add options) ») : seul leur contenu est traduit. `npm run export:docs` n'exporte pas leur nom ;
+- la « Panic Table » (`game.tables.getName("Panic Table")`) : ses résultats reprennent les textes officiels `ALIENRPG.Panic*` du `lang/fr.json` du système ;
+- les dossiers « Alien Creature Tables » et « Alien Mother Tables » (listes déroulantes de la fiche de créature).
+
+## Objets et acteurs
+
+- Les objets intégrés aux fiches d'acteurs sont traduits automatiquement quand leur texte anglais est identique à celui d'un objet du compendium : ne traduire dans `i18n/fr/actors/` que les objets qui diffèrent.
+- Les notes des personnages reprennent les pages du journal « Personnages - MJ », sans l'objectif personnel.
+- Hydrobuster : l'original dit « identical to HYDROBUSTER XENOMORPH » (probablement le chestburster) ; traduit tel quel.

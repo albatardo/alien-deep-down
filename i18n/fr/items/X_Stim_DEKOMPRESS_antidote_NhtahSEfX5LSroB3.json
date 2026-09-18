@@ -1,0 +1,11 @@
+{
+  "_id": "NhtahSEfX5LSroB3",
+  "name": "Antidote au DEKOMPRESS X-Stim",
+  "system": {
+    "attributes": {
+      "comment": {
+        "value": "<ul>\n<li>Réduit le stress de moitié (arrondi à l'inférieur).</li>\n<li>Inflige un <strong>malus de -1</strong> à tous les jets basés sur l'AGILITÉ pendant 1 tour.</li>\n<li>Annule les effets du DEKOMPRESS. Une nouvelle dose de DEKOMPRESS met <strong>1 quart</strong> à refaire effet.</li>\n<li>Provoque une perte de mémoire à court terme : on ne se souvient pas d'avoir reçu la dose.</li>\n</ul>"
+      }
+    }
+  }
+}

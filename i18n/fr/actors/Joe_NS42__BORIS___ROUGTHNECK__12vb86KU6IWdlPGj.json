@@ -1,0 +1,24 @@
+{
+  "_id": "12vb86KU6IWdlPGj",
+  "name": "Joe NS42 « BORIS » (ROUGHNECK)",
+  "prototypeToken": {
+    "name": "Joe NS42 « BORIS » (ROUGHNECK)"
+  },
+  "system": {
+    "notes": "<p>Boris a des capacités cognitives limitées à cause de dégâts à la tête. On s'en sert surtout comme bête de somme et pour s'occuper des plantes.</p>",
+    "adhocitems": "<div style=\"color: #d4d4d4; background-color: #1e1e1e; font-family: Consolas, 'Courier New', monospace; line-height: 19px; white-space: pre;\">Cric de maintenance, pistolet à boulons Watatsumi DV-303 ou chalumeau de découpe mécanique.</div>"
+  },
+  "items": [
+    {
+      "_id": "mYl8OTroGMgzAsOL",
+      "name": "Bête de somme",
+      "system": {
+        "general": {
+          "comment": {
+            "value": "Vous pouvez porter deux fois plus d'objets que la normale sans être encombré."
+          }
+        }
+      }
+    }
+  ]
+}

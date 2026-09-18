@@ -1,0 +1,14 @@
+{
+  "_id": "0xj7A54iP8XB8Vvz",
+  "name": "Submersible Baïkal",
+  "prototypeToken": {
+    "name": "Submersible Baïkal"
+  },
+  "system": {
+    "attributes": {
+      "comment": {
+        "value": "L'engin, de forme sphérique, ne peut accueillir que trois personnes.\n\nConçu à l'origine pour la recherche en eaux profondes, il a joué un rôle crucial dans la dernière phase de construction et d'agrandissement de la station Matvey. Aujourd'hui inactif, il sert d'engin d'évacuation d'urgence.\n\nLe Baïkal n'a pas servi depuis des décennies. Il était alimenté par trois grosses batteries à semi-conducteurs, qui ont ensuite été débranchées et réaffectées à d'autres projets dans l'ancienne station.\n\nUne seule batterie restante pourrait suffire à propulser le submersible jusqu'à la surface."
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "qtzEFCCbqHRLl8Uh",
+  "name": "Sous-table des attaques du Hydrohugger",
+  "results": [
+    {
+      "_id": "WBItoCQpT5fPN4PJ",
+      "description": "Le Hydrohugger attrape sa victime et la fait tomber à terre. Test de Panique obligatoire."
+    },
+    {
+      "_id": "fEr9ue5xhbySDXe3",
+      "description": "Le Hydrohugger attrape sa victime et lui entrave les bras. Les objets tenus sont inutilisables. Test de Panique obligatoire."
+    },
+    {
+      "_id": "D2s2E1QN6SzOTFh3",
+      "description": "Le Hydrohugger attrape sa victime et l'étouffe : elle subit les effets de la noyade. Test de Panique obligatoire."
+    }
+  ]
+}

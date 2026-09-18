@@ -1,0 +1,55 @@
+{
+  "_id": "OLukQVbgXjiAHa6u",
+  "name": "Table de lieu aléatoire",
+  "description": "<p>Lancez-la si vous voulez un lieu aléatoire pour un problème d'Hydromorphe ou tout autre incident. Les lieux extérieurs n'ont d'Hydromorphes que s'il y a une présence humaine.</p>",
+  "results": [
+    {
+      "_id": "ZUjCmCvSZFs988ip",
+      "description": "Accès et ombilical"
+    },
+    {
+      "_id": "AQJdDrMVhIJQxhMQ",
+      "description": "PISTE DE JOGGING"
+    },
+    {
+      "_id": "1NXHkooSlVi1IR6U",
+      "description": "Quartiers de l'équipage"
+    },
+    {
+      "_id": "uOGrAYLIX0JyY4uu",
+      "description": "Centre de commandement"
+    },
+    {
+      "_id": "ZcxanYKUIuTPUpLj",
+      "description": "Hydroponie et filtration"
+    },
+    {
+      "_id": "YfilLzXakssWAplv",
+      "description": "SALLE SCADA"
+    },
+    {
+      "_id": "WX0gH0r11fwWY8i7",
+      "description": "SALLE DU RÉACTEUR"
+    },
+    {
+      "_id": "wtyWGYAYAQ5KM5Mt",
+      "description": "Baie médicale"
+    },
+    {
+      "_id": "ci4aIzuS32Pw65HN",
+      "description": "TRAVAUX LOURDS"
+    },
+    {
+      "_id": "WeGLG0UcHaDhpkPR",
+      "description": "SAS"
+    },
+    {
+      "_id": "gdPh6rTrkXEUEzuj",
+      "description": "HANGAR"
+    },
+    {
+      "_id": "G1ujHdUPBkd5Xpwz",
+      "description": "Ancienne station"
+    }
+  ]
+}

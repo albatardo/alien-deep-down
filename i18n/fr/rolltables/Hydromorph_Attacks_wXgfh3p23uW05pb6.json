@@ -1,0 +1,29 @@
+{
+  "_id": "wXgfh3p23uW05pb6",
+  "results": [
+    {
+      "_id": "ulwSTrcOU4OS1KlN",
+      "description": "<b>Parade bioluminescente :</b> <br> L'Hydromorphe projette des lumières et des couleurs vives dans un éblouissant spectacle qui hypnotise et étourdit sa proie. La cible prend +1 de STRESS et doit réussir un jet d'ESPRIT, sans quoi elle est étourdie et perd sa prochaine action lente."
+    },
+    {
+      "_id": "tEqWkEEHbK7E0eHR",
+      "description": "<b>Mise à l'épreuve de sa proie : </b> <br> La queue se tend pour entraîner le joueur dans les ténèbres (à 2 zones de là : la créature se déplace de 1 maintenant et de 1 à son déplacement suivant, puis relâche la victime). Attaque avec [[8db]] dés de base, Dég. 1. Si l'attaque touche, le PJ est emporté et désorienté : il lâche tout ce qu'il tient en main et doit faire immédiatement un test de Panique. Son tuyau d'air (s'il en a un) se déconnecte s'il est tendu (passage sous des obstacles, dans des espaces étroits, etc.)."
+    },
+    {
+      "_id": "8sqjdmFVj2PY5swb",
+      "description": "<b>Drain d'énergie : </b> <br>L'Hydromorphe s'enroule autour de sa proie et tente d'aspirer son énergie. Attaque avec [[7db]] dés de base, Dég. 1. Pour chaque point de dégâts, la victime perd 1 point d'Énergie d'un objet en sa possession doté d'une source d'énergie. S'il n'y a pas d'énergie, la victime subit les dégâts normalement."
+    },
+    {
+      "_id": "PjnUu6kmu6DDmNkU",
+      "description": "<b>Tentacules déchirants : </b> <br> L'Hydromorphe a sur le corps une multitude de petites barbes et de crochets qui lui servent à saisir et à déchirer sa proie. Ils lacèrent tout ce que porte la victime. Attaque avec [[8db]] dés de base, Dég. 1. Chaque point de dégâts endommage automatiquement la protection de la victime, si elle en porte une. Les dégâts restants qui n'atteignent pas la protection touchent la victime normalement. Test de Panique immédiat."
+    },
+    {
+      "_id": "FnosZygCZZtno5FW",
+      "description": "<b>Coup de tentacule : </b> <br> La queue de la bête fouette sa pauvre cible. Attaque avec [[9db]] dés de base, Dég. 2."
+    },
+    {
+      "_id": "J9GMqRdv9mF3uuf5",
+      "description": "<b>Morsure à la tête : </b> <br> L'Hydromorphe tente de se nourrir : attaque avec [[10db]] dés, Dég. 1. Si la victime subit des dégâts, elle subit immédiatement une blessure critique."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "0M4AT26z6RGff6Hh",
+  "name": "Saumon long",
+  "prototypeToken": {
+    "name": "Saumon long"
+  },
+  "system": {
+    "notes": "<p><br>Il y a environ 100 ans, une espèce de poisson extraterrestre a été introduite à la station Korab pour tenter de lancer l'aquaculture sur VODA : le saumon long. Ces poissons pouvaient se nourrir d'électricité, de lumière du soleil et de la digestion des sulfates, abondants sur la planète.</p>\n<p>L'essai était prometteur, mais VODA n'est pas très ensoleillée et ne connaît pas d'orages électriques constants. Les animaux ont donc gagné les profondeurs, à la recherche des sulfates déposés au fond, où ils grandissent beaucoup plus lentement — trop lentement pour un usage commercial — et ont été abandonnés. Peu à peu, ils se sont répandus par milliers, et ils ont désormais trouvé le vaisseau écrasé, ses œufs, et leur destin d'hôtes.</p>\n<p>Fidèles à leur biologie, les xénomorphes ont aussitôt absorbé les caractéristiques vitales de ces poissons. Ils peuvent absorber l'électricité et vivre sans problème à des profondeurs extrêmes, mais ils sont plus lents hors de l'eau. Et ils viennent tout juste de découvrir Novotny.</p>\n<p>Tout facehugger normal, tout ovomorphe et le drone qui s'éveillent dans les profondeurs entrent en hibernation, sauf s'ils sont ramenés à des niveaux de pression plus normaux. Le premier poisson embryonné s'est fait « hugger » parce qu'il essayait de se nourrir du contenu de l'œuf qui s'ouvrait. Mais le résultat a été l'hydromorphe, parfaitement adap<br><br><br><a draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.2A70WlvyYoIRKyer.JournalEntryPage.fBxdyIO3lqxrPaCr\" data-id=\"fBxdyIO3lqxrPaCr\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\" data-hash=\"hydromorph\">HYDROMORPHE</a></p>",
+    "general": {
+      "special": {
+        "value": "Le saumon s'enfuit toujours !\n\nDans le pire des cas, il percute quiconque se trouve sur son passage, ce qui inflige 1 point de dégâts.\n\nMais il communique par bioluminescence, ce qui peut effrayer.\n\n\n\nLe saumon long peut dépasser 3 mètres de long et peser plus de 90 kg. Ces poissons remarquables se nourrissent grâce à une combinaison unique d'absorption d'électricité, d'utilisation de la lumière du soleil et de digestion des sulfates."
+      }
+    }
+  }
+}

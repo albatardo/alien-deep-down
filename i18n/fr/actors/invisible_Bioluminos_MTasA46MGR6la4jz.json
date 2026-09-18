@@ -1,0 +1,14 @@
+{
+  "_id": "MTasA46MGR6la4jz",
+  "name": "Bioluminos invisible",
+  "prototypeToken": {
+    "name": "Bioluminos invisible"
+  },
+  "system": {
+    "general": {
+      "special": {
+        "value": "Sert à créer des effets lumineux (BIOLUMINESCENCE) sans pion visible.\n\nLa lumière n'apparaît que si le pion est visible."
+      }
+    }
+  }
+}

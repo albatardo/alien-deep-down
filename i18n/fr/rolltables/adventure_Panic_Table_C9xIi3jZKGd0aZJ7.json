@@ -1,0 +1,45 @@
+{
+  "_id": "C9xIi3jZKGd0aZJ7",
+  "results": [
+    {
+      "_id": "rNIEsETslgTE305N",
+      "description": "<b>JE TIENS LE COUP :</b> Vous parvenez à maîtriser vos nerfs. Tout juste."
+    },
+    {
+      "_id": "kiO3yL2ptol7UFxN",
+      "description": "<b>TRESSAILLEMENT NERVEUX :</b> Votre NIVEAU DE STRESS et celui de tous les PJ amicaux situés à  courte portée de vous augmentent de 1."
+    },
+    {
+      "_id": "R1j5ZV1lZYOukzbO",
+      "description": "<b>TREMBLEMENT :</b> Vous êtes pris d'incoercibles tremblements. Tous les tests de compétence utilisant I'AGILITÉ subissent un modificateur de -2 jusqu'à ce que votre panique s'arrête."
+    },
+    {
+      "_id": "bVyaqMdKS03lMdeO",
+      "description": "<b>OBJET LÂCHÉ :</b> Le stress, l'affolement ou la soudaine prise de conscience (vous allez tous mourir de toute façon !) vous fait lâcher une arme ou un autre objet important, choisi par Maman. Votre NIVEAU DE STRESS augmente de 1."
+    },
+    {
+      "_id": "mDfxe7TR2QD2DCqj",
+      "description": "<b>FIGÉ :</b> La peur ou le stress vous paralyse pendant un Round, et vous perdez votre action lente suivante. Votre niveau de stress et celui de tous les PJ amicaux situés à courte portée de vous augmentent de 1."
+    },
+    {
+      "_id": "5WPFiMValyy8lLBX",
+      "description": "<b>TOUS AUX ABRIS ! </b> Vous devez utiliser votre prochaine action pour vous éloigner du danger et trouver un endroit sûr si possible. Vous avez le droit de faire un test de mobilité pour battre en retraite (cf. page 93) en cas d’ennemi au contact. Votre NIVEAU DE STRESS baisse de 1, mais celui de tous les PJ amicaux situés à courte portée de vous augmente de 1. Au bout d’un Round, vous recommencez à agir normalement."
+    },
+    {
+      "_id": "WpWwS67NT6pnjP8Q",
+      "description": "<b>HURLEMENT :</b> Vous hurlez à pleins poumons pendant un Round, et perdez votre action lente suivante. Votre NIVEAU DE STRESS baisse de 1, mais tout personnage amical qui vous entend hurler doit immédiatement effectuer un test de Panique."
+    },
+    {
+      "_id": "ru1oP3Z5EKK6rsH7",
+      "description": "<b>FUITE :</b> Vous n'en pouvez plus. Vous devez fuir en lieu sûr et une fois à l'abri, vous n'en bougez plus. Vous n'attaquez personne et ne tentez rien de dangereux. Vous n’avez pas le droit à un test de mobilité pour battre en retraite (cf. page 93) en cas d’ennemi au contact lorsque vous fuyez. Votre NIVEAU DE STRESS baisse de 1, mais tout personnage amical qui vous voit vous enfuir doit immédiatement faire un test de Panique."
+    },
+    {
+      "_id": "bG0AxhSq3jCNw5gf",
+      "description": "<b>PSYCHOSE :</b> Vous devez immédiatement attaquer la personne ou la créature la plus proche, amicale ou non. Vous ne vous arrêterez pas tant que vous ou votre cible n'êtes pas Brisé.  Tout personnage amical qui assiste à votre crise meurtrière doit immédiatement faire un test de Panique."
+    },
+    {
+      "_id": "90Vlsy8HGlJacGta",
+      "description": "<b>CATATONIE :</b> Vous vous écroulez et vous ne pouvez plus ni bouger ni parler, les yeux perdus dans le vide."
+    }
+  ]
+}

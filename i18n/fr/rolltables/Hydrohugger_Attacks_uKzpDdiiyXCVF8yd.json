@@ -1,0 +1,23 @@
+{
+  "_id": "uKzpDdiiyXCVF8yd",
+  "name": "Attaques du Hydrohugger",
+  "description": "<h2 style=\"text-align:center;color:lightblue\">Attaques du Hydrohugger</h2>",
+  "results": [
+    {
+      "_id": "XaTaOdC43UyH2uyP",
+      "description": "<b>Menace grouillante :</b> le Hydrohugger a choisi son hôte, et celui-ci sait qu'il vient pour lui ! Il avance par à-coups en projetant des lumières et des couleurs vives, obstiné et horriblement semblable à une araignée. La victime prend +1 de stress et doit faire immédiatement un test de Panique."
+    },
+    {
+      "_id": "4WA0qLpBhW2u0E6f",
+      "description": "<b>Coup de queue : </b>le petit monstre s'en prend à sa cible et la fouette de sa queue redoutable. Il attaque avec [[5db]] dés de base, Dégâts 1. En plus des éventuels dégâts, la victime prend +1 de stress."
+    },
+    {
+      "_id": "s7tFmPNLlCQSkDzC",
+      "description": "<b>Saisie du visage :</b> le Hydrohugger bondit sur sa victime. Faites un jet en opposition avec [[6db]] dés de base contre la compétence COMBAT RAPPROCHÉ de la cible (cela ne compte pas comme une action pour la victime) : <br> <br> Si la victime l'emporte, elle projette la bête au loin, mais celle-ci n'en a pas fini avec elle et attaque de nouveau la même cible à sa prochaine initiative.<br> <br>Si le Hydrohugger l'emporte, la cible subit l'Étreinte finale à la prochaine initiative du Hydrohugger. <br> <br> <i>L'Étreinte finale : le Hydrohugger atteint sa victime, et son acide vient vite à bout de tout casque ou respirateur. Lancez l'attaque avec [[6db]] dés de base. S'il obtient au moins une réussite, la pauvre victime se fait facehugger et est immédiatement Brisée. Ses dernières sensations sont horribles, et pourtant étrangement tendres : une caresse ferme mais douce autour de la tête ; une sensation d'étouffement, puis une bouffée chaude d'air riche en oxygène qui emplit ses poumons ; l'impression profonde de tomber au ralenti ; ce n'est pas grave de s'endormir…</i>"
+    },
+    {
+      "_id": "d1YqC2DO7PExjRnZ",
+      "description": "<b>L'Étreinte finale : </b> le Hydrohugger atteint sa victime, et son acide vient vite à bout de tout casque ou respirateur. Lancez l'attaque avec [[6db]] dés de base. S'il obtient au moins une réussite, la pauvre victime se fait facehugger et est immédiatement Brisée. Ses dernières sensations sont horribles, et pourtant étrangement tendres : une caresse ferme mais douce autour de la tête ; une sensation d'étouffement, puis une bouffée chaude d'air riche en oxygène qui emplit ses poumons ; l'impression profonde de tomber au ralenti ; ce n'est pas grave de s'endormir…"
+    }
+  ]
+}

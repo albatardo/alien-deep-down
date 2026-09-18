@@ -1,0 +1,11 @@
+{
+  "_id": "ybXm9wFXKINX6zOd",
+  "name": "Lance-harpon grappin UPP",
+  "system": {
+    "attributes": {
+      "comment": {
+        "value": "<p>(semblable à l'ASSO-400, mais plus grand). Dég. 2, courte portée</p>\n<p>Protection doublée, un seul coup. Conçu pour faciliter les manœuvres d'amarrage manuel d'urgence, modifié pour un usage sous l'eau afin de réduire la distance entre l'utilisateur et des objets flottants. Si l'arme touche, le grappin s'accroche à la cible. Si la cible est plus lourde que vous, vous pouvez utiliser le filin pour vous hisser rapidement jusqu'à elle (action lente, vous fait passer de portée moyenne à au contact). Si vous êtes plus lourd, vous pouvez au contraire tirer la cible vers vous (jet en opposition FORCE contre FORCE si la cible résiste).</p>"
+      }
+    }
+  }
+}

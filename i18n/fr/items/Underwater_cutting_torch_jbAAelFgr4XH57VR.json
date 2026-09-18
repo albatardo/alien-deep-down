@@ -1,0 +1,11 @@
+{
+  "_id": "jbAAelFgr4XH57VR",
+  "name": "Chalumeau de découpe subaquatique",
+  "system": {
+    "attributes": {
+      "comment": {
+        "value": "<p><strong>Perforant, source d'énergie 5.</strong></p>\n<p>Un chalumeau subaquatique servant à souder et à découper le métal. En cas de besoin, il peut servir d'arme. Il faut faire un jet d'Énergie après chaque utilisation. Sa batterie a une source d'énergie de 5 quand elle est pleine.</p>"
+      }
+    }
+  }
+}
