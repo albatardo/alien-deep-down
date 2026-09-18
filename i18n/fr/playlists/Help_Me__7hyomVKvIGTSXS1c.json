@@ -1,0 +1,26 @@
+{
+  "_id": "7hyomVKvIGTSXS1c",
+  "name": "À l'aide !",
+  "sounds": [
+    {
+      "_id": "l30QN37klpjtiq3M",
+      "name": "Femme « Help me » 2"
+    },
+    {
+      "_id": "rXF4hpst7sI2MNQQ",
+      "name": "Femme « Help me »"
+    },
+    {
+      "_id": "oQhcYPRre6XbhaqR",
+      "name": "Femme (réverbération)"
+    },
+    {
+      "_id": "DtmUQ3vRhqww7IEc",
+      "name": "Homme « Help me »"
+    },
+    {
+      "_id": "PyUljo96bztE1Dvv",
+      "name": "Homme « Please »"
+    }
+  ]
+}

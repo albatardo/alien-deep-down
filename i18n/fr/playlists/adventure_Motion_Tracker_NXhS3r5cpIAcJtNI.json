@@ -1,0 +1,18 @@
+{
+  "_id": "NXhS3r5cpIAcJtNI",
+  "name": "Détecteur de mouvement",
+  "sounds": [
+    {
+      "_id": "DfXF9DsqC5pSXhen",
+      "name": "Détecteur de mouvement - bip proche"
+    },
+    {
+      "_id": "13KMl5wxdgaEzLey",
+      "name": "Détecteur de mouvement - bip lointain"
+    },
+    {
+      "_id": "OYvGypUQjZuDvfUm",
+      "name": "Détecteur de mouvement - onde"
+    }
+  ]
+}

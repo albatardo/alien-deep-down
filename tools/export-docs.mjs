@@ -1,4 +1,4 @@
-// Creates the i18n skeletons of one pack (actors, items, rolltables or maps) from src/ (English), without overwriting existing files.
+// Creates the i18n skeletons of one pack (actors, items, rolltables, maps or playlists) from src/ (English), without overwriting existing files.
 // Usage: npm run export:docs -- <pack>
 import fs from "node:fs";
 import path from "node:path";

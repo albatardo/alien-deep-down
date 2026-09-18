@@ -1,0 +1,30 @@
+{
+  "_id": "cSALXBPGl51jO9MP",
+  "name": "Scène",
+  "sounds": [
+    {
+      "_id": "QMViJdMETjXMjio3",
+      "name": "Intro"
+    },
+    {
+      "_id": "W6QT4WDr5FJgdP7g",
+      "name": "Base sous-marine"
+    },
+    {
+      "_id": "ReSBbDD4IjFpiMps",
+      "name": "alarme"
+    },
+    {
+      "_id": "aZoNvS0P4A9FdQCn",
+      "name": "Marche soviétique"
+    },
+    {
+      "_id": "g5l6Zxv4lw02Dzre",
+      "name": "Voix de xéno"
+    },
+    {
+      "_id": "szAfcTQX8fuHfReR",
+      "name": "Sport Metal Groove 11961"
+    }
+  ]
+}

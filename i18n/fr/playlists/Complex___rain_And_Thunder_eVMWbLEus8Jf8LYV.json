@@ -1,0 +1,18 @@
+{
+  "_id": "eVMWbLEus8Jf8LYV",
+  "name": "Complexe - Pluie et tonnerre",
+  "sounds": [
+    {
+      "_id": "pOKkEoppWqVghDZf",
+      "name": "Pluie et tonnerre lointain"
+    },
+    {
+      "_id": "sTKA5ZdufnHmNlzY",
+      "name": "Effet de pluie court sans éclairs (r)"
+    },
+    {
+      "_id": "f2INdUYTtrHTGl7I",
+      "name": "Brouillard inquiétant, machine lointaine (r)"
+    }
+  ]
+}
