@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# LevelDB compendiums: never convert line endings (CURRENT/MANIFEST break with CRLF)
+packs/** binary

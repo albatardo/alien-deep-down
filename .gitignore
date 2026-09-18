@@ -1,3 +1,7 @@
 node_modules/
 packs/*/lost/
 *.stackdump
+# LevelDB runtime files, rewritten each time Foundry opens a compendium
+packs/*/LOCK
+packs/*/LOG
+packs/*/LOG.old
