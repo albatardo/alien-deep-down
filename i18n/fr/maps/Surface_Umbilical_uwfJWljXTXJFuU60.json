@@ -1,0 +1,24 @@
+{
+  "_id": "uwfJWljXTXJFuU60",
+  "name": "Ombilical de surface",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Ombilical de surface"
+    }
+  ],
+  "regions": [
+    {
+      "_id": "r18alxjurcn0Ynow",
+      "behaviors": [
+        {
+          "_id": "mJZ2GQpfY27rPJa6",
+          "system": {
+            "confirmPrompt": "Descendre avec l'ascenseur de surface ?",
+            "confirmPromptGM": "Autoriser la descente de l'ascenseur de surface ?"
+          }
+        }
+      ]
+    }
+  ]
+}

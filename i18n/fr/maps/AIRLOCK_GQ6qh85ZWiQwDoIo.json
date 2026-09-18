@@ -1,0 +1,42 @@
+{
+  "_id": "GQ6qh85ZWiQwDoIo",
+  "name": "SAS",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "SAS"
+    }
+  ],
+  "drawings": [
+    {
+      "_id": "TIXCXlVTiAa4kHQY",
+      "text": "▶ SAS - EXTÉRIEUR ▶"
+    }
+  ],
+  "regions": [
+    {
+      "_id": "NEXiOFMPxjWI1xvy",
+      "behaviors": [
+        {
+          "_id": "agOdxNELypDgRIH3",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "Rn7YL3hGAeQuVOkw",
+      "behaviors": [
+        {
+          "_id": "ZOeBLvQdZi1T0KAd",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    }
+  ]
+}

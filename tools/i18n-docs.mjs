@@ -8,7 +8,13 @@ export const FIELDS = {
     ...["appearance", "sigItem", "agenda", "relOne", "relTwo", "special"].map((k) => `system.general.${k}.value`)],
   items: ITEM_FIELDS,
   rolltables: ["name", "description", "results[].description", "results[].name"],
+  // Region and behavior names stay: teleports and module automations (Monk's Active Tiles, Tagger) are technical.
+  maps: ["name", "levels[].name", "drawings[].text", "notes[].text", "tokens[].name",
+    "regions[].behaviors[].system.confirmPrompt", "regions[].behaviors[].system.confirmPromptGM"],
 };
+
+// Where each pack's documents are embedded in the adventure document.
+export const ADVENTURE_KEY = { actors: "actors", items: "items", rolltables: "tables", maps: "scenes" };
 
 const isText = (v) => typeof v === "string" && /\p{L}{2}/u.test(v);
 

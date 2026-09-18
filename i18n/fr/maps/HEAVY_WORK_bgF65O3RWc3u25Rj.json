@@ -1,0 +1,24 @@
+{
+  "_id": "bgF65O3RWc3u25Rj",
+  "name": "TRAVAUX LOURDS",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "TRAVAUX LOURDS"
+    }
+  ],
+  "drawings": [
+    {
+      "_id": "gfs1JsiftpmzZr8N",
+      "text": "Baie médicale"
+    },
+    {
+      "_id": "su9mRBnhF3EtYduc",
+      "text": "Sas"
+    },
+    {
+      "_id": "UPxOqyGqUPhqGXNN",
+      "text": "VIEUX DOCUMENTS"
+    }
+  ]
+}

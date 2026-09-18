@@ -1,0 +1,44 @@
+{
+  "_id": "6rYUIncBbCz9t23s",
+  "name": "PISTE DE JOGGING",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "PISTE DE JOGGING"
+    }
+  ],
+  "drawings": [
+    {
+      "_id": "J0LvRVofkHgkqGbN",
+      "text": "Accès et ombilical"
+    },
+    {
+      "_id": "JIwBB7sEQqu04biN",
+      "text": "QUARTIERS DE L'ÉQUIPAGE"
+    },
+    {
+      "_id": "au9hkXwk8SVbjsby",
+      "text": "CENTRE DE COMMANDEMENT"
+    },
+    {
+      "_id": "46efzNadDjsm4eCh",
+      "text": "HYDROPONIE ET FILTRATION"
+    },
+    {
+      "_id": "EmCqh7wItRHK7jhO",
+      "text": "SALLE SCADA"
+    },
+    {
+      "_id": "6Wr8mWwXWklYMw50",
+      "text": "COULOIR INONDÉ - HANGAR SOUS-MARIN"
+    },
+    {
+      "_id": "P3EDeBGywEQKcIjV",
+      "text": "réserve, maintenance, surveillance des données, LABO MÉDICAL"
+    },
+    {
+      "_id": "pegnoCysH1MSFnBk",
+      "text": "SALLE DU RÉACTEUR"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ import { compilePack } from "@foundryvtt/foundryvtt-cli";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import { FIELDS, ITEM_FIELDS, collectPairs, getPath, merge, setPath } from "./i18n-docs.mjs";
+import { ADVENTURE_KEY, FIELDS, ITEM_FIELDS, collectPairs, getPath, merge, setPath } from "./i18n-docs.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const readJson = (f) => JSON.parse(fs.readFileSync(f, "utf8"));
@@ -70,9 +70,7 @@ for (const { name } of packs) {
     if (FIELDS[name] && !doc._key?.startsWith("!folders")) translateDoc(name, doc);
     if (name === "adventure") {
       for (const j of doc.journal ?? []) translateJournal(j);
-      for (const a of doc.actors ?? []) translateDoc("actors", a);
-      for (const i of doc.items ?? []) translateDoc("items", i);
-      for (const t of doc.tables ?? []) translateDoc("rolltables", t);
+      for (const [pack, key] of Object.entries(ADVENTURE_KEY)) for (const d of doc[key] ?? []) translateDoc(pack, d);
     }
     fs.writeFileSync(path.join(tmp, f), JSON.stringify(doc));
   }

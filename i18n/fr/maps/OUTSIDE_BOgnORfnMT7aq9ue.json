@@ -1,0 +1,142 @@
+{
+  "_id": "BOgnORfnMT7aq9ue",
+  "name": "EXTÉRIEUR",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "EXTÉRIEUR"
+    }
+  ],
+  "drawings": [
+    {
+      "_id": "SzbLY7bVayLEAfSS",
+      "text": "zone de téléportation"
+    },
+    {
+      "_id": "rSbO7ZoReWAfBABK",
+      "text": "Accès et ombilical"
+    },
+    {
+      "_id": "tVUvVLaLeSaaamwA",
+      "text": "réserve, maintenance, surveillance des données, LABO MÉDICAL"
+    },
+    {
+      "_id": "7ReO4kdObBIirofa",
+      "text": "HANGAR"
+    },
+    {
+      "_id": "1KrO5KlI7GbzHHUJ",
+      "text": "zone de téléportation"
+    },
+    {
+      "_id": "hZVqXeVUBMDcxhi9",
+      "text": "zone de téléportation"
+    },
+    {
+      "_id": "qOFkjl19iDgk58UV",
+      "text": "zone de téléportation"
+    },
+    {
+      "_id": "vftxjBBwtiFbCF9W",
+      "text": "zone de téléportation"
+    }
+  ],
+  "notes": [
+    {
+      "_id": "jFKBUFGbyfNUZPDY",
+      "text": "EMPLACEMENT SUGGÉRÉ DU CORPS DE FRENKEL"
+    }
+  ],
+  "tokens": [
+    {
+      "_id": "ZhcuKkHkIO72ZbhD",
+      "name": "Bioluminos invisible"
+    },
+    {
+      "_id": "tMWkneDGzbhx9urI",
+      "name": "Saumon long"
+    },
+    {
+      "_id": "3FL8v3J4r4huSDSa",
+      "name": "Drone"
+    },
+    {
+      "_id": "3jHEVGfi64Anp7d5",
+      "name": "Ovomorphe"
+    },
+    {
+      "_id": "FOwAB2d5NyoAapoX",
+      "name": "Hydrobuster"
+    },
+    {
+      "_id": "FRXKjn3PAF9ynHPq",
+      "name": "Hydrohugger"
+    },
+    {
+      "_id": "RT2Hbpl36cya57nb",
+      "name": "Hydromorphe"
+    }
+  ],
+  "regions": [
+    {
+      "_id": "KqixWcDSpvTQgsvn",
+      "behaviors": [
+        {
+          "_id": "pzWPQKFJjuK5FWEg",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "ULtpQcR62Vh43r4j",
+      "behaviors": [
+        {
+          "_id": "4Dvai0yiLJe3Itfr",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "YnlPfvWqQcKZJ1ib",
+      "behaviors": [
+        {
+          "_id": "Nzn7NQ1Rka5LkT9i",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "Fv1wSqMylBFxh0Ow",
+      "behaviors": [
+        {
+          "_id": "KgGAFTu6axGUzfkG",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "0LY1EEfQDu21otsr",
+      "behaviors": [
+        {
+          "_id": "VSScabsbo5CnKxsF",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    }
+  ]
+}

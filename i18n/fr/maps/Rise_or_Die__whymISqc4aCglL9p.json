@@ -1,0 +1,16 @@
+{
+  "_id": "whymISqc4aCglL9p",
+  "name": "Remonter ou mourir !",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Remonter ou mourir !"
+    }
+  ],
+  "drawings": [
+    {
+      "_id": "tSEtjWnJo2VqTnsJ",
+      "text": "Animation d'attaque (double-clic)"
+    }
+  ]
+}

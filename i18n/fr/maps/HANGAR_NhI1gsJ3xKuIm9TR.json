@@ -1,0 +1,74 @@
+{
+  "_id": "NhI1gsJ3xKuIm9TR",
+  "name": "HANGAR",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "HANGAR"
+    }
+  ],
+  "drawings": [
+    {
+      "_id": "yoPrhw3ShAKW80ty",
+      "text": "allumer les lumières (AUTOMATISATION)"
+    },
+    {
+      "_id": "G45KZ7IHiWbqYltP",
+      "text": "VIEUX DOCUMENTS"
+    },
+    {
+      "_id": "lHO0GAXhHGWDAfzH",
+      "text": "TERMINAL DE CONTRÔLE DU HANGAR ET DES LUMIÈRES"
+    },
+    {
+      "_id": "ZH1qSNDz1pSZ1l3z",
+      "text": "INSTALLER LES BATTERIES"
+    },
+    {
+      "_id": "qBiECzjdOnzOBYDA",
+      "text": "zone de téléportation"
+    },
+    {
+      "_id": "HOkiwRrWW3nfAejJ",
+      "text": "zone de téléportation"
+    }
+  ],
+  "notes": [
+    {
+      "_id": "AUtVs1QLCbSA6rbs",
+      "text": "SAS (PLAFOND)"
+    }
+  ],
+  "tokens": [
+    {
+      "_id": "hJX1JyVKYkvAUXtj",
+      "name": "Baïkal"
+    }
+  ],
+  "regions": [
+    {
+      "_id": "Cb17pY3b65OSczzX",
+      "behaviors": [
+        {
+          "_id": "S9iYHs4OxjZ1PLat",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "8nVrNtRH2jGDqRpt",
+      "behaviors": [
+        {
+          "_id": "avGP6X9oF98m8ICX",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    }
+  ]
+}

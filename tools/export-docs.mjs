@@ -1,8 +1,8 @@
-// Creates the i18n skeletons of one pack (actors, items or rolltables) from src/ (English), without overwriting existing files.
+// Creates the i18n skeletons of one pack (actors, items, rolltables or maps) from src/ (English), without overwriting existing files.
 // Usage: npm run export:docs -- <pack>
 import fs from "node:fs";
 import path from "node:path";
-import { FIELDS, ITEM_FIELDS, extract, getPath } from "./i18n-docs.mjs";
+import { ADVENTURE_KEY, FIELDS, ITEM_FIELDS, extract, getPath } from "./i18n-docs.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const [pack] = process.argv.slice(2);
@@ -20,7 +20,6 @@ const isCopy = (item) => ITEM_FIELDS.every((p) => getPath(item, p) === undefined
 const tableRefs = new Set(read("actors").flatMap(({ doc }) => [doc.system?.rTables, doc.system?.cTables]));
 
 // Documents that only exist inside the adventure get their own skeleton, prefixed "adventure_".
-const ADVENTURE_KEY = { actors: "actors", items: "items", rolltables: "tables" };
 const packDocs = read(pack);
 const packIds = new Set(packDocs.map(({ doc }) => doc._id));
 const adventureOnly = read("adventure").flatMap(({ doc }) => doc[ADVENTURE_KEY[pack]] ?? [])

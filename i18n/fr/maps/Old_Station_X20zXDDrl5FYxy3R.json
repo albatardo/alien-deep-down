@@ -1,0 +1,34 @@
+{
+  "_id": "X20zXDDrl5FYxy3R",
+  "name": "Ancienne station",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Ancienne station"
+    }
+  ],
+  "drawings": [
+    {
+      "_id": "4T3rTo4JGrNuAoFx",
+      "text": "Batteries"
+    },
+    {
+      "_id": "CR2aoc2FmlIZz7yY",
+      "text": "zone de téléportation"
+    }
+  ],
+  "regions": [
+    {
+      "_id": "fC5azw9wANn1E5Vl",
+      "behaviors": [
+        {
+          "_id": "8hvzHXXHmp3hhScw",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    }
+  ]
+}

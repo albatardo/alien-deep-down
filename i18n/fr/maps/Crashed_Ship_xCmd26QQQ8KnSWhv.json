@@ -1,0 +1,22 @@
+{
+  "_id": "xCmd26QQQ8KnSWhv",
+  "name": "Vaisseau écrasé",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Vaisseau écrasé"
+    }
+  ],
+  "drawings": [
+    {
+      "_id": "ndRfmOpVOEhlABPO",
+      "text": "Entrée"
+    }
+  ],
+  "tokens": [
+    {
+      "_id": "rhLpIR44QN2SOjGj",
+      "name": "Ovomorphe"
+    }
+  ]
+}

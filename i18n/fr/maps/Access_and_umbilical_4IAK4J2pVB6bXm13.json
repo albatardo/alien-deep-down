@@ -1,0 +1,54 @@
+{
+  "_id": "4IAK4J2pVB6bXm13",
+  "name": "Accès et ombilical",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Accès et ombilical"
+    }
+  ],
+  "drawings": [
+    {
+      "_id": "e43xgYvup61267IM",
+      "text": "▶ Surface-Matvey ▶"
+    },
+    {
+      "_id": "kraLAz3kqwNalDGt",
+      "text": "Piste de jogging"
+    },
+    {
+      "_id": "COP7WCqmSCCk77B0",
+      "text": "Zone de téléportation"
+    },
+    {
+      "_id": "oRF3gbwHvpWH0w9N",
+      "text": "Zone de téléportation extérieure"
+    }
+  ],
+  "regions": [
+    {
+      "_id": "qXrvsix4271j2MiL",
+      "behaviors": [
+        {
+          "_id": "ddGkKWji8j0MqxkG",
+          "system": {
+            "confirmPrompt": "Autoriser la montée de l'ascenseur de surface ?",
+            "confirmPromptGM": "Autoriser la montée de l'ascenseur de surface ?"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "K9CFehjGTJRqzSzt",
+      "behaviors": [
+        {
+          "_id": "cYe0jxOhOIWAxI8Q",
+          "system": {
+            "confirmPrompt": "Attendez la CONFIRMATION du MJ !",
+            "confirmPromptGM": "Un joueur attend la CONFIRMATION du MJ !"
+          }
+        }
+      ]
+    }
+  ]
+}
