@@ -65,3 +65,46 @@ un menu vide ou un jet qui ne part pas.
 
 Consigner les corrections dans `i18n/fr/`, **jamais** dans `packs/` ni `src/`,
 puis relancer `npm run build` monde fermé.
+
+---
+
+# Résultats — passe du 2026-09-22
+
+Monde `deep-down-fr-recette`, Foundry v14.367, système alienrpg 4.0.6.
+Vérifications menées par script (Playwright + API Foundry).
+
+## §1 Points à risque — tous verts
+
+- Dossiers `Alien Creature Tables` et `Alien Mother Tables` présents et en VO ;
+  `Base Novotny` bien traduit.
+- Menu des tables d'attaque peuplé (5 entrées), menu des blessures critiques
+  peuplé (2 entrées) : le préfixe `Critical Injuries` a été préservé.
+- Les 7 créatures résolvent leurs tables : `Drone`, `Hydrobuster`,
+  `Hydrohugger`, `Hydromorphe` → `game.tables.getName()` renvoie bien la table.
+- Cas `Attaques du Hydrohugger` : cette table **est** traduite, mais aucun
+  acteur ne la référence (`rTables: "None"` déjà dans la source anglaise),
+  donc rien n'est cassé.
+
+## §2 Contenu — vert
+
+- 9 journaux, 136 pages : **0 lien cassé**, 0 `@UUID` non enrichi, 0 formule
+  de dés non parsée.
+- 25 scènes, 30 régions, 30 comportements : **0 téléport cassé**.
+
+## Défaut trouvé — amont, pas la VF
+
+9 notes de carte, réparties sur 8 scènes (`Accès et ombilical`, `EXTÉRIEUR`,
+`FOND MARIN`, `Fin`, `Fin (station Korab)`, `Vaisseau écrasé`,
+`carte complète`), pointent toutes vers `JournalEntry.WmgzHFNduuw3OlM2`, qui
+n'existe ni dans le monde ni dans aucun compendium.
+
+Ce n'est **pas** une régression de traduction : `entryId` n'est pas un champ
+traduit, et l'id est déjà référencé tel quel dans `src/maps/` côté anglais.
+Le journal n'a jamais été exporté depuis le monde de l'auteur. À remonter au
+dépôt d'origine.
+
+## Reste à faire à la main
+
+Le seul point non automatisable : la vidéo
+`terminal_upp_english.webm` de la page « Message du terminal pour la capitaine
+Kramarenko » est en anglais. Décision éditoriale à prendre.
