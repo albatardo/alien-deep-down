@@ -105,6 +105,6 @@ dépôt d'origine.
 
 ## Reste à faire à la main
 
-Le seul point non automatisable : la vidéo
-`terminal_upp_english.webm` de la page « Message du terminal pour la capitaine
-Kramarenko » est en anglais. Décision éditoriale à prendre.
+La vidéo `terminal_upp_english.webm` de la page « Message du terminal pour la
+capitaine Kramarenko » reste en anglais ; sa transcription française est à la fin
+de la page « Résumé de l'histoire » du guide d'aventure (29/09/2026).
