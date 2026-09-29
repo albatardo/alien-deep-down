@@ -12,11 +12,13 @@ export const FIELDS = {
   maps: ["name", "levels[].name", "drawings[].text", "notes[].text", "tokens[].name",
     "regions[].behaviors[].system.confirmPrompt", "regions[].behaviors[].system.confirmPromptGM"],
   playlists: ["name", "description", "sounds[].name", "sounds[].description"],
+  macros: ["name"],
   adventure: ["caption", "description"],
 };
 
 // Where each pack's documents are embedded in the adventure document.
-export const ADVENTURE_KEY = { actors: "actors", items: "items", rolltables: "tables", maps: "scenes", playlists: "playlists" };
+export const ADVENTURE_KEY = { actors: "actors", items: "items", rolltables: "tables", maps: "scenes", playlists: "playlists",
+  macros: "macros" };
 
 const isText = (v) => typeof v === "string" && /\p{L}{2}/u.test(v);
 

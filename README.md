@@ -23,9 +23,10 @@ Tout le contenu des compendiums, dans le compendium lui-même et dans l'aventure
 
 Restent volontairement en anglais :
 
-- les noms que le système ou le module cherchent par leur nom exact : les journaux « Deep Down Welcome » et « Alien Map Markers », la macro « Ligth source (token) », les tables d'attaque et de blessures critiques des créatures, la « Panic Table » (ses résultats reprennent les textes officiels français du système) ;
-- le journal « Copyright », les noms des macros et les titres des musiques ;
-- l'interface de Foundry et du système, qui dépend de la langue choisie dans Foundry.
+- les noms que le système Alien RPG cherche par leur nom exact : les tables d'attaque et de blessures critiques des créatures, la « Panic Table » (ses résultats reprennent les textes officiels français du système) et les quatre dossiers de tables (« Alien Tables », « Alien Creature Tables », « Alien Mother Tables », « Alien Sub-Tables ») ;
+- le journal « Copyright », les noms des macros d'effets visuels et les titres des musiques.
+
+L'interface de Foundry et du système n'est pas fournie par ce module : elle suit la langue choisie dans Foundry. Le système Alien RPG est livré avec le français, mais pas Foundry lui-même : pour avoir ses menus en français, installez le module communautaire de traduction française du cœur de Foundry, puis choisissez « Français » comme langue dans la configuration de Foundry.
 
 Les choix de vocabulaire et les coquilles corrigées de l'original sont recensés dans [i18n/fr/GLOSSAIRE.md](i18n/fr/GLOSSAIRE.md).
 
@@ -39,7 +40,7 @@ Prérequis : Node.js 20.11 ou plus, puis `npm install`.
 |---|---|
 | `npm run unpack` | Extrait `packs/` vers `src/` (à relancer après une mise à jour du module d'origine). |
 | `npm run export:journal -- "<nom du journal>" <dossier>` | Crée `i18n/fr/journal/<dossier>/` : un fichier HTML par page et un `meta.json` (noms). |
-| `npm run export:docs -- <pack>` | Crée un JSON par document dans `i18n/fr/<pack>/` (`actors`, `items`, `rolltables`, `maps`, `playlists` ou `adventure`), avec seulement les champs à traduire. |
+| `npm run export:docs -- <pack>` | Crée un JSON par document dans `i18n/fr/<pack>/` (`actors`, `items`, `rolltables`, `maps`, `playlists`, `macros` ou `adventure`), avec seulement les champs à traduire. |
 | `npm run build` | Applique `i18n/fr/` aux sources et recompile `packs/`. |
 
 Les exports n'écrasent jamais un fichier existant : on traduit directement dans le squelette généré, en remplaçant le texte anglais par le français. Les traductions sont appliquées par `_id`, au compendium comme à l'aventure. Les objets intégrés aux fiches d'acteurs reprennent automatiquement la traduction de l'objet du compendium qui a le même texte anglais. Les noms de dossiers se traduisent dans `i18n/fr/folders.json`.

@@ -77,9 +77,9 @@ Les distances impériales sont converties : 4 miles → 6 kilomètres.
 
 ## Noms à ne pas traduire
 
-`scripts/init.js` cherche par leur nom exact : les journaux « Deep Down Welcome » et « Alien Map Markers », la macro « Ligth source (token) ». Les traduire impose de mettre à jour `init.js`.
+`scripts/init.js` (Scene Packer) cherche par leur nom anglais les journaux « Deep Down Welcome » et « Alien Map Markers » et la macro « Ligth source (token) », mais il n'est plus chargé (`esmodules` vide dans `module.json`) : ces trois noms sont traduits. Réactiver `init.js` impose de mettre ses noms à jour.
 
-Le système alienrpg retrouve aussi des tables par leur nom :
+Le système alienrpg retrouve des tables par leur nom :
 
 - les tables référencées par `system.rTables` / `system.cTables` des créatures (« Hydromorph Attacks », « Hydrobuster Attacks », « Critical Injuries on Hydromorph », « Stalker, Scout and Drone Attacks (add options) », « Critical Injuries on Xenomorphs (add options) ») : seul leur contenu est traduit. `npm run export:docs` n'exporte pas leur nom ;
 - la « Panic Table » (`game.tables.getName("Panic Table")`) : ses résultats reprennent les textes officiels `ALIENRPG.Panic*` du `lang/fr.json` du système ;
