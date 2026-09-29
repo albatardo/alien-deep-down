@@ -103,6 +103,13 @@ traduit, et l'id est déjà référencé tel quel dans `src/maps/` côté anglai
 Le journal n'a jamais été exporté depuis le monde de l'auteur. À remonter au
 dépôt d'origine.
 
+**Corrigé le 29/09/2026** : leurs `pageId` désignent toutes des pages du
+journal « Deep Down Read Me » (`clygnLPo7hsxF4NK`), dont l'id a changé à
+l'export. Les patchs `i18n/fr/maps/` redirigent `entryId` vers ce journal ;
+vérifié en jeu, chaque note ouvre la bonne page. Restent deux notes sans
+page ni journal existants, irrécupérables : `Accès et ombilical`
+(`Zcx2co83x466zjwl`) et `EXTÉRIEUR` (`ps7QAUV15eFjq992`).
+
 ## Reste à faire à la main
 
 La vidéo `terminal_upp_english.webm` de la page « Message du terminal pour la
