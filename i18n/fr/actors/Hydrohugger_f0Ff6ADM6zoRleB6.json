@@ -5,6 +5,7 @@
     "name": "Hydrohugger"
   },
   "system": {
+    "rTables": "Attaques de l'Hydrohugger",
     "notes": "<p><a draggable=\"true\" data-link=\"\" data-uuid=\"JournalEntry.2A70WlvyYoIRKyer.JournalEntryPage.fBxdyIO3lqxrPaCr\" data-id=\"fBxdyIO3lqxrPaCr\" data-type=\"JournalEntryPage\" data-tooltip=\"Text Page\">HYDROMORPHE / Xénomorphes</a><br><br><a draggable=\"true\" data-link=\"\" data-uuid=\"RollTable.wXgfh3p23uW05pb6\" data-id=\"wXgfh3p23uW05pb6\" data-type=\"RollTable\" data-tooltip=\"Rollable Table\">Attaques de l'Hydromorphe</a></p>",
     "general": {
       "special": {
