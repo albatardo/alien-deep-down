@@ -16,8 +16,10 @@ const read = (name) => fs.readdirSync(path.join(root, "src", name))
 const itemTexts = new Set(read("items").flatMap(({ doc }) => ITEM_FIELDS.map((p) => `${p}=${getPath(doc, p)}`)));
 const isCopy = (item) => ITEM_FIELDS.every((p) => getPath(item, p) === undefined || itemTexts.has(`${p}=${getPath(item, p)}`));
 
-// The alienrpg system finds creature attack and critical injury tables by name.
-const tableRefs = new Set(read("actors").flatMap(({ doc }) => [doc.system?.rTables, doc.system?.cTables]));
+// The creature sheet only lists critical injury tables whose name starts with "Critical Injuries" (alienrpg rollTableData.mjs).
+// Other referenced tables can be renamed: build.mjs updates the creatures' system.rTables / cTables.
+const tableRefs = new Set(read("actors").flatMap(({ doc }) => [doc.system?.cTables])
+  .filter((n) => n?.startsWith("Critical Injuries")));
 
 // Documents that only exist inside the adventure get their own skeleton, prefixed "adventure_".
 const packDocs = read(pack);

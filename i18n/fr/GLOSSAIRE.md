@@ -81,7 +81,7 @@ Les distances impériales sont converties : 4 miles → 6 kilomètres.
 
 Le système alienrpg retrouve des tables par leur nom :
 
-- les tables référencées par `system.rTables` / `system.cTables` des créatures (« Hydromorph Attacks », « Hydrobuster Attacks », « Critical Injuries on Hydromorph », « Stalker, Scout and Drone Attacks (add options) », « Critical Injuries on Xenomorphs (add options) ») : seul leur contenu est traduit. `npm run export:docs` n'exporte pas leur nom ;
+- les tables référencées par `system.rTables` / `system.cTables` des créatures : les tables d'attaques sont traduites (« Attaques de l'Hydrobuster », « Attaques de l'Hydromorphe », « Attaques du rôdeur, de l'éclaireur et du drone (options à ajouter) ») et `npm run build` reporte le nouveau nom sur les créatures. Les tables de blessures critiques (« Critical Injuries on Hydromorph », « Critical Injuries on Xenomorphs (add options) ») gardent leur nom : la fiche de créature ne propose que les tables dont le nom commence par « Critical Injuries ». `npm run export:docs` n'exporte pas leur nom ;
 - la « Panic Table » (`game.tables.getName("Panic Table")`) : ses résultats reprennent les textes officiels `ALIENRPG.Panic*` du `lang/fr.json` du système ;
 - les dossiers « Alien Creature Tables » et « Alien Mother Tables » (listes déroulantes de la fiche de créature).
 

@@ -21,6 +21,13 @@ for (const item of readDir(path.join(root, "src", "items"))) {
   if (patch) collectPairs(item, patch, itemDict);
 }
 
+// Creatures store the name of their attack / critical injury table (system.rTables / cTables): follow its translation.
+const tableNameFr = new Map();
+for (const table of readDir(path.join(root, "src", "rolltables"))) {
+  const name = docFr.get("rolltables").get(table._id)?.name;
+  if (name) tableNameFr.set(table.name, name);
+}
+
 // Folder names by _id (the alienrpg system looks some folders up by name: never list those here).
 const folderFile = path.join(root, "i18n", "fr", "folders.json");
 const folderFr = fs.existsSync(folderFile) ? readJson(folderFile) : {};
@@ -33,6 +40,7 @@ function translateDoc(pack, doc) {
       const fr = itemDict.get(getPath(item, p));
       if (fr !== undefined) setPath(item, p, fr);
     }
+    for (const k of ["rTables", "cTables"]) if (tableNameFr.has(doc.system?.[k])) doc.system[k] = tableNameFr.get(doc.system[k]);
   }
   const patch = docFr.get(pack).get(doc._id);
   if (!patch) return;

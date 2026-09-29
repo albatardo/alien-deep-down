@@ -23,7 +23,7 @@ Tout le contenu des compendiums, dans le compendium lui-même et dans l'aventure
 
 Restent volontairement en anglais :
 
-- les noms que le système Alien RPG cherche par leur nom exact : les tables d'attaque et de blessures critiques des créatures, la « Panic Table » (ses résultats reprennent les textes officiels français du système) et les quatre dossiers de tables (« Alien Tables », « Alien Creature Tables », « Alien Mother Tables », « Alien Sub-Tables ») ;
+- les noms que le système Alien RPG cherche par leur nom exact : les tables de blessures critiques des créatures, la « Panic Table » (ses résultats reprennent les textes officiels français du système) et les quatre dossiers de tables (« Alien Tables », « Alien Creature Tables », « Alien Mother Tables », « Alien Sub-Tables ») ;
 - le journal « Copyright », les noms des macros d'effets visuels et les titres des musiques.
 
 L'interface de Foundry et du système n'est pas fournie par ce module : elle suit la langue choisie dans Foundry. Le système Alien RPG est livré avec le français, mais pas Foundry lui-même : pour avoir ses menus en français, installez le module communautaire de traduction française du cœur de Foundry, puis choisissez « Français » comme langue dans la configuration de Foundry.
